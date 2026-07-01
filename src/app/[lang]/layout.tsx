@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const SITE_URL = "https://proteinintakecalculators.online";
+const SITE_URL = "https://www.proteinintakecalculators.online";
 
 export function generateStaticParams() {
   return locales.map((lang) => ({ lang }));
@@ -55,7 +55,7 @@ export async function generateMetadata({
       alternateLocale: otherLocales,
     },
     twitter: {
-      card: "summary",
+      card: "summary_large_image",
       title: dict.meta.title,
       description: dict.meta.description,
     },

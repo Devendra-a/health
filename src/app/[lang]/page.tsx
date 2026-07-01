@@ -16,6 +16,8 @@ import {
 } from "@/lib/protein";
 import type { Dictionary } from "@/i18n/get-dictionary";
 
+const SITE_URL = "https://www.proteinintakecalculators.online";
+
 type Persona = {
   name: string;
   gender: Gender;
@@ -358,6 +360,21 @@ export default async function Home({
                 text: item.a,
               },
             })),
+          }),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            name: dict.nav.brand,
+            url: `${SITE_URL}/${lang}`,
+            applicationCategory: "HealthApplication",
+            operatingSystem: "Any",
+            offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
+            description: dict.meta.description,
           }),
         }}
       />

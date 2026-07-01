@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { locales, defaultLocale } from "@/i18n/config";
 
-const SITE_URL = "https://proteinintakecalculators.online";
+const SITE_URL = "https://www.proteinintakecalculators.online";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const languages = Object.fromEntries(
