@@ -38,6 +38,9 @@ export async function generateMetadata({
     metadataBase: new URL(SITE_URL),
     title: dict.meta.title,
     description: dict.meta.description,
+    other: {
+      "google-adsense-account": "ca-pub-1300842618865363",
+    },
     alternates: {
       canonical: `/${lang}`,
       languages: Object.fromEntries(locales.map((l) => [l, `/${l}`])),
