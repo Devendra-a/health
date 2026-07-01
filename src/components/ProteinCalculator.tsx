@@ -488,7 +488,7 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
               </div>
             </div>
 
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid grid-cols-[2fr_3fr] gap-4">
               <div>
                 <label className={LABEL_CLASS}>{dict.age}</label>
                 <input
