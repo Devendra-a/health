@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Calculateur d'Apport en Protéines - De combien de protéines avez-vous besoin par jour ?",
+    "description": "Calculateur gratuit d'apport en protéines. Entrez votre poids, niveau d'activité et objectif pour savoir exactement combien de grammes de protéines vous avez besoin par jour pour prendre du muscle, perdre du gras ou maintenir votre poids."
+  },
+  "nav": {
+    "brand": "Calculateur de Protéines",
+    "calculator": "Calculateur",
+    "howItWorks": "Comment ça marche",
+    "faq": "FAQ",
+    "languageLabel": "Langue"
+  },
+  "hero": {
+    "title": "Calculateur d'Apport en Protéines",
+    "subtitle": "Découvrez exactement combien de protéines vous avez besoin chaque jour pour atteindre vos objectifs fitness, avec les conseils de {name}, coach personnel en fitness et nutrition.",
+    "cta": "Calculez votre apport en protéines"
+  },
+  "trust": {
+    "heading": "Pourquoi faire confiance à ce calculateur",
+    "points": [
+      {
+        "title": "Formules fondées sur des preuves",
+        "description": "Basé sur l'équation de Mifflin-St Jeor et les apports en protéines utilisés par les diététiciens et les entraîneurs — pas une estimation approximative."
+      },
+      {
+        "title": "Aucune donnée enregistrée",
+        "description": "Vos chiffres sont calculés directement dans votre navigateur et ne sont jamais enregistrés ni envoyés où que ce soit."
+      },
+      {
+        "title": "Méthodologie claire",
+        "description": "Chaque fourchette indiquée ici est expliquée ci-dessous, afin que vous sachiez exactement comment votre résultat a été calculé."
+      }
+    ]
+  },
+  "calculator": {
+    "detailsHeading": "Entrez vos informations",
+    "detailsSubheading": "Obtenez votre fourchette de protéines personnalisée en quelques secondes",
+    "tabDailyProtein": "Protéines quotidiennes",
+    "tabMuscleBuilding": "Prise de muscle",
+    "tabWeightLoss": "Perte de poids",
+    "tabPerMeal": "Par repas",
+    "gender": "Sexe",
+    "male": "Homme",
+    "female": "Femme",
+    "age": "Âge",
+    "agePlaceholder": "ex. 30",
+    "height": "Taille",
+    "heightPlaceholderCm": "ex. 175",
+    "heightPlaceholderIn": "ex. 69",
+    "weight": "Poids corporel",
+    "weightPlaceholder": "ex. 70",
+    "activityLevel": "Niveau d'activité",
+    "activitySedentary": "Sédentaire (peu ou pas d'exercice)",
+    "activityLight": "Légèrement actif (1-3 séances/semaine)",
+    "activityModerate": "Modérément actif (3-5 séances/semaine)",
+    "activityActive": "Très actif (6-7 séances/semaine)",
+    "activityAthlete": "Athlète (entraînement intense quotidien)",
+    "goal": "Objectif principal",
+    "goalMaintain": "Maintenir le poids",
+    "goalLose": "Perdre du poids",
+    "goalGain": "Prendre du muscle",
+    "goalPerformance": "Performance sportive",
+    "trainingExperience": "Niveau d'expérience",
+    "trainingBeginner": "Débutant (0-1 an)",
+    "trainingIntermediate": "Intermédiaire (1-3 ans)",
+    "trainingAdvanced": "Avancé (3+ ans)",
+    "trainingElite": "Élite / Compétition",
+    "bodyFatLabel": "Inclure le % de masse grasse",
+    "bodyFatHint": "Facultatif — pour des résultats plus précis",
+    "bodyFatPlaceholder": "ex. 18",
+    "submit": "Calculer mon apport en protéines",
+    "resultTitle": "Votre objectif quotidien de protéines",
+    "resultNote": "Répartissez sur 3-4 repas pour de meilleurs résultats.",
+    "perKg": "Protéines par kg",
+    "perMeal": "Par repas (4x/jour)",
+    "calories": "Calories quotidiennes estimées",
+    "addAgeHeight": "Ajoutez l'âge et la taille",
+    "copyResult": "Copier le résultat",
+    "copied": "Copié !",
+    "resultsHeading": "Vos résultats de protéines",
+    "minimum": "Minimum",
+    "recommended": "Recommandé",
+    "maximum": "Maximum",
+    "recalculate": "← Recalculer",
+    "rangeLabel": "Fourchette : {low}g — {high}g",
+    "mealsPerDay": "Repas par jour",
+    "perMealLabel": "Par repas ({n} repas)",
+    "weightLabel": "Poids",
+    "quickReference": {
+      "heading": "Référence rapide",
+      "general": "Santé générale (sédentaire) : 0,8–1,0 g/kg de poids corporel",
+      "weightLoss": "Perte de poids : 1,6–2,2 g/kg pour préserver le muscle en déficit",
+      "muscleGain": "Prise de muscle : 1,8–2,5 g/kg selon l'expérience d'entraînement",
+      "performance": "Performance sportive : 2,0–3,1 g/kg",
+      "spread": "Répartissez l'apport sur 4–5 repas de 25–40 g chacun pour de meilleurs résultats"
+    },
+    "muscle": {
+      "useLeanMass": "Utiliser la masse maigre à la place",
+      "useLeanMassHint": "Facultatif — pour des résultats plus précis",
+      "bodyFatPlaceholder": "ex. 18",
+      "submit": "Calculer les protéines musculaires",
+      "resultTitle": "Protéines quotidiennes recommandées",
+      "note": "Un apport en protéines plus élevé favorise la récupération et la progression à mesure que votre expérience d'entraînement augmente."
+    },
+    "weightLoss": {
+      "currentWeight": "Poids actuel",
+      "goalWeight": "Poids cible (facultatif)",
+      "goalWeightHint": "Utilisez la même unité que votre poids actuel.",
+      "deficitSize": "Taille du déficit",
+      "deficitSmall": "Petit (~0,25 kg/semaine)",
+      "deficitModerate": "Modéré (~0,5 kg/semaine)",
+      "deficitAggressive": "Agressif (~0,75–1 kg/semaine)",
+      "submit": "Calculer les protéines pour perdre du poids",
+      "resultTitle": "À votre poids actuel",
+      "atCurrentWeight": "À votre poids actuel",
+      "atGoalWeight": "À votre poids cible",
+      "note": "Un apport en protéines plus élevé aide à préserver le muscle pendant un régime et doit être réduit à mesure que le poids diminue. À votre poids actuel : {current} g/jour. À votre poids cible : {goal} g/jour.",
+      "noteNoGoal": "Un apport en protéines plus élevé aide à préserver le muscle pendant un régime et doit être réduit à mesure que le poids diminue. À votre poids actuel : {current} g/jour.",
+      "recalcWarning": "À mesure que vous perdez du poids, recalculez tous les 5–7 kg perdus"
+    },
+    "perMealTab": {
+      "targetLabel": "Votre objectif quotidien de protéines (g)",
+      "targetHint": "Utilisez les résultats de l'onglet Quotidien ou Musculation ci-dessus",
+      "submit": "Répartir mes protéines",
+      "resultTitle": "Protéines par repas",
+      "dailyTotalLabel": "Total quotidien",
+      "dailyTotal": "Total quotidien : {total} g",
+      "note": "{perMeal} g × {meals} repas = {total} g de protéines totales par jour."
+    }
+  },
+  "howTo": {
+    "heading": "Comment utiliser ce calculateur d'apport en protéines",
+    "steps": [
+      {
+        "title": "Entrez vos informations",
+        "description": "Ajoutez votre sexe, âge, taille et poids corporel pour que le calculateur personnalise votre résultat."
+      },
+      {
+        "title": "Choisissez votre niveau d'activité",
+        "description": "Indiquez la fréquence de vos entraînements chaque semaine, de sédentaire à entraînement intense quotidien."
+      },
+      {
+        "title": "Choisissez votre objectif",
+        "description": "Sélectionnez si vous voulez maintenir votre poids, perdre du gras ou prendre du muscle — les besoins en protéines varient selon l'objectif."
+      },
+      {
+        "title": "Obtenez votre objectif quotidien",
+        "description": "Vous obtiendrez une fourchette en grammes, une répartition par repas et une estimation des calories quotidiennes."
+      }
+    ]
+  },
+  "howMuch": {
+    "heading": "De combien de protéines avez-vous besoin par jour ?",
+    "intro": "Les besoins quotidiens en protéines varient selon le poids corporel, le niveau d'activité et l'objectif. Le tableau ci-dessous montre les fourchettes couramment recommandées en grammes de protéines par kilogramme de poids corporel.",
+    "tableGoal": "Objectif / activité",
+    "tableRange": "Fourchette de protéines",
+    "rows": [
+      {
+        "goal": "Sédentaire / santé générale",
+        "range": "0,8 – 1,0 g/kg"
+      },
+      {
+        "goal": "Activité légère",
+        "range": "1,2 – 1,4 g/kg"
+      },
+      {
+        "goal": "Perte de poids (préservation musculaire)",
+        "range": "1,6 – 2,2 g/kg"
+      },
+      {
+        "goal": "Prise de muscle",
+        "range": "1,7 – 2,2 g/kg"
+      },
+      {
+        "goal": "Endurance / entraînement d'athlète",
+        "range": "1,8 – 2,2 g/kg"
+      }
+    ]
+  },
+  "weightLoss": {
+    "heading": "Apport en protéines pour la perte de poids",
+    "body": "Lorsque vous consommez moins de calories que vous n'en brûlez, votre corps peut décomposer du muscle pour obtenir de l'énergie, en plus de la graisse. Un apport plus élevé en protéines — généralement entre 1,6 g et 2,4 g par kilogramme de poids corporel — aide à préserver la masse musculaire maigre pendant une sèche, contrôle la faim grâce à l'effet de satiété des protéines, et augmente légèrement le nombre de calories brûlées lors de la digestion."
+  },
+  "muscleGain": {
+    "heading": "Apport en protéines pour la prise de muscle",
+    "body": "Prendre du muscle nécessite un surplus calorique, un entraînement de résistance régulier et suffisamment de protéines pour alimenter la réparation musculaire — généralement entre 1,6 g et 2,2 g par kilogramme de poids corporel par jour. Répartir les protéines uniformément sur 3-4 repas, plutôt que de les concentrer sur un seul repas, fournit à votre corps un apport constant d'acides aminés pour la synthèse des protéines musculaires tout au long de la journée."
+  },
+  "women": {
+    "heading": "Apport en protéines pour les femmes",
+    "intro": "Les besoins en protéines des femmes suivent les mêmes fourchettes basées sur le poids que pour les hommes, avec quelques étapes de la vie nécessitant un apport supplémentaire. La grossesse et l'allaitement augmentent tous deux les besoins en protéines pour soutenir la croissance du bébé, tandis qu'un apport adéquat après la ménopause aide à compenser le déclin naturel de la masse musculaire et de la densité osseuse.",
+    "tableStage": "Étape de vie",
+    "tableRange": "Apport recommandé",
+    "rows": [
+      {
+        "stage": "Femme adulte en général",
+        "range": "1,2 – 1,6 g/kg"
+      },
+      {
+        "stage": "Grossesse",
+        "range": "+ ~25 g/jour au-dessus de la base"
+      },
+      {
+        "stage": "Allaitement",
+        "range": "+ ~25 g/jour au-dessus de la base"
+      },
+      {
+        "stage": "Post-ménopause",
+        "range": "1,4 – 1,8 g/kg (soutient les os et les muscles)"
+      }
+    ],
+    "note": "Ceci est une information générale uniquement — les femmes enceintes ou allaitantes doivent confirmer leur apport avec leur médecin ou sage-femme."
+  },
+  "glp1": {
+    "heading": "Apport en protéines avec les médicaments GLP-1 (Ozempic, Wegovy, Mounjaro)",
+    "intro": "Les médicaments GLP-1 suppriment l'appétit, de sorte que l'apport alimentaire total — et avec lui, l'apport en protéines — chute souvent fortement. Comme une grande partie du poids perdu avec ces médicaments peut provenir du muscle si les protéines sont négligées, de nombreux prescripteurs recommandent désormais de privilégier les aliments riches en protéines en premier à chaque repas et de viser la limite supérieure de la fourchette standard (environ 1,2 g–1,6 g par kilogramme de poids corporel, ou plus si vous faites aussi de la musculation).",
+    "tips": [
+      "Mangez les protéines en premier, avant les glucides ou les légumes, à chaque repas.",
+      "Privilégiez les aliments riches en protéines et peu volumineux (œufs, yaourt grec, whey, paneer) car l'appétit et la taille des portions sont réduits.",
+      "Associez avec un entraînement de résistance léger si possible pour aider à protéger la masse musculaire."
+    ],
+    "disclaimer": "Ceci est une information générale, pas un avis médical. Suivez toujours les conseils du médecin qui gère votre traitement."
+  },
+  "examples": {
+    "heading": "Exemples d'apport en protéines pour de vraies personnes",
+    "proteinPerDay": "protéines / jour",
+    "maintenanceCalories": "kcal/jour de maintien",
+    "yearsShort": "ans"
+  },
+  "foods": {
+    "heading": "Liste d'aliments riches en protéines",
+    "intro": "Utilisez ces aliments du quotidien pour atteindre votre objectif quotidien de protéines.",
+    "tableFood": "Aliment",
+    "tableProtein": "Protéines",
+    "rows": [
+      {
+        "food": "Blanc de poulet (100 g)",
+        "protein": "31 g"
+      },
+      {
+        "food": "Yaourt grec (200 g)",
+        "protein": "20 g"
+      },
+      {
+        "food": "Œufs (2 gros)",
+        "protein": "13 g"
+      },
+      {
+        "food": "Paneer / fromage blanc (100 g)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Lentilles cuites (1 tasse)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Tofu (100 g)",
+        "protein": "12 g"
+      },
+      {
+        "food": "Thon (100 g)",
+        "protein": "26 g"
+      },
+      {
+        "food": "Whey protéine (1 dose)",
+        "protein": "24 g"
+      },
+      {
+        "food": "Amandes (30 g)",
+        "protein": "6 g"
+      },
+      {
+        "food": "Lait (1 tasse)",
+        "protein": "8 g"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Questions fréquentes",
+    "items": [
+      {
+        "q": "De combien de protéines ai-je besoin par jour ?",
+        "a": "La plupart des adultes ont besoin de 0,8 g à 2,2 g de protéines par kilogramme de poids corporel par jour, selon le niveau d'activité et les objectifs. Les adultes sédentaires en ont besoin de moins, tandis que ceux qui prennent du muscle ou qui sont en déficit calorique en ont besoin de plus pour préserver la masse maigre."
+      },
+      {
+        "q": "Combien de protéines pour la prise de muscle ?",
+        "a": "Pour prendre du muscle, visez environ 1,6 g à 2,2 g de protéines par kilogramme de poids corporel par jour, combiné à un entraînement de résistance et un léger surplus calorique."
+      },
+      {
+        "q": "Combien de protéines dois-je manger pour perdre du poids ?",
+        "a": "En réduisant les calories, un apport plus élevé en protéines, d'environ 1,8 g à 2,4 g par kilogramme de poids corporel, aide à préserver la masse musculaire et vous garde rassasié plus longtemps."
+      },
+      {
+        "q": "L'apport en protéines change-t-il avec Ozempic, Wegovy ou Mounjaro ?",
+        "a": "Les médicaments GLP-1 réduisent l'appétit, ce qui diminue l'apport alimentaire total. Privilégier les protéines à chaque repas aide à compenser la perte musculaire pendant une perte de poids rapide. Confirmez toujours votre objectif avec le médecin qui gère votre traitement."
+      },
+      {
+        "q": "Est-il mauvais de manger trop de protéines ?",
+        "a": "Pour la plupart des adultes en bonne santé, un apport plus élevé en protéines dans ces fourchettes est sûr. Répartissez votre apport sur 3-4 repas par jour pour une meilleure absorption et de meilleurs résultats."
+      }
+    ]
+  },
+  "footer": {
+    "disclaimer": "Ce calculateur fournit des conseils généraux de fitness et ne remplace pas un avis médical ou nutritionnel professionnel.",
+    "copyright": "© {year} Calculateur d'Apport en Protéines. Tous droits réservés."
+  }
+}

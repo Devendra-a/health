@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Calculadora de Ingesta de Proteínas - ¿Cuánta proteína necesitas al día?",
+    "description": "Calculadora gratuita de ingesta de proteínas. Introduce tu peso, nivel de actividad y objetivo para saber exactamente cuántos gramos de proteína necesitas al día para ganar músculo, perder grasa o mantener tu peso."
+  },
+  "nav": {
+    "brand": "Calculadora de Proteínas",
+    "calculator": "Calculadora",
+    "howItWorks": "Cómo funciona",
+    "faq": "Preguntas frecuentes",
+    "languageLabel": "Idioma"
+  },
+  "hero": {
+    "title": "Calculadora de Ingesta de Proteínas",
+    "subtitle": "Descubre exactamente cuánta proteína necesitas cada día para alcanzar tus objetivos de fitness, con la guía de {name}, entrenador personal de fitness y nutrición.",
+    "cta": "Calcula tu ingesta de proteínas"
+  },
+  "trust": {
+    "heading": "Por qué puedes confiar en esta calculadora",
+    "points": [
+      {
+        "title": "Fórmulas basadas en evidencia",
+        "description": "Se basa en la ecuación de Mifflin-St Jeor y en los rangos de proteína que usan nutricionistas y entrenadores, no en suposiciones."
+      },
+      {
+        "title": "No se guardan tus datos",
+        "description": "Tus cifras se calculan directamente en tu navegador y nunca se guardan ni se envían a ningún sitio."
+      },
+      {
+        "title": "Metodología clara",
+        "description": "Cada rango que ves aquí se explica más abajo, para que sepas exactamente cómo se calculó tu resultado."
+      }
+    ]
+  },
+  "calculator": {
+    "detailsHeading": "Introduce tus datos",
+    "detailsSubheading": "Obtén tu rango de proteína personalizado en segundos",
+    "tabDailyProtein": "Proteína diaria",
+    "tabMuscleBuilding": "Ganar músculo",
+    "tabWeightLoss": "Perder peso",
+    "tabPerMeal": "Por comida",
+    "gender": "Sexo",
+    "male": "Hombre",
+    "female": "Mujer",
+    "age": "Edad",
+    "agePlaceholder": "ej. 30",
+    "height": "Altura",
+    "heightPlaceholderCm": "ej. 175",
+    "heightPlaceholderIn": "ej. 69",
+    "weight": "Peso corporal",
+    "weightPlaceholder": "ej. 70",
+    "activityLevel": "Nivel de actividad",
+    "activitySedentary": "Sedentario (poco o ningún ejercicio)",
+    "activityLight": "Ligeramente activo (1-3 entrenamientos/semana)",
+    "activityModerate": "Moderadamente activo (3-5 entrenamientos/semana)",
+    "activityActive": "Muy activo (6-7 entrenamientos/semana)",
+    "activityAthlete": "Atleta (entrenamiento intenso diario)",
+    "goal": "Objetivo principal",
+    "goalMaintain": "Mantener peso",
+    "goalLose": "Perder peso",
+    "goalGain": "Ganar músculo",
+    "goalPerformance": "Rendimiento deportivo",
+    "trainingExperience": "Experiencia de entrenamiento",
+    "trainingBeginner": "Principiante (0-1 años)",
+    "trainingIntermediate": "Intermedio (1-3 años)",
+    "trainingAdvanced": "Avanzado (3+ años)",
+    "trainingElite": "Élite / Competición",
+    "bodyFatLabel": "Incluir % de grasa corporal",
+    "bodyFatHint": "Opcional — para resultados más precisos",
+    "bodyFatPlaceholder": "ej. 18",
+    "submit": "Calcular mi ingesta de proteína",
+    "resultTitle": "Tu objetivo diario de proteína",
+    "resultNote": "Repártela en 3-4 comidas para mejores resultados.",
+    "perKg": "Proteína por kg",
+    "perMeal": "Por comida (4 veces/día)",
+    "calories": "Calorías diarias estimadas",
+    "addAgeHeight": "Añade edad y altura",
+    "copyResult": "Copiar resultado",
+    "copied": "¡Copiado!",
+    "resultsHeading": "Tus resultados de proteína",
+    "minimum": "Mínimo",
+    "recommended": "Recomendado",
+    "maximum": "Máximo",
+    "recalculate": "← Recalcular",
+    "rangeLabel": "Rango: {low}g — {high}g",
+    "mealsPerDay": "Comidas por día",
+    "perMealLabel": "Por comida ({n} comidas)",
+    "weightLabel": "Peso",
+    "quickReference": {
+      "heading": "Referencia rápida",
+      "general": "Salud general (sedentario): 0,8–1,0 g/kg de peso corporal",
+      "weightLoss": "Pérdida de peso: 1,6–2,2 g/kg para preservar músculo en déficit",
+      "muscleGain": "Ganancia muscular: 1,8–2,5 g/kg según la experiencia de entrenamiento",
+      "performance": "Rendimiento deportivo: 2,0–3,1 g/kg",
+      "spread": "Distribuye la ingesta en 4–5 comidas de 25–40 g cada una para mejores resultados"
+    },
+    "muscle": {
+      "useLeanMass": "Usar masa corporal magra en su lugar",
+      "useLeanMassHint": "Opcional — para resultados más precisos",
+      "bodyFatPlaceholder": "ej. 18",
+      "submit": "Calcular proteína muscular",
+      "resultTitle": "Proteína diaria recomendada",
+      "note": "Un mayor consumo de proteína ayuda a la recuperación y progresión a medida que aumenta tu experiencia de entrenamiento."
+    },
+    "weightLoss": {
+      "currentWeight": "Peso actual",
+      "goalWeight": "Peso objetivo (opcional)",
+      "goalWeightHint": "Usa la misma unidad que tu peso actual.",
+      "deficitSize": "Tamaño del déficit",
+      "deficitSmall": "Pequeño (~0,25 kg/semana)",
+      "deficitModerate": "Moderado (~0,5 kg/semana)",
+      "deficitAggressive": "Agresivo (~0,75–1 kg/semana)",
+      "submit": "Calcular proteína para perder peso",
+      "resultTitle": "En tu peso actual",
+      "atCurrentWeight": "En tu peso actual",
+      "atGoalWeight": "En tu peso objetivo",
+      "note": "Un mayor consumo de proteína ayuda a preservar el músculo mientras estás a dieta y debe reducirse a medida que baja tu peso. En tu peso actual: {current} g/día. En tu peso objetivo: {goal} g/día.",
+      "noteNoGoal": "Un mayor consumo de proteína ayuda a preservar el músculo mientras estás a dieta y debe reducirse a medida que baja tu peso. En tu peso actual: {current} g/día.",
+      "recalcWarning": "A medida que pierdas peso, recalcula cada 5–7 kg perdidos"
+    },
+    "perMealTab": {
+      "targetLabel": "Tu objetivo diario de proteína (g)",
+      "targetHint": "Usa los resultados de la pestaña Diaria o Muscular de arriba",
+      "submit": "Repartir mi proteína",
+      "resultTitle": "Proteína por comida",
+      "dailyTotalLabel": "Total diario",
+      "dailyTotal": "Total diario: {total} g",
+      "note": "{perMeal} g × {meals} comidas = {total} g de proteína total al día."
+    }
+  },
+  "howTo": {
+    "heading": "Cómo usar esta calculadora de ingesta de proteínas",
+    "steps": [
+      {
+        "title": "Introduce tus datos",
+        "description": "Añade tu sexo, edad, altura y peso corporal para que la calculadora personalice tu resultado."
+      },
+      {
+        "title": "Elige tu nivel de actividad",
+        "description": "Indica con qué frecuencia entrenas cada semana, desde sedentario hasta entrenamiento intenso diario."
+      },
+      {
+        "title": "Elige tu objetivo",
+        "description": "Selecciona si quieres mantener tu peso, perder grasa o ganar músculo — la necesidad de proteína cambia según el objetivo."
+      },
+      {
+        "title": "Obtén tu objetivo diario",
+        "description": "Recibirás un rango en gramos, un desglose por comida y una estimación de tus calorías diarias."
+      }
+    ]
+  },
+  "howMuch": {
+    "heading": "¿Cuánta proteína necesitas al día?",
+    "intro": "Las necesidades diarias de proteína varían según el peso corporal, el nivel de actividad y el objetivo. La siguiente tabla muestra los rangos habitualmente recomendados en gramos de proteína por kilogramo de peso corporal.",
+    "tableGoal": "Objetivo / actividad",
+    "tableRange": "Rango de proteína",
+    "rows": [
+      {
+        "goal": "Sedentario / salud general",
+        "range": "0,8 – 1,0 g/kg"
+      },
+      {
+        "goal": "Actividad ligera",
+        "range": "1,2 – 1,4 g/kg"
+      },
+      {
+        "goal": "Pérdida de peso (preservando músculo)",
+        "range": "1,6 – 2,2 g/kg"
+      },
+      {
+        "goal": "Ganancia muscular",
+        "range": "1,7 – 2,2 g/kg"
+      },
+      {
+        "goal": "Resistencia / entrenamiento de atleta",
+        "range": "1,8 – 2,2 g/kg"
+      }
+    ]
+  },
+  "weightLoss": {
+    "heading": "Ingesta de proteína para perder peso",
+    "body": "Cuando comes menos calorías de las que quemas, tu cuerpo puede descomponer músculo para obtener energía, además de grasa. Una mayor ingesta de proteína —normalmente entre 1,6 g y 2,4 g por kilogramo de peso corporal— ayuda a preservar la masa muscular magra durante un déficit, controla el hambre gracias al efecto saciante de la proteína, y aumenta ligeramente las calorías que se queman al digerir los alimentos."
+  },
+  "muscleGain": {
+    "heading": "Ingesta de proteína para ganar músculo",
+    "body": "Ganar músculo requiere un superávit calórico, entrenamiento de fuerza constante y suficiente proteína para reparar el músculo — generalmente entre 1,6 g y 2,2 g por kilogramo de peso corporal al día. Repartir la proteína de forma uniforme en 3-4 comidas, en lugar de concentrarla en una sola, le da a tu cuerpo un suministro constante de aminoácidos para la síntesis de proteína muscular durante todo el día."
+  },
+  "women": {
+    "heading": "Ingesta de proteína para mujeres",
+    "intro": "Las necesidades de proteína en mujeres siguen los mismos rangos basados en el peso que en los hombres, con algunas etapas de la vida que requieren una ingesta extra. El embarazo y la lactancia aumentan las necesidades de proteína para apoyar el crecimiento del bebé, mientras que una ingesta adecuada tras la menopausia ayuda a compensar la pérdida natural de músculo y densidad ósea.",
+    "tableStage": "Etapa de vida",
+    "tableRange": "Ingesta recomendada",
+    "rows": [
+      {
+        "stage": "Mujer adulta en general",
+        "range": "1,2 – 1,6 g/kg"
+      },
+      {
+        "stage": "Embarazo",
+        "range": "+ ~25 g/día sobre el valor base"
+      },
+      {
+        "stage": "Lactancia",
+        "range": "+ ~25 g/día sobre el valor base"
+      },
+      {
+        "stage": "Posmenopausia",
+        "range": "1,4 – 1,8 g/kg (favorece huesos y músculo)"
+      }
+    ],
+    "note": "Esta es solo información general — las mujeres embarazadas o en periodo de lactancia deben confirmar su ingesta con su médico o matrona."
+  },
+  "glp1": {
+    "heading": "Ingesta de proteína con medicamentos GLP-1 (Ozempic, Wegovy, Mounjaro)",
+    "intro": "Los medicamentos GLP-1 suprimen el apetito, por lo que la ingesta total de alimentos —y con ella, la de proteína— suele reducirse notablemente. Como una parte importante del peso perdido con estos medicamentos puede provenir del músculo si se descuida la proteína, muchos médicos recomiendan priorizar los alimentos ricos en proteína en cada comida y apuntar al extremo superior del rango estándar (alrededor de 1,2 g–1,6 g por kilogramo de peso corporal, o más si además haces entrenamiento de fuerza).",
+    "tips": [
+      "Come la proteína primero, antes que los carbohidratos o las verduras, en cada comida.",
+      "Prioriza alimentos ricos en proteína y de poco volumen (huevos, yogur griego, proteína de suero, paneer), ya que el apetito y el tamaño de las porciones se reducen.",
+      "Combínalo con entrenamiento de fuerza ligero cuando sea posible para ayudar a proteger la masa muscular."
+    ],
+    "disclaimer": "Esto es información general, no un consejo médico. Sigue siempre las indicaciones del médico que gestiona tu tratamiento."
+  },
+  "examples": {
+    "heading": "Ejemplos de ingesta de proteína para personas reales",
+    "proteinPerDay": "proteína / día",
+    "maintenanceCalories": "kcal/día de mantenimiento",
+    "yearsShort": "años"
+  },
+  "foods": {
+    "heading": "Lista de alimentos ricos en proteína",
+    "intro": "Usa estos alimentos cotidianos para alcanzar tu objetivo diario de proteína.",
+    "tableFood": "Alimento",
+    "tableProtein": "Proteína",
+    "rows": [
+      {
+        "food": "Pechuga de pollo (100 g)",
+        "protein": "31 g"
+      },
+      {
+        "food": "Yogur griego (200 g)",
+        "protein": "20 g"
+      },
+      {
+        "food": "Huevos (2 grandes)",
+        "protein": "13 g"
+      },
+      {
+        "food": "Paneer / requesón (100 g)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Lentejas cocidas (1 taza)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Tofu (100 g)",
+        "protein": "12 g"
+      },
+      {
+        "food": "Atún (100 g)",
+        "protein": "26 g"
+      },
+      {
+        "food": "Proteína de suero (1 cucharada)",
+        "protein": "24 g"
+      },
+      {
+        "food": "Almendras (30 g)",
+        "protein": "6 g"
+      },
+      {
+        "food": "Leche (1 taza)",
+        "protein": "8 g"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Preguntas frecuentes",
+    "items": [
+      {
+        "q": "¿Cuánta proteína necesito al día?",
+        "a": "La mayoría de los adultos necesitan entre 0,8 g y 2,2 g de proteína por kilogramo de peso corporal al día, según el nivel de actividad y los objetivos. Los adultos sedentarios necesitan menos, mientras que quienes ganan músculo o están en déficit calórico necesitan más para preservar la masa magra."
+      },
+      {
+        "q": "¿Cuánta proteína para ganar músculo?",
+        "a": "Para ganar músculo, apunta a unos 1,6 g a 2,2 g de proteína por kilogramo de peso corporal al día, combinado con entrenamiento de fuerza y un ligero superávit calórico."
+      },
+      {
+        "q": "¿Cuánta proteína debo comer para perder peso?",
+        "a": "Al reducir calorías, una mayor ingesta de proteína, de alrededor de 1,8 g a 2,4 g por kilogramo de peso corporal, ayuda a preservar la masa muscular y te mantiene saciado por más tiempo."
+      },
+      {
+        "q": "¿Cambia la ingesta de proteína con Ozempic, Wegovy o Mounjaro?",
+        "a": "Los medicamentos GLP-1 reducen el apetito, por lo que la ingesta total de alimentos disminuye. Priorizar la proteína en cada comida ayuda a compensar la pérdida muscular durante una pérdida de peso rápida. Confirma siempre tu objetivo con el médico que gestiona tu tratamiento."
+      },
+      {
+        "q": "¿Es malo comer demasiada proteína?",
+        "a": "Para la mayoría de los adultos sanos, una ingesta de proteína mayor dentro de estos rangos es segura. Reparte tu ingesta en 3-4 comidas al día para una mejor absorción y resultados."
+      }
+    ]
+  },
+  "footer": {
+    "disclaimer": "Esta calculadora ofrece orientación general de fitness y no sustituye el consejo médico o nutricional profesional.",
+    "copyright": "© {year} Calculadora de Ingesta de Proteínas. Todos los derechos reservados."
+  }
+}

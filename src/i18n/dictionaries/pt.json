@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Calculadora de Ingestão de Proteína - Quanta proteína você precisa por dia?",
+    "description": "Calculadora gratuita de ingestão de proteína. Informe seu peso, nível de atividade e objetivo para saber exatamente quantos gramas de proteína você precisa por dia para ganhar músculo, perder gordura ou manter o peso."
+  },
+  "nav": {
+    "brand": "Calculadora de Proteína",
+    "calculator": "Calculadora",
+    "howItWorks": "Como funciona",
+    "faq": "Perguntas frequentes",
+    "languageLabel": "Idioma"
+  },
+  "hero": {
+    "title": "Calculadora de Ingestão de Proteína",
+    "subtitle": "Descubra exatamente quanta proteína você precisa por dia para atingir seus objetivos de fitness, com a orientação de {name}, treinador pessoal de fitness e nutrição.",
+    "cta": "Calcule sua ingestão de proteína"
+  },
+  "trust": {
+    "heading": "Por que confiar nesta calculadora",
+    "points": [
+      {
+        "title": "Fórmulas baseadas em evidências",
+        "description": "Baseada na equação de Mifflin-St Jeor e nas faixas de proteína usadas por nutricionistas e treinadores — nada de achismo."
+      },
+      {
+        "title": "Nenhum dado é armazenado",
+        "description": "Seus números são calculados diretamente no seu navegador e nunca são salvos ou enviados para lugar nenhum."
+      },
+      {
+        "title": "Metodologia transparente",
+        "description": "Cada faixa mostrada aqui é explicada abaixo, para que você saiba exatamente como seu resultado foi calculado."
+      }
+    ]
+  },
+  "calculator": {
+    "detailsHeading": "Insira Seus Dados",
+    "detailsSubheading": "Obtenha sua faixa de proteína personalizada em segundos",
+    "tabDailyProtein": "Proteína Diária",
+    "tabMuscleBuilding": "Ganho de Músculo",
+    "tabWeightLoss": "Perda de Peso",
+    "tabPerMeal": "Por Refeição",
+    "gender": "Sexo",
+    "male": "Homem",
+    "female": "Mulher",
+    "age": "Idade",
+    "agePlaceholder": "ex. 30",
+    "height": "Altura",
+    "heightPlaceholderCm": "ex. 175",
+    "heightPlaceholderIn": "ex. 69",
+    "weight": "Peso corporal",
+    "weightPlaceholder": "ex. 70",
+    "activityLevel": "Nível de atividade",
+    "activitySedentary": "Sedentário (pouco ou nenhum exercício)",
+    "activityLight": "Levemente ativo (1-3 treinos/semana)",
+    "activityModerate": "Moderadamente ativo (3-5 treinos/semana)",
+    "activityActive": "Muito ativo (6-7 treinos/semana)",
+    "activityAthlete": "Atleta (treino intenso diário)",
+    "goal": "Objetivo Principal",
+    "goalMaintain": "Manter o Peso",
+    "goalLose": "Perder Peso",
+    "goalGain": "Ganhar Músculo",
+    "goalPerformance": "Desempenho Atlético",
+    "trainingExperience": "Experiência de Treino",
+    "trainingBeginner": "Iniciante (0-1 ano)",
+    "trainingIntermediate": "Intermediário (1-3 anos)",
+    "trainingAdvanced": "Avançado (3+ anos)",
+    "trainingElite": "Elite / Competitivo",
+    "bodyFatLabel": "Incluir % de Gordura Corporal",
+    "bodyFatHint": "Opcional — para resultados mais precisos",
+    "bodyFatPlaceholder": "ex. 18",
+    "submit": "Calcular Minha Ingestão de Proteína",
+    "resultTitle": "Sua meta diária de proteína",
+    "resultNote": "Distribua em 3-4 refeições para melhores resultados.",
+    "perKg": "Proteína por kg",
+    "perMeal": "Por refeição (4x/dia)",
+    "calories": "Calorias diárias estimadas",
+    "addAgeHeight": "Adicione idade e altura",
+    "copyResult": "Copiar resultado",
+    "copied": "Copiado!",
+    "resultsHeading": "Seus resultados de proteína",
+    "minimum": "Mínimo",
+    "recommended": "Recomendado",
+    "maximum": "Máximo",
+    "recalculate": "← Recalcular",
+    "rangeLabel": "Faixa: {low}g — {high}g",
+    "mealsPerDay": "Refeições por dia",
+    "perMealLabel": "Por refeição ({n} refeições)",
+    "weightLabel": "Peso",
+    "quickReference": {
+      "heading": "Referência rápida",
+      "general": "Saúde geral (sedentário): 0,8–1,0 g/kg de peso corporal",
+      "weightLoss": "Perda de peso: 1,6–2,2 g/kg para preservar músculo em déficit",
+      "muscleGain": "Ganho de músculo: 1,8–2,5 g/kg dependendo da experiência de treino",
+      "performance": "Desempenho atlético: 2,0–3,1 g/kg",
+      "spread": "Distribua a ingestão em 4–5 refeições de 25–40 g cada para melhores resultados"
+    },
+    "muscle": {
+      "useLeanMass": "Usar massa magra em vez disso",
+      "useLeanMassHint": "Opcional — para resultados mais precisos",
+      "bodyFatPlaceholder": "ex. 18",
+      "submit": "Calcular Proteína Muscular",
+      "resultTitle": "Proteína Diária Recomendada",
+      "note": "Uma maior ingestão de proteína ajuda na recuperação e progressão à medida que sua experiência de treino aumenta."
+    },
+    "weightLoss": {
+      "currentWeight": "Peso Atual",
+      "goalWeight": "Peso Meta (Opcional)",
+      "goalWeightHint": "Use a mesma unidade do seu peso atual.",
+      "deficitSize": "Tamanho do Déficit",
+      "deficitSmall": "Pequeno (~0,25 kg/semana)",
+      "deficitModerate": "Moderado (~0,5 kg/semana)",
+      "deficitAggressive": "Agressivo (~0,75–1 kg/semana)",
+      "submit": "Calcular Proteína para Perda de Peso",
+      "resultTitle": "No Seu Peso Atual",
+      "atCurrentWeight": "No seu peso atual",
+      "atGoalWeight": "No seu peso meta",
+      "note": "Uma maior ingestão de proteína ajuda a preservar músculo durante a dieta e deve ser ajustada para baixo à medida que o peso corporal cai. No seu peso atual: {current} g/dia. No seu peso meta: {goal} g/dia.",
+      "noteNoGoal": "Uma maior ingestão de proteína ajuda a preservar músculo durante a dieta e deve ser ajustada para baixo à medida que o peso corporal cai. No seu peso atual: {current} g/dia.",
+      "recalcWarning": "À medida que você perde peso, recalcule a cada 5–7 kg perdidos"
+    },
+    "perMealTab": {
+      "targetLabel": "Sua Meta Diária de Proteína (g)",
+      "targetHint": "Use os resultados da aba Diária ou Ganho de Músculo acima",
+      "submit": "Dividir Minha Proteína",
+      "resultTitle": "Proteína Por Refeição",
+      "dailyTotalLabel": "Total diário",
+      "dailyTotal": "Total diário: {total} g",
+      "note": "{perMeal} g × {meals} refeições = {total} g de proteína total por dia."
+    }
+  },
+  "howTo": {
+    "heading": "Como usar esta calculadora de ingestão de proteína",
+    "steps": [
+      {
+        "title": "Insira seus dados",
+        "description": "Adicione seu sexo, idade, altura e peso corporal para que a calculadora personalize seu resultado."
+      },
+      {
+        "title": "Escolha seu nível de atividade",
+        "description": "Indique com que frequência você treina por semana, de sedentário a treino intenso diário."
+      },
+      {
+        "title": "Escolha seu objetivo",
+        "description": "Selecione se quer manter o peso, perder gordura ou ganhar músculo — a necessidade de proteína muda conforme o objetivo."
+      },
+      {
+        "title": "Obtenha sua meta diária",
+        "description": "Você receberá uma faixa em gramas, um detalhamento por refeição e uma estimativa de calorias diárias."
+      }
+    ]
+  },
+  "howMuch": {
+    "heading": "Quanta proteína você precisa por dia?",
+    "intro": "As necessidades diárias de proteína variam conforme o peso corporal, o nível de atividade e o objetivo. A tabela abaixo mostra as faixas comumente recomendadas em gramas de proteína por quilograma de peso corporal.",
+    "tableGoal": "Objetivo / atividade",
+    "tableRange": "Faixa de proteína",
+    "rows": [
+      {
+        "goal": "Sedentário / saúde geral",
+        "range": "0,8 – 1,0 g/kg"
+      },
+      {
+        "goal": "Atividade leve",
+        "range": "1,2 – 1,4 g/kg"
+      },
+      {
+        "goal": "Perda de peso (preservando músculo)",
+        "range": "1,6 – 2,2 g/kg"
+      },
+      {
+        "goal": "Ganho muscular",
+        "range": "1,7 – 2,2 g/kg"
+      },
+      {
+        "goal": "Resistência / treino de atleta",
+        "range": "1,8 – 2,2 g/kg"
+      }
+    ]
+  },
+  "weightLoss": {
+    "heading": "Ingestão de proteína para perda de peso",
+    "body": "Quando você consome menos calorias do que gasta, seu corpo pode quebrar músculo para obter energia, além da gordura. Uma ingestão maior de proteína — normalmente entre 1,6 g e 2,4 g por quilograma de peso corporal — ajuda a preservar a massa muscular magra durante o cutting, controla a fome graças ao efeito de saciedade da proteína, e aumenta levemente as calorias gastas na digestão dos alimentos."
+  },
+  "muscleGain": {
+    "heading": "Ingestão de proteína para ganho muscular",
+    "body": "Ganhar músculo exige superávit calórico, treino de força consistente e proteína suficiente para reparar o músculo — geralmente entre 1,6 g e 2,2 g por quilograma de peso corporal por dia. Distribuir a proteína igualmente em 3-4 refeições, em vez de concentrá-la em uma só, dá ao corpo um fornecimento constante de aminoácidos para a síntese de proteína muscular ao longo do dia."
+  },
+  "women": {
+    "heading": "Ingestão de proteína para mulheres",
+    "intro": "As necessidades de proteína para mulheres seguem as mesmas faixas baseadas em peso que para homens, com algumas fases da vida exigindo ingestão extra. A gravidez e a amamentação aumentam as necessidades de proteína para apoiar o crescimento do bebê, enquanto uma ingestão adequada após a menopausa ajuda a compensar a perda natural de músculo e densidade óssea.",
+    "tableStage": "Fase da vida",
+    "tableRange": "Ingestão recomendada",
+    "rows": [
+      {
+        "stage": "Mulher adulta em geral",
+        "range": "1,2 – 1,6 g/kg"
+      },
+      {
+        "stage": "Gravidez",
+        "range": "+ ~25 g/dia acima do valor base"
+      },
+      {
+        "stage": "Amamentação",
+        "range": "+ ~25 g/dia acima do valor base"
+      },
+      {
+        "stage": "Pós-menopausa",
+        "range": "1,4 – 1,8 g/kg (favorece ossos e músculos)"
+      }
+    ],
+    "note": "Isto é apenas uma orientação geral — mulheres grávidas ou amamentando devem confirmar a ingestão com seu médico ou parteira."
+  },
+  "glp1": {
+    "heading": "Ingestão de proteína com medicamentos GLP-1 (Ozempic, Wegovy, Mounjaro)",
+    "intro": "Os medicamentos GLP-1 suprimem o apetite, então a ingestão total de alimentos — e com ela, a de proteína — costuma cair bastante. Como boa parte do peso perdido com esses medicamentos pode vir de músculo se a proteína for negligenciada, muitos médicos recomendam priorizar alimentos ricos em proteína em cada refeição e mirar na parte superior da faixa padrão (cerca de 1,2 g–1,6 g por quilograma de peso corporal, ou mais se você também treinar força).",
+    "tips": [
+      "Coma a proteína primeiro, antes dos carboidratos ou vegetais, em cada refeição.",
+      "Priorize alimentos ricos em proteína e de baixo volume (ovos, iogurte grego, whey, paneer/queijo cottage), já que o apetite e o tamanho das porções diminuem.",
+      "Combine com treino de força leve sempre que possível para ajudar a proteger a massa muscular."
+    ],
+    "disclaimer": "Esta é uma informação geral, não um conselho médico. Siga sempre a orientação do médico responsável pelo seu tratamento."
+  },
+  "examples": {
+    "heading": "Exemplos de ingestão de proteína para pessoas reais",
+    "proteinPerDay": "proteína / dia",
+    "maintenanceCalories": "kcal/dia de manutenção",
+    "yearsShort": "anos"
+  },
+  "foods": {
+    "heading": "Lista de alimentos ricos em proteína",
+    "intro": "Use estes alimentos do dia a dia para atingir sua meta diária de proteína.",
+    "tableFood": "Alimento",
+    "tableProtein": "Proteína",
+    "rows": [
+      {
+        "food": "Peito de frango (100 g)",
+        "protein": "31 g"
+      },
+      {
+        "food": "Iogurte grego (200 g)",
+        "protein": "20 g"
+      },
+      {
+        "food": "Ovos (2 grandes)",
+        "protein": "13 g"
+      },
+      {
+        "food": "Paneer / queijo cottage (100 g)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Lentilhas cozidas (1 xícara)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Tofu (100 g)",
+        "protein": "12 g"
+      },
+      {
+        "food": "Atum (100 g)",
+        "protein": "26 g"
+      },
+      {
+        "food": "Whey protein (1 dose)",
+        "protein": "24 g"
+      },
+      {
+        "food": "Amêndoas (30 g)",
+        "protein": "6 g"
+      },
+      {
+        "food": "Leite (1 xícara)",
+        "protein": "8 g"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Perguntas frequentes",
+    "items": [
+      {
+        "q": "Quanta proteína eu preciso por dia?",
+        "a": "A maioria dos adultos precisa de 0,8 g a 2,2 g de proteína por quilograma de peso corporal por dia, dependendo do nível de atividade e dos objetivos. Adultos sedentários precisam de menos, enquanto quem está ganhando músculo ou em déficit calórico precisa de mais para preservar a massa magra."
+      },
+      {
+        "q": "Quanta proteína para ganho muscular?",
+        "a": "Para ganhar músculo, mire em cerca de 1,6 g a 2,2 g de proteína por quilograma de peso corporal por dia, combinado com treino de força e um leve superávit calórico."
+      },
+      {
+        "q": "Quanta proteína devo comer para perder peso?",
+        "a": "Ao cortar calorias, uma ingestão maior de proteína, de cerca de 1,8 g a 2,4 g por quilograma de peso corporal, ajuda a preservar a massa muscular e mantém a saciedade por mais tempo."
+      },
+      {
+        "q": "A ingestão de proteína muda com Ozempic, Wegovy ou Mounjaro?",
+        "a": "Os medicamentos GLP-1 reduzem o apetite, então a ingestão total de alimentos cai. Priorizar a proteína em cada refeição ajuda a compensar a perda muscular durante a perda de peso rápida. Confirme sempre sua meta com o médico responsável pelo seu tratamento."
+      },
+      {
+        "q": "Comer proteína demais faz mal?",
+        "a": "Para a maioria dos adultos saudáveis, uma ingestão maior de proteína dentro dessas faixas é segura. Distribua sua ingestão em 3-4 refeições por dia para melhor absorção e resultados."
+      }
+    ]
+  },
+  "footer": {
+    "disclaimer": "Esta calculadora oferece orientação geral de fitness e não substitui o aconselhamento médico ou nutricional profissional.",
+    "copyright": "© {year} Calculadora de Ingestão de Proteína. Todos os direitos reservados."
+  }
+}

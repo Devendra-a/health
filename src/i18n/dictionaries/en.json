@@ -1,0 +1,249 @@
+{
+  "meta": {
+    "title": "Protein Intake Calculator - How Much Protein Do You Need Per Day?",
+    "description": "Free protein intake calculator. Enter your weight, activity level and goal to find out exactly how many grams of protein you need per day for muscle gain, fat loss or maintenance."
+  },
+  "nav": {
+    "brand": "Protein Calculator",
+    "calculator": "Calculator",
+    "howItWorks": "How It Works",
+    "faq": "FAQ",
+    "languageLabel": "Language"
+  },
+  "hero": {
+    "title": "Protein Intake Calculator",
+    "subtitle": "Find out exactly how much protein you need every day to hit your fitness goals, with guidance from {name}, personal fitness & nutrition coach.",
+    "cta": "Calculate Your Protein Intake"
+  },
+  "trust": {
+    "heading": "Why You Can Trust This Calculator",
+    "points": [
+      {
+        "title": "Evidence-based formulas",
+        "description": "Built on the Mifflin-St Jeor equation and protein ranges used by dietitians and strength coaches — not guesswork."
+      },
+      {
+        "title": "No data stored",
+        "description": "Your numbers are calculated right in your browser and are never saved or sent anywhere."
+      },
+      {
+        "title": "Clear methodology",
+        "description": "Every range shown here is explained below, so you know exactly how your result was calculated."
+      }
+    ]
+  },
+  "calculator": {
+    "detailsHeading": "Enter Your Details",
+    "detailsSubheading": "Get your personalized protein range in seconds",
+    "tabDailyProtein": "Daily Protein",
+    "tabMuscleBuilding": "Muscle Building",
+    "tabWeightLoss": "Weight Loss",
+    "tabPerMeal": "Per Meal",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "age": "Age",
+    "agePlaceholder": "e.g. 30",
+    "height": "Height",
+    "heightPlaceholderCm": "e.g. 175",
+    "heightPlaceholderIn": "e.g. 69",
+    "weight": "Body weight",
+    "weightPlaceholder": "e.g. 70",
+    "activityLevel": "Activity level",
+    "activitySedentary": "Sedentary (little to no exercise)",
+    "activityLight": "Lightly active (1-3 workouts/week)",
+    "activityModerate": "Moderately active (3-5 workouts/week)",
+    "activityActive": "Very active (6-7 workouts/week)",
+    "activityAthlete": "Athlete (intense daily training)",
+    "goal": "Primary Goal",
+    "goalMaintain": "Maintain Weight",
+    "goalLose": "Lose Weight",
+    "goalGain": "Build Muscle",
+    "goalPerformance": "Athletic Performance",
+    "trainingExperience": "Training Experience",
+    "trainingBeginner": "Beginner (0-1 years)",
+    "trainingIntermediate": "Intermediate (1-3 years)",
+    "trainingAdvanced": "Advanced (3+ years)",
+    "trainingElite": "Elite / Competitive",
+    "bodyFatLabel": "Include Body Fat %",
+    "bodyFatHint": "Optional — for more accurate results",
+    "bodyFatPlaceholder": "e.g. 18",
+    "submit": "Calculate My Protein Intake",
+    "resultTitle": "Your daily protein target",
+    "resultNote": "Spread across 3–4 meals for best results.",
+    "perKg": "Protein per kg",
+    "perMeal": "Per meal (4x/day)",
+    "calories": "Est. daily calories",
+    "addAgeHeight": "Add age & height",
+    "copyResult": "Copy result",
+    "copied": "Copied!",
+    "resultsHeading": "Your Protein Results",
+    "minimum": "Minimum",
+    "recommended": "Recommended",
+    "maximum": "Maximum",
+    "recalculate": "← Recalculate",
+    "rangeLabel": "Range: {low}g — {high}g",
+    "mealsPerDay": "Meals Per Day",
+    "perMealLabel": "Per meal ({n} meals)",
+    "weightLabel": "Weight",
+    "quickReference": {
+      "heading": "Quick Reference",
+      "general": "General health (sedentary): 0.8–1.0 g/kg body weight",
+      "weightLoss": "Weight loss: 1.6–2.2 g/kg to preserve muscle in a deficit",
+      "muscleGain": "Muscle gain: 1.8–2.5 g/kg depending on training experience",
+      "performance": "Athletic performance: 2.0–3.1 g/kg",
+      "spread": "Spread intake across 4–5 meals of 25–40g each for best results"
+    },
+    "muscle": {
+      "useLeanMass": "Use lean body mass instead",
+      "useLeanMassHint": "Optional — for more accurate results",
+      "bodyFatPlaceholder": "e.g. 18",
+      "submit": "Calculate Muscle Protein",
+      "resultTitle": "Recommended Daily Protein",
+      "note": "Higher protein needs support recovery and progression as your training experience increases."
+    },
+    "weightLoss": {
+      "currentWeight": "Current Weight",
+      "goalWeight": "Goal Weight (Optional)",
+      "goalWeightHint": "Use the same unit as your current weight.",
+      "deficitSize": "Deficit Size",
+      "deficitSmall": "Small (~0.25 kg/week)",
+      "deficitModerate": "Moderate (~0.5 kg/week)",
+      "deficitAggressive": "Aggressive (~0.75–1 kg/week)",
+      "submit": "Calculate Weight Loss Protein",
+      "resultTitle": "At Your Current Weight",
+      "atCurrentWeight": "At your current weight",
+      "atGoalWeight": "At your goal weight",
+      "note": "Higher protein helps preserve muscle while dieting and should be adjusted downward as body weight drops. At your current weight: {current} g/day. At your goal weight: {goal} g/day.",
+      "noteNoGoal": "Higher protein helps preserve muscle while dieting and should be adjusted downward as body weight drops. At your current weight: {current} g/day.",
+      "recalcWarning": "As you lose weight, recalculate every 5–7 kg lost"
+    },
+    "perMealTab": {
+      "targetLabel": "Your Daily Protein Target (g)",
+      "targetHint": "Use results from Daily or Muscle tab above",
+      "submit": "Split My Protein",
+      "resultTitle": "Protein Per Meal",
+      "dailyTotalLabel": "Daily total",
+      "dailyTotal": "Daily total: {total} g",
+      "note": "{perMeal} g × {meals} meals = {total} g total daily protein."
+    }
+  },
+  "howTo": {
+    "heading": "How to Use This Protein Intake Calculator",
+    "steps": [
+      {
+        "title": "Enter your details",
+        "description": "Add your gender, age, height and body weight so the calculator can personalize your result."
+      },
+      {
+        "title": "Pick your activity level",
+        "description": "Choose how often you train each week, from sedentary to daily intense training."
+      },
+      {
+        "title": "Choose your goal",
+        "description": "Select whether you want to maintain weight, lose fat or build muscle — protein needs shift with each goal."
+      },
+      {
+        "title": "Get your daily target",
+        "description": "You'll get a gram range, a per-meal breakdown, and an estimated daily calorie need."
+      }
+    ]
+  },
+  "howMuch": {
+    "heading": "How Much Protein Do You Need Per Day?",
+    "intro": "Daily protein needs scale with body weight, activity level and goal. The table below shows commonly recommended ranges in grams of protein per kilogram of body weight.",
+    "tableGoal": "Goal / activity",
+    "tableRange": "Protein range",
+    "rows": [
+      { "goal": "Sedentary / general health", "range": "0.8 – 1.0 g/kg" },
+      { "goal": "Light activity", "range": "1.2 – 1.4 g/kg" },
+      { "goal": "Weight loss (preserve muscle)", "range": "1.6 – 2.2 g/kg" },
+      { "goal": "Muscle gain", "range": "1.7 – 2.2 g/kg" },
+      { "goal": "Endurance / athlete training", "range": "1.8 – 2.2 g/kg" }
+    ]
+  },
+  "weightLoss": {
+    "heading": "Protein Intake for Weight Loss",
+    "body": "When you eat fewer calories than you burn, your body can break down muscle for energy alongside fat. A higher protein intake — typically 1.6g to 2.4g per kilogram of body weight — helps preserve lean muscle during a cut, keeps hunger in check thanks to protein's satiety effect, and slightly raises the number of calories burned digesting food."
+  },
+  "muscleGain": {
+    "heading": "Protein Intake for Muscle Gain",
+    "body": "Building muscle requires a calorie surplus, consistent resistance training, and enough protein to fuel muscle repair — generally 1.6g to 2.2g per kilogram of body weight per day. Spreading protein evenly across 3–4 meals, rather than loading it into one meal, gives your body a steady supply of amino acids for muscle protein synthesis throughout the day."
+  },
+  "women": {
+    "heading": "Protein Intake for Women",
+    "intro": "Protein needs for women follow the same weight-based ranges as men, with a few life stages that call for extra intake. Pregnancy and breastfeeding both raise protein needs to support the baby's growth, while adequate protein after menopause helps offset the natural decline in muscle and bone density.",
+    "tableStage": "Life stage",
+    "tableRange": "Recommended intake",
+    "rows": [
+      { "stage": "General adult woman", "range": "1.2 – 1.6 g/kg" },
+      { "stage": "Pregnancy", "range": "+ ~25 g/day above baseline" },
+      { "stage": "Breastfeeding", "range": "+ ~25 g/day above baseline" },
+      { "stage": "Post-menopause", "range": "1.4 – 1.8 g/kg (supports bone & muscle)" }
+    ],
+    "note": "General guidance only — pregnant or breastfeeding women should confirm intake with their doctor or midwife."
+  },
+  "glp1": {
+    "heading": "Protein Intake on GLP-1 Medications (Ozempic, Wegovy, Mounjaro)",
+    "intro": "GLP-1 medications suppress appetite, so total food intake — and with it, protein intake — often drops sharply. Because a large share of weight lost on these medications can come from muscle if protein is neglected, many prescribers now recommend prioritizing protein-rich foods first at every meal and aiming for the higher end of the standard range (around 1.2g–1.6g per kilogram of body weight, or more if you also strength train).",
+    "tips": [
+      "Eat protein first, before carbs or vegetables, at each meal.",
+      "Favor high-protein, low-volume foods (eggs, Greek yogurt, whey, paneer) since appetite and portion sizes are reduced.",
+      "Pair with light resistance training where possible to help protect muscle mass."
+    ],
+    "disclaimer": "This is general information, not medical advice. Always follow the guidance of the doctor managing your prescription."
+  },
+  "examples": {
+    "heading": "Protein Intake Examples for Real People",
+    "proteinPerDay": "protein / day",
+    "maintenanceCalories": "kcal/day maintenance",
+    "yearsShort": "yrs"
+  },
+  "foods": {
+    "heading": "High Protein Foods List",
+    "intro": "Use these everyday foods to hit your daily protein target.",
+    "tableFood": "Food",
+    "tableProtein": "Protein",
+    "rows": [
+      { "food": "Chicken breast (100 g)", "protein": "31 g" },
+      { "food": "Greek yogurt (200 g)", "protein": "20 g" },
+      { "food": "Eggs (2 large)", "protein": "13 g" },
+      { "food": "Paneer / cottage cheese (100 g)", "protein": "18 g" },
+      { "food": "Lentils, cooked (1 cup)", "protein": "18 g" },
+      { "food": "Tofu (100 g)", "protein": "12 g" },
+      { "food": "Tuna (100 g)", "protein": "26 g" },
+      { "food": "Whey protein (1 scoop)", "protein": "24 g" },
+      { "food": "Almonds (30 g)", "protein": "6 g" },
+      { "food": "Milk (1 cup)", "protein": "8 g" }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "How much protein do I need per day?",
+        "a": "Most adults need between 0.8g and 2.2g of protein per kilogram of body weight per day, depending on activity level and goals. Sedentary adults need less, while those building muscle or in a calorie deficit need more to preserve lean mass."
+      },
+      {
+        "q": "How much protein for muscle gain?",
+        "a": "To build muscle, aim for roughly 1.6g to 2.2g of protein per kilogram of body weight daily, combined with resistance training and a slight calorie surplus."
+      },
+      {
+        "q": "How much protein should I eat to lose weight?",
+        "a": "When cutting calories, a higher protein intake of around 1.8g to 2.4g per kilogram of body weight helps preserve muscle mass and keeps you fuller for longer."
+      },
+      {
+        "q": "Does protein intake change on Ozempic, Wegovy or Mounjaro?",
+        "a": "GLP-1 medications reduce appetite, so total food intake drops. Prioritizing protein at each meal helps offset muscle loss during rapid weight loss. Always confirm your target with the doctor managing your prescription."
+      },
+      {
+        "q": "Is it bad to eat too much protein?",
+        "a": "For most healthy adults, higher protein intakes within these ranges are safe. Spread your intake across 3-4 meals a day for the best absorption and results."
+      }
+    ]
+  },
+  "footer": {
+    "disclaimer": "This calculator provides general fitness guidance and is not a substitute for professional medical or nutritional advice.",
+    "copyright": "© {year} Protein Intake Calculator. All rights reserved."
+  }
+}

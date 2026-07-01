@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Protein-Rechner - Wie viel Protein benötigen Sie pro Tag?",
+    "description": "Kostenloser Protein-Rechner. Geben Sie Ihr Gewicht, Aktivitätslevel und Ziel ein, um genau herauszufinden, wie viele Gramm Protein Sie täglich für Muskelaufbau, Fettverlust oder Gewichtserhalt benötigen."
+  },
+  "nav": {
+    "brand": "Protein-Rechner",
+    "calculator": "Rechner",
+    "howItWorks": "So funktioniert's",
+    "faq": "FAQ",
+    "languageLabel": "Sprache"
+  },
+  "hero": {
+    "title": "Protein-Rechner",
+    "subtitle": "Finden Sie genau heraus, wie viel Protein Sie täglich benötigen, um Ihre Fitnessziele zu erreichen — mit Unterstützung von {name}, persönlichem Fitness- und Ernährungscoach.",
+    "cta": "Berechnen Sie Ihre Proteinzufuhr"
+  },
+  "trust": {
+    "heading": "Warum Sie diesem Rechner vertrauen können",
+    "points": [
+      {
+        "title": "Wissenschaftlich fundierte Formeln",
+        "description": "Basiert auf der Mifflin-St-Jeor-Gleichung und den Proteinbereichen, die von Ernährungsberatern und Trainern verwendet werden — keine Vermutungen."
+      },
+      {
+        "title": "Keine Datenspeicherung",
+        "description": "Ihre Werte werden direkt in Ihrem Browser berechnet und niemals gespeichert oder irgendwohin gesendet."
+      },
+      {
+        "title": "Klare Methodik",
+        "description": "Jeder hier gezeigte Bereich wird weiter unten erklärt, damit Sie genau wissen, wie Ihr Ergebnis berechnet wurde."
+      }
+    ]
+  },
+  "calculator": {
+    "detailsHeading": "Geben Sie Ihre Daten ein",
+    "detailsSubheading": "Erhalten Sie Ihren persönlichen Proteinbereich in Sekunden",
+    "tabDailyProtein": "Tägliches Protein",
+    "tabMuscleBuilding": "Muskelaufbau",
+    "tabWeightLoss": "Gewichtsverlust",
+    "tabPerMeal": "Pro Mahlzeit",
+    "gender": "Geschlecht",
+    "male": "Männlich",
+    "female": "Weiblich",
+    "age": "Alter",
+    "agePlaceholder": "z. B. 30",
+    "height": "Größe",
+    "heightPlaceholderCm": "z. B. 175",
+    "heightPlaceholderIn": "z. B. 69",
+    "weight": "Körpergewicht",
+    "weightPlaceholder": "z. B. 70",
+    "activityLevel": "Aktivitätslevel",
+    "activitySedentary": "Sitzend (wenig bis kein Training)",
+    "activityLight": "Leicht aktiv (1-3 Trainingseinheiten/Woche)",
+    "activityModerate": "Mäßig aktiv (3-5 Trainingseinheiten/Woche)",
+    "activityActive": "Sehr aktiv (6-7 Trainingseinheiten/Woche)",
+    "activityAthlete": "Athlet (tägliches intensives Training)",
+    "goal": "Hauptziel",
+    "goalMaintain": "Gewicht halten",
+    "goalLose": "Gewicht verlieren",
+    "goalGain": "Muskeln aufbauen",
+    "goalPerformance": "Sportliche Leistung",
+    "trainingExperience": "Trainingserfahrung",
+    "trainingBeginner": "Anfänger (0-1 Jahre)",
+    "trainingIntermediate": "Mittelstufe (1-3 Jahre)",
+    "trainingAdvanced": "Fortgeschritten (3+ Jahre)",
+    "trainingElite": "Elite / Wettkampf",
+    "bodyFatLabel": "Körperfettanteil einbeziehen",
+    "bodyFatHint": "Optional — für genauere Ergebnisse",
+    "bodyFatPlaceholder": "z. B. 18",
+    "submit": "Meine Proteinzufuhr berechnen",
+    "resultTitle": "Ihr tägliches Proteinziel",
+    "resultNote": "Verteilen Sie es auf 3-4 Mahlzeiten für beste Ergebnisse.",
+    "perKg": "Protein pro kg",
+    "perMeal": "Pro Mahlzeit (4x/Tag)",
+    "calories": "Geschätzte tägliche Kalorien",
+    "addAgeHeight": "Alter & Größe hinzufügen",
+    "copyResult": "Ergebnis kopieren",
+    "copied": "Kopiert!",
+    "resultsHeading": "Ihre Proteinergebnisse",
+    "minimum": "Minimum",
+    "recommended": "Empfohlen",
+    "maximum": "Maximum",
+    "recalculate": "← Neu berechnen",
+    "rangeLabel": "Bereich: {low}g — {high}g",
+    "mealsPerDay": "Mahlzeiten pro Tag",
+    "perMealLabel": "Pro Mahlzeit ({n} Mahlzeiten)",
+    "weightLabel": "Gewicht",
+    "quickReference": {
+      "heading": "Kurzübersicht",
+      "general": "Allgemeine Gesundheit (sitzend): 0,8–1,0 g/kg Körpergewicht",
+      "weightLoss": "Gewichtsverlust: 1,6–2,2 g/kg, um Muskeln im Defizit zu erhalten",
+      "muscleGain": "Muskelaufbau: 1,8–2,5 g/kg je nach Trainingserfahrung",
+      "performance": "Sportliche Leistung: 2,0–3,1 g/kg",
+      "spread": "Verteilen Sie die Zufuhr auf 4–5 Mahlzeiten mit je 25–40 g für beste Ergebnisse"
+    },
+    "muscle": {
+      "useLeanMass": "Stattdessen fettfreie Körpermasse verwenden",
+      "useLeanMassHint": "Optional — für genauere Ergebnisse",
+      "bodyFatPlaceholder": "z. B. 18",
+      "submit": "Muskelprotein berechnen",
+      "resultTitle": "Empfohlenes tägliches Protein",
+      "note": "Ein höherer Proteinbedarf unterstützt Erholung und Fortschritt mit zunehmender Trainingserfahrung."
+    },
+    "weightLoss": {
+      "currentWeight": "Aktuelles Gewicht",
+      "goalWeight": "Zielgewicht (optional)",
+      "goalWeightHint": "Verwenden Sie dieselbe Einheit wie beim aktuellen Gewicht.",
+      "deficitSize": "Defizitgröße",
+      "deficitSmall": "Klein (~0,25 kg/Woche)",
+      "deficitModerate": "Moderat (~0,5 kg/Woche)",
+      "deficitAggressive": "Aggressiv (~0,75–1 kg/Woche)",
+      "submit": "Protein für Gewichtsverlust berechnen",
+      "resultTitle": "Bei Ihrem aktuellen Gewicht",
+      "atCurrentWeight": "Bei Ihrem aktuellen Gewicht",
+      "atGoalWeight": "Bei Ihrem Zielgewicht",
+      "note": "Mehr Protein hilft, Muskeln beim Abnehmen zu erhalten, und sollte mit sinkendem Körpergewicht reduziert werden. Bei Ihrem aktuellen Gewicht: {current} g/Tag. Bei Ihrem Zielgewicht: {goal} g/Tag.",
+      "noteNoGoal": "Mehr Protein hilft, Muskeln beim Abnehmen zu erhalten, und sollte mit sinkendem Körpergewicht reduziert werden. Bei Ihrem aktuellen Gewicht: {current} g/Tag.",
+      "recalcWarning": "Berechnen Sie beim Abnehmen alle 5–7 kg neu"
+    },
+    "perMealTab": {
+      "targetLabel": "Ihr tägliches Proteinziel (g)",
+      "targetHint": "Verwenden Sie die Ergebnisse aus dem Tab „Täglich“ oder „Muskelaufbau“ oben",
+      "submit": "Protein aufteilen",
+      "resultTitle": "Protein pro Mahlzeit",
+      "dailyTotalLabel": "Tagesgesamtmenge",
+      "dailyTotal": "Tagesgesamtmenge: {total} g",
+      "note": "{perMeal} g × {meals} Mahlzeiten = {total} g Gesamtprotein pro Tag."
+    }
+  },
+  "howTo": {
+    "heading": "So verwenden Sie diesen Protein-Rechner",
+    "steps": [
+      {
+        "title": "Geben Sie Ihre Daten ein",
+        "description": "Fügen Sie Geschlecht, Alter, Größe und Körpergewicht hinzu, damit der Rechner Ihr Ergebnis personalisieren kann."
+      },
+      {
+        "title": "Wählen Sie Ihr Aktivitätslevel",
+        "description": "Geben Sie an, wie oft Sie pro Woche trainieren, von sitzend bis täglichem intensivem Training."
+      },
+      {
+        "title": "Wählen Sie Ihr Ziel",
+        "description": "Wählen Sie, ob Sie Ihr Gewicht halten, Fett verlieren oder Muskeln aufbauen möchten — der Proteinbedarf ändert sich je nach Ziel."
+      },
+      {
+        "title": "Erhalten Sie Ihr Tagesziel",
+        "description": "Sie erhalten einen Grammbereich, eine Aufschlüsselung pro Mahlzeit und eine Schätzung des täglichen Kalorienbedarfs."
+      }
+    ]
+  },
+  "howMuch": {
+    "heading": "Wie viel Protein benötigen Sie pro Tag?",
+    "intro": "Der tägliche Proteinbedarf richtet sich nach Körpergewicht, Aktivitätslevel und Ziel. Die folgende Tabelle zeigt üblicherweise empfohlene Bereiche in Gramm Protein pro Kilogramm Körpergewicht.",
+    "tableGoal": "Ziel / Aktivität",
+    "tableRange": "Proteinbereich",
+    "rows": [
+      {
+        "goal": "Sitzend / allgemeine Gesundheit",
+        "range": "0,8 – 1,0 g/kg"
+      },
+      {
+        "goal": "Leichte Aktivität",
+        "range": "1,2 – 1,4 g/kg"
+      },
+      {
+        "goal": "Gewichtsverlust (Muskelerhalt)",
+        "range": "1,6 – 2,2 g/kg"
+      },
+      {
+        "goal": "Muskelaufbau",
+        "range": "1,7 – 2,2 g/kg"
+      },
+      {
+        "goal": "Ausdauer / Athletentraining",
+        "range": "1,8 – 2,2 g/kg"
+      }
+    ]
+  },
+  "weightLoss": {
+    "heading": "Proteinzufuhr zum Abnehmen",
+    "body": "Wenn Sie weniger Kalorien zu sich nehmen, als Sie verbrennen, kann Ihr Körper neben Fett auch Muskeln zur Energiegewinnung abbauen. Eine höhere Proteinzufuhr — typischerweise 1,6 g bis 2,4 g pro Kilogramm Körpergewicht — hilft, während einer Diät die fettfreie Muskelmasse zu erhalten, hält dank der sättigenden Wirkung von Protein den Hunger in Schach und erhöht leicht die beim Verdauen verbrannten Kalorien."
+  },
+  "muscleGain": {
+    "heading": "Proteinzufuhr für Muskelaufbau",
+    "body": "Muskelaufbau erfordert einen Kalorienüberschuss, konsequentes Krafttraining und genügend Protein zur Muskelreparatur — im Allgemeinen 1,6 g bis 2,2 g pro Kilogramm Körpergewicht pro Tag. Wenn Sie Protein gleichmäßig auf 3-4 Mahlzeiten verteilen, statt es in einer Mahlzeit zu konzentrieren, erhält Ihr Körper den ganzen Tag über eine stetige Versorgung mit Aminosäuren für die Muskelproteinsynthese."
+  },
+  "women": {
+    "heading": "Proteinzufuhr für Frauen",
+    "intro": "Der Proteinbedarf von Frauen folgt denselben gewichtsbasierten Bereichen wie bei Männern, wobei einige Lebensphasen eine zusätzliche Zufuhr erfordern. Schwangerschaft und Stillzeit erhöhen beide den Proteinbedarf, um das Wachstum des Babys zu unterstützen, während eine ausreichende Proteinzufuhr nach den Wechseljahren hilft, den natürlichen Rückgang von Muskel- und Knochendichte auszugleichen.",
+    "tableStage": "Lebensphase",
+    "tableRange": "Empfohlene Zufuhr",
+    "rows": [
+      {
+        "stage": "Erwachsene Frau allgemein",
+        "range": "1,2 – 1,6 g/kg"
+      },
+      {
+        "stage": "Schwangerschaft",
+        "range": "+ ~25 g/Tag über dem Grundwert"
+      },
+      {
+        "stage": "Stillzeit",
+        "range": "+ ~25 g/Tag über dem Grundwert"
+      },
+      {
+        "stage": "Postmenopause",
+        "range": "1,4 – 1,8 g/kg (unterstützt Knochen & Muskeln)"
+      }
+    ],
+    "note": "Dies ist nur eine allgemeine Orientierung — schwangere oder stillende Frauen sollten ihre Zufuhr mit ihrem Arzt oder ihrer Hebamme abstimmen."
+  },
+  "glp1": {
+    "heading": "Proteinzufuhr bei GLP-1-Medikamenten (Ozempic, Wegovy, Mounjaro)",
+    "intro": "GLP-1-Medikamente unterdrücken den Appetit, sodass die gesamte Nahrungsaufnahme — und damit auch die Proteinzufuhr — oft stark sinkt. Da ein großer Teil des mit diesen Medikamenten verlorenen Gewichts aus Muskeln stammen kann, wenn Protein vernachlässigt wird, empfehlen viele Ärzte inzwischen, bei jeder Mahlzeit zuerst proteinreiche Lebensmittel zu priorisieren und das obere Ende des Standardbereichs anzustreben (etwa 1,2 g–1,6 g pro Kilogramm Körpergewicht, oder mehr bei zusätzlichem Krafttraining).",
+    "tips": [
+      "Essen Sie bei jeder Mahlzeit zuerst das Protein, vor Kohlenhydraten oder Gemüse.",
+      "Bevorzugen Sie proteinreiche Lebensmittel mit geringem Volumen (Eier, griechischer Joghurt, Whey, Paneer), da Appetit und Portionsgrößen reduziert sind.",
+      "Kombinieren Sie dies wenn möglich mit leichtem Krafttraining, um die Muskelmasse zu schützen."
+    ],
+    "disclaimer": "Dies sind allgemeine Informationen, keine medizinische Beratung. Befolgen Sie stets die Anweisungen des Arztes, der Ihre Behandlung betreut."
+  },
+  "examples": {
+    "heading": "Beispiele für die Proteinzufuhr echter Personen",
+    "proteinPerDay": "Protein / Tag",
+    "maintenanceCalories": "kcal/Tag Erhaltung",
+    "yearsShort": "Jahre"
+  },
+  "foods": {
+    "heading": "Liste proteinreicher Lebensmittel",
+    "intro": "Nutzen Sie diese Alltagslebensmittel, um Ihr tägliches Proteinziel zu erreichen.",
+    "tableFood": "Lebensmittel",
+    "tableProtein": "Protein",
+    "rows": [
+      {
+        "food": "Hähnchenbrust (100 g)",
+        "protein": "31 g"
+      },
+      {
+        "food": "Griechischer Joghurt (200 g)",
+        "protein": "20 g"
+      },
+      {
+        "food": "Eier (2 groß)",
+        "protein": "13 g"
+      },
+      {
+        "food": "Paneer / Hüttenkäse (100 g)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Linsen, gekocht (1 Tasse)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Tofu (100 g)",
+        "protein": "12 g"
+      },
+      {
+        "food": "Thunfisch (100 g)",
+        "protein": "26 g"
+      },
+      {
+        "food": "Whey-Protein (1 Löffel)",
+        "protein": "24 g"
+      },
+      {
+        "food": "Mandeln (30 g)",
+        "protein": "6 g"
+      },
+      {
+        "food": "Milch (1 Tasse)",
+        "protein": "8 g"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "items": [
+      {
+        "q": "Wie viel Protein benötige ich pro Tag?",
+        "a": "Die meisten Erwachsenen benötigen je nach Aktivitätslevel und Zielen zwischen 0,8 g und 2,2 g Protein pro Kilogramm Körpergewicht täglich. Sitzende Erwachsene benötigen weniger, während Personen im Muskelaufbau oder Kaloriendefizit mehr benötigen, um die fettfreie Masse zu erhalten."
+      },
+      {
+        "q": "Wie viel Protein für Muskelaufbau?",
+        "a": "Für den Muskelaufbau streben Sie etwa 1,6 g bis 2,2 g Protein pro Kilogramm Körpergewicht täglich an, kombiniert mit Krafttraining und einem leichten Kalorienüberschuss."
+      },
+      {
+        "q": "Wie viel Protein sollte ich zum Abnehmen essen?",
+        "a": "Beim Kalorienreduzieren hilft eine höhere Proteinzufuhr von etwa 1,8 g bis 2,4 g pro Kilogramm Körpergewicht, die Muskelmasse zu erhalten und Sie länger satt zu halten."
+      },
+      {
+        "q": "Ändert sich die Proteinzufuhr bei Ozempic, Wegovy oder Mounjaro?",
+        "a": "GLP-1-Medikamente verringern den Appetit, wodurch die gesamte Nahrungsaufnahme sinkt. Protein bei jeder Mahlzeit zu priorisieren hilft, Muskelverlust während eines schnellen Gewichtsverlusts auszugleichen. Bestätigen Sie Ihr Ziel stets mit dem Arzt, der Ihre Behandlung betreut."
+      },
+      {
+        "q": "Ist es schädlich, zu viel Protein zu essen?",
+        "a": "Für die meisten gesunden Erwachsenen ist eine höhere Proteinzufuhr innerhalb dieser Bereiche sicher. Verteilen Sie Ihre Zufuhr auf 3-4 Mahlzeiten pro Tag für beste Aufnahme und Ergebnisse."
+      }
+    ]
+  },
+  "footer": {
+    "disclaimer": "Dieser Rechner bietet allgemeine Fitness-Orientierung und ersetzt keine professionelle medizinische oder ernährungswissenschaftliche Beratung.",
+    "copyright": "© {year} Protein-Rechner. Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Eiwitinname Calculator - Hoeveel eiwit heb je per dag nodig?",
+    "description": "Gratis eiwitinname calculator. Voer je gewicht, activiteitsniveau en doel in om precies te weten hoeveel gram eiwit je per dag nodig hebt om spier op te bouwen, vet te verliezen of je gewicht te behouden."
+  },
+  "nav": {
+    "brand": "Eiwit Calculator",
+    "calculator": "Calculator",
+    "howItWorks": "Hoe het werkt",
+    "faq": "FAQ",
+    "languageLabel": "Taal"
+  },
+  "hero": {
+    "title": "Eiwitinname Calculator",
+    "subtitle": "Ontdek precies hoeveel eiwit je dagelijks nodig hebt om je fitnessdoelen te bereiken, met begeleiding van {name}, personal fitness- en voedingscoach.",
+    "cta": "Bereken je eiwitinname"
+  },
+  "trust": {
+    "heading": "Waarom je deze calculator kunt vertrouwen",
+    "points": [
+      {
+        "title": "Op bewijs gebaseerde formules",
+        "description": "Gebaseerd op de Mifflin-St Jeor-vergelijking en de eiwitbereiken die diëtisten en coaches gebruiken — geen giswerk."
+      },
+      {
+        "title": "Geen data opgeslagen",
+        "description": "Je gegevens worden direct in je browser berekend en nooit opgeslagen of ergens naartoe verzonden."
+      },
+      {
+        "title": "Duidelijke methodiek",
+        "description": "Elk hier getoond bereik wordt hieronder uitgelegd, zodat je precies weet hoe je resultaat is berekend."
+      }
+    ]
+  },
+  "calculator": {
+    "detailsHeading": "Voer je gegevens in",
+    "detailsSubheading": "Ontvang je gepersonaliseerde eiwitbereik in seconden",
+    "tabDailyProtein": "Dagelijks eiwit",
+    "tabMuscleBuilding": "Spieropbouw",
+    "tabWeightLoss": "Gewichtsverlies",
+    "tabPerMeal": "Per maaltijd",
+    "gender": "Geslacht",
+    "male": "Man",
+    "female": "Vrouw",
+    "age": "Leeftijd",
+    "agePlaceholder": "bijv. 30",
+    "height": "Lengte",
+    "heightPlaceholderCm": "bijv. 175",
+    "heightPlaceholderIn": "bijv. 69",
+    "weight": "Lichaamsgewicht",
+    "weightPlaceholder": "bijv. 70",
+    "activityLevel": "Activiteitsniveau",
+    "activitySedentary": "Zittend (weinig tot geen beweging)",
+    "activityLight": "Licht actief (1-3 trainingen/week)",
+    "activityModerate": "Matig actief (3-5 trainingen/week)",
+    "activityActive": "Zeer actief (6-7 trainingen/week)",
+    "activityAthlete": "Atleet (dagelijkse intensieve training)",
+    "goal": "Hoofddoel",
+    "goalMaintain": "Gewicht behouden",
+    "goalLose": "Gewicht verliezen",
+    "goalGain": "Spier opbouwen",
+    "goalPerformance": "Sportprestaties",
+    "trainingExperience": "Trainingservaring",
+    "trainingBeginner": "Beginner (0-1 jaar)",
+    "trainingIntermediate": "Halfgevorderd (1-3 jaar)",
+    "trainingAdvanced": "Gevorderd (3+ jaar)",
+    "trainingElite": "Elite / Wedstrijdniveau",
+    "bodyFatLabel": "Lichaamsvetpercentage toevoegen",
+    "bodyFatHint": "Optioneel — voor nauwkeurigere resultaten",
+    "bodyFatPlaceholder": "bijv. 18",
+    "submit": "Bereken mijn eiwitinname",
+    "resultTitle": "Je dagelijkse eiwitdoel",
+    "resultNote": "Verdeel over 3-4 maaltijden voor het beste resultaat.",
+    "perKg": "Eiwit per kg",
+    "perMeal": "Per maaltijd (4x/dag)",
+    "calories": "Geschatte dagelijkse calorieën",
+    "addAgeHeight": "Voeg leeftijd & lengte toe",
+    "copyResult": "Resultaat kopiëren",
+    "copied": "Gekopieerd!",
+    "resultsHeading": "Jouw eiwitresultaten",
+    "minimum": "Minimum",
+    "recommended": "Aanbevolen",
+    "maximum": "Maximum",
+    "recalculate": "← Opnieuw berekenen",
+    "rangeLabel": "Bereik: {low}g — {high}g",
+    "mealsPerDay": "Maaltijden per dag",
+    "perMealLabel": "Per maaltijd ({n} maaltijden)",
+    "weightLabel": "Gewicht",
+    "quickReference": {
+      "heading": "Snelle referentie",
+      "general": "Algemene gezondheid (zittend): 0,8–1,0 g/kg lichaamsgewicht",
+      "weightLoss": "Gewichtsverlies: 1,6–2,2 g/kg om spieren te behouden bij een tekort",
+      "muscleGain": "Spiergroei: 1,8–2,5 g/kg afhankelijk van trainingservaring",
+      "performance": "Sportprestaties: 2,0–3,1 g/kg",
+      "spread": "Verdeel de inname over 4–5 maaltijden van 25–40 g voor het beste resultaat"
+    },
+    "muscle": {
+      "useLeanMass": "Gebruik in plaats daarvan vetvrije massa",
+      "useLeanMassHint": "Optioneel — voor nauwkeurigere resultaten",
+      "bodyFatPlaceholder": "bijv. 18",
+      "submit": "Bereken spiereiwit",
+      "resultTitle": "Aanbevolen dagelijks eiwit",
+      "note": "Een hogere eiwitinname ondersteunt herstel en progressie naarmate je trainingservaring toeneemt."
+    },
+    "weightLoss": {
+      "currentWeight": "Huidig gewicht",
+      "goalWeight": "Streefgewicht (optioneel)",
+      "goalWeightHint": "Gebruik dezelfde eenheid als je huidige gewicht.",
+      "deficitSize": "Grootte van het tekort",
+      "deficitSmall": "Klein (~0,25 kg/week)",
+      "deficitModerate": "Matig (~0,5 kg/week)",
+      "deficitAggressive": "Agressief (~0,75–1 kg/week)",
+      "submit": "Bereken eiwit voor gewichtsverlies",
+      "resultTitle": "Bij je huidige gewicht",
+      "atCurrentWeight": "Bij je huidige gewicht",
+      "atGoalWeight": "Bij je streefgewicht",
+      "note": "Meer eiwit helpt spieren te behouden tijdens het diëten en moet omlaag worden bijgesteld naarmate je lichaamsgewicht daalt. Bij je huidige gewicht: {current} g/dag. Bij je streefgewicht: {goal} g/dag.",
+      "noteNoGoal": "Meer eiwit helpt spieren te behouden tijdens het diëten en moet omlaag worden bijgesteld naarmate je lichaamsgewicht daalt. Bij je huidige gewicht: {current} g/dag.",
+      "recalcWarning": "Bereken opnieuw voor elke 5–7 kg die je verliest"
+    },
+    "perMealTab": {
+      "targetLabel": "Jouw dagelijkse eiwitdoel (g)",
+      "targetHint": "Gebruik de resultaten van het tabblad Dagelijks of Spieropbouw hierboven",
+      "submit": "Verdeel mijn eiwit",
+      "resultTitle": "Eiwit per maaltijd",
+      "dailyTotalLabel": "Totaal per dag",
+      "dailyTotal": "Totaal per dag: {total} g",
+      "note": "{perMeal} g × {meals} maaltijden = {total} g totaal eiwit per dag."
+    }
+  },
+  "howTo": {
+    "heading": "Hoe deze eiwitinname calculator te gebruiken",
+    "steps": [
+      {
+        "title": "Voer je gegevens in",
+        "description": "Voeg je geslacht, leeftijd, lengte en lichaamsgewicht toe zodat de calculator je resultaat kan personaliseren."
+      },
+      {
+        "title": "Kies je activiteitsniveau",
+        "description": "Geef aan hoe vaak je per week traint, van zittend tot dagelijkse intensieve training."
+      },
+      {
+        "title": "Kies je doel",
+        "description": "Selecteer of je je gewicht wilt behouden, vet wilt verliezen of spier wilt opbouwen — de eiwitbehoefte verandert per doel."
+      },
+      {
+        "title": "Ontvang je dagelijkse doel",
+        "description": "Je krijgt een bereik in grammen, een verdeling per maaltijd en een schatting van je dagelijkse calorieën."
+      }
+    ]
+  },
+  "howMuch": {
+    "heading": "Hoeveel eiwit heb je per dag nodig?",
+    "intro": "De dagelijkse eiwitbehoefte varieert met lichaamsgewicht, activiteitsniveau en doel. Onderstaande tabel toont de algemeen aanbevolen bereiken in gram eiwit per kilogram lichaamsgewicht.",
+    "tableGoal": "Doel / activiteit",
+    "tableRange": "Eiwitbereik",
+    "rows": [
+      {
+        "goal": "Zittend / algemene gezondheid",
+        "range": "0,8 – 1,0 g/kg"
+      },
+      {
+        "goal": "Lichte activiteit",
+        "range": "1,2 – 1,4 g/kg"
+      },
+      {
+        "goal": "Gewichtsverlies (spierbehoud)",
+        "range": "1,6 – 2,2 g/kg"
+      },
+      {
+        "goal": "Spieropbouw",
+        "range": "1,7 – 2,2 g/kg"
+      },
+      {
+        "goal": "Uithoudingsvermogen / atletentraining",
+        "range": "1,8 – 2,2 g/kg"
+      }
+    ]
+  },
+  "weightLoss": {
+    "heading": "Eiwitinname voor gewichtsverlies",
+    "body": "Wanneer je minder calorieën eet dan je verbrandt, kan je lichaam naast vet ook spieren afbreken voor energie. Een hogere eiwitinname — doorgaans 1,6 g tot 2,4 g per kilogram lichaamsgewicht — helpt de vetvrije spiermassa te behouden tijdens een dieet, houdt honger onder controle dankzij het verzadigende effect van eiwit, en verhoogt licht het aantal calorieën dat wordt verbrand bij het verteren van voedsel."
+  },
+  "muscleGain": {
+    "heading": "Eiwitinname voor spieropbouw",
+    "body": "Spieropbouw vereist een calorieoverschot, consistente krachttraining en voldoende eiwit om spierherstel te voeden — over het algemeen 1,6 g tot 2,2 g per kilogram lichaamsgewicht per dag. Door eiwit gelijkmatig te verdelen over 3-4 maaltijden, in plaats van het in één maaltijd te concentreren, krijgt je lichaam de hele dag door een gestage toevoer van aminozuren voor spiereiwitsynthese."
+  },
+  "women": {
+    "heading": "Eiwitinname voor vrouwen",
+    "intro": "De eiwitbehoefte van vrouwen volgt dezelfde op gewicht gebaseerde bereiken als bij mannen, met enkele levensfasen die extra inname vereisen. Zwangerschap en borstvoeding verhogen beide de eiwitbehoefte om de groei van de baby te ondersteunen, terwijl voldoende eiwit na de menopauze helpt de natuurlijke afname van spier- en botdichtheid te compenseren.",
+    "tableStage": "Levensfase",
+    "tableRange": "Aanbevolen inname",
+    "rows": [
+      {
+        "stage": "Algemene volwassen vrouw",
+        "range": "1,2 – 1,6 g/kg"
+      },
+      {
+        "stage": "Zwangerschap",
+        "range": "+ ~25 g/dag boven de basiswaarde"
+      },
+      {
+        "stage": "Borstvoeding",
+        "range": "+ ~25 g/dag boven de basiswaarde"
+      },
+      {
+        "stage": "Postmenopauze",
+        "range": "1,4 – 1,8 g/kg (ondersteunt botten & spieren)"
+      }
+    ],
+    "note": "Dit is alleen algemene informatie — zwangere of borstvoedende vrouwen moeten hun inname bevestigen met hun arts of verloskundige."
+  },
+  "glp1": {
+    "heading": "Eiwitinname bij GLP-1-medicijnen (Ozempic, Wegovy, Mounjaro)",
+    "intro": "GLP-1-medicijnen onderdrukken de eetlust, waardoor de totale voedselinname — en daarmee de eiwitinname — vaak sterk daalt. Omdat een groot deel van het gewichtsverlies met deze medicijnen uit spieren kan komen als eiwit wordt verwaarloosd, raden veel artsen nu aan om bij elke maaltijd eerst eiwitrijk voedsel te prioriteren en te mikken op de bovengrens van het standaardbereik (ongeveer 1,2 g–1,6 g per kilogram lichaamsgewicht, of meer bij extra krachttraining).",
+    "tips": [
+      "Eet bij elke maaltijd eerst het eiwit, vóór koolhydraten of groenten.",
+      "Kies voor eiwitrijk voedsel met weinig volume (eieren, Griekse yoghurt, whey, paneer), omdat eetlust en portiegroottes verminderd zijn.",
+      "Combineer dit waar mogelijk met lichte krachttraining om spiermassa te helpen beschermen."
+    ],
+    "disclaimer": "Dit is algemene informatie, geen medisch advies. Volg altijd het advies van de arts die je behandeling begeleidt."
+  },
+  "examples": {
+    "heading": "Voorbeelden van eiwitinname voor echte mensen",
+    "proteinPerDay": "eiwit / dag",
+    "maintenanceCalories": "kcal/dag onderhoud",
+    "yearsShort": "jaar"
+  },
+  "foods": {
+    "heading": "Lijst met eiwitrijke voedingsmiddelen",
+    "intro": "Gebruik deze alledaagse voedingsmiddelen om je dagelijkse eiwitdoel te halen.",
+    "tableFood": "Voedingsmiddel",
+    "tableProtein": "Eiwit",
+    "rows": [
+      {
+        "food": "Kipfilet (100 g)",
+        "protein": "31 g"
+      },
+      {
+        "food": "Griekse yoghurt (200 g)",
+        "protein": "20 g"
+      },
+      {
+        "food": "Eieren (2 groot)",
+        "protein": "13 g"
+      },
+      {
+        "food": "Paneer / hüttenkäse (100 g)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Linzen, gekookt (1 kop)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Tofu (100 g)",
+        "protein": "12 g"
+      },
+      {
+        "food": "Tonijn (100 g)",
+        "protein": "26 g"
+      },
+      {
+        "food": "Wei-eiwit (1 schep)",
+        "protein": "24 g"
+      },
+      {
+        "food": "Amandelen (30 g)",
+        "protein": "6 g"
+      },
+      {
+        "food": "Melk (1 kop)",
+        "protein": "8 g"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Veelgestelde vragen",
+    "items": [
+      {
+        "q": "Hoeveel eiwit heb ik per dag nodig?",
+        "a": "De meeste volwassenen hebben tussen 0,8 g en 2,2 g eiwit per kilogram lichaamsgewicht per dag nodig, afhankelijk van activiteitsniveau en doelen. Zittende volwassenen hebben minder nodig, terwijl mensen die spier opbouwen of in een calorietekort zitten meer nodig hebben om vetvrije massa te behouden."
+      },
+      {
+        "q": "Hoeveel eiwit voor spieropbouw?",
+        "a": "Voor spieropbouw, mik op ongeveer 1,6 g tot 2,2 g eiwit per kilogram lichaamsgewicht per dag, gecombineerd met krachttraining en een licht calorieoverschot."
+      },
+      {
+        "q": "Hoeveel eiwit moet ik eten om af te vallen?",
+        "a": "Bij het verminderen van calorieën helpt een hogere eiwitinname, van ongeveer 1,8 g tot 2,4 g per kilogram lichaamsgewicht, om spiermassa te behouden en je langer verzadigd te houden."
+      },
+      {
+        "q": "Verandert de eiwitinname bij Ozempic, Wegovy of Mounjaro?",
+        "a": "GLP-1-medicijnen verminderen de eetlust, waardoor de totale voedselinname daalt. Eiwit prioriteren bij elke maaltijd helpt spierverlies tijdens snel gewichtsverlies te compenseren. Bevestig je doel altijd met de arts die je behandeling begeleidt."
+      },
+      {
+        "q": "Is het slecht om te veel eiwit te eten?",
+        "a": "Voor de meeste gezonde volwassenen is een hogere eiwitinname binnen deze bereiken veilig. Verdeel je inname over 3-4 maaltijden per dag voor de beste opname en resultaten."
+      }
+    ]
+  },
+  "footer": {
+    "disclaimer": "Deze calculator biedt algemene fitnessbegeleiding en is geen vervanging voor professioneel medisch of voedingsadvies.",
+    "copyright": "© {year} Eiwitinname Calculator. Alle rechten voorbehouden."
+  }
+}

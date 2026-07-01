@@ -1,26 +1,33 @@
 @import "tailwindcss";
+@import "flag-icons/css/flag-icons.min.css";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --charcoal: #1c1b19;
+  --charcoal-soft: #2a2823;
+  --red: #e0292f;
+  --red-deep: #b81e23;
+  --red-light: #ff9a9e;
+  --red-soft: #fbe1e1;
+  --cream: #fbf8f3;
+  --cream-dark: #f3eee3;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
+  --color-charcoal: var(--charcoal);
+  --color-charcoal-soft: var(--charcoal-soft);
+  --color-red: var(--red);
+  --color-red-deep: var(--red-deep);
+  --color-red-light: var(--red-light);
+  --color-red-soft: var(--red-soft);
+  --color-cream: var(--cream);
+  --color-cream-dark: var(--cream-dark);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+body {
+  background: var(--cream);
+  color: var(--charcoal);
+  font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
-}

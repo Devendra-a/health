@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Calcolatore dell'Assunzione di Proteine - Di quante proteine hai bisogno al giorno?",
+    "description": "Calcolatore gratuito dell'assunzione di proteine. Inserisci peso, livello di attività e obiettivo per scoprire esattamente quanti grammi di proteine ti servono al giorno per aumentare la massa muscolare, perdere grasso o mantenere il peso."
+  },
+  "nav": {
+    "brand": "Calcolatore di Proteine",
+    "calculator": "Calcolatore",
+    "howItWorks": "Come funziona",
+    "faq": "FAQ",
+    "languageLabel": "Lingua"
+  },
+  "hero": {
+    "title": "Calcolatore dell'Assunzione di Proteine",
+    "subtitle": "Scopri esattamente quante proteine ti servono ogni giorno per raggiungere i tuoi obiettivi di fitness, con la guida di {name}, personal coach di fitness e nutrizione.",
+    "cta": "Calcola la tua assunzione di proteine"
+  },
+  "trust": {
+    "heading": "Perché puoi fidarti di questo calcolatore",
+    "points": [
+      {
+        "title": "Formule basate su evidenze",
+        "description": "Basato sull'equazione di Mifflin-St Jeor e sugli intervalli proteici usati da dietisti e allenatori — non stime approssimative."
+      },
+      {
+        "title": "Nessun dato salvato",
+        "description": "I tuoi valori vengono calcolati direttamente nel tuo browser e non vengono mai salvati o inviati altrove."
+      },
+      {
+        "title": "Metodologia chiara",
+        "description": "Ogni intervallo mostrato qui è spiegato di seguito, così saprai esattamente come è stato calcolato il tuo risultato."
+      }
+    ]
+  },
+  "calculator": {
+    "detailsHeading": "Inserisci i tuoi dati",
+    "detailsSubheading": "Ottieni il tuo intervallo proteico personalizzato in pochi secondi",
+    "tabDailyProtein": "Proteine giornaliere",
+    "tabMuscleBuilding": "Aumento muscolare",
+    "tabWeightLoss": "Perdita di peso",
+    "tabPerMeal": "Per pasto",
+    "gender": "Sesso",
+    "male": "Uomo",
+    "female": "Donna",
+    "age": "Età",
+    "agePlaceholder": "es. 30",
+    "height": "Altezza",
+    "heightPlaceholderCm": "es. 175",
+    "heightPlaceholderIn": "es. 69",
+    "weight": "Peso corporeo",
+    "weightPlaceholder": "es. 70",
+    "activityLevel": "Livello di attività",
+    "activitySedentary": "Sedentario (poco o nessun esercizio)",
+    "activityLight": "Leggermente attivo (1-3 allenamenti/settimana)",
+    "activityModerate": "Moderatamente attivo (3-5 allenamenti/settimana)",
+    "activityActive": "Molto attivo (6-7 allenamenti/settimana)",
+    "activityAthlete": "Atleta (allenamento intenso quotidiano)",
+    "goal": "Obiettivo principale",
+    "goalMaintain": "Mantenere il peso",
+    "goalLose": "Perdere peso",
+    "goalGain": "Aumentare i muscoli",
+    "goalPerformance": "Prestazioni atletiche",
+    "trainingExperience": "Esperienza di allenamento",
+    "trainingBeginner": "Principiante (0-1 anni)",
+    "trainingIntermediate": "Intermedio (1-3 anni)",
+    "trainingAdvanced": "Avanzato (3+ anni)",
+    "trainingElite": "Elite / Agonistico",
+    "bodyFatLabel": "Includi % di grasso corporeo",
+    "bodyFatHint": "Facoltativo — per risultati più precisi",
+    "bodyFatPlaceholder": "es. 18",
+    "submit": "Calcola la mia assunzione di proteine",
+    "resultTitle": "Il tuo obiettivo giornaliero di proteine",
+    "resultNote": "Distribuiscilo su 3-4 pasti per risultati migliori.",
+    "perKg": "Proteine per kg",
+    "perMeal": "Per pasto (4x/giorno)",
+    "calories": "Calorie giornaliere stimate",
+    "addAgeHeight": "Aggiungi età e altezza",
+    "copyResult": "Copia risultato",
+    "copied": "Copiato!",
+    "resultsHeading": "I tuoi risultati proteici",
+    "minimum": "Minimo",
+    "recommended": "Consigliato",
+    "maximum": "Massimo",
+    "recalculate": "← Ricalcola",
+    "rangeLabel": "Intervallo: {low}g — {high}g",
+    "mealsPerDay": "Pasti al giorno",
+    "perMealLabel": "Per pasto ({n} pasti)",
+    "weightLabel": "Peso",
+    "quickReference": {
+      "heading": "Riferimento rapido",
+      "general": "Salute generale (sedentario): 0,8–1,0 g/kg di peso corporeo",
+      "weightLoss": "Perdita di peso: 1,6–2,2 g/kg per preservare i muscoli in deficit",
+      "muscleGain": "Aumento muscolare: 1,8–2,5 g/kg a seconda dell'esperienza di allenamento",
+      "performance": "Prestazioni atletiche: 2,0–3,1 g/kg",
+      "spread": "Distribuisci l'assunzione su 4–5 pasti da 25–40 g ciascuno per risultati migliori"
+    },
+    "muscle": {
+      "useLeanMass": "Usa invece la massa magra",
+      "useLeanMassHint": "Facoltativo — per risultati più precisi",
+      "bodyFatPlaceholder": "es. 18",
+      "submit": "Calcola proteine muscolari",
+      "resultTitle": "Proteine giornaliere consigliate",
+      "note": "Un maggiore apporto proteico supporta il recupero e la progressione con l'aumentare dell'esperienza di allenamento."
+    },
+    "weightLoss": {
+      "currentWeight": "Peso attuale",
+      "goalWeight": "Peso obiettivo (facoltativo)",
+      "goalWeightHint": "Usa la stessa unità del tuo peso attuale.",
+      "deficitSize": "Entità del deficit",
+      "deficitSmall": "Piccolo (~0,25 kg/settimana)",
+      "deficitModerate": "Moderato (~0,5 kg/settimana)",
+      "deficitAggressive": "Aggressivo (~0,75–1 kg/settimana)",
+      "submit": "Calcola proteine per la perdita di peso",
+      "resultTitle": "Al tuo peso attuale",
+      "atCurrentWeight": "Al tuo peso attuale",
+      "atGoalWeight": "Al tuo peso obiettivo",
+      "note": "Un maggiore apporto proteico aiuta a preservare i muscoli durante la dieta e va ridotto man mano che il peso scende. Al tuo peso attuale: {current} g/giorno. Al tuo peso obiettivo: {goal} g/giorno.",
+      "noteNoGoal": "Un maggiore apporto proteico aiuta a preservare i muscoli durante la dieta e va ridotto man mano che il peso scende. Al tuo peso attuale: {current} g/giorno.",
+      "recalcWarning": "Man mano che perdi peso, ricalcola ogni 5–7 kg persi"
+    },
+    "perMealTab": {
+      "targetLabel": "Il tuo obiettivo proteico giornaliero (g)",
+      "targetHint": "Usa i risultati della scheda Giornaliero o Muscolare qui sopra",
+      "submit": "Suddividi le mie proteine",
+      "resultTitle": "Proteine per pasto",
+      "dailyTotalLabel": "Totale giornaliero",
+      "dailyTotal": "Totale giornaliero: {total} g",
+      "note": "{perMeal} g × {meals} pasti = {total} g di proteine totali al giorno."
+    }
+  },
+  "howTo": {
+    "heading": "Come usare questo calcolatore dell'assunzione di proteine",
+    "steps": [
+      {
+        "title": "Inserisci i tuoi dati",
+        "description": "Aggiungi sesso, età, altezza e peso corporeo affinché il calcolatore possa personalizzare il tuo risultato."
+      },
+      {
+        "title": "Scegli il tuo livello di attività",
+        "description": "Indica quanto spesso ti alleni ogni settimana, da sedentario ad allenamento intenso quotidiano."
+      },
+      {
+        "title": "Scegli il tuo obiettivo",
+        "description": "Seleziona se vuoi mantenere il peso, perdere grasso o aumentare la massa muscolare — il fabbisogno proteico cambia in base all'obiettivo."
+      },
+      {
+        "title": "Ottieni il tuo obiettivo giornaliero",
+        "description": "Otterrai un intervallo in grammi, una suddivisione per pasto e una stima delle calorie giornaliere."
+      }
+    ]
+  },
+  "howMuch": {
+    "heading": "Di quante proteine hai bisogno al giorno?",
+    "intro": "Il fabbisogno proteico giornaliero varia in base a peso corporeo, livello di attività e obiettivo. La tabella seguente mostra gli intervalli comunemente raccomandati in grammi di proteine per chilogrammo di peso corporeo.",
+    "tableGoal": "Obiettivo / attività",
+    "tableRange": "Intervallo proteico",
+    "rows": [
+      {
+        "goal": "Sedentario / salute generale",
+        "range": "0,8 – 1,0 g/kg"
+      },
+      {
+        "goal": "Attività leggera",
+        "range": "1,2 – 1,4 g/kg"
+      },
+      {
+        "goal": "Perdita di peso (preservando i muscoli)",
+        "range": "1,6 – 2,2 g/kg"
+      },
+      {
+        "goal": "Aumento muscolare",
+        "range": "1,7 – 2,2 g/kg"
+      },
+      {
+        "goal": "Resistenza / allenamento da atleta",
+        "range": "1,8 – 2,2 g/kg"
+      }
+    ]
+  },
+  "weightLoss": {
+    "heading": "Assunzione di proteine per la perdita di peso",
+    "body": "Quando mangi meno calorie di quante ne bruci, il tuo corpo può scomporre i muscoli per ottenere energia, oltre al grasso. Un'assunzione proteica più alta — tipicamente da 1,6 g a 2,4 g per chilogrammo di peso corporeo — aiuta a preservare la massa muscolare magra durante un deficit, tiene sotto controllo la fame grazie all'effetto saziante delle proteine e aumenta leggermente le calorie bruciate nella digestione."
+  },
+  "muscleGain": {
+    "heading": "Assunzione di proteine per l'aumento muscolare",
+    "body": "Aumentare la massa muscolare richiede un surplus calorico, un allenamento di resistenza costante e proteine sufficienti per la riparazione muscolare — generalmente da 1,6 g a 2,2 g per chilogrammo di peso corporeo al giorno. Distribuire le proteine uniformemente su 3-4 pasti, invece di concentrarle in un solo pasto, fornisce al tuo corpo un apporto costante di aminoacidi per la sintesi proteica muscolare durante tutta la giornata."
+  },
+  "women": {
+    "heading": "Assunzione di proteine per le donne",
+    "intro": "Il fabbisogno proteico delle donne segue gli stessi intervalli basati sul peso degli uomini, con alcune fasi della vita che richiedono un'assunzione extra. Gravidanza e allattamento aumentano entrambi il fabbisogno proteico per sostenere la crescita del bambino, mentre un'adeguata assunzione dopo la menopausa aiuta a compensare il naturale declino di massa muscolare e densità ossea.",
+    "tableStage": "Fase della vita",
+    "tableRange": "Assunzione raccomandata",
+    "rows": [
+      {
+        "stage": "Donna adulta in generale",
+        "range": "1,2 – 1,6 g/kg"
+      },
+      {
+        "stage": "Gravidanza",
+        "range": "+ ~25 g/giorno oltre il valore base"
+      },
+      {
+        "stage": "Allattamento",
+        "range": "+ ~25 g/giorno oltre il valore base"
+      },
+      {
+        "stage": "Post-menopausa",
+        "range": "1,4 – 1,8 g/kg (supporta ossa e muscoli)"
+      }
+    ],
+    "note": "Questa è solo un'indicazione generale — le donne in gravidanza o in allattamento dovrebbero confermare l'assunzione con il proprio medico o ostetrica."
+  },
+  "glp1": {
+    "heading": "Assunzione di proteine con farmaci GLP-1 (Ozempic, Wegovy, Mounjaro)",
+    "intro": "I farmaci GLP-1 sopprimono l'appetito, quindi l'assunzione totale di cibo — e con essa quella proteica — spesso cala bruscamente. Poiché una parte consistente del peso perso con questi farmaci può provenire dai muscoli se le proteine vengono trascurate, molti medici ora raccomandano di dare priorità agli alimenti ricchi di proteine per primi a ogni pasto e di puntare all'estremità superiore dell'intervallo standard (circa 1,2 g–1,6 g per chilogrammo di peso corporeo, o più se ci si allena anche con i pesi).",
+    "tips": [
+      "Mangia prima le proteine, prima dei carboidrati o delle verdure, a ogni pasto.",
+      "Preferisci alimenti ricchi di proteine e a basso volume (uova, yogurt greco, whey, paneer) poiché appetito e porzioni sono ridotti.",
+      "Abbina, quando possibile, un allenamento di resistenza leggero per proteggere la massa muscolare."
+    ],
+    "disclaimer": "Questa è un'informazione generale, non un consiglio medico. Segui sempre le indicazioni del medico che gestisce la tua terapia."
+  },
+  "examples": {
+    "heading": "Esempi di assunzione di proteine per persone reali",
+    "proteinPerDay": "proteine / giorno",
+    "maintenanceCalories": "kcal/giorno di mantenimento",
+    "yearsShort": "anni"
+  },
+  "foods": {
+    "heading": "Lista di alimenti ricchi di proteine",
+    "intro": "Usa questi alimenti quotidiani per raggiungere il tuo obiettivo giornaliero di proteine.",
+    "tableFood": "Alimento",
+    "tableProtein": "Proteine",
+    "rows": [
+      {
+        "food": "Petto di pollo (100 g)",
+        "protein": "31 g"
+      },
+      {
+        "food": "Yogurt greco (200 g)",
+        "protein": "20 g"
+      },
+      {
+        "food": "Uova (2 grandi)",
+        "protein": "13 g"
+      },
+      {
+        "food": "Paneer / formaggio fresco (100 g)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Lenticchie cotte (1 tazza)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Tofu (100 g)",
+        "protein": "12 g"
+      },
+      {
+        "food": "Tonno (100 g)",
+        "protein": "26 g"
+      },
+      {
+        "food": "Proteine whey (1 misurino)",
+        "protein": "24 g"
+      },
+      {
+        "food": "Mandorle (30 g)",
+        "protein": "6 g"
+      },
+      {
+        "food": "Latte (1 tazza)",
+        "protein": "8 g"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Domande frequenti",
+    "items": [
+      {
+        "q": "Di quante proteine ho bisogno al giorno?",
+        "a": "La maggior parte degli adulti ha bisogno di 0,8-2,2 g di proteine per chilogrammo di peso corporeo al giorno, a seconda del livello di attività e degli obiettivi. Gli adulti sedentari ne hanno bisogno di meno, mentre chi aumenta la massa muscolare o è in deficit calorico ne ha bisogno di più per preservare la massa magra."
+      },
+      {
+        "q": "Quante proteine per l'aumento muscolare?",
+        "a": "Per aumentare la massa muscolare, punta a circa 1,6-2,2 g di proteine per chilogrammo di peso corporeo al giorno, combinati con allenamento di resistenza e un leggero surplus calorico."
+      },
+      {
+        "q": "Quante proteine dovrei mangiare per perdere peso?",
+        "a": "Quando riduci le calorie, un'assunzione proteica più alta, di circa 1,8-2,4 g per chilogrammo di peso corporeo, aiuta a preservare la massa muscolare e ti mantiene sazio più a lungo."
+      },
+      {
+        "q": "L'assunzione di proteine cambia con Ozempic, Wegovy o Mounjaro?",
+        "a": "I farmaci GLP-1 riducono l'appetito, diminuendo l'assunzione totale di cibo. Dare priorità alle proteine a ogni pasto aiuta a compensare la perdita muscolare durante una rapida perdita di peso. Conferma sempre il tuo obiettivo con il medico che gestisce la tua terapia."
+      },
+      {
+        "q": "Fa male mangiare troppe proteine?",
+        "a": "Per la maggior parte degli adulti sani, un'assunzione proteica più alta entro questi intervalli è sicura. Distribuisci la tua assunzione su 3-4 pasti al giorno per un migliore assorbimento e risultati."
+      }
+    ]
+  },
+  "footer": {
+    "disclaimer": "Questo calcolatore fornisce indicazioni generali di fitness e non sostituisce il parere medico o nutrizionale professionale.",
+    "copyright": "© {year} Calcolatore dell'Assunzione di Proteine. Tutti i diritti riservati."
+  }
+}
