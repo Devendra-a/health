@@ -517,7 +517,7 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
                         ? dict.heightPlaceholderCm
                         : dict.heightPlaceholderIn
                     }
-                    className={INPUT_CLASS_NARROW}
+                    className={`flex-1 ${INPUT_CLASS_NARROW}`}
                   />
                   <div className="flex rounded-lg border border-stone-300 overflow-hidden shrink-0">
                     {(["cm", "in"] as HeightUnit[]).map((u) => (
