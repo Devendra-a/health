@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import Script from "next/script";
 import { Geist, Geist_Mono } from "next/font/google";
 import "../globals.css";
 import { locales, rtlLocales, ogLocales, hasLocale } from "@/i18n/config";
@@ -77,6 +78,12 @@ export default async function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1300842618865363"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
         <Header lang={lang} dict={dict.nav} />
         {children}
         <Footer dict={dict.footer} />
