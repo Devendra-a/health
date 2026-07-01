@@ -296,6 +296,22 @@
       {
         "q": "¿Es malo comer demasiada proteína?",
         "a": "Para la mayoría de los adultos sanos, una ingesta de proteína mayor dentro de estos rangos es segura. Reparte tu ingesta en 3-4 comidas al día para una mejor absorción y resultados."
+      },
+      {
+        "q": "¿Cuánta proteína necesitan los vegetarianos?",
+        "a": "Los vegetarianos necesitan la misma cantidad de proteína que cualquier persona según su peso, nivel de actividad y objetivo — la diferencia está en obtenerla de alimentos como paneer, lentejas, tofu, yogur griego, huevos y lácteos en lugar de carne. Combinar varias fuentes vegetales a lo largo del día (por ejemplo, lentejas con arroz o dal con paneer) cubre la gama completa de aminoácidos esenciales."
+      },
+      {
+        "q": "¿Necesitan los adultos mayores más proteína?",
+        "a": "Sí. Los adultos mayores de 60 años suelen necesitar más proteína que los adultos más jóvenes — a menudo entre 1,2 g y 1,6 g por kilogramo de peso corporal — para ayudar a compensar la pérdida muscular relacionada con la edad (sarcopenia) y mantener la fuerza y la salud ósea."
+      },
+      {
+        "q": "¿Cuánta proteína debo comer por comida?",
+        "a": "A la mayoría de las personas les funciona bien apuntar a entre 25 g y 40 g de proteína por comida, repartidos en 3-4 comidas al día. Esto mantiene elevada la síntesis de proteína muscular durante todo el día en lugar de concentrar la ingesta en una sola comida grande."
+      },
+      {
+        "q": "¿Es correcto el objetivo de 1 gramo de proteína por libra de peso corporal?",
+        "a": "1 g por libra de peso corporal (unos 2,2 g por kilogramo) está en el extremo superior del rango basado en evidencia y funciona bien para personas delgadas y con entrenamiento intenso. A la mayoría de las personas — incluidas las que solo buscan mantener músculo o perder grasa — les va igual de bien con 0,7 g a 1 g por libra (1,6 g a 2,2 g por kg)."
       }
     ]
   },

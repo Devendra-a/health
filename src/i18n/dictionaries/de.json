@@ -296,6 +296,22 @@
       {
         "q": "Ist es schädlich, zu viel Protein zu essen?",
         "a": "Für die meisten gesunden Erwachsenen ist eine höhere Proteinzufuhr innerhalb dieser Bereiche sicher. Verteilen Sie Ihre Zufuhr auf 3-4 Mahlzeiten pro Tag für beste Aufnahme und Ergebnisse."
+      },
+      {
+        "q": "Wie viel Protein brauchen Vegetarier?",
+        "a": "Vegetarier benötigen je nach Gewicht, Aktivitätslevel und Ziel die gleiche Proteinmenge wie alle anderen — der Unterschied liegt in den Quellen: Paneer, Linsen, Tofu, griechischer Joghurt, Eier und Milchprodukte statt Fleisch. Die Kombination mehrerer pflanzlicher Quellen über den Tag verteilt (z. B. Linsen mit Reis oder Dal mit Paneer) deckt das gesamte Spektrum essenzieller Aminosäuren ab."
+      },
+      {
+        "q": "Benötigen ältere Erwachsene mehr Protein?",
+        "a": "Ja. Erwachsene über 60 benötigen in der Regel mehr Protein als jüngere Erwachsene — oft 1,2 g bis 1,6 g pro Kilogramm Körpergewicht —, um den altersbedingten Muskelabbau (Sarkopenie) auszugleichen und Kraft sowie Knochengesundheit zu erhalten."
+      },
+      {
+        "q": "Wie viel Protein sollte ich pro Mahlzeit essen?",
+        "a": "Für die meisten Menschen eignen sich 25 g bis 40 g Protein pro Mahlzeit, verteilt auf 3-4 Mahlzeiten am Tag. So bleibt die Muskelproteinsynthese den ganzen Tag über erhöht, statt die Zufuhr auf eine einzige große Mahlzeit zu konzentrieren."
+      },
+      {
+        "q": "Ist 1 Gramm Protein pro Pfund Körpergewicht das richtige Ziel?",
+        "a": "1 g pro Pfund Körpergewicht (etwa 2,2 g pro Kilogramm) liegt am oberen Ende des evidenzbasierten Bereichs und eignet sich gut für schlanke, intensiv trainierende Personen. Die meisten Menschen — auch jene, die einfach Muskelmasse erhalten oder Fett verlieren wollen — kommen ebenso gut mit 0,7 g bis 1 g pro Pfund (1,6 g bis 2,2 g pro kg) aus."
       }
     ]
   },

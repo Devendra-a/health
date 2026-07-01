@@ -296,6 +296,22 @@
       {
         "q": "Fa male mangiare troppe proteine?",
         "a": "Per la maggior parte degli adulti sani, un'assunzione proteica più alta entro questi intervalli è sicura. Distribuisci la tua assunzione su 3-4 pasti al giorno per un migliore assorbimento e risultati."
+      },
+      {
+        "q": "Di quante proteine hanno bisogno i vegetariani?",
+        "a": "I vegetariani hanno bisogno della stessa quantità di proteine di chiunque altro in base a peso, livello di attività e obiettivo — la differenza è ottenerle da alimenti come paneer, lenticchie, tofu, yogurt greco, uova e latticini invece che dalla carne. Combinare più fonti vegetali durante la giornata (ad esempio lenticchie con riso o dal con paneer) copre l'intera gamma di aminoacidi essenziali."
+      },
+      {
+        "q": "Gli anziani hanno bisogno di più proteine?",
+        "a": "Sì. Gli adulti over 60 generalmente hanno bisogno di più proteine rispetto agli adulti più giovani — spesso 1,2-1,6 g per chilogrammo di peso corporeo — per aiutare a compensare la perdita muscolare legata all'età (sarcopenia) e mantenere forza e salute ossea."
+      },
+      {
+        "q": "Quante proteine dovrei mangiare per pasto?",
+        "a": "Alla maggior parte delle persone conviene puntare a 25-40 g di proteine per pasto, distribuiti su 3-4 pasti al giorno. Questo mantiene elevata la sintesi proteica muscolare durante tutta la giornata invece di concentrare l'assunzione in un unico pasto abbondante."
+      },
+      {
+        "q": "1 grammo di proteine per libbra di peso corporeo è l'obiettivo giusto?",
+        "a": "1 g per libbra di peso corporeo (circa 2,2 g per chilogrammo) si colloca all'estremità alta dell'intervallo basato sull'evidenza e funziona bene per persone magre e con allenamento intenso. La maggior parte delle persone — incluse quelle che vogliono solo mantenere la massa muscolare o perdere grasso — ottiene risultati altrettanto buoni con 0,7-1 g per libbra (1,6-2,2 g per kg)."
       }
     ]
   },

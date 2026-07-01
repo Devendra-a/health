@@ -239,6 +239,22 @@
       {
         "q": "Is it bad to eat too much protein?",
         "a": "For most healthy adults, higher protein intakes within these ranges are safe. Spread your intake across 3-4 meals a day for the best absorption and results."
+      },
+      {
+        "q": "How much protein do vegetarians need?",
+        "a": "Vegetarians need the same amount of protein as anyone else for their weight, activity level and goal — the difference is sourcing it from foods like paneer, lentils, tofu, Greek yogurt, eggs and dairy instead of meat. Combining a few plant sources across the day (e.g. lentils with rice or dal with paneer) covers the full range of essential amino acids."
+      },
+      {
+        "q": "Do older adults need more protein?",
+        "a": "Yes. Adults over 60 typically need more protein than younger adults — often 1.2g to 1.6g per kilogram of body weight — to help offset age-related muscle loss (sarcopenia) and maintain strength and bone health."
+      },
+      {
+        "q": "How much protein should I eat per meal?",
+        "a": "Most people do best aiming for 25g to 40g of protein per meal, spread across 3-4 meals a day. This keeps muscle protein synthesis elevated throughout the day rather than concentrating intake into a single large meal."
+      },
+      {
+        "q": "Is 1 gram of protein per pound of body weight the right target?",
+        "a": "1g per pound of body weight (about 2.2g per kilogram) sits at the high end of the evidence-based range and works well for lean, heavily-training individuals. Most people — including those simply maintaining muscle or losing fat — do just as well with 0.7g to 1g per pound (1.6g to 2.2g per kg)."
       }
     ]
   },
