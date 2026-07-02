@@ -83,7 +83,7 @@ export default async function Home({
             {dict.hero.title}
           </h1>
           <p className="mt-5 text-white/80 text-lg leading-relaxed max-w-2xl mx-auto">
-            {dict.hero.subtitle.replace("{name}", "").replace(/\s+/g, " ").trim()}
+            {dict.hero.subtitle}
           </p>
           <a
             href="#calculator"
