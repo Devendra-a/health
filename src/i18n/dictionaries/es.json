@@ -316,6 +316,10 @@
       }
     ]
   },
+  "dietTypes": {
+    "heading": "Calculadora de Proteínas Vegetariana y Vegana",
+    "intro": "Ya sea que comas carne, lácteos o solo alimentos vegetales, alcanzar tu objetivo de proteína es igual de posible. Después de calcular tu objetivo arriba, usa el selector de \"Preferencia dietética\" — No Vegetariano, Vegetariano o Vegano — para ver un día de ejemplo con alimentos que suman exactamente tu objetivo."
+  },
   "faq": {
     "heading": "Preguntas frecuentes",
     "items": [
@@ -342,6 +346,10 @@
       {
         "q": "¿Cuánta proteína necesitan los vegetarianos?",
         "a": "Los vegetarianos necesitan la misma cantidad de proteína que cualquier persona según su peso, nivel de actividad y objetivo — la diferencia está en obtenerla de alimentos como paneer, lentejas, tofu, yogur griego, huevos y lácteos en lugar de carne. Combinar varias fuentes vegetales a lo largo del día (por ejemplo, lentejas con arroz o dal con paneer) cubre la gama completa de aminoácidos esenciales."
+      },
+      {
+        "q": "¿Existe una calculadora de proteínas vegana?",
+        "a": "Sí — después de calcular tu objetivo de proteína, cambia a la opción Vegana en \"Preferencia dietética\" dentro de los resultados para ver un día de ejemplo compuesto totalmente por fuentes vegetales como tofu, lentejas, garbanzos, mantequilla de maní, leche de soja y proteína vegetal en polvo que suma tu objetivo."
       },
       {
         "q": "¿Necesitan los adultos mayores más proteína?",

@@ -371,6 +371,17 @@ export default async function Home({
         </div>
       </section>
 
+      <section className="bg-white px-6 py-16">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
+            {dict.dietTypes.heading}
+          </h2>
+          <p className="mt-4 text-stone-600 leading-relaxed">
+            {dict.dietTypes.intro}
+          </p>
+        </div>
+      </section>
+
       <section id="faq" className="bg-white px-6 py-20">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal text-center">

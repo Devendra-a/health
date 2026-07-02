@@ -259,6 +259,10 @@
       { "food": "Milk (1 cup)", "protein": "8 g" }
     ]
   },
+  "dietTypes": {
+    "heading": "Vegetarian & Vegan Protein Calculator",
+    "intro": "Whether you eat meat, dairy, or plants only, hitting your protein target is just as achievable. After calculating your target above, use the \"Diet preference\" toggle — Non-Vegetarian, Vegetarian or Vegan — to see a sample day of foods that adds up to your exact goal."
+  },
   "faq": {
     "heading": "Frequently Asked Questions",
     "items": [
@@ -285,6 +289,10 @@
       {
         "q": "How much protein do vegetarians need?",
         "a": "Vegetarians need the same amount of protein as anyone else for their weight, activity level and goal — the difference is sourcing it from foods like paneer, lentils, tofu, Greek yogurt, eggs and dairy instead of meat. Combining a few plant sources across the day (e.g. lentils with rice or dal with paneer) covers the full range of essential amino acids."
+      },
+      {
+        "q": "Is there a vegan protein calculator?",
+        "a": "Yes — after calculating your protein target, switch to the Vegan option under \"Diet preference\" in the results to see a sample day built entirely from plant-based sources like tofu, lentils, chickpeas, peanut butter, soy milk and plant protein powder that adds up to your target."
       },
       {
         "q": "Do older adults need more protein?",

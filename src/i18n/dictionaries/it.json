@@ -316,6 +316,10 @@
       }
     ]
   },
+  "dietTypes": {
+    "heading": "Calcolatore di Proteine Vegetariano e Vegano",
+    "intro": "Che tu mangi carne, latticini o solo alimenti vegetali, raggiungere il tuo obiettivo proteico è altrettanto possibile. Dopo aver calcolato il tuo obiettivo qui sopra, usa il selettore \"Preferenza alimentare\" — Non Vegetariano, Vegetariano o Vegano — per vedere un esempio di giornata alimentare che somma esattamente il tuo obiettivo."
+  },
   "faq": {
     "heading": "Domande frequenti",
     "items": [
@@ -342,6 +346,10 @@
       {
         "q": "Di quante proteine hanno bisogno i vegetariani?",
         "a": "I vegetariani hanno bisogno della stessa quantità di proteine di chiunque altro in base a peso, livello di attività e obiettivo — la differenza è ottenerle da alimenti come paneer, lenticchie, tofu, yogurt greco, uova e latticini invece che dalla carne. Combinare più fonti vegetali durante la giornata (ad esempio lenticchie con riso o dal con paneer) copre l'intera gamma di aminoacidi essenziali."
+      },
+      {
+        "q": "Esiste un calcolatore di proteine vegano?",
+        "a": "Sì — dopo aver calcolato il tuo obiettivo proteico, passa all'opzione Vegano in \"Preferenza alimentare\" nei risultati per vedere un esempio di giornata composta interamente da fonti vegetali come tofu, lenticchie, ceci, burro di arachidi, latte di soia e proteine vegetali in polvere che sommano il tuo obiettivo."
       },
       {
         "q": "Gli anziani hanno bisogno di più proteine?",

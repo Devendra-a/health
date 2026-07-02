@@ -316,6 +316,10 @@
       }
     ]
   },
+  "dietTypes": {
+    "heading": "Vegetarische & Veganistische Eiwitcalculator",
+    "intro": "Of je nu vlees, zuivel of alleen plantaardig voedsel eet, je eiwitdoel halen is net zo goed mogelijk. Gebruik na het berekenen van je doel hierboven de \"Dieetvoorkeur\"-schakelaar — Niet-vegetarisch, Vegetarisch of Veganistisch — om een voorbeelddag met voedingsmiddelen te zien die precies bij je doel uitkomt."
+  },
   "faq": {
     "heading": "Veelgestelde vragen",
     "items": [
@@ -342,6 +346,10 @@
       {
         "q": "Hoeveel eiwit hebben vegetariërs nodig?",
         "a": "Vegetariërs hebben evenveel eiwit nodig als ieder ander, afhankelijk van gewicht, activiteitsniveau en doel — het verschil zit in de bron: paneer, linzen, tofu, Griekse yoghurt, eieren en zuivel in plaats van vlees. Door meerdere plantaardige bronnen over de dag te combineren (bijvoorbeeld linzen met rijst of dal met paneer) krijg je alle essentiële aminozuren binnen."
+      },
+      {
+        "q": "Is er een veganistische eiwitcalculator?",
+        "a": "Ja — schakel na het berekenen van je eiwitdoel bij de resultaten naar de optie Veganistisch onder \"Dieetvoorkeur\" om een voorbeelddag te zien die volledig is opgebouwd uit plantaardige bronnen zoals tofu, linzen, kikkererwten, pindakaas, sojamelk en plantaardige eiwitpoeder die optelt tot je doel."
       },
       {
         "q": "Hebben ouderen meer eiwit nodig?",

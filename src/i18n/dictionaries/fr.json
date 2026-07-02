@@ -316,6 +316,10 @@
       }
     ]
   },
+  "dietTypes": {
+    "heading": "Calculateur de Protéines Végétarien et Végan",
+    "intro": "Que vous mangiez de la viande, des produits laitiers ou uniquement des végétaux, atteindre votre objectif de protéines est tout aussi réalisable. Après avoir calculé votre objectif ci-dessus, utilisez le sélecteur \"Préférence alimentaire\" — Non-Végétarien, Végétarien ou Végan — pour voir une journée type d'aliments qui atteint exactement votre objectif."
+  },
   "faq": {
     "heading": "Questions fréquentes",
     "items": [
@@ -342,6 +346,10 @@
       {
         "q": "De combien de protéines les végétariens ont-ils besoin ?",
         "a": "Les végétariens ont besoin de la même quantité de protéines que quiconque selon leur poids, leur niveau d'activité et leur objectif — la différence réside dans les sources : paneer, lentilles, tofu, yaourt grec, œufs et produits laitiers plutôt que la viande. Combiner plusieurs sources végétales au cours de la journée (par exemple lentilles avec du riz ou dal avec du paneer) couvre l'ensemble des acides aminés essentiels."
+      },
+      {
+        "q": "Existe-t-il un calculateur de protéines végan ?",
+        "a": "Oui — après avoir calculé votre objectif de protéines, passez à l'option Végan sous \"Préférence alimentaire\" dans les résultats pour voir une journée type composée entièrement de sources végétales comme le tofu, les lentilles, les pois chiches, le beurre de cacahuète, le lait de soja et la protéine végétale en poudre, totalisant votre objectif."
       },
       {
         "q": "Les personnes âgées ont-elles besoin de plus de protéines ?",

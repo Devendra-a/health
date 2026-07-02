@@ -317,6 +317,10 @@
       }
     ]
   },
+  "dietTypes": {
+    "heading": "Vegetarischer & Veganer Protein-Rechner",
+    "intro": "Ob Sie Fleisch, Milchprodukte oder ausschließlich pflanzliche Lebensmittel essen — Ihr Proteinziel zu erreichen ist genauso gut möglich. Nutzen Sie nach der Berechnung oben den Umschalter \"Ernährungstyp\" — Nicht vegetarisch, Vegetarisch oder Vegan —, um einen Beispieltag mit Lebensmitteln zu sehen, der genau Ihr Ziel ergibt."
+  },
   "faq": {
     "heading": "Häufig gestellte Fragen",
     "items": [
@@ -343,6 +347,10 @@
       {
         "q": "Wie viel Protein brauchen Vegetarier?",
         "a": "Vegetarier benötigen je nach Gewicht, Aktivitätslevel und Ziel die gleiche Proteinmenge wie alle anderen — der Unterschied liegt in den Quellen: Paneer, Linsen, Tofu, griechischer Joghurt, Eier und Milchprodukte statt Fleisch. Die Kombination mehrerer pflanzlicher Quellen über den Tag verteilt (z. B. Linsen mit Reis oder Dal mit Paneer) deckt das gesamte Spektrum essenzieller Aminosäuren ab."
+      },
+      {
+        "q": "Gibt es einen veganen Protein-Rechner?",
+        "a": "Ja — berechnen Sie Ihr Proteinziel und wechseln Sie dann bei den Ergebnissen unter \"Ernährungstyp\" zur Option Vegan, um einen Beispieltag zu sehen, der ausschließlich aus pflanzlichen Quellen wie Tofu, Linsen, Kichererbsen, Erdnussbutter, Sojamilch und Pflanzenprotein besteht und genau Ihr Ziel ergibt."
       },
       {
         "q": "Benötigen ältere Erwachsene mehr Protein?",

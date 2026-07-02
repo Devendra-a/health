@@ -316,6 +316,10 @@
       }
     ]
   },
+  "dietTypes": {
+    "heading": "Calculadora de Proteína Vegetariana e Vegana",
+    "intro": "Seja comendo carne, laticínios ou apenas alimentos vegetais, atingir sua meta de proteína é igualmente possível. Depois de calcular sua meta acima, use o seletor \"Preferência alimentar\" — Não Vegetariano, Vegetariano ou Vegano — para ver um dia de exemplo com alimentos que somam exatamente sua meta."
+  },
   "faq": {
     "heading": "Perguntas frequentes",
     "items": [
@@ -342,6 +346,10 @@
       {
         "q": "Quanta proteína os vegetarianos precisam?",
         "a": "Vegetarianos precisam da mesma quantidade de proteína que qualquer pessoa, conforme peso, nível de atividade e objetivo — a diferença é obtê-la de alimentos como paneer, lentilhas, tofu, iogurte grego, ovos e laticínios em vez de carne. Combinar algumas fontes vegetais ao longo do dia (por exemplo, lentilhas com arroz ou dal com paneer) cobre toda a gama de aminoácidos essenciais."
+      },
+      {
+        "q": "Existe uma calculadora de proteína vegana?",
+        "a": "Sim — depois de calcular sua meta de proteína, mude para a opção Vegana em \"Preferência alimentar\" nos resultados para ver um dia de exemplo composto inteiramente por fontes vegetais como tofu, lentilhas, grão-de-bico, manteiga de amendoim, leite de soja e proteína vegetal em pó que soma sua meta."
       },
       {
         "q": "Idosos precisam de mais proteína?",
