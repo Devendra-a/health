@@ -197,3 +197,66 @@ export function splitProteinPerMeal(
 ): { perMeal: number; dailyTotal: number } {
   return { perMeal: Math.round(dailyTargetG / meals), dailyTotal: dailyTargetG };
 }
+
+export type DietPreference = "nonVegetarian" | "vegetarian" | "vegan";
+
+export const DIET_PREFERENCES: DietPreference[] = ["nonVegetarian", "vegetarian", "vegan"];
+
+export type FoodSource = {
+  key: string; // dictionary key under calculator.foodPlan.foods
+  proteinG: number; // grams of protein per serving
+  maxServings: number; // realistic daily cap
+};
+
+// Protein per common serving. Each diet list is ordered by priority for the greedy plan builder.
+export const FOOD_SOURCES: Record<DietPreference, FoodSource[]> = {
+  nonVegetarian: [
+    { key: "chickenBreast", proteinG: 31, maxServings: 3 },
+    { key: "eggs", proteinG: 13, maxServings: 2 },
+    { key: "tuna", proteinG: 26, maxServings: 2 },
+    { key: "greekYogurt", proteinG: 20, maxServings: 2 },
+    { key: "milk", proteinG: 8, maxServings: 2 },
+  ],
+  vegetarian: [
+    { key: "paneer", proteinG: 18, maxServings: 2 },
+    { key: "greekYogurt", proteinG: 20, maxServings: 2 },
+    { key: "lentils", proteinG: 18, maxServings: 3 },
+    { key: "milk", proteinG: 8, maxServings: 2 },
+    { key: "wheyProtein", proteinG: 24, maxServings: 2 },
+    { key: "almonds", proteinG: 6, maxServings: 1 },
+  ],
+  vegan: [
+    { key: "tofu", proteinG: 18, maxServings: 3 },
+    { key: "lentils", proteinG: 18, maxServings: 3 },
+    { key: "chickpeas", proteinG: 15, maxServings: 2 },
+    { key: "peanutButter", proteinG: 8, maxServings: 2 },
+    { key: "soyMilk", proteinG: 7, maxServings: 2 },
+    { key: "plantProtein", proteinG: 21, maxServings: 2 },
+  ],
+};
+
+export type FoodPlanItem = { key: string; servings: number; proteinG: number };
+
+export function buildFoodPlan(
+  targetG: number,
+  diet: DietPreference
+): { items: FoodPlanItem[]; totalG: number } {
+  const tolerance = 10;
+  const items: FoodPlanItem[] = [];
+  let total = 0;
+  for (const food of FOOD_SOURCES[diet]) {
+    if (total >= targetG - tolerance) break;
+    let servings = 0;
+    while (
+      servings < food.maxServings &&
+      total + food.proteinG <= targetG + tolerance
+    ) {
+      servings++;
+      total += food.proteinG;
+    }
+    if (servings > 0) {
+      items.push({ key: food.key, servings, proteinG: servings * food.proteinG });
+    }
+  }
+  return { items, totalG: total };
+}

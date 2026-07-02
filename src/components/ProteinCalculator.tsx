@@ -6,10 +6,12 @@ import {
   ACTIVITY_DICT_KEY,
   DEFICIT_DICT_KEY,
   DEFICIT_SIZES,
+  DIET_PREFERENCES,
   GOALS,
   GOAL_DICT_KEY,
   TRAINING_EXPERIENCES,
   TRAINING_DICT_KEY,
+  buildFoodPlan,
   calculateBMR,
   calculateBMRKatchMcArdle,
   calculateLeanBodyMass,
@@ -23,6 +25,7 @@ import {
   splitProteinPerMeal,
   type Activity,
   type DeficitSize,
+  type DietPreference,
   type Gender,
   type Goal,
   type TrainingExperience,
@@ -89,6 +92,12 @@ const GOAL_ICON: Record<Goal, (props: { className?: string }) => React.ReactElem
 
 const PER_MEAL_MEAL_OPTIONS = [3, 4, 5, 6];
 const FIXED_MEALS = 4;
+
+const DIET_DICT_KEY: Record<DietPreference, string> = {
+  nonVegetarian: "dietNonVegetarian",
+  vegetarian: "dietVegetarian",
+  vegan: "dietVegan",
+};
 
 const INPUT_CLASS =
   "w-full rounded-lg border border-stone-300 px-4 py-2.5 text-charcoal focus:outline-none focus:ring-2 focus:ring-red focus:border-transparent";
@@ -180,6 +189,7 @@ function ResultShell({
   notes,
   onRecalculate,
   showMinMax = true,
+  foodPlanTarget,
 }: {
   dict: CalculatorDict;
   badge: string;
@@ -195,6 +205,7 @@ function ResultShell({
   notes: { tone: "green" | "amber"; text: string }[];
   onRecalculate: () => void;
   showMinMax?: boolean;
+  foodPlanTarget?: number;
 }) {
   return (
     <div className="mt-8 rounded-3xl bg-white shadow-2xl shadow-charcoal/10 border border-stone-100 p-6 sm:p-8">
@@ -252,6 +263,10 @@ function ResultShell({
         ))}
       </div>
 
+      {foodPlanTarget !== undefined && (
+        <FoodPlanPanel dict={dict} targetG={foodPlanTarget} />
+      )}
+
       {notes.map((note) => (
         <p
           key={note.text}
@@ -272,6 +287,66 @@ function ResultShell({
       >
         {dict.recalculate}
       </button>
+    </div>
+  );
+}
+
+function FoodPlanPanel({
+  dict,
+  targetG,
+}: {
+  dict: CalculatorDict;
+  targetG: number;
+}) {
+  const [diet, setDiet] = useState<DietPreference>("nonVegetarian");
+  const { items, totalG } = buildFoodPlan(targetG, diet);
+
+  return (
+    <div className="mt-5 rounded-xl border border-stone-200 bg-cream-dark/40 p-4">
+      <h3 className="text-sm font-semibold text-charcoal">
+        {fill(dict.foodPlan.heading, { target: targetG })}
+      </h3>
+
+      <div className="mt-3">
+        <p className="text-xs text-stone-500 mb-2">{dict.foodPlan.dietLabel}</p>
+        <div className="flex flex-wrap gap-2">
+          {DIET_PREFERENCES.map((d) => (
+            <button
+              type="button"
+              key={d}
+              onClick={() => setDiet(d)}
+              className={pillClass(diet === d)}
+            >
+              {
+                dict.foodPlan[
+                  DIET_DICT_KEY[d] as keyof typeof dict.foodPlan
+                ] as string
+              }
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <div className="mt-4 space-y-2 text-sm">
+        {items.map((item) => (
+          <div key={item.key} className="flex justify-between text-sm">
+            <span className="text-stone-600">
+              {dict.foodPlan.foods[item.key as keyof typeof dict.foodPlan.foods]}{" "}
+              <span className="text-stone-400">
+                {fill(dict.foodPlan.servings, { n: item.servings })}
+              </span>
+            </span>
+            <span className="font-semibold text-charcoal">{item.proteinG}g</span>
+          </div>
+        ))}
+      </div>
+
+      <div className="mt-3 pt-3 border-t border-stone-200 flex justify-between text-sm font-bold text-charcoal">
+        <span>{dict.foodPlan.totalLabel}</span>
+        <span>{totalG}g</span>
+      </div>
+
+      <p className="mt-3 text-xs text-stone-500">{dict.foodPlan.note}</p>
     </div>
   );
 }
@@ -862,6 +937,11 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
               </div>
             </div>
 
+            <FoodPlanPanel
+              dict={dict}
+              targetG={Math.round((result.low + result.high) / 2)}
+            />
+
             <button
               type="button"
               onClick={handleCopy}
@@ -912,6 +992,7 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
           ]}
           notes={[{ tone: "green", text: dict.muscle.note }]}
           onRecalculate={() => setMuscleResult(null)}
+          foodPlanTarget={muscleResult.recommended}
         />
       )}
 
@@ -989,6 +1070,7 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
             { tone: "amber", text: dict.weightLoss.recalcWarning },
           ]}
           onRecalculate={() => setWeightLossResult(null)}
+          foodPlanTarget={weightLossResult.recommended}
         />
       )}
 
@@ -1035,6 +1117,7 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
           ]}
           onRecalculate={() => setPerMealResult(null)}
           showMinMax={false}
+          foodPlanTarget={perMealResult.dailyTotal}
         />
       )}
     </div>

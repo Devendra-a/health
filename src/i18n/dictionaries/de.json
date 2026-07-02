@@ -127,6 +127,33 @@
       "dailyTotal": "Tagesgesamtmenge: {total} g",
       "note": "{perMeal} g × {meals} Mahlzeiten = {total} g Gesamtprotein pro Tag."
     }
+,
+    "foodPlan": {
+      "heading": "So erreichen Sie {target}g mit Lebensmitteln",
+      "dietLabel": "Ernährungstyp",
+      "dietNonVegetarian": "Nicht vegetarisch",
+      "dietVegetarian": "Vegetarisch",
+      "dietVegan": "Vegan",
+      "servings": "×{n}",
+      "totalLabel": "Beispieltag insgesamt",
+      "note": "Das ist eine Beispielkombination - mischen Sie Lebensmittel, die Sie gerne essen. Die Werte sind ungefähr.",
+      "foods": {
+        "chickenBreast": "Hähnchenbrust (100 g)",
+        "eggs": "Eier (2 große)",
+        "tuna": "Thunfisch (100 g)",
+        "greekYogurt": "Griechischer Joghurt (200 g)",
+        "milk": "Milch (1 Tasse)",
+        "paneer": "Paneer / Frischkäse (100 g)",
+        "lentils": "Linsen, gekocht (1 Tasse)",
+        "wheyProtein": "Molkenprotein (1 Messlöffel)",
+        "almonds": "Mandeln (30 g)",
+        "tofu": "Tofu (150 g)",
+        "chickpeas": "Kichererbsen, gekocht (1 Tasse)",
+        "peanutButter": "Erdnussbutter (2 Esslöffel)",
+        "soyMilk": "Sojamilch (1 Tasse)",
+        "plantProtein": "Pflanzenprotein (1 Messlöffel)"
+      }
+    }
   },
   "howTo": {
     "heading": "So verwenden Sie diesen Protein-Rechner",

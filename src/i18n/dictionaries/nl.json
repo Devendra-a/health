@@ -126,6 +126,32 @@
       "dailyTotalLabel": "Totaal per dag",
       "dailyTotal": "Totaal per dag: {total} g",
       "note": "{perMeal} g × {meals} maaltijden = {total} g totaal eiwit per dag."
+    },
+    "foodPlan": {
+      "heading": "Bereik {target}g met voeding",
+      "dietLabel": "Voedingsvoorkeur",
+      "dietNonVegetarian": "Niet-vegetarisch",
+      "dietVegetarian": "Vegetarisch",
+      "dietVegan": "Veganistisch",
+      "servings": "×{n}",
+      "totalLabel": "Totaal voorbeelddag",
+      "note": "Dit is één voorbeeldcombinatie — mix en match voedingsmiddelen die je lekker vindt. Waarden zijn benaderd.",
+      "foods": {
+        "chickenBreast": "Kipfilet (100 g)",
+        "eggs": "Eieren (2 grote)",
+        "tuna": "Tonijn (100 g)",
+        "greekYogurt": "Griekse yoghurt (200 g)",
+        "milk": "Melk (1 kopje)",
+        "paneer": "Paneer / kwark (100 g)",
+        "lentils": "Linzen, gekookt (1 kopje)",
+        "wheyProtein": "Eiwitpoeder (1 scoop)",
+        "almonds": "Amandelen (30 g)",
+        "tofu": "Tofu (150 g)",
+        "chickpeas": "Kikkererwten, gekookt (1 kopje)",
+        "peanutButter": "Pindakaas (2 eetlepels)",
+        "soyMilk": "Sojamelk (1 kopje)",
+        "plantProtein": "Plantaardig eiwit (1 scoop)"
+      }
     }
   },
   "howTo": {

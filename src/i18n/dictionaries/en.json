@@ -126,6 +126,32 @@
       "dailyTotalLabel": "Daily total",
       "dailyTotal": "Daily total: {total} g",
       "note": "{perMeal} g × {meals} meals = {total} g total daily protein."
+    },
+    "foodPlan": {
+      "heading": "How to hit {target}g with food",
+      "dietLabel": "Diet preference",
+      "dietNonVegetarian": "Non-Vegetarian",
+      "dietVegetarian": "Vegetarian",
+      "dietVegan": "Vegan",
+      "servings": "×{n}",
+      "totalLabel": "Sample day total",
+      "note": "This is one example combination — mix and match foods you enjoy. Values are approximate.",
+      "foods": {
+        "chickenBreast": "Chicken breast (100 g)",
+        "eggs": "Eggs (2 large)",
+        "tuna": "Tuna (100 g)",
+        "greekYogurt": "Greek yogurt (200 g)",
+        "milk": "Milk (1 cup)",
+        "paneer": "Paneer / cottage cheese (100 g)",
+        "lentils": "Lentils, cooked (1 cup)",
+        "wheyProtein": "Whey protein (1 scoop)",
+        "almonds": "Almonds (30 g)",
+        "tofu": "Tofu (150 g)",
+        "chickpeas": "Chickpeas, cooked (1 cup)",
+        "peanutButter": "Peanut butter (2 tbsp)",
+        "soyMilk": "Soy milk (1 cup)",
+        "plantProtein": "Plant protein (1 scoop)"
+      }
     }
   },
   "howTo": {

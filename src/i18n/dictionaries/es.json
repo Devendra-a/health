@@ -126,6 +126,32 @@
       "dailyTotalLabel": "Total diario",
       "dailyTotal": "Total diario: {total} g",
       "note": "{perMeal} g × {meals} comidas = {total} g de proteína total al día."
+    },
+    "foodPlan": {
+      "heading": "Cómo alcanzar {target}g con comida",
+      "dietLabel": "Preferencia dietética",
+      "dietNonVegetarian": "No vegetariano",
+      "dietVegetarian": "Vegetariano",
+      "dietVegan": "Vegano",
+      "servings": "×{n}",
+      "totalLabel": "Total de un día de ejemplo",
+      "note": "Esta es una combinación de ejemplo — mezcla y combina alimentos que disfrutes. Los valores son aproximados.",
+      "foods": {
+        "chickenBreast": "Pechuga de pollo (100 g)",
+        "eggs": "Huevos (2 grandes)",
+        "tuna": "Atún (100 g)",
+        "greekYogurt": "Yogur griego (200 g)",
+        "milk": "Leche (1 taza)",
+        "paneer": "Paneer / queso fresco (100 g)",
+        "lentils": "Lentejas cocidas (1 taza)",
+        "wheyProtein": "Proteína de suero (1 medida)",
+        "almonds": "Almendras (30 g)",
+        "tofu": "Tofu (150 g)",
+        "chickpeas": "Garbanzos cocidos (1 taza)",
+        "peanutButter": "Mantequilla de cacahuete (2 cucharadas)",
+        "soyMilk": "Leche de soja (1 taza)",
+        "plantProtein": "Proteína vegetal (1 medida)"
+      }
     }
   },
   "howTo": {
