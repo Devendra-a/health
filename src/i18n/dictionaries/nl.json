@@ -177,6 +177,22 @@
       }
     ]
   },
+  "byWeight": {
+    "heading": "Dagelijkse eiwitbehoefte per lichaamsgewicht",
+    "intro": "Zoek je een snel antwoord voor jouw gewicht? De tabel hieronder toont dagelijkse eiwitdoelen voor veelvoorkomende lichaamsgewichten — een lagere range voor algemene gezondheid en een hogere als je regelmatig traint of op dieet bent om vet te verliezen.",
+    "tableWeight": "Lichaamsgewicht",
+    "tableGeneral": "Algemene gezondheid (0,8–1,0 g/kg)",
+    "tableActive": "Actief of op dieet (1,6–2,2 g/kg)",
+    "rows": [
+      { "weight": "50 kg (110 lb)", "general": "40–50 g", "active": "80–110 g" },
+      { "weight": "60 kg (132 lb)", "general": "48–60 g", "active": "96–132 g" },
+      { "weight": "70 kg (154 lb)", "general": "56–70 g", "active": "112–154 g" },
+      { "weight": "80 kg (176 lb)", "general": "64–80 g", "active": "128–176 g" },
+      { "weight": "90 kg (198 lb)", "general": "72–90 g", "active": "144–198 g" },
+      { "weight": "100 kg (220 lb)", "general": "80–100 g", "active": "160–220 g" }
+    ],
+    "note": "Voor een doel op maat van jouw exacte gewicht, leeftijd en doel, gebruik de calculator hierboven."
+  },
   "weightLoss": {
     "heading": "Eiwitinname voor gewichtsverlies",
     "body": "Wanneer je minder calorieën eet dan je verbrandt, kan je lichaam naast vet ook spieren afbreken voor energie. Een hogere eiwitinname — doorgaans 1,6 g tot 2,4 g per kilogram lichaamsgewicht — helpt de vetvrije spiermassa te behouden tijdens een dieet, houdt honger onder controle dankzij het verzadigende effect van eiwit, en verhoogt licht het aantal calorieën dat wordt verbrand bij het verteren van voedsel."

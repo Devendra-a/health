@@ -189,6 +189,40 @@ export default async function Home({
       <section className="bg-cream-dark px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
+            {dict.byWeight.heading}
+          </h2>
+          <p className="mt-4 text-stone-600">{dict.byWeight.intro}</p>
+          <div className={TABLE_WRAP}>
+            <table className="w-full text-start text-sm">
+              <thead className="bg-red-soft/50">
+                <tr>
+                  <th className={TABLE_HEAD}>{dict.byWeight.tableWeight}</th>
+                  <th className={TABLE_HEAD}>{dict.byWeight.tableGeneral}</th>
+                  <th className={TABLE_HEAD}>{dict.byWeight.tableActive}</th>
+                </tr>
+              </thead>
+              <tbody className="divide-y divide-stone-100 bg-white">
+                {dict.byWeight.rows.map((row) => (
+                  <tr key={row.weight} className="even:bg-cream-dark/60">
+                    <td className="px-4 py-3 text-stone-700">{row.weight}</td>
+                    <td className="px-4 py-3 font-medium text-charcoal">
+                      {row.general}
+                    </td>
+                    <td className="px-4 py-3 font-medium text-charcoal">
+                      {row.active}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <p className="mt-3 text-xs text-stone-500">{dict.byWeight.note}</p>
+        </div>
+      </section>
+
+      <section className="bg-white px-6 py-16">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
             {dict.weightLoss.heading}
           </h2>
           <p className="mt-4 text-stone-600 leading-relaxed">
@@ -197,7 +231,7 @@ export default async function Home({
         </div>
       </section>
 
-      <section className="bg-white px-6 py-16">
+      <section className="bg-cream-dark px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
             {dict.muscleGain.heading}
@@ -208,7 +242,7 @@ export default async function Home({
         </div>
       </section>
 
-      <section className="bg-cream-dark px-6 py-16">
+      <section className="bg-white px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
             {dict.women.heading}
@@ -240,7 +274,7 @@ export default async function Home({
         </div>
       </section>
 
-      <section className="bg-white px-6 py-16">
+      <section className="bg-cream-dark px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
             {dict.glp1.heading}
@@ -257,7 +291,7 @@ export default async function Home({
         </div>
       </section>
 
-      <section className="bg-cream-dark px-6 py-16">
+      <section className="bg-white px-6 py-16">
         <div className="max-w-5xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal text-center">
             {dict.examples.heading}
@@ -308,7 +342,7 @@ export default async function Home({
         </div>
       </section>
 
-      <section className="bg-white px-6 py-16">
+      <section className="bg-cream-dark px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
             {dict.foods.heading}
@@ -337,7 +371,7 @@ export default async function Home({
         </div>
       </section>
 
-      <section id="faq" className="bg-cream-dark px-6 py-20">
+      <section id="faq" className="bg-white px-6 py-20">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal text-center">
             {dict.faq.heading}

@@ -162,6 +162,22 @@
       { "goal": "Endurance / athlete training", "range": "1.8 – 2.2 g/kg" }
     ]
   },
+  "byWeight": {
+    "heading": "Daily Protein Needs by Body Weight",
+    "intro": "Looking for a quick answer for your weight? The table below shows daily protein targets at common body weights — a lower range for general health and a higher range if you train regularly or are dieting to lose fat.",
+    "tableWeight": "Body weight",
+    "tableGeneral": "General health (0.8–1.0 g/kg)",
+    "tableActive": "Active or dieting (1.6–2.2 g/kg)",
+    "rows": [
+      { "weight": "50 kg (110 lb)", "general": "40–50 g", "active": "80–110 g" },
+      { "weight": "60 kg (132 lb)", "general": "48–60 g", "active": "96–132 g" },
+      { "weight": "70 kg (154 lb)", "general": "56–70 g", "active": "112–154 g" },
+      { "weight": "80 kg (176 lb)", "general": "64–80 g", "active": "128–176 g" },
+      { "weight": "90 kg (198 lb)", "general": "72–90 g", "active": "144–198 g" },
+      { "weight": "100 kg (220 lb)", "general": "80–100 g", "active": "160–220 g" }
+    ],
+    "note": "For a target tailored to your exact weight, age and goal, use the calculator above."
+  },
   "weightLoss": {
     "heading": "Protein Intake for Weight Loss",
     "body": "When you eat fewer calories than you burn, your body can break down muscle for energy alongside fat. A higher protein intake — typically 1.6g to 2.4g per kilogram of body weight — helps preserve lean muscle during a cut, keeps hunger in check thanks to protein's satiety effect, and slightly raises the number of calories burned digesting food."

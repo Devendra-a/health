@@ -177,6 +177,22 @@
       }
     ]
   },
+  "byWeight": {
+    "heading": "Fabbisogno proteico giornaliero in base al peso corporeo",
+    "intro": "Cerchi una risposta rapida per il tuo peso? La tabella mostra gli obiettivi proteici giornalieri per pesi corporei comuni — un intervallo più basso per la salute generale e uno più alto se ti alleni regolarmente o sei a dieta per perdere grasso.",
+    "tableWeight": "Peso corporeo",
+    "tableGeneral": "Salute generale (0,8–1,0 g/kg)",
+    "tableActive": "Attivo o a dieta (1,6–2,2 g/kg)",
+    "rows": [
+      { "weight": "50 kg (110 lb)", "general": "40–50 g", "active": "80–110 g" },
+      { "weight": "60 kg (132 lb)", "general": "48–60 g", "active": "96–132 g" },
+      { "weight": "70 kg (154 lb)", "general": "56–70 g", "active": "112–154 g" },
+      { "weight": "80 kg (176 lb)", "general": "64–80 g", "active": "128–176 g" },
+      { "weight": "90 kg (198 lb)", "general": "72–90 g", "active": "144–198 g" },
+      { "weight": "100 kg (220 lb)", "general": "80–100 g", "active": "160–220 g" }
+    ],
+    "note": "Per un obiettivo su misura per il tuo peso, la tua età e il tuo scopo esatti, usa il calcolatore qui sopra."
+  },
   "weightLoss": {
     "heading": "Assunzione di proteine per la perdita di peso",
     "body": "Quando mangi meno calorie di quante ne bruci, il tuo corpo può scomporre i muscoli per ottenere energia, oltre al grasso. Un'assunzione proteica più alta — tipicamente da 1,6 g a 2,4 g per chilogrammo di peso corporeo — aiuta a preservare la massa muscolare magra durante un deficit, tiene sotto controllo la fame grazie all'effetto saziante delle proteine e aumenta leggermente le calorie bruciate nella digestione."

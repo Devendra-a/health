@@ -177,6 +177,22 @@
       }
     ]
   },
+  "byWeight": {
+    "heading": "Täglicher Proteinbedarf nach Körpergewicht",
+    "intro": "Sie suchen eine schnelle Antwort für Ihr Gewicht? Die Tabelle zeigt tägliche Proteinziele für gängige Körpergewichte — ein niedrigerer Bereich für die allgemeine Gesundheit und ein höherer, wenn Sie regelmäßig trainieren oder eine Diät zum Fettabbau machen.",
+    "tableWeight": "Körpergewicht",
+    "tableGeneral": "Allgemeine Gesundheit (0,8–1,0 g/kg)",
+    "tableActive": "Aktiv oder Diät (1,6–2,2 g/kg)",
+    "rows": [
+      { "weight": "50 kg (110 lb)", "general": "40–50 g", "active": "80–110 g" },
+      { "weight": "60 kg (132 lb)", "general": "48–60 g", "active": "96–132 g" },
+      { "weight": "70 kg (154 lb)", "general": "56–70 g", "active": "112–154 g" },
+      { "weight": "80 kg (176 lb)", "general": "64–80 g", "active": "128–176 g" },
+      { "weight": "90 kg (198 lb)", "general": "72–90 g", "active": "144–198 g" },
+      { "weight": "100 kg (220 lb)", "general": "80–100 g", "active": "160–220 g" }
+    ],
+    "note": "Für ein Ziel, das genau auf Ihr Gewicht, Alter und Ziel zugeschnitten ist, nutzen Sie den Rechner oben."
+  },
   "weightLoss": {
     "heading": "Proteinzufuhr zum Abnehmen",
     "body": "Wenn Sie weniger Kalorien zu sich nehmen, als Sie verbrennen, kann Ihr Körper neben Fett auch Muskeln zur Energiegewinnung abbauen. Eine höhere Proteinzufuhr — typischerweise 1,6 g bis 2,4 g pro Kilogramm Körpergewicht — hilft, während einer Diät die fettfreie Muskelmasse zu erhalten, hält dank der sättigenden Wirkung von Protein den Hunger in Schach und erhöht leicht die beim Verdauen verbrannten Kalorien."
