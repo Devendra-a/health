@@ -4,9 +4,12 @@ import { locales, defaultLocale } from "@/i18n/config";
 const SITE_URL = "https://www.proteinintakecalculators.online";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const languages = Object.fromEntries(
-    locales.map((locale) => [locale, `${SITE_URL}/${locale}`])
-  );
+  const languages = {
+    ...Object.fromEntries(
+      locales.map((locale) => [locale, `${SITE_URL}/${locale}`])
+    ),
+    "x-default": `${SITE_URL}/${defaultLocale}`,
+  };
 
   return locales.map((locale) => ({
     url: `${SITE_URL}/${locale}`,

@@ -433,6 +433,25 @@ export default async function Home({
           }),
         }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            name: dict.nav.brand,
+            url: `${SITE_URL}/${lang}`,
+            inLanguage: lang,
+            description: dict.meta.description,
+            publisher: {
+              "@type": "Organization",
+              name: dict.nav.brand,
+              url: SITE_URL,
+              logo: `${SITE_URL}/icon`,
+            },
+          }),
+        }}
+      />
     </main>
   );
 }
