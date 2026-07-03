@@ -6,6 +6,7 @@ import FaqAccordion from "@/components/FaqAccordion";
 import { ShieldIcon, LockIcon, ClipboardIcon, ArrowIcon } from "@/components/icons";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { hasLocale } from "@/i18n/config";
+import { slugForTopic } from "@/lib/topics";
 import {
   ACTIVITY_DICT_KEY,
   GOAL_DICT_KEY,
@@ -221,7 +222,7 @@ export default async function Home({
       <section className="bg-cream-dark px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            <TopicHeading href={`/${lang}/protein-by-body-weight`}>
+            <TopicHeading href={`/${lang}/${slugForTopic(lang, "protein-by-body-weight")}`}>
               {dict.byWeight.heading}
             </TopicHeading>
           </h2>
@@ -257,7 +258,7 @@ export default async function Home({
       <section className="bg-white px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            <TopicHeading href={`/${lang}/protein-for-weight-loss`}>
+            <TopicHeading href={`/${lang}/${slugForTopic(lang, "protein-for-weight-loss")}`}>
               {dict.weightLoss.heading}
             </TopicHeading>
           </h2>
@@ -270,7 +271,7 @@ export default async function Home({
       <section className="bg-cream-dark px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            <TopicHeading href={`/${lang}/protein-for-muscle-gain`}>
+            <TopicHeading href={`/${lang}/${slugForTopic(lang, "protein-for-muscle-gain")}`}>
               {dict.muscleGain.heading}
             </TopicHeading>
           </h2>
@@ -283,7 +284,7 @@ export default async function Home({
       <section className="bg-white px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            <TopicHeading href={`/${lang}/protein-for-women`}>
+            <TopicHeading href={`/${lang}/${slugForTopic(lang, "protein-for-women")}`}>
               {dict.women.heading}
             </TopicHeading>
           </h2>
@@ -317,7 +318,7 @@ export default async function Home({
       <section className="bg-cream-dark px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            <TopicHeading href={`/${lang}/protein-on-ozempic-wegovy`}>
+            <TopicHeading href={`/${lang}/${slugForTopic(lang, "protein-on-ozempic-wegovy")}`}>
               {dict.glp1.heading}
             </TopicHeading>
           </h2>
@@ -387,7 +388,7 @@ export default async function Home({
       <section className="bg-cream-dark px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            <TopicHeading href={`/${lang}/high-protein-foods`}>
+            <TopicHeading href={`/${lang}/${slugForTopic(lang, "high-protein-foods")}`}>
               {dict.foods.heading}
             </TopicHeading>
           </h2>
@@ -418,7 +419,7 @@ export default async function Home({
       <section className="bg-white px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            <TopicHeading href={`/${lang}/vegetarian-vegan-protein`}>
+            <TopicHeading href={`/${lang}/${slugForTopic(lang, "vegetarian-vegan-protein")}`}>
               {dict.dietTypes.heading}
             </TopicHeading>
           </h2>
