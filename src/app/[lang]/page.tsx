@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import Script from "next/script";
 import ProteinCalculator from "@/components/ProteinCalculator";
 import FaqAccordion from "@/components/FaqAccordion";
 import { ShieldIcon, LockIcon, ClipboardIcon, ArrowIcon } from "@/components/icons";
@@ -66,6 +67,15 @@ export default async function Home({
 
   return (
     <main className="flex-1 bg-cream">
+      {/* Loaded here rather than in the layout so ads are only served on the
+          content page — never on 404s or other contentless screens, which
+          violates AdSense policy ("ads on screens without publisher-content"). */}
+      <Script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1300842618865363"
+        crossOrigin="anonymous"
+        strategy="afterInteractive"
+      />
       <section className="relative overflow-hidden bg-gradient-to-br from-charcoal via-charcoal to-charcoal-soft text-white">
         <div
           aria-hidden
