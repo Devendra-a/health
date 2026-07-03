@@ -7,7 +7,15 @@ import FaqAccordion from "@/components/FaqAccordion";
 import { ArrowIcon } from "@/components/icons";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { locales, defaultLocale, hasLocale, ogLocales } from "@/i18n/config";
-import { topics, slugForTopic, topicForSlug, type TopicKey } from "@/lib/topics";
+import {
+  topics,
+  slugForTopic,
+  topicForSlug,
+  contentTopics,
+  isContentTopic,
+  type TopicKey,
+  type ContentTopicKey,
+} from "@/lib/topics";
 import type { Dictionary } from "@/i18n/get-dictionary";
 
 const SITE_URL = "https://www.proteinintakecalculators.online";
@@ -19,15 +27,14 @@ export const dynamicParams = false;
 // FAQ items (by index — stable across every locale's dictionary) most relevant
 // to the topic, and sibling topics to cross-link. All display text comes from
 // the already-translated dictionaries, so no per-topic copy needs translating.
-const TOPICS: Record<
-  TopicKey,
-  {
-    heading: (d: Dictionary) => string;
-    lead: (d: Dictionary) => string;
-    faqIndices: number[];
-    related: TopicKey[];
-  }
-> = {
+type TopicConfig = {
+  heading: (d: Dictionary) => string;
+  lead: (d: Dictionary) => string;
+  faqIndices: number[];
+  related: TopicKey[];
+};
+
+const TOPICS: Record<TopicKey, TopicConfig> = {
   "protein-for-weight-loss": {
     heading: (d) => d.weightLoss.heading,
     lead: (d) => d.weightLoss.body,
@@ -70,7 +77,58 @@ const TOPICS: Record<
     faqIndices: [5, 6, 4],
     related: ["high-protein-foods", "protein-for-muscle-gain", "protein-for-weight-loss"],
   },
+  ...contentTopicConfig({
+    "protein-for-men": {
+      faqIndices: [1, 9, 4],
+      related: ["protein-for-muscle-gain", "protein-by-body-weight", "high-protein-foods"],
+    },
+    "protein-for-seniors": {
+      faqIndices: [7, 0, 8],
+      related: ["protein-for-women", "protein-by-body-weight", "protein-deficiency-signs"],
+    },
+    "protein-for-teenagers": {
+      faqIndices: [0, 1, 4],
+      related: ["protein-for-muscle-gain", "high-protein-foods", "protein-by-body-weight"],
+    },
+    "protein-during-pregnancy": {
+      faqIndices: [0, 4, 8],
+      related: ["protein-for-women", "high-protein-foods", "vegetarian-vegan-protein"],
+    },
+    "best-time-to-eat-protein": {
+      faqIndices: [8, 1, 0],
+      related: ["protein-for-muscle-gain", "protein-shakes-per-day", "protein-for-weight-loss"],
+    },
+    "protein-shakes-per-day": {
+      faqIndices: [4, 8, 1],
+      related: ["best-time-to-eat-protein", "protein-for-muscle-gain", "high-protein-foods"],
+    },
+    "protein-for-diabetics": {
+      faqIndices: [2, 4, 0],
+      related: ["protein-for-weight-loss", "protein-on-ozempic-wegovy", "high-protein-foods"],
+    },
+    "protein-deficiency-signs": {
+      faqIndices: [0, 7, 5],
+      related: ["protein-by-body-weight", "high-protein-foods", "protein-for-seniors"],
+    },
+  }),
 };
+
+// Content topics all read heading/lead from the dictionary's topicPages
+// section; only FAQ picks and cross-links differ per topic.
+function contentTopicConfig(
+  meta: Record<ContentTopicKey, { faqIndices: number[]; related: TopicKey[] }>
+): Record<ContentTopicKey, TopicConfig> {
+  return Object.fromEntries(
+    contentTopics.map((key) => [
+      key,
+      {
+        heading: (d: Dictionary) => d.topicPages.items[key].heading,
+        lead: (d: Dictionary) => d.topicPages.items[key].lead,
+        ...meta[key],
+      },
+    ])
+  ) as Record<ContentTopicKey, TopicConfig>;
+}
 
 const TABLE_HEAD =
   "px-4 py-3 font-semibold text-charcoal text-xs uppercase tracking-wide";
@@ -143,6 +201,28 @@ export async function generateMetadata({
 }
 
 function TopicBody({ topic, dict }: { topic: TopicKey; dict: Dictionary }) {
+  // Content topics share one layout: lead paragraphs plus a key-facts list.
+  if (isContentTopic(topic)) {
+    const content = dict.topicPages.items[topic];
+    return (
+      <>
+        {content.paragraphs.map((paragraph) => (
+          <p
+            key={paragraph}
+            className="text-stone-600 leading-relaxed [&:not(:first-child)]:mt-4"
+          >
+            {paragraph}
+          </p>
+        ))}
+        <ul className="mt-4 space-y-2 text-stone-600 list-disc list-inside">
+          {content.bullets.map((bullet) => (
+            <li key={bullet}>{bullet}</li>
+          ))}
+        </ul>
+      </>
+    );
+  }
+
   switch (topic) {
     case "protein-for-weight-loss":
       return (
@@ -353,6 +433,33 @@ export default async function TopicPage({
         </div>
       </section>
 
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Article",
+            headline: heading,
+            description: lead,
+            inLanguage: lang,
+            mainEntityOfPage: `${SITE_URL}/${lang}/${slug}`,
+            author: {
+              "@type": "Organization",
+              name: dict.nav.brand,
+              url: SITE_URL,
+            },
+            publisher: {
+              "@type": "Organization",
+              name: dict.nav.brand,
+              url: SITE_URL,
+              logo: {
+                "@type": "ImageObject",
+                url: `${SITE_URL}/icon`,
+              },
+            },
+          }),
+        }}
+      />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{

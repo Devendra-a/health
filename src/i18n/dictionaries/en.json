@@ -181,11 +181,26 @@
     "tableGoal": "Goal / activity",
     "tableRange": "Protein range",
     "rows": [
-      { "goal": "Sedentary / general health", "range": "0.8 – 1.0 g/kg" },
-      { "goal": "Light activity", "range": "1.2 – 1.4 g/kg" },
-      { "goal": "Weight loss (preserve muscle)", "range": "1.6 – 2.2 g/kg" },
-      { "goal": "Muscle gain", "range": "1.7 – 2.2 g/kg" },
-      { "goal": "Endurance / athlete training", "range": "1.8 – 2.2 g/kg" }
+      {
+        "goal": "Sedentary / general health",
+        "range": "0.8 – 1.0 g/kg"
+      },
+      {
+        "goal": "Light activity",
+        "range": "1.2 – 1.4 g/kg"
+      },
+      {
+        "goal": "Weight loss (preserve muscle)",
+        "range": "1.6 – 2.2 g/kg"
+      },
+      {
+        "goal": "Muscle gain",
+        "range": "1.7 – 2.2 g/kg"
+      },
+      {
+        "goal": "Endurance / athlete training",
+        "range": "1.8 – 2.2 g/kg"
+      }
     ]
   },
   "byWeight": {
@@ -195,12 +210,36 @@
     "tableGeneral": "General health (0.8–1.0 g/kg)",
     "tableActive": "Active or dieting (1.6–2.2 g/kg)",
     "rows": [
-      { "weight": "50 kg (110 lb)", "general": "40–50 g", "active": "80–110 g" },
-      { "weight": "60 kg (132 lb)", "general": "48–60 g", "active": "96–132 g" },
-      { "weight": "70 kg (154 lb)", "general": "56–70 g", "active": "112–154 g" },
-      { "weight": "80 kg (176 lb)", "general": "64–80 g", "active": "128–176 g" },
-      { "weight": "90 kg (198 lb)", "general": "72–90 g", "active": "144–198 g" },
-      { "weight": "100 kg (220 lb)", "general": "80–100 g", "active": "160–220 g" }
+      {
+        "weight": "50 kg (110 lb)",
+        "general": "40–50 g",
+        "active": "80–110 g"
+      },
+      {
+        "weight": "60 kg (132 lb)",
+        "general": "48–60 g",
+        "active": "96–132 g"
+      },
+      {
+        "weight": "70 kg (154 lb)",
+        "general": "56–70 g",
+        "active": "112–154 g"
+      },
+      {
+        "weight": "80 kg (176 lb)",
+        "general": "64–80 g",
+        "active": "128–176 g"
+      },
+      {
+        "weight": "90 kg (198 lb)",
+        "general": "72–90 g",
+        "active": "144–198 g"
+      },
+      {
+        "weight": "100 kg (220 lb)",
+        "general": "80–100 g",
+        "active": "160–220 g"
+      }
     ],
     "note": "For a target tailored to your exact weight, age and goal, use the calculator above."
   },
@@ -218,10 +257,22 @@
     "tableStage": "Life stage",
     "tableRange": "Recommended intake",
     "rows": [
-      { "stage": "General adult woman", "range": "1.2 – 1.6 g/kg" },
-      { "stage": "Pregnancy", "range": "+ ~25 g/day above baseline" },
-      { "stage": "Breastfeeding", "range": "+ ~25 g/day above baseline" },
-      { "stage": "Post-menopause", "range": "1.4 – 1.8 g/kg (supports bone & muscle)" }
+      {
+        "stage": "General adult woman",
+        "range": "1.2 – 1.6 g/kg"
+      },
+      {
+        "stage": "Pregnancy",
+        "range": "+ ~25 g/day above baseline"
+      },
+      {
+        "stage": "Breastfeeding",
+        "range": "+ ~25 g/day above baseline"
+      },
+      {
+        "stage": "Post-menopause",
+        "range": "1.4 – 1.8 g/kg (supports bone & muscle)"
+      }
     ],
     "note": "General guidance only — pregnant or breastfeeding women should confirm intake with their doctor or midwife."
   },
@@ -247,16 +298,46 @@
     "tableFood": "Food",
     "tableProtein": "Protein",
     "rows": [
-      { "food": "Chicken breast (100 g)", "protein": "31 g" },
-      { "food": "Greek yogurt (200 g)", "protein": "20 g" },
-      { "food": "Eggs (2 large)", "protein": "13 g" },
-      { "food": "Paneer / cottage cheese (100 g)", "protein": "18 g" },
-      { "food": "Lentils, cooked (1 cup)", "protein": "18 g" },
-      { "food": "Tofu (100 g)", "protein": "12 g" },
-      { "food": "Tuna (100 g)", "protein": "26 g" },
-      { "food": "Whey protein (1 scoop)", "protein": "24 g" },
-      { "food": "Almonds (30 g)", "protein": "6 g" },
-      { "food": "Milk (1 cup)", "protein": "8 g" }
+      {
+        "food": "Chicken breast (100 g)",
+        "protein": "31 g"
+      },
+      {
+        "food": "Greek yogurt (200 g)",
+        "protein": "20 g"
+      },
+      {
+        "food": "Eggs (2 large)",
+        "protein": "13 g"
+      },
+      {
+        "food": "Paneer / cottage cheese (100 g)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Lentils, cooked (1 cup)",
+        "protein": "18 g"
+      },
+      {
+        "food": "Tofu (100 g)",
+        "protein": "12 g"
+      },
+      {
+        "food": "Tuna (100 g)",
+        "protein": "26 g"
+      },
+      {
+        "food": "Whey protein (1 scoop)",
+        "protein": "24 g"
+      },
+      {
+        "food": "Almonds (30 g)",
+        "protein": "6 g"
+      },
+      {
+        "food": "Milk (1 cup)",
+        "protein": "8 g"
+      }
     ]
   },
   "dietTypes": {
@@ -311,5 +392,122 @@
   "footer": {
     "disclaimer": "This calculator provides general fitness guidance and is not a substitute for professional medical or nutritional advice.",
     "copyright": "© {year} Protein Intake Calculator. All rights reserved."
+  },
+  "topicPages": {
+    "sectionHeading": "More protein guides",
+    "items": {
+      "protein-for-men": {
+        "heading": "Protein Intake for Men: How Much Do You Need?",
+        "lead": "Most men need 0.8–1.0 g of protein per kg of body weight for general health, and 1.6–2.2 g/kg to build muscle or lose fat. For an 80 kg (176 lb) man, that is roughly 130–175 g of protein per day when training regularly.",
+        "paragraphs": [
+          "Because men on average carry more lean body mass, their absolute protein needs are higher than women's at the same body weight. A sedentary 80 kg man covers basic needs with 64–80 g per day, but that minimum only prevents deficiency — it is not optimal for body composition, strength or appetite control.",
+          "If you lift weights or play sports, research supports 1.6–2.2 g/kg per day. Spread it over three to four meals of 30–45 g each, keep one protein-rich meal within a few hours of training, and build your plates around lean meat, fish, eggs, dairy, legumes and tofu before reaching for supplements."
+        ],
+        "bullets": [
+          "Sedentary: 0.8–1.0 g/kg per day (64–80 g for an 80 kg man)",
+          "Muscle gain: 1.6–2.2 g/kg per day, paired with resistance training",
+          "Fat loss: 1.8–2.4 g/kg per day to protect muscle in a calorie deficit",
+          "Over 50: at least 1.2 g/kg per day to counter age-related muscle loss"
+        ]
+      },
+      "protein-for-seniors": {
+        "heading": "Protein for Seniors: Needs After 50, 60 and 70",
+        "lead": "Adults over 60 generally need 1.0–1.2 g of protein per kg of body weight per day — more than younger adults — and 1.2–1.5 g/kg when recovering from illness or fighting age-related muscle loss (sarcopenia).",
+        "paragraphs": [
+          "With age, muscles respond less efficiently to protein — a phenomenon called anabolic resistance. That is why geriatric nutrition experts recommend 1.0–1.2 g of protein per kg of body weight for healthy adults over 60, rising to 1.2–1.5 g/kg during illness or recovery, compared with 0.8 g/kg for younger adults.",
+          "Distribution matters as much as the total: aim for 25–30 g of protein at each main meal, including a leucine-rich source such as dairy, eggs, fish, meat or soy. Combining that intake with simple resistance exercise two to three times a week is the best-proven way to slow sarcopenia."
+        ],
+        "bullets": [
+          "Healthy adults over 60: 1.0–1.2 g/kg per day",
+          "Illness or recovery: 1.2–1.5 g/kg per day (ask your doctor)",
+          "Per meal: 25–30 g, including a leucine-rich source",
+          "Pair protein with strength exercise 2–3 times a week"
+        ]
+      },
+      "protein-for-teenagers": {
+        "heading": "Protein for Teenagers: How Much During Growth?",
+        "lead": "Teenagers need roughly 0.85–1.0 g of protein per kg of body weight per day to support growth, and active teen athletes can benefit from 1.2–1.6 g/kg. Balanced meals cover these amounts — supplements are rarely necessary.",
+        "paragraphs": [
+          "Protein needs per kilogram peak during the adolescent growth spurt, when the body is building bone, muscle and organ tissue at its fastest rate. Regular meals built around milk, yogurt, eggs, meat, fish, beans and nuts comfortably meet these needs for most teenagers without any special products.",
+          "Teen athletes training most days can aim for 1.2–1.6 g/kg, ideally as 20–40 g of protein per meal plus a protein-rich snack after practice. Keep the focus on real food first; protein powder is a convenience, not a requirement, and extreme diets during growth years can do lasting harm."
+        ],
+        "bullets": [
+          "General teens: 0.85–1.0 g/kg per day, from regular balanced meals",
+          "Teen athletes: 1.2–1.6 g/kg per day across 3–4 meals",
+          "Per meal: about 20–40 g depending on body size",
+          "Food first — protein supplements are rarely needed in adolescence"
+        ]
+      },
+      "protein-during-pregnancy": {
+        "heading": "Protein During Pregnancy and Breastfeeding",
+        "lead": "Pregnancy raises protein needs to roughly 1.1 g per kg of body weight per day — about 25 g extra compared with before — and breastfeeding keeps needs similarly elevated. Always confirm your personal target with your doctor or midwife.",
+        "paragraphs": [
+          "Protein requirements rise mainly in the second and third trimesters, as the baby, placenta and maternal tissues grow. Guidelines translate to roughly 1.1 g per kg per day — about 70–100 g for many women, or 25 g more than pre-pregnancy needs — and breastfeeding keeps requirements at a similar level.",
+          "Meet the target with foods that also supply iron, choline, iodine and calcium: eggs, dairy, low-mercury cooked fish, poultry, legumes, tofu and nuts. Avoid high-dose protein supplements unless your doctor or midwife recommends them, and treat this page as general information, not medical advice."
+        ],
+        "bullets": [
+          "Second and third trimester: about 1.1 g/kg per day (~25 g extra)",
+          "Breastfeeding: needs stay elevated at a similar level",
+          "Choose protein foods rich in iron, choline and calcium",
+          "Discuss supplements and personal targets with your doctor or midwife"
+        ]
+      },
+      "best-time-to-eat-protein": {
+        "heading": "Best Time to Eat Protein: Timing, Spacing and Workouts",
+        "lead": "Total daily protein matters far more than timing, but spreading it across 3–4 meals of 25–40 g each — including one within a few hours of training — gets the most muscle protein synthesis from the same grams.",
+        "paragraphs": [
+          "Studies comparing protein timing consistently find that total daily intake is the strongest driver of muscle growth and retention. The post-workout “anabolic window” is much wider than once believed — eating protein within a couple of hours before or after training works about equally well.",
+          "Distribution still helps: muscle protein synthesis is maximized around 0.4 g/kg per meal, roughly 25–40 g for most people. Spreading intake over 3–4 meals, adding protein at breakfast where most people eat the least, and taking 20–40 g of slow-digesting protein such as casein or Greek yogurt before bed round out an evidence-based routine."
+        ],
+        "bullets": [
+          "Hit your daily total first — timing is a refinement, not the foundation",
+          "Aim for 25–40 g of protein per meal, 3–4 times a day",
+          "Eat a protein-rich meal within ~2 hours before or after training",
+          "Slow protein (casein, Greek yogurt) before bed supports overnight recovery"
+        ]
+      },
+      "protein-shakes-per-day": {
+        "heading": "How Many Protein Shakes a Day? Do You Need Powder?",
+        "lead": "Protein shakes are a convenience, not a requirement. If whole foods leave you 30–60 g short of your daily target, one or two shakes a day is a practical way to close the gap — more than that rarely adds value.",
+        "paragraphs": [
+          "A shake is simply food in liquid form: one scoop of whey, casein, soy or pea protein provides about 25–30 g. If you already reach your daily target from meals, extra shakes add nothing but calories; if you are consistently short, one or two shakes are an easy, inexpensive fix.",
+          "Whole foods bring fiber, micronutrients and more satiety per calorie, so keep shakes in a gap-filling role. Choose third-party-tested powders, watch added sugars in ready-to-drink products, and consider whey isolate or plant-based options if regular dairy upsets your stomach."
+        ],
+        "bullets": [
+          "Zero shakes needed if meals already cover your protein target",
+          "1–2 shakes a day is a sensible practical maximum for most people",
+          "One scoop of powder ≈ 25–30 g of protein",
+          "Prefer third-party-tested powders and watch added sugar"
+        ]
+      },
+      "protein-for-diabetics": {
+        "heading": "Protein Intake for Diabetics and Blood Sugar Control",
+        "lead": "For most people with type 2 diabetes and healthy kidneys, 1.0–1.5 g of protein per kg of body weight supports satiety and steadier blood sugar. Kidney disease changes the math — individual targets belong with your doctor.",
+        "paragraphs": [
+          "Protein barely raises blood glucose, and it slows the absorption of carbohydrates eaten in the same meal. Distributing 25–35 g of protein across each meal can therefore flatten glucose spikes and improve satiety — particularly useful for weight management in type 2 diabetes.",
+          "For people with normal kidney function, 1.0–1.5 g/kg per day is generally considered safe and beneficial. In diabetic kidney disease, protein targets must be individualized — often closer to 0.8 g/kg — so review your intake with your doctor or dietitian before making significant changes."
+        ],
+        "bullets": [
+          "Normal kidney function: 1.0–1.5 g/kg per day is generally appropriate",
+          "25–35 g of protein per meal helps blunt glucose spikes",
+          "Favor lean and plant proteins: fish, poultry, legumes, tofu, dairy",
+          "Kidney disease: targets must be set with your doctor or dietitian"
+        ]
+      },
+      "protein-deficiency-signs": {
+        "heading": "Protein Deficiency: Signs You Are Not Eating Enough",
+        "lead": "Common signs of low protein intake include shrinking strength and muscle, constant hunger, slow recovery, hair shedding, brittle nails and frequent illness. Most adults stay safe above 0.8 g of protein per kg of body weight per day.",
+        "paragraphs": [
+          "True protein deficiency is rare in high-income countries, but suboptimal intake is common — especially among older adults, chronic dieters and people who skip meals. Early signs include losing strength, feeling hungry again soon after eating, slow wound healing and catching infections more often.",
+          "Hair shedding, brittle nails and, in severe cases, swelling (edema) reflect protein's structural and fluid-balance roles. The fix is straightforward: calculate your personal target with the calculator above, then anchor every meal with a palm-sized protein source. See a doctor if symptoms persist — several have non-dietary causes."
+        ],
+        "bullets": [
+          "Loss of muscle and strength despite normal activity",
+          "Constant hunger and cravings shortly after meals",
+          "Hair shedding, brittle nails and slow-healing skin",
+          "Frequent minor illnesses and sluggish recovery from training"
+        ]
+      }
+    }
   }
 }

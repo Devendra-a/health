@@ -126,8 +126,7 @@
       "dailyTotalLabel": "Tagesgesamtmenge",
       "dailyTotal": "Tagesgesamtmenge: {total} g",
       "note": "{perMeal} g × {meals} Mahlzeiten = {total} g Gesamtprotein pro Tag."
-    }
-,
+    },
     "foodPlan": {
       "heading": "So erreichen Sie {target}g mit Lebensmitteln",
       "dietLabel": "Ernährungstyp",
@@ -211,12 +210,36 @@
     "tableGeneral": "Allgemeine Gesundheit (0,8–1,0 g/kg)",
     "tableActive": "Aktiv oder Diät (1,6–2,2 g/kg)",
     "rows": [
-      { "weight": "50 kg (110 lb)", "general": "40–50 g", "active": "80–110 g" },
-      { "weight": "60 kg (132 lb)", "general": "48–60 g", "active": "96–132 g" },
-      { "weight": "70 kg (154 lb)", "general": "56–70 g", "active": "112–154 g" },
-      { "weight": "80 kg (176 lb)", "general": "64–80 g", "active": "128–176 g" },
-      { "weight": "90 kg (198 lb)", "general": "72–90 g", "active": "144–198 g" },
-      { "weight": "100 kg (220 lb)", "general": "80–100 g", "active": "160–220 g" }
+      {
+        "weight": "50 kg (110 lb)",
+        "general": "40–50 g",
+        "active": "80–110 g"
+      },
+      {
+        "weight": "60 kg (132 lb)",
+        "general": "48–60 g",
+        "active": "96–132 g"
+      },
+      {
+        "weight": "70 kg (154 lb)",
+        "general": "56–70 g",
+        "active": "112–154 g"
+      },
+      {
+        "weight": "80 kg (176 lb)",
+        "general": "64–80 g",
+        "active": "128–176 g"
+      },
+      {
+        "weight": "90 kg (198 lb)",
+        "general": "72–90 g",
+        "active": "144–198 g"
+      },
+      {
+        "weight": "100 kg (220 lb)",
+        "general": "80–100 g",
+        "active": "160–220 g"
+      }
     ],
     "note": "Für ein Ziel, das genau auf Ihr Gewicht, Alter und Ziel zugeschnitten ist, nutzen Sie den Rechner oben."
   },
@@ -369,5 +392,122 @@
   "footer": {
     "disclaimer": "Dieser Rechner bietet allgemeine Fitness-Orientierung und ersetzt keine professionelle medizinische oder ernährungswissenschaftliche Beratung.",
     "copyright": "© {year} Protein-Rechner. Alle Rechte vorbehalten."
+  },
+  "topicPages": {
+    "sectionHeading": "Weitere Protein-Ratgeber",
+    "items": {
+      "protein-for-men": {
+        "heading": "Proteinbedarf für Männer: Wie viel brauchst du?",
+        "lead": "Die meisten Männer benötigen 0,8–1,0 g Protein pro kg Körpergewicht für die allgemeine Gesundheit und 1,6–2,2 g/kg für Muskelaufbau oder Fettabbau. Für einen 80-kg-Mann sind das bei regelmäßigem Training etwa 130–175 g Protein pro Tag.",
+        "paragraphs": [
+          "Da Männer im Durchschnitt mehr Magermasse haben, ist ihr absoluter Proteinbedarf bei gleichem Körpergewicht höher als der von Frauen. Ein inaktiver 80-kg-Mann deckt den Grundbedarf mit 64–80 g pro Tag — dieses Minimum verhindert aber nur einen Mangel und ist weder für Körperkomposition noch für Kraft oder Appetitkontrolle optimal.",
+          "Wer Krafttraining oder Sport betreibt, fährt laut Forschung mit 1,6–2,2 g/kg pro Tag am besten. Verteile die Menge auf drei bis vier Mahlzeiten mit je 30–45 g, lege eine proteinreiche Mahlzeit in die Stunden rund ums Training und baue deine Teller auf magerem Fleisch, Fisch, Eiern, Milchprodukten, Hülsenfrüchten und Tofu auf, bevor du zu Supplementen greifst."
+        ],
+        "bullets": [
+          "Inaktiv: 0,8–1,0 g/kg pro Tag (64–80 g für einen 80-kg-Mann)",
+          "Muskelaufbau: 1,6–2,2 g/kg pro Tag, kombiniert mit Krafttraining",
+          "Fettabbau: 1,8–2,4 g/kg pro Tag, um Muskeln im Kaloriendefizit zu schützen",
+          "Ab 50: mindestens 1,2 g/kg pro Tag gegen altersbedingten Muskelabbau"
+        ]
+      },
+      "protein-for-seniors": {
+        "heading": "Protein für Senioren: Bedarf ab 50, 60 und 70",
+        "lead": "Erwachsene über 60 benötigen in der Regel 1,0–1,2 g Protein pro kg Körpergewicht pro Tag — mehr als jüngere Erwachsene — und 1,2–1,5 g/kg bei Genesung oder gegen altersbedingten Muskelabbau (Sarkopenie).",
+        "paragraphs": [
+          "Mit dem Alter reagieren Muskeln schlechter auf Protein — man spricht von anaboler Resistenz. Deshalb empfehlen Fachleute für Altersernährung gesunden Erwachsenen über 60 Jahre 1,0–1,2 g Protein pro kg Körpergewicht und 1,2–1,5 g/kg während Krankheit oder Genesung — gegenüber 0,8 g/kg bei jüngeren Erwachsenen.",
+          "Die Verteilung zählt genauso wie die Gesamtmenge: Ziele auf 25–30 g Protein pro Hauptmahlzeit, inklusive einer leucinreichen Quelle wie Milchprodukte, Eier, Fisch, Fleisch oder Soja. Diese Zufuhr mit einfachem Krafttraining zwei- bis dreimal pro Woche zu kombinieren, ist der am besten belegte Weg, Sarkopenie zu bremsen."
+        ],
+        "bullets": [
+          "Gesunde Erwachsene über 60: 1,0–1,2 g/kg pro Tag",
+          "Krankheit oder Genesung: 1,2–1,5 g/kg pro Tag (ärztlich abklären)",
+          "Pro Mahlzeit: 25–30 g, inklusive einer leucinreichen Quelle",
+          "Protein mit Krafttraining 2–3-mal pro Woche kombinieren"
+        ]
+      },
+      "protein-for-teenagers": {
+        "heading": "Protein für Jugendliche: Wie viel im Wachstum?",
+        "lead": "Jugendliche benötigen etwa 0,85–1,0 g Protein pro kg Körpergewicht pro Tag für das Wachstum; sportlich aktive Teenager profitieren von 1,2–1,6 g/kg. Ausgewogene Mahlzeiten decken diese Mengen — Supplemente sind selten nötig.",
+        "paragraphs": [
+          "Der Proteinbedarf pro Kilogramm erreicht seinen Höhepunkt während des Wachstumsschubs, wenn der Körper Knochen, Muskeln und Gewebe in Rekordtempo aufbaut. Regelmäßige Mahlzeiten mit Milch, Joghurt, Eiern, Fleisch, Fisch, Hülsenfrüchten und Nüssen decken diesen Bedarf für die meisten Jugendlichen problemlos.",
+          "Jugendliche Sportler mit fast täglichem Training können 1,2–1,6 g/kg anpeilen, idealerweise als 20–40 g Protein pro Mahlzeit plus einen proteinreichen Snack nach dem Training. Echte Lebensmittel stehen an erster Stelle; Proteinpulver ist Bequemlichkeit, keine Notwendigkeit — und extreme Diäten in den Wachstumsjahren können bleibende Schäden anrichten."
+        ],
+        "bullets": [
+          "Jugendliche allgemein: 0,85–1,0 g/kg pro Tag aus ausgewogenen Mahlzeiten",
+          "Jugendliche Sportler: 1,2–1,6 g/kg pro Tag auf 3–4 Mahlzeiten verteilt",
+          "Pro Mahlzeit: etwa 20–40 g je nach Körpergröße",
+          "Lebensmittel zuerst — Supplemente sind in der Jugend selten nötig"
+        ]
+      },
+      "protein-during-pregnancy": {
+        "heading": "Protein in Schwangerschaft und Stillzeit",
+        "lead": "In der Schwangerschaft steigt der Proteinbedarf auf etwa 1,1 g pro kg Körpergewicht pro Tag — rund 25 g mehr als zuvor — und in der Stillzeit bleibt er ähnlich erhöht. Kläre dein persönliches Ziel immer mit Arzt, Ärztin oder Hebamme ab.",
+        "paragraphs": [
+          "Der Proteinbedarf steigt vor allem im zweiten und dritten Trimester, wenn Baby, Plazenta und mütterliches Gewebe wachsen. Die Empfehlungen entsprechen etwa 1,1 g pro kg pro Tag — für viele Frauen 70–100 g, also rund 25 g mehr als vor der Schwangerschaft — und die Stillzeit hält den Bedarf auf ähnlichem Niveau.",
+          "Erreiche das Ziel mit Lebensmitteln, die zugleich Eisen, Cholin, Jod und Kalzium liefern: Eier, Milchprodukte, durchgegarter quecksilberarmer Fisch, Geflügel, Hülsenfrüchte, Tofu und Nüsse. Verzichte auf hochdosierte Proteinsupplemente, sofern Arzt, Ärztin oder Hebamme sie nicht empfehlen — und betrachte diese Seite als allgemeine Information, nicht als medizinischen Rat."
+        ],
+        "bullets": [
+          "Zweites und drittes Trimester: etwa 1,1 g/kg pro Tag (~25 g mehr)",
+          "Stillzeit: der Bedarf bleibt auf ähnlichem Niveau erhöht",
+          "Wähle Proteinquellen, die auch Eisen, Cholin und Kalzium liefern",
+          "Supplemente und persönliche Ziele mit Arzt oder Hebamme besprechen"
+        ]
+      },
+      "best-time-to-eat-protein": {
+        "heading": "Beste Zeit für Protein: Timing, Verteilung und Training",
+        "lead": "Die tägliche Gesamtmenge zählt weit mehr als das Timing — doch wer sie auf 3–4 Mahlzeiten mit je 25–40 g verteilt, davon eine wenige Stunden ums Training, holt aus denselben Gramm die maximale Muskelproteinsynthese heraus.",
+        "paragraphs": [
+          "Studien zum Protein-Timing zeigen durchweg: Die tägliche Gesamtzufuhr ist der stärkste Faktor für Muskelaufbau und -erhalt. Das „anabole Fenster“ nach dem Training ist viel größer als früher angenommen — Protein innerhalb von etwa zwei Stunden vor oder nach dem Training wirkt praktisch gleich gut.",
+          "Die Verteilung hilft trotzdem: Die Muskelproteinsynthese ist bei rund 0,4 g/kg pro Mahlzeit maximal, also etwa 25–40 g für die meisten. Die Zufuhr auf 3–4 Mahlzeiten verteilen, das Frühstück aufwerten — dort essen die meisten am wenigsten Protein — und 20–40 g langsames Protein wie Casein oder griechischen Joghurt vor dem Schlafen runden eine evidenzbasierte Routine ab."
+        ],
+        "bullets": [
+          "Erst die Tagesmenge erreichen — Timing ist Feinschliff, nicht Fundament",
+          "25–40 g Protein pro Mahlzeit anpeilen, 3–4-mal täglich",
+          "Eine proteinreiche Mahlzeit ~2 Stunden vor oder nach dem Training",
+          "Langsames Protein (Casein, griechischer Joghurt) vor dem Schlafen unterstützt die nächtliche Regeneration"
+        ]
+      },
+      "protein-shakes-per-day": {
+        "heading": "Wie viele Proteinshakes pro Tag? Brauchst du Pulver?",
+        "lead": "Proteinshakes sind Bequemlichkeit, keine Pflicht. Fehlen dir mit normalem Essen 30–60 g bis zu deinem Tagesziel, schließen ein bis zwei Shakes pro Tag die Lücke praktisch — mehr bringt selten einen Mehrwert.",
+        "paragraphs": [
+          "Ein Shake ist schlicht Nahrung in flüssiger Form: Ein Messlöffel Whey, Casein, Soja- oder Erbsenprotein liefert etwa 25–30 g. Wer sein Tagesziel bereits über Mahlzeiten erreicht, gewinnt durch zusätzliche Shakes nur Kalorien; wer regelmäßig darunter liegt, hat mit ein bis zwei Shakes eine einfache, günstige Lösung.",
+          "Vollwertige Lebensmittel liefern Ballaststoffe, Mikronährstoffe und mehr Sättigung pro Kalorie — Shakes sollten also Lückenfüller bleiben. Wähle unabhängig geprüfte Pulver, achte bei Fertigdrinks auf zugesetzten Zucker und weiche auf Whey-Isolat oder pflanzliche Optionen aus, wenn du Milchprodukte schlecht verträgst."
+        ],
+        "bullets": [
+          "Null Shakes nötig, wenn Mahlzeiten dein Proteinziel bereits decken",
+          "1–2 Shakes pro Tag sind für die meisten ein sinnvolles Maximum",
+          "Ein Messlöffel Pulver ≈ 25–30 g Protein",
+          "Unabhängig geprüfte Pulver bevorzugen und auf zugesetzten Zucker achten"
+        ]
+      },
+      "protein-for-diabetics": {
+        "heading": "Protein bei Diabetes und Blutzuckerkontrolle",
+        "lead": "Für die meisten Menschen mit Typ-2-Diabetes und gesunden Nieren unterstützen 1,0–1,5 g Protein pro kg Körpergewicht die Sättigung und einen stabileren Blutzucker. Eine Nierenerkrankung ändert die Rechnung — individuelle Ziele gehören in ärztliche Hände.",
+        "paragraphs": [
+          "Protein erhöht den Blutzucker kaum und verlangsamt die Aufnahme der Kohlenhydrate derselben Mahlzeit. 25–35 g Protein pro Mahlzeit zu verteilen kann daher Glukosespitzen abflachen und die Sättigung verbessern — besonders hilfreich fürs Gewichtsmanagement bei Typ-2-Diabetes.",
+          "Bei normaler Nierenfunktion gelten 1,0–1,5 g/kg pro Tag allgemein als sicher und vorteilhaft. Bei diabetischer Nierenerkrankung müssen Proteinziele individuell festgelegt werden — oft näher an 0,8 g/kg. Besprich deine Zufuhr daher mit Arzt, Ärztin oder Ernährungsberatung, bevor du größere Änderungen vornimmst."
+        ],
+        "bullets": [
+          "Normale Nierenfunktion: 1,0–1,5 g/kg pro Tag sind in der Regel angemessen",
+          "25–35 g Protein pro Mahlzeit dämpfen Glukosespitzen",
+          "Magere und pflanzliche Quellen bevorzugen: Fisch, Geflügel, Hülsenfrüchte, Tofu, Milchprodukte",
+          "Nierenerkrankung: Ziele gehören in ärztliche oder diätologische Betreuung"
+        ]
+      },
+      "protein-deficiency-signs": {
+        "heading": "Proteinmangel: Anzeichen, dass du zu wenig isst",
+        "lead": "Häufige Anzeichen zu geringer Proteinzufuhr: schwindende Kraft und Muskeln, ständiger Hunger, langsame Regeneration, Haarausfall, brüchige Nägel und häufige Infekte. Die meisten Erwachsenen sind oberhalb von 0,8 g pro kg Körpergewicht pro Tag auf der sicheren Seite.",
+        "paragraphs": [
+          "Ein echter Proteinmangel ist in wohlhabenden Ländern selten, eine suboptimale Zufuhr dagegen häufig — besonders bei älteren Menschen, Dauerdiätenden und allen, die Mahlzeiten auslassen. Frühe Anzeichen: nachlassende Kraft, schnell wiederkehrender Hunger nach dem Essen, langsame Wundheilung und häufigere Infekte.",
+          "Haarausfall, brüchige Nägel und in schweren Fällen Wassereinlagerungen (Ödeme) spiegeln die Struktur- und Flüssigkeitsfunktionen von Protein wider. Die Lösung ist einfach: Berechne dein persönliches Ziel mit dem Rechner oben und verankere jede Mahlzeit mit einer handtellergroßen Proteinquelle. Bei anhaltenden Beschwerden ärztlich abklären lassen — mehrere Ursachen liegen außerhalb der Ernährung."
+        ],
+        "bullets": [
+          "Muskel- und Kraftverlust trotz normaler Aktivität",
+          "Ständiger Hunger und Heißhunger kurz nach den Mahlzeiten",
+          "Haarausfall, brüchige Nägel und langsam heilende Haut",
+          "Häufige kleine Infekte und zähe Regeneration nach dem Training"
+        ]
+      }
+    }
   }
 }

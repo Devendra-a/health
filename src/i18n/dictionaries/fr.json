@@ -210,12 +210,36 @@
     "tableGeneral": "Santé générale (0,8–1,0 g/kg)",
     "tableActive": "Actif ou au régime (1,6–2,2 g/kg)",
     "rows": [
-      { "weight": "50 kg (110 lb)", "general": "40–50 g", "active": "80–110 g" },
-      { "weight": "60 kg (132 lb)", "general": "48–60 g", "active": "96–132 g" },
-      { "weight": "70 kg (154 lb)", "general": "56–70 g", "active": "112–154 g" },
-      { "weight": "80 kg (176 lb)", "general": "64–80 g", "active": "128–176 g" },
-      { "weight": "90 kg (198 lb)", "general": "72–90 g", "active": "144–198 g" },
-      { "weight": "100 kg (220 lb)", "general": "80–100 g", "active": "160–220 g" }
+      {
+        "weight": "50 kg (110 lb)",
+        "general": "40–50 g",
+        "active": "80–110 g"
+      },
+      {
+        "weight": "60 kg (132 lb)",
+        "general": "48–60 g",
+        "active": "96–132 g"
+      },
+      {
+        "weight": "70 kg (154 lb)",
+        "general": "56–70 g",
+        "active": "112–154 g"
+      },
+      {
+        "weight": "80 kg (176 lb)",
+        "general": "64–80 g",
+        "active": "128–176 g"
+      },
+      {
+        "weight": "90 kg (198 lb)",
+        "general": "72–90 g",
+        "active": "144–198 g"
+      },
+      {
+        "weight": "100 kg (220 lb)",
+        "general": "80–100 g",
+        "active": "160–220 g"
+      }
     ],
     "note": "Pour un objectif adapté à votre poids, âge et but exacts, utilisez la calculatrice ci-dessus."
   },
@@ -368,5 +392,122 @@
   "footer": {
     "disclaimer": "Ce calculateur fournit des conseils généraux de fitness et ne remplace pas un avis médical ou nutritionnel professionnel.",
     "copyright": "© {year} Calculateur d'Apport en Protéines. Tous droits réservés."
+  },
+  "topicPages": {
+    "sectionHeading": "Plus de guides sur les protéines",
+    "items": {
+      "protein-for-men": {
+        "heading": "Protéines pour les hommes : de combien avez-vous besoin ?",
+        "lead": "La plupart des hommes ont besoin de 0,8–1,0 g de protéines par kg de poids corporel pour la santé générale, et de 1,6–2,2 g/kg pour prendre du muscle ou perdre du gras. Pour un homme de 80 kg, cela représente environ 130–175 g de protéines par jour en cas d'entraînement régulier.",
+        "paragraphs": [
+          "Les hommes ayant en moyenne plus de masse maigre, leurs besoins absolus en protéines sont supérieurs à ceux des femmes à poids égal. Un homme sédentaire de 80 kg couvre ses besoins de base avec 64–80 g par jour, mais ce minimum ne fait qu'éviter la carence : il n'est optimal ni pour la composition corporelle, ni pour la force, ni pour le contrôle de l'appétit.",
+          "Si vous faites de la musculation ou du sport, la recherche soutient 1,6–2,2 g/kg par jour. Répartissez-les sur trois à quatre repas de 30–45 g, placez un repas riche en protéines à quelques heures de l'entraînement, et composez vos assiettes autour de viande maigre, poisson, œufs, produits laitiers, légumineuses et tofu avant de penser aux compléments."
+        ],
+        "bullets": [
+          "Sédentaire : 0,8–1,0 g/kg par jour (64–80 g pour un homme de 80 kg)",
+          "Prise de muscle : 1,6–2,2 g/kg par jour, associés à la musculation",
+          "Perte de gras : 1,8–2,4 g/kg par jour pour préserver le muscle en déficit calorique",
+          "Après 50 ans : au moins 1,2 g/kg par jour pour freiner la fonte musculaire liée à l'âge"
+        ]
+      },
+      "protein-for-seniors": {
+        "heading": "Protéines pour les seniors : besoins après 50, 60 et 70 ans",
+        "lead": "Les adultes de plus de 60 ans ont généralement besoin de 1,0–1,2 g de protéines par kg de poids corporel par jour — plus que les adultes jeunes — et de 1,2–1,5 g/kg en cas de convalescence ou de lutte contre la fonte musculaire liée à l'âge (sarcopénie).",
+        "paragraphs": [
+          "Avec l'âge, les muscles répondent moins bien aux protéines : c'est la résistance anabolique. C'est pourquoi les experts en nutrition gériatrique recommandent 1,0–1,2 g de protéines par kg de poids corporel pour les adultes en bonne santé de plus de 60 ans, et 1,2–1,5 g/kg pendant une maladie ou une convalescence, contre 0,8 g/kg pour les adultes jeunes.",
+          "La répartition compte autant que le total : visez 25–30 g de protéines à chaque repas principal, avec une source riche en leucine comme les produits laitiers, les œufs, le poisson, la viande ou le soja. Associer cet apport à des exercices de renforcement simples deux à trois fois par semaine est le moyen le mieux démontré de ralentir la sarcopénie."
+        ],
+        "bullets": [
+          "Adultes en bonne santé de plus de 60 ans : 1,0–1,2 g/kg par jour",
+          "Maladie ou convalescence : 1,2–1,5 g/kg par jour (demandez à votre médecin)",
+          "Par repas : 25–30 g, avec une source riche en leucine",
+          "Associez les protéines à du renforcement musculaire 2–3 fois par semaine"
+        ]
+      },
+      "protein-for-teenagers": {
+        "heading": "Protéines pour les adolescents : combien pendant la croissance ?",
+        "lead": "Les adolescents ont besoin d'environ 0,85–1,0 g de protéines par kg de poids corporel par jour pour soutenir leur croissance, et les jeunes sportifs peuvent bénéficier de 1,2–1,6 g/kg. Des repas équilibrés couvrent ces quantités — les compléments sont rarement nécessaires.",
+        "paragraphs": [
+          "Les besoins en protéines par kilogramme culminent pendant la poussée de croissance, lorsque le corps construit os, muscles et tissus à son rythme le plus rapide. Des repas réguliers autour du lait, du yaourt, des œufs, de la viande, du poisson, des légumineuses et des fruits à coque couvrent largement ces besoins pour la plupart des adolescents.",
+          "Les jeunes sportifs qui s'entraînent presque tous les jours peuvent viser 1,2–1,6 g/kg, idéalement 20–40 g de protéines par repas plus une collation protéinée après l'entraînement. Priorité aux vrais aliments : la poudre de protéines est une commodité, pas une nécessité, et les régimes extrêmes pendant la croissance peuvent causer des dommages durables."
+        ],
+        "bullets": [
+          "Adolescents en général : 0,85–1,0 g/kg par jour, via des repas équilibrés",
+          "Jeunes sportifs : 1,2–1,6 g/kg par jour répartis sur 3–4 repas",
+          "Par repas : environ 20–40 g selon la corpulence",
+          "Les aliments d'abord — les compléments sont rarement utiles à l'adolescence"
+        ]
+      },
+      "protein-during-pregnancy": {
+        "heading": "Protéines pendant la grossesse et l'allaitement",
+        "lead": "La grossesse porte les besoins en protéines à environ 1,1 g par kg de poids corporel par jour — soit environ 25 g de plus — et l'allaitement les maintient à un niveau similaire. Confirmez toujours votre objectif personnel avec votre médecin ou votre sage-femme.",
+        "paragraphs": [
+          "Les besoins en protéines augmentent surtout aux deuxième et troisième trimestres, à mesure que grandissent le bébé, le placenta et les tissus maternels. Les recommandations équivalent à environ 1,1 g par kg par jour — soit 70–100 g pour beaucoup de femmes, ou 25 g de plus qu'avant la grossesse — et l'allaitement maintient des besoins comparables.",
+          "Atteignez cet objectif avec des aliments qui apportent aussi fer, choline, iode et calcium : œufs, produits laitiers, poisson cuit pauvre en mercure, volaille, légumineuses, tofu et fruits à coque. Évitez les compléments protéinés fortement dosés sauf avis de votre médecin ou sage-femme, et considérez cette page comme une information générale, pas un avis médical."
+        ],
+        "bullets": [
+          "Deuxième et troisième trimestres : environ 1,1 g/kg par jour (~25 g de plus)",
+          "Allaitement : les besoins restent élevés à un niveau similaire",
+          "Choisissez des aliments protéinés riches en fer, choline et calcium",
+          "Parlez compléments et objectifs personnels avec votre médecin ou sage-femme"
+        ]
+      },
+      "best-time-to-eat-protein": {
+        "heading": "Meilleur moment pour manger des protéines : timing, répartition et entraînement",
+        "lead": "Le total quotidien de protéines compte bien plus que le moment, mais le répartir sur 3–4 repas de 25–40 g — dont un à quelques heures de l'entraînement — tire le maximum de synthèse musculaire des mêmes grammes.",
+        "paragraphs": [
+          "Les études comparant les horaires de prise de protéines montrent de façon constante que l'apport quotidien total est le facteur le plus déterminant pour la croissance et le maintien musculaires. La « fenêtre anabolique » après l'entraînement est bien plus large qu'on ne le pensait : manger des protéines dans les deux heures avant ou après la séance fonctionne à peu près aussi bien.",
+          "La répartition aide malgré tout : la synthèse des protéines musculaires est maximale autour de 0,4 g/kg par repas, soit environ 25–40 g pour la plupart des gens. Répartir l'apport sur 3–4 repas, renforcer le petit-déjeuner — le repas le plus pauvre en protéines chez la plupart — et prendre 20–40 g de protéines lentes comme la caséine ou le yaourt grec avant le coucher complètent une routine fondée sur les preuves."
+        ],
+        "bullets": [
+          "Atteignez d'abord votre total quotidien — le timing est un raffinement, pas la base",
+          "Visez 25–40 g de protéines par repas, 3–4 fois par jour",
+          "Prenez un repas riche en protéines dans les ~2 heures avant ou après l'entraînement",
+          "Des protéines lentes (caséine, yaourt grec) avant le coucher soutiennent la récupération nocturne"
+        ]
+      },
+      "protein-shakes-per-day": {
+        "heading": "Combien de shakes protéinés par jour ? La poudre est-elle nécessaire ?",
+        "lead": "Les shakes protéinés sont une commodité, pas une nécessité. S'il vous manque 30–60 g pour atteindre votre objectif quotidien avec les aliments, un ou deux shakes par jour comblent l'écart de façon pratique ; au-delà, l'intérêt est rare.",
+        "paragraphs": [
+          "Un shake n'est que de la nourriture sous forme liquide : une dose de whey, de caséine, de protéines de soja ou de pois apporte environ 25–30 g. Si vos repas couvrent déjà votre objectif quotidien, les shakes supplémentaires n'ajoutent que des calories ; si vous êtes régulièrement en dessous, un ou deux shakes sont une solution simple et économique.",
+          "Les aliments entiers apportent fibres, micronutriments et davantage de satiété par calorie : gardez donc aux shakes leur rôle de complément. Choisissez des poudres testées par des organismes indépendants, surveillez les sucres ajoutés des boissons prêtes à l'emploi, et pensez à l'isolat de whey ou aux options végétales si les produits laitiers vous dérangent."
+        ],
+        "bullets": [
+          "Zéro shake nécessaire si vos repas couvrent déjà votre objectif",
+          "1–2 shakes par jour : un maximum pratique raisonnable pour la plupart",
+          "Une dose de poudre ≈ 25–30 g de protéines",
+          "Préférez des poudres testées par des tiers et surveillez le sucre ajouté"
+        ]
+      },
+      "protein-for-diabetics": {
+        "heading": "Protéines pour les diabétiques et contrôle de la glycémie",
+        "lead": "Pour la plupart des personnes diabétiques de type 2 aux reins sains, 1,0–1,5 g de protéines par kg de poids corporel favorise la satiété et une glycémie plus stable. Une maladie rénale change la donne : l'objectif individuel se fixe avec votre médecin.",
+        "paragraphs": [
+          "Les protéines élèvent à peine la glycémie et ralentissent l'absorption des glucides consommés au même repas. Répartir 25–35 g de protéines sur chaque repas peut donc lisser les pics de glucose et améliorer la satiété — particulièrement utile pour la gestion du poids dans le diabète de type 2.",
+          "Pour les personnes à la fonction rénale normale, 1,0–1,5 g/kg par jour est généralement considéré comme sûr et bénéfique. En cas de néphropathie diabétique, les objectifs protéiques doivent être individualisés — souvent plus près de 0,8 g/kg — : faites le point avec votre médecin ou votre diététicien avant tout changement important."
+        ],
+        "bullets": [
+          "Fonction rénale normale : 1,0–1,5 g/kg par jour convient généralement",
+          "25–35 g de protéines par repas aident à atténuer les pics de glycémie",
+          "Privilégiez les protéines maigres et végétales : poisson, volaille, légumineuses, tofu, laitages",
+          "Maladie rénale : les objectifs se fixent avec votre médecin ou diététicien"
+        ]
+      },
+      "protein-deficiency-signs": {
+        "heading": "Carence en protéines : les signes d'un apport insuffisant",
+        "lead": "Les signes fréquents d'un apport insuffisant en protéines : perte de force et de muscle, faim constante, récupération lente, chute de cheveux, ongles cassants et infections à répétition. La plupart des adultes sont à l'abri au-dessus de 0,8 g par kg de poids corporel par jour.",
+        "paragraphs": [
+          "La vraie carence en protéines est rare dans les pays à revenu élevé, mais un apport sous-optimal est courant — surtout chez les personnes âgées, les personnes au régime chronique et celles qui sautent des repas. Les premiers signes : perte de force, faim qui revient vite après les repas, cicatrisation lente et infections plus fréquentes.",
+          "La chute de cheveux, les ongles cassants et, dans les cas sévères, les œdèmes reflètent les rôles structurels et d'équilibre hydrique des protéines. La solution est simple : calculez votre objectif personnel avec le calculateur ci-dessus, puis ancrez chaque repas avec une source de protéines de la taille de votre paume. Consultez un médecin si les symptômes persistent — plusieurs ont des causes non alimentaires."
+        ],
+        "bullets": [
+          "Perte de muscle et de force malgré une activité normale",
+          "Faim constante et fringales peu après les repas",
+          "Chute de cheveux, ongles cassants et peau qui cicatrise lentement",
+          "Petites infections fréquentes et récupération sportive laborieuse"
+        ]
+      }
+    }
   }
 }

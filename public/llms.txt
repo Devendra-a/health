@@ -10,25 +10,39 @@
 - Athletic / endurance performance: 1.8–3.1 g/kg.
 - Per meal: aim for 25–40 g of protein across 3–4 meals for steady muscle protein synthesis.
 - Women: same weight-based ranges as men; pregnancy and breastfeeding add ~25 g/day; post-menopause 1.4–1.8 g/kg to protect bone and muscle.
-- Older adults (60+): often need 1.2–1.6 g/kg to offset age-related muscle loss (sarcopenia).
+- Older adults (60+): often need 1.0–1.2 g/kg (1.2–1.5 g/kg in illness or recovery) to offset age-related muscle loss (sarcopenia).
+- Teenagers: 0.85–1.0 g/kg for growth; teen athletes 1.2–1.6 g/kg from food first.
 - On GLP-1 medications (Ozempic, Wegovy, Mounjaro): appetite drops, so prioritize protein first at each meal and target the higher end of the range.
+- Type 2 diabetes with healthy kidneys: 1.0–1.5 g/kg supports satiety and steadier glucose; kidney disease requires individualized targets.
+- Timing: total daily intake matters most; the post-workout "anabolic window" spans roughly 2 hours before to 2 hours after training.
+- Protein shakes: a convenience, not a requirement — 1–2 shakes/day (~25–30 g per scoop) to fill the gap left by whole foods.
 
 ## Main pages
 
-- [Protein Intake Calculator (English)](https://www.proteinintakecalculators.online/en): Interactive calculator plus guidance on how much protein you need per day, protein by body weight, weight loss, muscle gain, women's needs, GLP-1 medications, high-protein foods, and a vegetarian/vegan food planner.
+- [Protein Intake Calculator (English)](https://www.proteinintakecalculators.online/en): Interactive calculator plus guidance on daily protein needs by weight, goal and life stage.
 
-## Topics covered
+## Topic guides (English)
 
-- [How much protein per day](https://www.proteinintakecalculators.online/en#how-it-works): Weight-based daily protein ranges by goal and activity level.
-- [Protein for weight loss](https://www.proteinintakecalculators.online/en): Why 1.6–2.4 g/kg preserves muscle and controls hunger during a calorie deficit.
-- [Protein for muscle gain](https://www.proteinintakecalculators.online/en): 1.6–2.2 g/kg with resistance training and a calorie surplus, spread across 3–4 meals.
-- [High-protein foods list](https://www.proteinintakecalculators.online/en): Protein content of common foods (chicken, eggs, Greek yogurt, paneer, lentils, tofu, tuna, whey).
-- [Vegetarian & vegan protein](https://www.proteinintakecalculators.online/en): Same targets, plant- and dairy-based sourcing with a sample day.
+- [Protein for weight loss](https://www.proteinintakecalculators.online/en/protein-for-weight-loss): Why 1.6–2.2 g/kg preserves muscle and controls hunger during a calorie deficit.
+- [Protein for muscle gain](https://www.proteinintakecalculators.online/en/protein-for-muscle-gain): 1.6–2.2 g/kg with resistance training and a calorie surplus, spread across 3–4 meals.
+- [Protein for women](https://www.proteinintakecalculators.online/en/protein-for-women): Weight-based ranges by life stage, including pregnancy and menopause.
+- [Protein on Ozempic / Wegovy](https://www.proteinintakecalculators.online/en/protein-on-ozempic-wegovy): Hitting protein targets when GLP-1 medication reduces appetite.
+- [High-protein foods list](https://www.proteinintakecalculators.online/en/high-protein-foods): Protein content of common foods (chicken, eggs, Greek yogurt, paneer, lentils, tofu, tuna, whey).
+- [Protein by body weight](https://www.proteinintakecalculators.online/en/protein-by-body-weight): Daily gram targets for common body weights, general and active.
+- [Vegetarian & vegan protein](https://www.proteinintakecalculators.online/en/vegetarian-vegan-protein): Same targets, plant- and dairy-based sourcing.
+- [Protein for men](https://www.proteinintakecalculators.online/en/protein-for-men): Ranges for sedentary, muscle gain, fat loss and over-50 men.
+- [Protein for seniors](https://www.proteinintakecalculators.online/en/protein-for-seniors): 1.0–1.2 g/kg after 60, anabolic resistance and sarcopenia prevention.
+- [Protein for teenagers](https://www.proteinintakecalculators.online/en/protein-for-teenagers): Growth-stage needs and food-first guidance for teen athletes.
+- [Protein during pregnancy](https://www.proteinintakecalculators.online/en/protein-during-pregnancy): ~1.1 g/kg in the second and third trimesters and while breastfeeding.
+- [Best time to eat protein](https://www.proteinintakecalculators.online/en/best-time-to-eat-protein): Timing, per-meal distribution and the anabolic window, evidence-based.
+- [Protein shakes per day](https://www.proteinintakecalculators.online/en/protein-shakes-per-day): How many shakes make sense and when powder is (not) needed.
+- [Protein for diabetics](https://www.proteinintakecalculators.online/en/protein-for-diabetics): Blood-sugar-friendly protein targets and kidney-disease caveats.
+- [Protein deficiency signs](https://www.proteinintakecalculators.online/en/protein-deficiency-signs): Symptoms of low protein intake and how to fix them.
 - [FAQ](https://www.proteinintakecalculators.online/en#faq): Common questions on daily needs, per-meal amounts, GLP-1 medications, older adults and safety.
 
 ## Languages
 
-Available in English (en), Spanish (es), French (fr), German (de), Portuguese (pt), Italian (it), Dutch (nl) and Arabic (ar) at https://www.proteinintakecalculators.online/{lang}
+Available in English (en), Spanish (es), French (fr), German (de), Portuguese (pt), Italian (it), Dutch (nl) and Arabic (ar) at https://www.proteinintakecalculators.online/{lang} — every topic guide exists in all eight languages with localized URLs (see the sitemap at https://www.proteinintakecalculators.online/sitemap.xml).
 
 ## Notes
 

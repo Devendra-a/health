@@ -210,12 +210,36 @@
     "tableGeneral": "Salute generale (0,8–1,0 g/kg)",
     "tableActive": "Attivo o a dieta (1,6–2,2 g/kg)",
     "rows": [
-      { "weight": "50 kg (110 lb)", "general": "40–50 g", "active": "80–110 g" },
-      { "weight": "60 kg (132 lb)", "general": "48–60 g", "active": "96–132 g" },
-      { "weight": "70 kg (154 lb)", "general": "56–70 g", "active": "112–154 g" },
-      { "weight": "80 kg (176 lb)", "general": "64–80 g", "active": "128–176 g" },
-      { "weight": "90 kg (198 lb)", "general": "72–90 g", "active": "144–198 g" },
-      { "weight": "100 kg (220 lb)", "general": "80–100 g", "active": "160–220 g" }
+      {
+        "weight": "50 kg (110 lb)",
+        "general": "40–50 g",
+        "active": "80–110 g"
+      },
+      {
+        "weight": "60 kg (132 lb)",
+        "general": "48–60 g",
+        "active": "96–132 g"
+      },
+      {
+        "weight": "70 kg (154 lb)",
+        "general": "56–70 g",
+        "active": "112–154 g"
+      },
+      {
+        "weight": "80 kg (176 lb)",
+        "general": "64–80 g",
+        "active": "128–176 g"
+      },
+      {
+        "weight": "90 kg (198 lb)",
+        "general": "72–90 g",
+        "active": "144–198 g"
+      },
+      {
+        "weight": "100 kg (220 lb)",
+        "general": "80–100 g",
+        "active": "160–220 g"
+      }
     ],
     "note": "Per un obiettivo su misura per il tuo peso, la tua età e il tuo scopo esatti, usa il calcolatore qui sopra."
   },
@@ -368,5 +392,122 @@
   "footer": {
     "disclaimer": "Questo calcolatore fornisce indicazioni generali di fitness e non sostituisce il parere medico o nutrizionale professionale.",
     "copyright": "© {year} Calcolatore dell'Assunzione di Proteine. Tutti i diritti riservati."
+  },
+  "topicPages": {
+    "sectionHeading": "Altre guide sulle proteine",
+    "items": {
+      "protein-for-men": {
+        "heading": "Proteine per gli uomini: di quante hai bisogno?",
+        "lead": "La maggior parte degli uomini ha bisogno di 0,8–1,0 g di proteine per kg di peso corporeo per la salute generale, e di 1,6–2,2 g/kg per aumentare la massa muscolare o perdere grasso. Per un uomo di 80 kg significa circa 130–175 g di proteine al giorno con allenamento regolare.",
+        "paragraphs": [
+          "Poiché gli uomini hanno in media più massa magra, il loro fabbisogno proteico assoluto è più alto di quello delle donne a parità di peso corporeo. Un uomo sedentario di 80 kg copre il fabbisogno di base con 64–80 g al giorno, ma quel minimo previene solo la carenza: non è ottimale per composizione corporea, forza o controllo dell'appetito.",
+          "Se ti alleni con i pesi o pratichi sport, la ricerca sostiene 1,6–2,2 g/kg al giorno. Distribuiscili su tre o quattro pasti da 30–45 g, colloca un pasto ricco di proteine a poche ore dall'allenamento e costruisci i piatti attorno a carne magra, pesce, uova, latticini, legumi e tofu prima di ricorrere agli integratori."
+        ],
+        "bullets": [
+          "Sedentario: 0,8–1,0 g/kg al giorno (64–80 g per un uomo di 80 kg)",
+          "Aumento muscolare: 1,6–2,2 g/kg al giorno, abbinati all'allenamento di forza",
+          "Perdita di grasso: 1,8–2,4 g/kg al giorno per proteggere il muscolo in deficit calorico",
+          "Oltre i 50: almeno 1,2 g/kg al giorno contro la perdita muscolare legata all'età"
+        ]
+      },
+      "protein-for-seniors": {
+        "heading": "Proteine per anziani: fabbisogno dopo i 50, 60 e 70 anni",
+        "lead": "Gli adulti oltre i 60 anni hanno generalmente bisogno di 1,0–1,2 g di proteine per kg di peso corporeo al giorno — più dei giovani adulti — e di 1,2–1,5 g/kg durante la convalescenza o per contrastare la perdita muscolare legata all'età (sarcopenia).",
+        "paragraphs": [
+          "Con l'età i muscoli rispondono meno bene alle proteine: si parla di resistenza anabolica. Per questo gli esperti di nutrizione geriatrica raccomandano 1,0–1,2 g di proteine per kg di peso corporeo agli adulti sani oltre i 60 anni, salendo a 1,2–1,5 g/kg durante malattia o convalescenza, contro gli 0,8 g/kg dei giovani adulti.",
+          "La distribuzione conta quanto il totale: punta a 25–30 g di proteine a ogni pasto principale, includendo una fonte ricca di leucina come latticini, uova, pesce, carne o soia. Abbinare questo apporto a semplici esercizi di forza due o tre volte a settimana è il modo più comprovato per rallentare la sarcopenia."
+        ],
+        "bullets": [
+          "Adulti sani oltre i 60: 1,0–1,2 g/kg al giorno",
+          "Malattia o convalescenza: 1,2–1,5 g/kg al giorno (chiedi al tuo medico)",
+          "Per pasto: 25–30 g, con una fonte ricca di leucina",
+          "Abbina le proteine ad allenamento di forza 2–3 volte a settimana"
+        ]
+      },
+      "protein-for-teenagers": {
+        "heading": "Proteine per adolescenti: quante durante la crescita?",
+        "lead": "Gli adolescenti hanno bisogno di circa 0,85–1,0 g di proteine per kg di peso corporeo al giorno per crescere, e i giovani atleti possono trarre beneficio da 1,2–1,6 g/kg. Pasti equilibrati coprono queste quantità: gli integratori sono raramente necessari.",
+        "paragraphs": [
+          "Il fabbisogno proteico per chilogrammo raggiunge il picco durante lo scatto di crescita, quando il corpo costruisce ossa, muscoli e tessuti al ritmo più rapido. Pasti regolari a base di latte, yogurt, uova, carne, pesce, legumi e frutta secca coprono ampiamente questi fabbisogni per la maggior parte degli adolescenti.",
+          "I giovani atleti che si allenano quasi ogni giorno possono puntare a 1,2–1,6 g/kg, idealmente 20–40 g di proteine per pasto più uno spuntino proteico dopo l'allenamento. Prima il cibo vero: le proteine in polvere sono una comodità, non una necessità, e le diete estreme negli anni della crescita possono causare danni duraturi."
+        ],
+        "bullets": [
+          "Adolescenti in generale: 0,85–1,0 g/kg al giorno, con pasti equilibrati",
+          "Giovani atleti: 1,2–1,6 g/kg al giorno su 3–4 pasti",
+          "Per pasto: circa 20–40 g in base alla corporatura",
+          "Prima il cibo — gli integratori servono raramente in adolescenza"
+        ]
+      },
+      "protein-during-pregnancy": {
+        "heading": "Proteine in gravidanza e allattamento",
+        "lead": "La gravidanza porta il fabbisogno proteico a circa 1,1 g per kg di peso corporeo al giorno — circa 25 g in più — e l'allattamento lo mantiene ugualmente elevato. Conferma sempre il tuo obiettivo personale con il medico o l'ostetrica.",
+        "paragraphs": [
+          "Il fabbisogno di proteine aumenta soprattutto nel secondo e terzo trimestre, man mano che crescono bambino, placenta e tessuti materni. Le linee guida equivalgono a circa 1,1 g per kg al giorno — 70–100 g per molte donne, ossia 25 g in più rispetto a prima della gravidanza — e l'allattamento mantiene il fabbisogno a un livello simile.",
+          "Raggiungi l'obiettivo con alimenti che apportano anche ferro, colina, iodio e calcio: uova, latticini, pesce cotto a basso contenuto di mercurio, pollame, legumi, tofu e frutta secca. Evita gli integratori proteici ad alto dosaggio salvo indicazione del medico o dell'ostetrica, e considera questa pagina un'informazione generale, non un consiglio medico."
+        ],
+        "bullets": [
+          "Secondo e terzo trimestre: circa 1,1 g/kg al giorno (~25 g in più)",
+          "Allattamento: il fabbisogno resta elevato a un livello simile",
+          "Scegli alimenti proteici ricchi di ferro, colina e calcio",
+          "Parla di integratori e obiettivi personali con medico o ostetrica"
+        ]
+      },
+      "best-time-to-eat-protein": {
+        "heading": "Momento migliore per assumere proteine: orari, distribuzione e allenamento",
+        "lead": "Il totale giornaliero di proteine conta molto più dell'orario, ma distribuirlo su 3–4 pasti da 25–40 g — incluso uno a poche ore dall'allenamento — ricava la massima sintesi proteica muscolare dagli stessi grammi.",
+        "paragraphs": [
+          "Gli studi che confrontano gli orari di assunzione mostrano costantemente che l'apporto giornaliero totale è il fattore più determinante per crescita e mantenimento muscolare. La “finestra anabolica” post-allenamento è molto più ampia di quanto si credesse: assumere proteine entro un paio d'ore prima o dopo la seduta funziona praticamente allo stesso modo.",
+          "La distribuzione aiuta comunque: la sintesi proteica muscolare è massima intorno a 0,4 g/kg per pasto, circa 25–40 g per la maggior parte delle persone. Distribuire l'apporto su 3–4 pasti, rinforzare la colazione — il pasto con meno proteine per quasi tutti — e assumere 20–40 g di proteine lente come caseina o yogurt greco prima di dormire completano una routine basata sulle evidenze."
+        ],
+        "bullets": [
+          "Prima raggiungi il totale giornaliero: l'orario è un perfezionamento, non la base",
+          "Punta a 25–40 g di proteine per pasto, 3–4 volte al giorno",
+          "Fai un pasto ricco di proteine entro ~2 ore prima o dopo l'allenamento",
+          "Proteine lente (caseina, yogurt greco) prima di dormire sostengono il recupero notturno"
+        ]
+      },
+      "protein-shakes-per-day": {
+        "heading": "Quanti frullati proteici al giorno? Servono le proteine in polvere?",
+        "lead": "I frullati proteici sono una comodità, non un obbligo. Se con il cibo ti mancano 30–60 g per l'obiettivo giornaliero, uno o due frullati al giorno chiudono il divario in modo pratico; oltre, raramente aggiungono valore.",
+        "paragraphs": [
+          "Un frullato è semplicemente cibo in forma liquida: un misurino di whey, caseina, proteine di soia o di pisello fornisce circa 25–30 g. Se raggiungi già l'obiettivo giornaliero con i pasti, i frullati extra aggiungono solo calorie; se resti spesso indietro, uno o due frullati sono una soluzione facile ed economica.",
+          "Gli alimenti integrali portano fibre, micronutrienti e più sazietà per caloria, quindi lascia ai frullati il ruolo di riempitivo. Scegli polveri testate da enti terzi, attenzione agli zuccheri aggiunti nelle bevande pronte, e valuta l'isolato di whey o le opzioni vegetali se i latticini ti danno fastidio."
+        ],
+        "bullets": [
+          "Zero frullati se i pasti coprono già il tuo obiettivo proteico",
+          "1–2 frullati al giorno è un massimo pratico ragionevole per la maggior parte",
+          "Un misurino di polvere ≈ 25–30 g di proteine",
+          "Preferisci polveri testate da terzi e controlla lo zucchero aggiunto"
+        ]
+      },
+      "protein-for-diabetics": {
+        "heading": "Proteine per diabetici e controllo della glicemia",
+        "lead": "Per la maggior parte delle persone con diabete di tipo 2 e reni sani, 1,0–1,5 g di proteine per kg di peso corporeo favoriscono sazietà e una glicemia più stabile. La malattia renale cambia il calcolo: gli obiettivi individuali si definiscono con il medico.",
+        "paragraphs": [
+          "Le proteine alzano appena la glicemia e rallentano l'assorbimento dei carboidrati dello stesso pasto. Distribuire 25–35 g di proteine su ogni pasto può quindi attenuare i picchi glicemici e migliorare la sazietà — particolarmente utile per la gestione del peso nel diabete di tipo 2.",
+          "Per chi ha funzione renale normale, 1,0–1,5 g/kg al giorno è generalmente considerato sicuro e benefico. Nella malattia renale diabetica gli obiettivi proteici vanno individualizzati — spesso più vicini a 0,8 g/kg — quindi rivedi il tuo apporto con il medico o il dietista prima di cambiamenti significativi."
+        ],
+        "bullets": [
+          "Funzione renale normale: 1,0–1,5 g/kg al giorno è generalmente adeguato",
+          "25–35 g di proteine per pasto aiutano ad attenuare i picchi glicemici",
+          "Preferisci proteine magre e vegetali: pesce, pollame, legumi, tofu, latticini",
+          "Malattia renale: gli obiettivi vanno definiti con medico o dietista"
+        ]
+      },
+      "protein-deficiency-signs": {
+        "heading": "Carenza di proteine: i segnali che non ne mangi abbastanza",
+        "lead": "I segnali comuni di un apporto proteico basso includono perdita di forza e muscoli, fame costante, recupero lento, caduta dei capelli, unghie fragili e malanni frequenti. La maggior parte degli adulti è al sicuro sopra 0,8 g per kg di peso corporeo al giorno.",
+        "paragraphs": [
+          "La vera carenza proteica è rara nei paesi ad alto reddito, ma un apporto subottimale è comune — soprattutto tra anziani, persone perennemente a dieta e chi salta i pasti. I primi segnali: perdita di forza, fame che torna presto dopo mangiato, ferite che guariscono lentamente e infezioni più frequenti.",
+          "Caduta dei capelli, unghie fragili e, nei casi gravi, gonfiore (edema) riflettono i ruoli strutturali e di equilibrio dei liquidi delle proteine. La soluzione è semplice: calcola il tuo obiettivo personale con il calcolatore qui sopra e ancora ogni pasto a una fonte proteica grande quanto il palmo della mano. Consulta un medico se i sintomi persistono: diversi hanno cause non alimentari."
+        ],
+        "bullets": [
+          "Perdita di muscoli e forza nonostante attività normale",
+          "Fame costante e voglie poco dopo i pasti",
+          "Caduta dei capelli, unghie fragili e pelle che guarisce lentamente",
+          "Malanni frequenti e recupero faticoso dall'allenamento"
+        ]
+      }
+    }
   }
 }

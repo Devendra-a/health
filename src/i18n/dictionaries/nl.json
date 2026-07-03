@@ -210,12 +210,36 @@
     "tableGeneral": "Algemene gezondheid (0,8–1,0 g/kg)",
     "tableActive": "Actief of op dieet (1,6–2,2 g/kg)",
     "rows": [
-      { "weight": "50 kg (110 lb)", "general": "40–50 g", "active": "80–110 g" },
-      { "weight": "60 kg (132 lb)", "general": "48–60 g", "active": "96–132 g" },
-      { "weight": "70 kg (154 lb)", "general": "56–70 g", "active": "112–154 g" },
-      { "weight": "80 kg (176 lb)", "general": "64–80 g", "active": "128–176 g" },
-      { "weight": "90 kg (198 lb)", "general": "72–90 g", "active": "144–198 g" },
-      { "weight": "100 kg (220 lb)", "general": "80–100 g", "active": "160–220 g" }
+      {
+        "weight": "50 kg (110 lb)",
+        "general": "40–50 g",
+        "active": "80–110 g"
+      },
+      {
+        "weight": "60 kg (132 lb)",
+        "general": "48–60 g",
+        "active": "96–132 g"
+      },
+      {
+        "weight": "70 kg (154 lb)",
+        "general": "56–70 g",
+        "active": "112–154 g"
+      },
+      {
+        "weight": "80 kg (176 lb)",
+        "general": "64–80 g",
+        "active": "128–176 g"
+      },
+      {
+        "weight": "90 kg (198 lb)",
+        "general": "72–90 g",
+        "active": "144–198 g"
+      },
+      {
+        "weight": "100 kg (220 lb)",
+        "general": "80–100 g",
+        "active": "160–220 g"
+      }
     ],
     "note": "Voor een doel op maat van jouw exacte gewicht, leeftijd en doel, gebruik de calculator hierboven."
   },
@@ -368,5 +392,122 @@
   "footer": {
     "disclaimer": "Deze calculator biedt algemene fitnessbegeleiding en is geen vervanging voor professioneel medisch of voedingsadvies.",
     "copyright": "© {year} Eiwitinname Calculator. Alle rechten voorbehouden."
+  },
+  "topicPages": {
+    "sectionHeading": "Meer eiwitgidsen",
+    "items": {
+      "protein-for-men": {
+        "heading": "Eiwit voor mannen: hoeveel heb je nodig?",
+        "lead": "De meeste mannen hebben 0,8–1,0 g eiwit per kg lichaamsgewicht nodig voor de algemene gezondheid, en 1,6–2,2 g/kg om spieren op te bouwen of vet te verliezen. Voor een man van 80 kg komt dat bij regelmatige training neer op zo'n 130–175 g eiwit per dag.",
+        "paragraphs": [
+          "Omdat mannen gemiddeld meer vetvrije massa hebben, is hun absolute eiwitbehoefte hoger dan die van vrouwen bij hetzelfde lichaamsgewicht. Een inactieve man van 80 kg dekt de basisbehoefte met 64–80 g per dag, maar dat minimum voorkomt alleen een tekort — het is niet optimaal voor lichaamssamenstelling, kracht of eetlustbeheersing.",
+          "Train je met gewichten of sport je, dan ondersteunt onderzoek 1,6–2,2 g/kg per dag. Verdeel dit over drie tot vier maaltijden van 30–45 g, plan één eiwitrijke maaltijd binnen enkele uren rond je training en bouw je bord op rond mager vlees, vis, eieren, zuivel, peulvruchten en tofu voordat je naar supplementen grijpt."
+        ],
+        "bullets": [
+          "Inactief: 0,8–1,0 g/kg per dag (64–80 g voor een man van 80 kg)",
+          "Spieropbouw: 1,6–2,2 g/kg per dag, gecombineerd met krachttraining",
+          "Vetverlies: 1,8–2,4 g/kg per dag om spieren te beschermen in een calorietekort",
+          "Boven de 50: minimaal 1,2 g/kg per dag tegen leeftijdsgebonden spierverlies"
+        ]
+      },
+      "protein-for-seniors": {
+        "heading": "Eiwit voor ouderen: behoefte na je 50e, 60e en 70e",
+        "lead": "Volwassenen boven de 60 hebben doorgaans 1,0–1,2 g eiwit per kg lichaamsgewicht per dag nodig — meer dan jongere volwassenen — en 1,2–1,5 g/kg bij herstel van ziekte of om leeftijdsgebonden spierverlies (sarcopenie) tegen te gaan.",
+        "paragraphs": [
+          "Met het ouder worden reageren spieren minder goed op eiwit — dit heet anabole resistentie. Daarom adviseren experts in ouderenvoeding 1,0–1,2 g eiwit per kg lichaamsgewicht voor gezonde zestigplussers, oplopend tot 1,2–1,5 g/kg tijdens ziekte of herstel, tegenover 0,8 g/kg voor jongere volwassenen.",
+          "De verdeling telt net zo zwaar als het totaal: mik op 25–30 g eiwit per hoofdmaaltijd, met een leucinerijke bron zoals zuivel, eieren, vis, vlees of soja. Die inname combineren met eenvoudige krachtoefeningen, twee à drie keer per week, is de best bewezen manier om sarcopenie af te remmen."
+        ],
+        "bullets": [
+          "Gezonde zestigplussers: 1,0–1,2 g/kg per dag",
+          "Ziekte of herstel: 1,2–1,5 g/kg per dag (overleg met je arts)",
+          "Per maaltijd: 25–30 g, met een leucinerijke bron",
+          "Combineer eiwit met krachttraining, 2–3 keer per week"
+        ]
+      },
+      "protein-for-teenagers": {
+        "heading": "Eiwit voor tieners: hoeveel tijdens de groei?",
+        "lead": "Tieners hebben ongeveer 0,85–1,0 g eiwit per kg lichaamsgewicht per dag nodig voor de groei, en sportende tieners kunnen baat hebben bij 1,2–1,6 g/kg. Gebalanceerde maaltijden dekken deze hoeveelheden — supplementen zijn zelden nodig.",
+        "paragraphs": [
+          "De eiwitbehoefte per kilogram piekt tijdens de groeispurt, wanneer het lichaam in het hoogste tempo bot, spier en weefsel opbouwt. Regelmatige maaltijden met melk, yoghurt, eieren, vlees, vis, peulvruchten en noten dekken die behoefte voor de meeste tieners ruimschoots.",
+          "Tienersporters die bijna dagelijks trainen kunnen mikken op 1,2–1,6 g/kg, idealiter 20–40 g eiwit per maaltijd plus een eiwitrijk tussendoortje na de training. Houd de focus op echt eten; eiwitpoeder is gemak, geen noodzaak, en extreme diëten in de groeijaren kunnen blijvende schade aanrichten."
+        ],
+        "bullets": [
+          "Tieners algemeen: 0,85–1,0 g/kg per dag uit gebalanceerde maaltijden",
+          "Tienersporters: 1,2–1,6 g/kg per dag over 3–4 maaltijden",
+          "Per maaltijd: circa 20–40 g afhankelijk van lichaamsgrootte",
+          "Eten eerst — supplementen zijn in de puberteit zelden nodig"
+        ]
+      },
+      "protein-during-pregnancy": {
+        "heading": "Eiwit tijdens zwangerschap en borstvoeding",
+        "lead": "Een zwangerschap verhoogt de eiwitbehoefte tot ongeveer 1,1 g per kg lichaamsgewicht per dag — zo'n 25 g extra — en borstvoeding houdt de behoefte vergelijkbaar hoog. Stem je persoonlijke doel altijd af met je arts of verloskundige.",
+        "paragraphs": [
+          "De eiwitbehoefte stijgt vooral in het tweede en derde trimester, wanneer baby, placenta en moederweefsel groeien. Richtlijnen komen neer op ongeveer 1,1 g per kg per dag — voor veel vrouwen 70–100 g, oftewel zo'n 25 g meer dan vóór de zwangerschap — en tijdens borstvoeding blijft de behoefte op een vergelijkbaar niveau.",
+          "Haal het doel uit voedingsmiddelen die ook ijzer, choline, jodium en calcium leveren: eieren, zuivel, doorbakken vis met weinig kwik, gevogelte, peulvruchten, tofu en noten. Vermijd hooggedoseerde eiwitsupplementen tenzij je arts of verloskundige ze aanraadt, en beschouw deze pagina als algemene informatie, geen medisch advies."
+        ],
+        "bullets": [
+          "Tweede en derde trimester: ongeveer 1,1 g/kg per dag (~25 g extra)",
+          "Borstvoeding: de behoefte blijft op een vergelijkbaar niveau verhoogd",
+          "Kies eiwitbronnen die ook ijzer, choline en calcium leveren",
+          "Bespreek supplementen en persoonlijke doelen met je arts of verloskundige"
+        ]
+      },
+      "best-time-to-eat-protein": {
+        "heading": "Beste moment voor eiwitten: timing, spreiding en training",
+        "lead": "Je dagelijkse totaal aan eiwit telt veel zwaarder dan de timing, maar het spreiden over 3–4 maaltijden van 25–40 g — waarvan één binnen enkele uren rond je training — haalt de maximale spieropbouw uit dezelfde grammen.",
+        "paragraphs": [
+          "Studies die eiwittiming vergelijken laten consequent zien dat de totale dagelijkse inname de sterkste factor is voor spiergroei en -behoud. Het “anabole venster” na de training is veel ruimer dan vroeger gedacht — eiwit eten binnen een paar uur vóór of na de training werkt vrijwel even goed.",
+          "Spreiding helpt wél: de spiereiwitsynthese is maximaal rond 0,4 g/kg per maaltijd, zo'n 25–40 g voor de meeste mensen. De inname verdelen over 3–4 maaltijden, extra eiwit bij het ontbijt — waar de meesten het minst eten — en 20–40 g langzaam eiwit zoals caseïne of Griekse yoghurt voor het slapen maken een evidence-based routine compleet."
+        ],
+        "bullets": [
+          "Haal eerst je dagtotaal — timing is verfijning, niet het fundament",
+          "Mik op 25–40 g eiwit per maaltijd, 3–4 keer per dag",
+          "Eet een eiwitrijke maaltijd binnen ~2 uur vóór of na je training",
+          "Langzaam eiwit (caseïne, Griekse yoghurt) voor het slapen steunt het nachtelijk herstel"
+        ]
+      },
+      "protein-shakes-per-day": {
+        "heading": "Hoeveel eiwitshakes per dag? Heb je poeder nodig?",
+        "lead": "Eiwitshakes zijn gemak, geen vereiste. Kom je met gewoon eten 30–60 g tekort voor je dagelijkse doel, dan dichten één à twee shakes per dag dat gat op een praktische manier — meer voegt zelden iets toe.",
+        "paragraphs": [
+          "Een shake is gewoon voeding in vloeibare vorm: één schep whey, caseïne, soja- of erwteneiwit levert ongeveer 25–30 g. Haal je je dagelijkse doel al uit maaltijden, dan voegen extra shakes alleen calorieën toe; kom je structureel tekort, dan zijn één of twee shakes een makkelijke, goedkope oplossing.",
+          "Volwaardige voeding brengt vezels, micronutriënten en meer verzadiging per calorie, dus houd shakes in de rol van gatenvuller. Kies poeders die door onafhankelijke partijen zijn getest, let op toegevoegde suikers in kant-en-klare drankjes, en overweeg whey-isolaat of plantaardige opties als zuivel je opbreekt."
+        ],
+        "bullets": [
+          "Nul shakes nodig als je maaltijden je eiwitdoel al dekken",
+          "1–2 shakes per dag is voor de meesten een verstandig praktisch maximum",
+          "Eén schep poeder ≈ 25–30 g eiwit",
+          "Kies onafhankelijk geteste poeders en let op toegevoegde suiker"
+        ]
+      },
+      "protein-for-diabetics": {
+        "heading": "Eiwit voor diabetici en bloedsuikercontrole",
+        "lead": "Voor de meeste mensen met diabetes type 2 en gezonde nieren ondersteunt 1,0–1,5 g eiwit per kg lichaamsgewicht de verzadiging en een stabielere bloedsuiker. Nierziekte verandert de rekensom — individuele doelen horen bij je arts.",
+        "paragraphs": [
+          "Eiwit verhoogt de bloedglucose nauwelijks en vertraagt de opname van koolhydraten uit dezelfde maaltijd. Het verdelen van 25–35 g eiwit over elke maaltijd kan daardoor glucosepieken afvlakken en de verzadiging verbeteren — extra nuttig voor gewichtsbeheersing bij diabetes type 2.",
+          "Voor mensen met een normale nierfunctie wordt 1,0–1,5 g/kg per dag doorgaans als veilig en gunstig beschouwd. Bij diabetische nierschade moeten eiwitdoelen individueel worden bepaald — vaak dichter bij 0,8 g/kg — dus bespreek je inname met je arts of diëtist voordat je grote veranderingen doorvoert."
+        ],
+        "bullets": [
+          "Normale nierfunctie: 1,0–1,5 g/kg per dag is doorgaans passend",
+          "25–35 g eiwit per maaltijd helpt glucosepieken te dempen",
+          "Kies magere en plantaardige eiwitten: vis, gevogelte, peulvruchten, tofu, zuivel",
+          "Nierziekte: doelen stel je samen met je arts of diëtist vast"
+        ]
+      },
+      "protein-deficiency-signs": {
+        "heading": "Eiwittekort: signalen dat je te weinig eet",
+        "lead": "Veelvoorkomende signalen van een lage eiwitinname zijn afnemende kracht en spiermassa, constante honger, traag herstel, haaruitval, broze nagels en vaak ziek zijn. De meeste volwassenen zitten veilig boven 0,8 g per kg lichaamsgewicht per dag.",
+        "paragraphs": [
+          "Een echt eiwittekort is zeldzaam in welvarende landen, maar een suboptimale inname komt veel voor — vooral bij ouderen, chronische lijners en mensen die maaltijden overslaan. Vroege signalen: krachtverlies, snel weer honger na het eten, trage wondgenezing en vaker infecties oplopen.",
+          "Haaruitval, broze nagels en in ernstige gevallen vochtophoping (oedeem) weerspiegelen de structurele en vochtregulerende rollen van eiwit. De oplossing is simpel: bereken je persoonlijke doel met de calculator hierboven en veranker elke maaltijd met een eiwitbron ter grootte van je handpalm. Ga naar een arts als klachten aanhouden — meerdere hebben niet-voedingsgebonden oorzaken."
+        ],
+        "bullets": [
+          "Verlies van spiermassa en kracht ondanks normale activiteit",
+          "Constante honger en trek kort na de maaltijden",
+          "Haaruitval, broze nagels en traag helende huid",
+          "Vaak kleine infecties en moeizaam herstel van training"
+        ]
+      }
+    }
   }
 }

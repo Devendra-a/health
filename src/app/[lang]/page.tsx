@@ -6,7 +6,7 @@ import FaqAccordion from "@/components/FaqAccordion";
 import { ShieldIcon, LockIcon, ClipboardIcon, ArrowIcon } from "@/components/icons";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { hasLocale } from "@/i18n/config";
-import { slugForTopic } from "@/lib/topics";
+import { slugForTopic, contentTopics } from "@/lib/topics";
 import {
   ACTIVITY_DICT_KEY,
   GOAL_DICT_KEY,
@@ -426,6 +426,29 @@ export default async function Home({
           <p className="mt-4 text-stone-600 leading-relaxed">
             {dict.dietTypes.intro}
           </p>
+        </div>
+      </section>
+
+      <section className="bg-cream-dark px-6 py-16">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
+            {dict.topicPages.sectionHeading}
+          </h2>
+          <ul className="mt-6 grid sm:grid-cols-2 gap-3">
+            {contentTopics.map((topic) => (
+              <li key={topic}>
+                <Link
+                  href={`/${lang}/${slugForTopic(lang, topic)}`}
+                  className="group flex items-center justify-between gap-3 rounded-2xl border border-stone-200 bg-white px-5 py-4 hover:shadow-md hover:-translate-y-0.5 transition-all"
+                >
+                  <span className="font-medium text-charcoal">
+                    {dict.topicPages.items[topic].heading}
+                  </span>
+                  <ArrowIcon className="size-4 flex-none text-red rtl:rotate-180 transition-transform group-hover:translate-x-0.5 rtl:group-hover:-translate-x-0.5" />
+                </Link>
+              </li>
+            ))}
+          </ul>
         </div>
       </section>
 

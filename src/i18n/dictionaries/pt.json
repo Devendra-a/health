@@ -210,12 +210,36 @@
     "tableGeneral": "Saúde geral (0,8–1,0 g/kg)",
     "tableActive": "Ativo ou em dieta (1,6–2,2 g/kg)",
     "rows": [
-      { "weight": "50 kg (110 lb)", "general": "40–50 g", "active": "80–110 g" },
-      { "weight": "60 kg (132 lb)", "general": "48–60 g", "active": "96–132 g" },
-      { "weight": "70 kg (154 lb)", "general": "56–70 g", "active": "112–154 g" },
-      { "weight": "80 kg (176 lb)", "general": "64–80 g", "active": "128–176 g" },
-      { "weight": "90 kg (198 lb)", "general": "72–90 g", "active": "144–198 g" },
-      { "weight": "100 kg (220 lb)", "general": "80–100 g", "active": "160–220 g" }
+      {
+        "weight": "50 kg (110 lb)",
+        "general": "40–50 g",
+        "active": "80–110 g"
+      },
+      {
+        "weight": "60 kg (132 lb)",
+        "general": "48–60 g",
+        "active": "96–132 g"
+      },
+      {
+        "weight": "70 kg (154 lb)",
+        "general": "56–70 g",
+        "active": "112–154 g"
+      },
+      {
+        "weight": "80 kg (176 lb)",
+        "general": "64–80 g",
+        "active": "128–176 g"
+      },
+      {
+        "weight": "90 kg (198 lb)",
+        "general": "72–90 g",
+        "active": "144–198 g"
+      },
+      {
+        "weight": "100 kg (220 lb)",
+        "general": "80–100 g",
+        "active": "160–220 g"
+      }
     ],
     "note": "Para uma meta ajustada ao seu peso, idade e objetivo exatos, use a calculadora acima."
   },
@@ -368,5 +392,122 @@
   "footer": {
     "disclaimer": "Esta calculadora oferece orientação geral de fitness e não substitui o aconselhamento médico ou nutricional profissional.",
     "copyright": "© {year} Calculadora de Ingestão de Proteína. Todos os direitos reservados."
+  },
+  "topicPages": {
+    "sectionHeading": "Mais guias de proteína",
+    "items": {
+      "protein-for-men": {
+        "heading": "Proteína para homens: de quanta você precisa?",
+        "lead": "A maioria dos homens precisa de 0,8–1,0 g de proteína por kg de peso corporal para a saúde geral, e de 1,6–2,2 g/kg para ganhar músculo ou perder gordura. Para um homem de 80 kg, isso significa cerca de 130–175 g de proteína por dia com treino regular.",
+        "paragraphs": [
+          "Como os homens têm, em média, mais massa magra, as suas necessidades absolutas de proteína são maiores do que as das mulheres com o mesmo peso corporal. Um homem sedentário de 80 kg cobre as necessidades básicas com 64–80 g por dia, mas esse mínimo apenas evita a deficiência — não é ideal para composição corporal, força nem controlo do apetite.",
+          "Se treina musculação ou pratica desporto, a investigação apoia 1,6–2,2 g/kg por dia. Distribua por três a quatro refeições de 30–45 g, mantenha uma refeição rica em proteína perto do treino e monte o prato com carne magra, peixe, ovos, laticínios, leguminosas e tofu antes de recorrer a suplementos."
+        ],
+        "bullets": [
+          "Sedentário: 0,8–1,0 g/kg por dia (64–80 g para um homem de 80 kg)",
+          "Ganho muscular: 1,6–2,2 g/kg por dia, aliado ao treino de força",
+          "Perda de gordura: 1,8–2,4 g/kg por dia para proteger o músculo em défice calórico",
+          "Acima dos 50: pelo menos 1,2 g/kg por dia contra a perda muscular da idade"
+        ]
+      },
+      "protein-for-seniors": {
+        "heading": "Proteína para idosos: necessidades depois dos 50, 60 e 70",
+        "lead": "Adultos com mais de 60 anos precisam geralmente de 1,0–1,2 g de proteína por kg de peso corporal por dia — mais do que adultos jovens — e de 1,2–1,5 g/kg ao recuperar de doença ou combater a perda muscular da idade (sarcopenia).",
+        "paragraphs": [
+          "Com a idade, os músculos respondem pior à proteína — um fenómeno chamado resistência anabólica. Por isso, os especialistas em nutrição geriátrica recomendam 1,0–1,2 g de proteína por kg de peso corporal para adultos saudáveis com mais de 60 anos, subindo para 1,2–1,5 g/kg durante doença ou recuperação, contra 0,8 g/kg para adultos jovens.",
+          "A distribuição importa tanto quanto o total: procure 25–30 g de proteína em cada refeição principal, incluindo uma fonte rica em leucina como laticínios, ovos, peixe, carne ou soja. Combinar essa ingestão com exercício de força simples duas a três vezes por semana é a forma mais comprovada de travar a sarcopenia."
+        ],
+        "bullets": [
+          "Adultos saudáveis com mais de 60: 1,0–1,2 g/kg por dia",
+          "Doença ou recuperação: 1,2–1,5 g/kg por dia (fale com o seu médico)",
+          "Por refeição: 25–30 g, incluindo uma fonte rica em leucina",
+          "Combine a proteína com treino de força 2–3 vezes por semana"
+        ]
+      },
+      "protein-for-teenagers": {
+        "heading": "Proteína para adolescentes: quanta durante o crescimento?",
+        "lead": "Os adolescentes precisam de cerca de 0,85–1,0 g de proteína por kg de peso corporal por dia para crescer, e os jovens atletas podem beneficiar de 1,2–1,6 g/kg. Refeições equilibradas cobrem estas quantidades — suplementos raramente são necessários.",
+        "paragraphs": [
+          "As necessidades de proteína por quilograma atingem o pico durante o surto de crescimento, quando o corpo constrói osso, músculo e tecidos ao ritmo mais rápido. Refeições regulares com leite, iogurte, ovos, carne, peixe, leguminosas e frutos secos cobrem folgadamente estas necessidades para a maioria dos adolescentes.",
+          "Jovens atletas que treinam quase todos os dias podem apontar para 1,2–1,6 g/kg, idealmente 20–40 g de proteína por refeição mais um lanche proteico depois do treino. Priorize comida de verdade; a proteína em pó é uma conveniência, não uma necessidade, e dietas extremas nos anos de crescimento podem causar danos duradouros."
+        ],
+        "bullets": [
+          "Adolescentes em geral: 0,85–1,0 g/kg por dia, com refeições equilibradas",
+          "Jovens atletas: 1,2–1,6 g/kg por dia em 3–4 refeições",
+          "Por refeição: cerca de 20–40 g conforme o tamanho corporal",
+          "Comida primeiro — suplementos raramente são precisos na adolescência"
+        ]
+      },
+      "protein-during-pregnancy": {
+        "heading": "Proteína na gravidez e na amamentação",
+        "lead": "A gravidez eleva as necessidades de proteína para cerca de 1,1 g por kg de peso corporal por dia — aproximadamente 25 g extra — e a amamentação mantém-nas igualmente elevadas. Confirme sempre o seu objetivo pessoal com o seu médico ou parteira.",
+        "paragraphs": [
+          "As necessidades de proteína aumentam sobretudo no segundo e terceiro trimestres, à medida que o bebé, a placenta e os tecidos maternos crescem. As recomendações equivalem a cerca de 1,1 g por kg por dia — 70–100 g para muitas mulheres, ou 25 g mais do que antes da gravidez — e a amamentação mantém as necessidades num nível semelhante.",
+          "Atinja o objetivo com alimentos que também fornecem ferro, colina, iodo e cálcio: ovos, laticínios, peixe cozinhado com baixo teor de mercúrio, aves, leguminosas, tofu e frutos secos. Evite suplementos de proteína em doses altas salvo recomendação do seu médico ou parteira, e trate esta página como informação geral, não como aconselhamento médico."
+        ],
+        "bullets": [
+          "Segundo e terceiro trimestres: cerca de 1,1 g/kg por dia (~25 g extra)",
+          "Amamentação: as necessidades mantêm-se elevadas a um nível semelhante",
+          "Escolha alimentos proteicos ricos em ferro, colina e cálcio",
+          "Fale de suplementos e objetivos pessoais com o seu médico ou parteira"
+        ]
+      },
+      "best-time-to-eat-protein": {
+        "heading": "Melhor horário para comer proteína: timing, distribuição e treino",
+        "lead": "O total diário de proteína importa muito mais do que o horário, mas distribuí-lo por 3–4 refeições de 25–40 g — incluindo uma a poucas horas do treino — extrai a máxima síntese proteica muscular dos mesmos gramas.",
+        "paragraphs": [
+          "Os estudos que comparam horários de proteína mostram de forma consistente que a ingestão diária total é o fator mais determinante para o ganho e a manutenção muscular. A “janela anabólica” pós-treino é muito mais ampla do que se pensava — comer proteína nas duas horas antes ou depois do treino funciona praticamente igual.",
+          "Ainda assim, a distribuição ajuda: a síntese proteica muscular é maximizada por volta de 0,4 g/kg por refeição, cerca de 25–40 g para a maioria. Distribuir a ingestão por 3–4 refeições, reforçar o pequeno-almoço — onde a maioria come menos proteína — e tomar 20–40 g de proteína lenta como caseína ou iogurte grego antes de dormir completam uma rotina baseada na evidência."
+        ],
+        "bullets": [
+          "Cumpra primeiro o total diário — o horário é um refinamento, não a base",
+          "Aponte para 25–40 g de proteína por refeição, 3–4 vezes por dia",
+          "Faça uma refeição rica em proteína nas ~2 horas antes ou depois do treino",
+          "Proteína lenta (caseína, iogurte grego) antes de dormir apoia a recuperação noturna"
+        ]
+      },
+      "protein-shakes-per-day": {
+        "heading": "Quantos shakes de proteína por dia? Precisa de proteína em pó?",
+        "lead": "Os shakes de proteína são uma conveniência, não uma obrigação. Se a comida deixa 30–60 g em falta para o seu objetivo diário, um ou dois shakes por dia fecham a lacuna de forma prática — mais do que isso raramente acrescenta valor.",
+        "paragraphs": [
+          "Um shake é simplesmente comida em forma líquida: uma dose de whey, caseína, proteína de soja ou de ervilha fornece cerca de 25–30 g. Se já atinge o objetivo diário com as refeições, shakes extra só acrescentam calorias; se fica aquém com frequência, um ou dois shakes são uma solução fácil e barata.",
+          "Os alimentos inteiros trazem fibra, micronutrientes e mais saciedade por caloria, por isso reserve os shakes para preencher a lacuna. Escolha pós testados por entidades independentes, atenção aos açúcares adicionados nas bebidas prontas, e considere isolado de whey ou opções vegetais se os laticínios lhe caírem mal."
+        ],
+        "bullets": [
+          "Zero shakes se as refeições já cobrem o seu objetivo de proteína",
+          "1–2 shakes por dia é um máximo prático sensato para a maioria",
+          "Uma dose de pó ≈ 25–30 g de proteína",
+          "Prefira pós testados por terceiros e vigie o açúcar adicionado"
+        ]
+      },
+      "protein-for-diabetics": {
+        "heading": "Proteína para diabéticos e controlo da glicemia",
+        "lead": "Para a maioria das pessoas com diabetes tipo 2 e rins saudáveis, 1,0–1,5 g de proteína por kg de peso corporal favorece a saciedade e uma glicemia mais estável. A doença renal muda o cálculo — objetivos individuais definem-se com o seu médico.",
+        "paragraphs": [
+          "A proteína quase não eleva a glicose no sangue e atrasa a absorção dos hidratos de carbono da mesma refeição. Distribuir 25–35 g de proteína por cada refeição pode, por isso, suavizar os picos de glicose e melhorar a saciedade — particularmente útil para a gestão do peso na diabetes tipo 2.",
+          "Para pessoas com função renal normal, 1,0–1,5 g/kg por dia é geralmente considerado seguro e benéfico. Na doença renal diabética, os objetivos de proteína têm de ser individualizados — muitas vezes mais perto de 0,8 g/kg — por isso reveja a sua ingestão com o seu médico ou nutricionista antes de fazer mudanças significativas."
+        ],
+        "bullets": [
+          "Função renal normal: 1,0–1,5 g/kg por dia é geralmente adequado",
+          "25–35 g de proteína por refeição ajudam a suavizar os picos de glicose",
+          "Prefira proteínas magras e vegetais: peixe, aves, leguminosas, tofu, laticínios",
+          "Doença renal: os objetivos devem ser definidos com o médico ou nutricionista"
+        ]
+      },
+      "protein-deficiency-signs": {
+        "heading": "Falta de proteína: sinais de que não está a comer o suficiente",
+        "lead": "Os sinais comuns de baixa ingestão de proteína incluem perda de força e músculo, fome constante, recuperação lenta, queda de cabelo, unhas frágeis e doenças frequentes. A maioria dos adultos está segura acima de 0,8 g por kg de peso corporal por dia.",
+        "paragraphs": [
+          "A verdadeira deficiência de proteína é rara em países de rendimento elevado, mas a ingestão subótima é comum — sobretudo em idosos, pessoas em dieta crónica e quem salta refeições. Os primeiros sinais incluem perda de força, fome pouco depois de comer, cicatrização lenta e infeções mais frequentes.",
+          "Queda de cabelo, unhas frágeis e, em casos graves, inchaço (edema) refletem os papéis estruturais e de equilíbrio de fluidos da proteína. A solução é simples: calcule o seu objetivo pessoal com a calculadora acima e ancore cada refeição com uma fonte de proteína do tamanho da palma da mão. Consulte um médico se os sintomas persistirem — vários têm causas não alimentares."
+        ],
+        "bullets": [
+          "Perda de músculo e força apesar de atividade normal",
+          "Fome constante e desejos pouco depois das refeições",
+          "Queda de cabelo, unhas frágeis e pele que cicatriza devagar",
+          "Doenças ligeiras frequentes e recuperação lenta do treino"
+        ]
+      }
+    }
   }
 }
