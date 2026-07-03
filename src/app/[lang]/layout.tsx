@@ -44,6 +44,9 @@ export async function generateMetadata({
       canonical: `/${lang}`,
       languages: {
         ...Object.fromEntries(locales.map((l) => [l, `/${l}`])),
+        // en-IN targets the English page at India specifically (Google's country
+        // targeting setting was retired, so hreflang is the remaining lever).
+        "en-IN": "/en",
         // x-default tells Google which page to serve when no language matches
         // the user's — the canonical entry point for the multilingual set.
         "x-default": `/${defaultLocale}`,

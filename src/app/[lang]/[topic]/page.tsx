@@ -7,12 +7,12 @@ import FaqAccordion from "@/components/FaqAccordion";
 import { ArrowIcon } from "@/components/icons";
 import { getDictionary } from "@/i18n/get-dictionary";
 import { locales, defaultLocale, hasLocale, ogLocales } from "@/i18n/config";
-import { topicSlugs, type TopicSlug } from "@/lib/topics";
+import { topics, slugForTopic, topicForSlug, type TopicKey } from "@/lib/topics";
 import type { Dictionary } from "@/i18n/get-dictionary";
 
 const SITE_URL = "https://www.proteinintakecalculators.online";
 
-// Only these slugs exist; anything else 404s (dynamicParams = false below).
+// Only generated slugs exist; anything else 404s.
 export const dynamicParams = false;
 
 // Per-topic: which dictionary heading/lead to use for the H1 and meta, plus the
@@ -20,12 +20,12 @@ export const dynamicParams = false;
 // to the topic, and sibling topics to cross-link. All display text comes from
 // the already-translated dictionaries, so no per-topic copy needs translating.
 const TOPICS: Record<
-  TopicSlug,
+  TopicKey,
   {
     heading: (d: Dictionary) => string;
     lead: (d: Dictionary) => string;
     faqIndices: number[];
-    related: TopicSlug[];
+    related: TopicKey[];
   }
 > = {
   "protein-for-weight-loss": {
@@ -77,10 +77,6 @@ const TABLE_HEAD =
 const TABLE_WRAP =
   "mt-6 overflow-hidden rounded-2xl border border-stone-200 shadow-sm";
 
-function isTopic(slug: string): slug is TopicSlug {
-  return (topicSlugs as readonly string[]).includes(slug);
-}
-
 // Meta descriptions want to stay short; trim the (translated) lead at a word
 // boundary rather than mid-word so it reads cleanly in any language.
 function clamp(text: string, max = 155): string {
@@ -90,9 +86,22 @@ function clamp(text: string, max = 155): string {
   return `${cut.slice(0, lastSpace > 0 ? lastSpace : max).trimEnd()}…`;
 }
 
+// hreflang alternates for a topic: every locale points at its own localized
+// slug, plus an en-IN entry so Google serves the English page to India and an
+// x-default fallback.
+function topicLanguages(topic: TopicKey): Record<string, string> {
+  return {
+    ...Object.fromEntries(
+      locales.map((l) => [l, `/${l}/${slugForTopic(l, topic)}`])
+    ),
+    "en-IN": `/en/${slugForTopic("en", topic)}`,
+    "x-default": `/${defaultLocale}/${slugForTopic(defaultLocale, topic)}`,
+  };
+}
+
 export function generateStaticParams() {
   return locales.flatMap((lang) =>
-    topicSlugs.map((topic) => ({ lang, topic }))
+    topics.map((topic) => ({ lang, topic: slugForTopic(lang, topic) }))
   );
 }
 
@@ -101,8 +110,11 @@ export async function generateMetadata({
 }: {
   params: Promise<{ lang: string; topic: string }>;
 }): Promise<Metadata> {
-  const { lang, topic } = await params;
-  if (!hasLocale(lang) || !isTopic(topic)) notFound();
+  const { lang, topic: slug } = await params;
+  if (!hasLocale(lang)) notFound();
+  const topic = topicForSlug(lang, slug);
+  if (!topic) notFound();
+
   const dict = await getDictionary(lang);
   const cfg = TOPICS[topic];
   const title = `${cfg.heading(dict)} | ${dict.nav.brand}`;
@@ -114,16 +126,13 @@ export async function generateMetadata({
     title,
     description,
     alternates: {
-      canonical: `/${lang}/${topic}`,
-      languages: {
-        ...Object.fromEntries(locales.map((l) => [l, `/${l}/${topic}`])),
-        "x-default": `/${defaultLocale}/${topic}`,
-      },
+      canonical: `/${lang}/${slug}`,
+      languages: topicLanguages(topic),
     },
     openGraph: {
       title,
       description,
-      url: `${SITE_URL}/${lang}/${topic}`,
+      url: `${SITE_URL}/${lang}/${slug}`,
       siteName: dict.nav.brand,
       type: "article",
       locale: ogLocales[lang],
@@ -133,8 +142,8 @@ export async function generateMetadata({
   };
 }
 
-function TopicBody({ slug, dict }: { slug: TopicSlug; dict: Dictionary }) {
-  switch (slug) {
+function TopicBody({ topic, dict }: { topic: TopicKey; dict: Dictionary }) {
+  switch (topic) {
     case "protein-for-weight-loss":
       return (
         <p className="text-stone-600 leading-relaxed">{dict.weightLoss.body}</p>
@@ -251,8 +260,11 @@ export default async function TopicPage({
 }: {
   params: Promise<{ lang: string; topic: string }>;
 }) {
-  const { lang, topic } = await params;
-  if (!hasLocale(lang) || !isTopic(topic)) notFound();
+  const { lang, topic: slug } = await params;
+  if (!hasLocale(lang)) notFound();
+  const topic = topicForSlug(lang, slug);
+  if (!topic) notFound();
+
   const dict = await getDictionary(lang);
   const cfg = TOPICS[topic];
   const heading = cfg.heading(dict);
@@ -296,7 +308,7 @@ export default async function TopicPage({
 
       <section className="bg-white px-6 py-14">
         <div className="max-w-3xl mx-auto">
-          <TopicBody slug={topic} dict={dict} />
+          <TopicBody topic={topic} dict={dict} />
         </div>
       </section>
 
@@ -324,14 +336,14 @@ export default async function TopicPage({
             {dict.nav.brand}
           </h2>
           <ul className="mt-5 grid sm:grid-cols-2 gap-3">
-            {cfg.related.map((slug) => (
-              <li key={slug}>
+            {cfg.related.map((relatedTopic) => (
+              <li key={relatedTopic}>
                 <Link
-                  href={`/${lang}/${slug}`}
+                  href={`/${lang}/${slugForTopic(lang, relatedTopic)}`}
                   className="group flex items-center justify-between gap-3 rounded-2xl border border-stone-200 bg-white px-5 py-4 hover:shadow-md hover:-translate-y-0.5 transition-all"
                 >
                   <span className="font-medium text-charcoal">
-                    {TOPICS[slug].heading(dict)}
+                    {TOPICS[relatedTopic].heading(dict)}
                   </span>
                   <ArrowIcon className="size-4 flex-none text-red rtl:rotate-180 transition-transform group-hover:translate-x-0.5 rtl:group-hover:-translate-x-0.5" />
                 </Link>
@@ -358,7 +370,7 @@ export default async function TopicPage({
                 "@type": "ListItem",
                 position: 2,
                 name: heading,
-                item: `${SITE_URL}/${lang}/${topic}`,
+                item: `${SITE_URL}/${lang}/${slug}`,
               },
             ],
           }),
