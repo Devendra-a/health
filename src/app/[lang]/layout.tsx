@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Geist, Geist_Mono } from "next/font/google";
 import "../globals.css";
-import { locales, rtlLocales, ogLocales, hasLocale } from "@/i18n/config";
+import { locales, defaultLocale, rtlLocales, ogLocales, hasLocale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/get-dictionary";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -42,7 +42,12 @@ export async function generateMetadata({
     },
     alternates: {
       canonical: `/${lang}`,
-      languages: Object.fromEntries(locales.map((l) => [l, `/${l}`])),
+      languages: {
+        ...Object.fromEntries(locales.map((l) => [l, `/${l}`])),
+        // x-default tells Google which page to serve when no language matches
+        // the user's — the canonical entry point for the multilingual set.
+        "x-default": `/${defaultLocale}`,
+      },
     },
     openGraph: {
       title: dict.meta.title,
