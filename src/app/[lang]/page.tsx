@@ -452,6 +452,23 @@ export default async function Home({
           }),
         }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "HowTo",
+            name: dict.howTo.heading,
+            description: dict.meta.description,
+            step: dict.howTo.steps.map((step, i) => ({
+              "@type": "HowToStep",
+              position: i + 1,
+              name: step.title,
+              text: step.description,
+            })),
+          }),
+        }}
+      />
     </main>
   );
 }
