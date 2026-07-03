@@ -135,6 +135,49 @@ export function lbToKg(lb: number): number {
   return lb * 0.453592;
 }
 
+export function calculateBMI(weightKg: number, heightCm: number): number {
+  const heightM = heightCm / 100;
+  return Math.round((weightKg / (heightM * heightM)) * 10) / 10;
+}
+
+export type BmiCategory = "underweight" | "normal" | "overweight" | "obese";
+
+export function bmiCategory(bmi: number): BmiCategory {
+  if (bmi < 18.5) return "underweight";
+  if (bmi < 25) return "normal";
+  if (bmi < 30) return "overweight";
+  return "obese";
+}
+
+export const BMI_DICT_KEY: Record<BmiCategory, string> = {
+  underweight: "bmiUnderweight",
+  normal: "bmiNormal",
+  overweight: "bmiOverweight",
+  obese: "bmiObese",
+};
+
+// Calorie target adjusted for the goal: a moderate ~20% deficit for weight
+// loss, a lean ~10% surplus for muscle gain, maintenance otherwise.
+export function calculateGoalCalories(tdee: number, goal: Goal): number {
+  if (goal === "lose") return Math.round(tdee * 0.8);
+  if (goal === "gain") return Math.round(tdee * 1.1);
+  return tdee;
+}
+
+// Simple macro split around a fixed protein target: 30% of calories from fat,
+// the remainder from carbs (4 kcal/g protein & carbs, 9 kcal/g fat).
+export function calculateMacros(
+  goalCalories: number,
+  proteinG: number
+): { carbsG: number; fatG: number } {
+  const fatG = Math.round((goalCalories * 0.3) / 9);
+  const carbsG = Math.max(
+    0,
+    Math.round((goalCalories - proteinG * 4 - fatG * 9) / 4)
+  );
+  return { carbsG, fatG };
+}
+
 export function inToCm(inches: number): number {
   return inches * 2.54;
 }

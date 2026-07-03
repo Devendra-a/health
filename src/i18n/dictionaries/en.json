@@ -152,7 +152,19 @@
         "soyMilk": "Soy milk (1 cup)",
         "plantProtein": "Plant protein (1 scoop)"
       }
-    }
+    },
+    "bmiLabel": "BMI",
+    "bmiUnderweight": "Underweight",
+    "bmiNormal": "Healthy",
+    "bmiOverweight": "Overweight",
+    "bmiObese": "Obese",
+    "goalCalories": "Calories for your goal",
+    "macroHeading": "Suggested daily macros",
+    "proteinLabel": "Protein",
+    "carbsLabel": "Carbs",
+    "fatLabel": "Fat",
+    "shareResult": "Share result link",
+    "linkCopied": "Link copied!"
   },
   "howTo": {
     "heading": "How to Use This Protein Intake Calculator",

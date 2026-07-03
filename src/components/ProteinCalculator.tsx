@@ -1,9 +1,10 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import {
   ACTIVITIES,
   ACTIVITY_DICT_KEY,
+  BMI_DICT_KEY,
   DEFICIT_DICT_KEY,
   DEFICIT_SIZES,
   DIET_PREFERENCES,
@@ -11,10 +12,14 @@ import {
   GOAL_DICT_KEY,
   TRAINING_EXPERIENCES,
   TRAINING_DICT_KEY,
+  bmiCategory,
   buildFoodPlan,
+  calculateBMI,
   calculateBMR,
   calculateBMRKatchMcArdle,
+  calculateGoalCalories,
   calculateLeanBodyMass,
+  calculateMacros,
   calculateMuscleProtein,
   calculateProteinRange,
   calculateTDEE,
@@ -24,6 +29,7 @@ import {
   lbToKg,
   splitProteinPerMeal,
   type Activity,
+  type BmiCategory,
   type DeficitSize,
   type DietPreference,
   type Gender,
@@ -52,7 +58,127 @@ type Result = {
   perKgLow: number;
   perKgHigh: number;
   tdee: number | null;
+  bmi: number | null;
+  bmiCat: BmiCategory | null;
+  goalCalories: number | null;
+  carbsG: number | null;
+  fatG: number | null;
 };
+
+// Everything the Daily Protein tab needs to compute a result. Kept as plain
+// strings/enums so the same values round-trip through the share URL and
+// localStorage.
+type DailyInputs = {
+  gender: Gender;
+  age: string;
+  weight: string;
+  weightUnit: WeightUnit;
+  height: string;
+  heightUnit: HeightUnit;
+  activity: Activity;
+  goal: Goal;
+  trainingExperience: TrainingExperience;
+  includeBodyFat: boolean;
+  bodyFatPercent: string;
+};
+
+function computeDailyResult(inputs: DailyInputs): Result | null {
+  const rawWeight = parseFloat(inputs.weight);
+  if (!rawWeight || rawWeight <= 0) return null;
+  const weightKg =
+    inputs.weightUnit === "kg" ? rawWeight : lbToKg(rawWeight);
+
+  const { low, high } = calculateProteinRange(
+    weightKg,
+    inputs.activity,
+    inputs.goal,
+    inputs.trainingExperience
+  );
+  const [perKgLow, perKgHigh] = getProteinPerKgRange(
+    inputs.activity,
+    inputs.goal,
+    inputs.trainingExperience
+  );
+
+  const rawAge = parseFloat(inputs.age);
+  const rawHeight = parseFloat(inputs.height);
+  const rawBodyFat = parseFloat(inputs.bodyFatPercent);
+  let tdee: number | null = null;
+  let bmi: number | null = null;
+  let bmiCat: BmiCategory | null = null;
+  let goalCalories: number | null = null;
+  let carbsG: number | null = null;
+  let fatG: number | null = null;
+  if (rawAge > 0 && rawHeight > 0) {
+    const heightCm =
+      inputs.heightUnit === "cm" ? rawHeight : inToCm(rawHeight);
+    const bmr =
+      inputs.includeBodyFat && rawBodyFat > 0 && rawBodyFat < 60
+        ? calculateBMRKatchMcArdle(calculateLeanBodyMass(weightKg, rawBodyFat))
+        : calculateBMR(inputs.gender, weightKg, heightCm, rawAge);
+    tdee = calculateTDEE(bmr, inputs.activity);
+    bmi = calculateBMI(weightKg, heightCm);
+    bmiCat = bmiCategory(bmi);
+    goalCalories = calculateGoalCalories(tdee, inputs.goal);
+    const macros = calculateMacros(
+      goalCalories,
+      Math.round((low + high) / 2)
+    );
+    carbsG = macros.carbsG;
+    fatG = macros.fatG;
+  }
+
+  return { low, high, perKgLow, perKgHigh, tdee, bmi, bmiCat, goalCalories, carbsG, fatG };
+}
+
+// Share-URL / localStorage codec for the Daily Protein inputs.
+const STORAGE_KEY = "proteinCalcInputs";
+
+function inputsToParams(inputs: DailyInputs): URLSearchParams {
+  const params = new URLSearchParams({
+    w: inputs.weight,
+    wu: inputs.weightUnit,
+    act: inputs.activity,
+    goal: inputs.goal,
+    tx: inputs.trainingExperience,
+    g: inputs.gender,
+  });
+  if (inputs.age) params.set("age", inputs.age);
+  if (inputs.height) {
+    params.set("h", inputs.height);
+    params.set("hu", inputs.heightUnit);
+  }
+  if (inputs.includeBodyFat && inputs.bodyFatPercent) {
+    params.set("bf", inputs.bodyFatPercent);
+  }
+  return params;
+}
+
+function oneOf<T extends string>(
+  value: string | null,
+  allowed: readonly T[]
+): T | null {
+  return allowed.includes(value as T) ? (value as T) : null;
+}
+
+function paramsToInputs(params: URLSearchParams): DailyInputs | null {
+  const weight = params.get("w");
+  if (!weight || !(parseFloat(weight) > 0)) return null;
+  return {
+    gender: oneOf(params.get("g"), ["male", "female"] as const) ?? "male",
+    age: params.get("age") ?? "",
+    weight,
+    weightUnit: oneOf(params.get("wu"), ["kg", "lb"] as const) ?? "kg",
+    height: params.get("h") ?? "",
+    heightUnit: oneOf(params.get("hu"), ["cm", "in"] as const) ?? "cm",
+    activity: oneOf(params.get("act"), ACTIVITIES) ?? "moderate",
+    goal: oneOf(params.get("goal"), GOALS) ?? "maintain",
+    trainingExperience:
+      oneOf(params.get("tx"), TRAINING_EXPERIENCES) ?? "intermediate",
+    includeBodyFat: !!params.get("bf"),
+    bodyFatPercent: params.get("bf") ?? "",
+  };
+}
 
 type MuscleResult = { low: number; high: number; recommended: number };
 
@@ -369,6 +495,7 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
   const [bodyFatPercent, setBodyFatPercent] = useState("");
   const [result, setResult] = useState<Result | null>(null);
   const [copied, setCopied] = useState(false);
+  const [shared, setShared] = useState(false);
 
   // Muscle Building tab
   const [muscleWeight, setMuscleWeight] = useState("");
@@ -392,42 +519,70 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
   const [perMealMeals, setPerMealMeals] = useState(4);
   const [perMealResult, setPerMealResult] = useState<PerMealResult | null>(null);
 
-  function handleCalculate(e: React.FormEvent) {
-    e.preventDefault();
-    const rawWeight = parseFloat(weight);
-    if (!rawWeight || rawWeight <= 0) {
-      setResult(null);
+  const dailyInputs: DailyInputs = {
+    gender,
+    age,
+    weight,
+    weightUnit,
+    height,
+    heightUnit,
+    activity,
+    goal,
+    trainingExperience,
+    includeBodyFat,
+    bodyFatPercent,
+  };
+
+  function applyInputs(inputs: DailyInputs) {
+    setGender(inputs.gender);
+    setAge(inputs.age);
+    setWeight(inputs.weight);
+    setWeightUnit(inputs.weightUnit);
+    setHeight(inputs.height);
+    setHeightUnit(inputs.heightUnit);
+    setActivity(inputs.activity);
+    setGoal(inputs.goal);
+    setTrainingExperience(inputs.trainingExperience);
+    setIncludeBodyFat(inputs.includeBodyFat);
+    setBodyFatPercent(inputs.bodyFatPercent);
+  }
+
+  // Restore inputs on first load: a shared link (query params) wins and also
+  // auto-calculates; otherwise fall back to the visitor's last-used inputs.
+  // Runs once after hydration — the server can't see query params or
+  // localStorage, so a one-shot setState here is unavoidable.
+  /* eslint-disable react-hooks/set-state-in-effect */
+  useEffect(() => {
+    const fromUrl = paramsToInputs(
+      new URLSearchParams(window.location.search)
+    );
+    if (fromUrl) {
+      applyInputs(fromUrl);
+      setResult(computeDailyResult(fromUrl));
       return;
     }
-    const weightKg = weightUnit === "kg" ? rawWeight : lbToKg(rawWeight);
-
-    const { low, high } = calculateProteinRange(
-      weightKg,
-      activity,
-      goal,
-      trainingExperience
-    );
-    const [perKgLow, perKgHigh] = getProteinPerKgRange(
-      activity,
-      goal,
-      trainingExperience
-    );
-
-    const rawAge = parseFloat(age);
-    const rawHeight = parseFloat(height);
-    const rawBodyFat = parseFloat(bodyFatPercent);
-    let tdee: number | null = null;
-    if (rawAge > 0 && rawHeight > 0) {
-      const heightCm = heightUnit === "cm" ? rawHeight : inToCm(rawHeight);
-      const bmr =
-        includeBodyFat && rawBodyFat > 0 && rawBodyFat < 60
-          ? calculateBMRKatchMcArdle(calculateLeanBodyMass(weightKg, rawBodyFat))
-          : calculateBMR(gender, weightKg, heightCm, rawAge);
-      tdee = calculateTDEE(bmr, activity);
+    try {
+      const stored = localStorage.getItem(STORAGE_KEY);
+      if (stored) {
+        const inputs = paramsToInputs(new URLSearchParams(stored));
+        if (inputs) applyInputs(inputs);
+      }
+    } catch {
+      // localStorage unavailable (private mode etc.) — start blank.
     }
+  }, []);
+  /* eslint-enable react-hooks/set-state-in-effect */
 
-    setResult({ low, high, perKgLow, perKgHigh, tdee });
+  function handleCalculate(e: React.FormEvent) {
+    e.preventDefault();
+    setResult(computeDailyResult(dailyInputs));
     setCopied(false);
+    setShared(false);
+    try {
+      localStorage.setItem(STORAGE_KEY, inputsToParams(dailyInputs).toString());
+    } catch {
+      // Persisting inputs is best-effort only.
+    }
   }
 
   function handleCopy() {
@@ -437,6 +592,14 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
     );
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
+  }
+
+  function handleShare() {
+    if (!result) return;
+    const url = `${window.location.origin}${window.location.pathname}?${inputsToParams(dailyInputs)}#calculator`;
+    navigator.clipboard.writeText(url);
+    setShared(true);
+    setTimeout(() => setShared(false), 2000);
   }
 
   function handleCalculateMuscle(e: React.FormEvent) {
@@ -935,20 +1098,84 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
                     : dict.addAgeHeight}
                 </p>
               </div>
+              {result.bmi !== null && result.bmiCat !== null && (
+                <div className="rounded-lg bg-white border border-red/15 px-3 py-2">
+                  <p className="text-xs text-stone-500">{dict.bmiLabel}</p>
+                  <p className="text-sm font-semibold text-charcoal">
+                    {result.bmi}{" "}
+                    <span className="font-normal text-stone-500">
+                      {
+                        dict[
+                          BMI_DICT_KEY[result.bmiCat] as keyof CalculatorDict
+                        ] as string
+                      }
+                    </span>
+                  </p>
+                </div>
+              )}
+              {result.goalCalories !== null && (
+                <div className="rounded-lg bg-white border border-red/15 px-3 py-2">
+                  <p className="text-xs text-stone-500">{dict.goalCalories}</p>
+                  <p className="text-sm font-semibold text-charcoal">
+                    {result.goalCalories.toLocaleString()} kcal
+                  </p>
+                </div>
+              )}
             </div>
+
+            {result.goalCalories !== null &&
+              result.carbsG !== null &&
+              result.fatG !== null && (
+                <div className="mt-4 rounded-xl border border-stone-200 bg-white p-4 text-start">
+                  <p className="text-xs font-semibold uppercase tracking-wide text-stone-500">
+                    {dict.macroHeading}
+                  </p>
+                  <div className="mt-3 grid grid-cols-3 gap-3 text-center">
+                    <div>
+                      <p className="text-xs text-stone-500">
+                        {dict.proteinLabel}
+                      </p>
+                      <p className="text-lg font-semibold text-red">
+                        {Math.round((result.low + result.high) / 2)}g
+                      </p>
+                    </div>
+                    <div>
+                      <p className="text-xs text-stone-500">{dict.carbsLabel}</p>
+                      <p className="text-lg font-semibold text-charcoal">
+                        {result.carbsG}g
+                      </p>
+                    </div>
+                    <div>
+                      <p className="text-xs text-stone-500">{dict.fatLabel}</p>
+                      <p className="text-lg font-semibold text-charcoal">
+                        {result.fatG}g
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              )}
 
             <FoodPlanPanel
               dict={dict}
               targetG={Math.round((result.low + result.high) / 2)}
             />
 
-            <button
-              type="button"
-              onClick={handleCopy}
-              className="mt-4 rounded-full border border-red bg-white text-red text-sm font-medium px-5 py-2 hover:bg-red-soft transition-colors"
-            >
-              {copied ? dict.copied : dict.copyResult}
-            </button>
+            <div className="mt-4 flex flex-wrap justify-center gap-3">
+              <button
+                type="button"
+                onClick={handleCopy}
+                className="rounded-full border border-red bg-white text-red text-sm font-medium px-5 py-2 hover:bg-red-soft transition-colors"
+              >
+                {copied ? dict.copied : dict.copyResult}
+              </button>
+              <button
+                type="button"
+                onClick={handleShare}
+                className="rounded-full border border-red bg-white text-red text-sm font-medium px-5 py-2 hover:bg-red-soft transition-colors"
+              >
+                {shared ? dict.linkCopied : dict.shareResult}
+              </button>
+            </div>
           </div>
         )}
       </div>

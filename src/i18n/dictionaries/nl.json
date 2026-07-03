@@ -152,7 +152,19 @@
         "soyMilk": "Sojamelk (1 kopje)",
         "plantProtein": "Plantaardig eiwit (1 scoop)"
       }
-    }
+    },
+    "bmiLabel": "BMI",
+    "bmiUnderweight": "Ondergewicht",
+    "bmiNormal": "Gezond",
+    "bmiOverweight": "Overgewicht",
+    "bmiObese": "Obesitas",
+    "goalCalories": "Calorieën voor je doel",
+    "macroHeading": "Aanbevolen dagelijkse macro's",
+    "proteinLabel": "Eiwit",
+    "carbsLabel": "Koolhydraten",
+    "fatLabel": "Vet",
+    "shareResult": "Deel resultaatlink",
+    "linkCopied": "Link gekopieerd!"
   },
   "howTo": {
     "heading": "Hoe deze eiwitinname calculator te gebruiken",

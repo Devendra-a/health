@@ -152,7 +152,19 @@
         "soyMilk": "Sojamilch (1 Tasse)",
         "plantProtein": "Pflanzenprotein (1 Messlöffel)"
       }
-    }
+    },
+    "bmiLabel": "BMI",
+    "bmiUnderweight": "Untergewicht",
+    "bmiNormal": "Normalgewicht",
+    "bmiOverweight": "Übergewicht",
+    "bmiObese": "Adipositas",
+    "goalCalories": "Kalorien für dein Ziel",
+    "macroHeading": "Empfohlene Tagesmakros",
+    "proteinLabel": "Protein",
+    "carbsLabel": "Kohlenhydrate",
+    "fatLabel": "Fett",
+    "shareResult": "Ergebnis-Link teilen",
+    "linkCopied": "Link kopiert!"
   },
   "howTo": {
     "heading": "So verwenden Sie diesen Protein-Rechner",

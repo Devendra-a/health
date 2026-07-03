@@ -152,7 +152,19 @@
         "soyMilk": "Leche de soja (1 taza)",
         "plantProtein": "Proteína vegetal (1 medida)"
       }
-    }
+    },
+    "bmiLabel": "IMC",
+    "bmiUnderweight": "Bajo peso",
+    "bmiNormal": "Saludable",
+    "bmiOverweight": "Sobrepeso",
+    "bmiObese": "Obesidad",
+    "goalCalories": "Calorías para tu objetivo",
+    "macroHeading": "Macros diarios sugeridos",
+    "proteinLabel": "Proteína",
+    "carbsLabel": "Carbohidratos",
+    "fatLabel": "Grasa",
+    "shareResult": "Compartir enlace del resultado",
+    "linkCopied": "¡Enlace copiado!"
   },
   "howTo": {
     "heading": "Cómo usar esta calculadora de ingesta de proteínas",

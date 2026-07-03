@@ -152,7 +152,19 @@
         "soyMilk": "حليب الصويا (1 كوب)",
         "plantProtein": "بروتين نباتي (1 مغرفة)"
       }
-    }
+    },
+    "bmiLabel": "مؤشر كتلة الجسم",
+    "bmiUnderweight": "نحافة",
+    "bmiNormal": "وزن صحي",
+    "bmiOverweight": "زيادة وزن",
+    "bmiObese": "سمنة",
+    "goalCalories": "السعرات لهدفك",
+    "macroHeading": "المغذيات الكبرى اليومية المقترحة",
+    "proteinLabel": "بروتين",
+    "carbsLabel": "كربوهيدرات",
+    "fatLabel": "دهون",
+    "shareResult": "مشاركة رابط النتيجة",
+    "linkCopied": "تم نسخ الرابط!"
   },
   "howTo": {
     "heading": "كيفية استخدام حاسبة تناول البروتين هذه",

@@ -152,7 +152,19 @@
         "soyMilk": "Latte di soia (1 tazza)",
         "plantProtein": "Proteine vegetali (1 misurino)"
       }
-    }
+    },
+    "bmiLabel": "IMC",
+    "bmiUnderweight": "Sottopeso",
+    "bmiNormal": "Normopeso",
+    "bmiOverweight": "Sovrappeso",
+    "bmiObese": "Obesità",
+    "goalCalories": "Calorie per il tuo obiettivo",
+    "macroHeading": "Macro giornalieri suggeriti",
+    "proteinLabel": "Proteine",
+    "carbsLabel": "Carboidrati",
+    "fatLabel": "Grassi",
+    "shareResult": "Condividi il link del risultato",
+    "linkCopied": "Link copiato!"
   },
   "howTo": {
     "heading": "Come usare questo calcolatore dell'assunzione di proteine",

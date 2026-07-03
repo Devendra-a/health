@@ -152,7 +152,19 @@
         "soyMilk": "Leite de soja (1 xícara)",
         "plantProtein": "Proteína vegetal (1 scoop)"
       }
-    }
+    },
+    "bmiLabel": "IMC",
+    "bmiUnderweight": "Abaixo do peso",
+    "bmiNormal": "Saudável",
+    "bmiOverweight": "Excesso de peso",
+    "bmiObese": "Obesidade",
+    "goalCalories": "Calorias para o seu objetivo",
+    "macroHeading": "Macros diários sugeridos",
+    "proteinLabel": "Proteína",
+    "carbsLabel": "Hidratos de carbono",
+    "fatLabel": "Gordura",
+    "shareResult": "Partilhar link do resultado",
+    "linkCopied": "Link copiado!"
   },
   "howTo": {
     "heading": "Como usar esta calculadora de ingestão de proteína",

@@ -152,7 +152,19 @@
         "soyMilk": "Lait de soja (1 tasse)",
         "plantProtein": "Protéine végétale (1 portion)"
       }
-    }
+    },
+    "bmiLabel": "IMC",
+    "bmiUnderweight": "Insuffisance pondérale",
+    "bmiNormal": "Corpulence normale",
+    "bmiOverweight": "Surpoids",
+    "bmiObese": "Obésité",
+    "goalCalories": "Calories pour votre objectif",
+    "macroHeading": "Macros quotidiens suggérés",
+    "proteinLabel": "Protéines",
+    "carbsLabel": "Glucides",
+    "fatLabel": "Lipides",
+    "shareResult": "Partager le lien du résultat",
+    "linkCopied": "Lien copié !"
   },
   "howTo": {
     "heading": "Comment utiliser ce calculateur d'apport en protéines",
