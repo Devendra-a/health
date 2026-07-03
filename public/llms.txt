@@ -1,0 +1,35 @@
+# Protein Intake Calculator
+
+> A free, privacy-friendly protein intake calculator that tells you exactly how many grams of protein to eat per day based on your body weight, activity level and goal (muscle gain, fat loss, maintenance or athletic performance). All calculations run in the browser using evidence-based formulas (Mifflin–St Jeor for calories; g/kg protein ranges used by dietitians and strength coaches). No data is stored.
+
+## Key facts
+
+- General health (sedentary): 0.8–1.0 g of protein per kg of body weight per day.
+- Weight loss (preserve muscle in a deficit): 1.6–2.2 g/kg.
+- Muscle gain: 1.7–2.2 g/kg, combined with resistance training and a slight calorie surplus.
+- Athletic / endurance performance: 1.8–3.1 g/kg.
+- Per meal: aim for 25–40 g of protein across 3–4 meals for steady muscle protein synthesis.
+- Women: same weight-based ranges as men; pregnancy and breastfeeding add ~25 g/day; post-menopause 1.4–1.8 g/kg to protect bone and muscle.
+- Older adults (60+): often need 1.2–1.6 g/kg to offset age-related muscle loss (sarcopenia).
+- On GLP-1 medications (Ozempic, Wegovy, Mounjaro): appetite drops, so prioritize protein first at each meal and target the higher end of the range.
+
+## Main pages
+
+- [Protein Intake Calculator (English)](https://www.proteinintakecalculators.online/en): Interactive calculator plus guidance on how much protein you need per day, protein by body weight, weight loss, muscle gain, women's needs, GLP-1 medications, high-protein foods, and a vegetarian/vegan food planner.
+
+## Topics covered
+
+- [How much protein per day](https://www.proteinintakecalculators.online/en#how-it-works): Weight-based daily protein ranges by goal and activity level.
+- [Protein for weight loss](https://www.proteinintakecalculators.online/en): Why 1.6–2.4 g/kg preserves muscle and controls hunger during a calorie deficit.
+- [Protein for muscle gain](https://www.proteinintakecalculators.online/en): 1.6–2.2 g/kg with resistance training and a calorie surplus, spread across 3–4 meals.
+- [High-protein foods list](https://www.proteinintakecalculators.online/en): Protein content of common foods (chicken, eggs, Greek yogurt, paneer, lentils, tofu, tuna, whey).
+- [Vegetarian & vegan protein](https://www.proteinintakecalculators.online/en): Same targets, plant- and dairy-based sourcing with a sample day.
+- [FAQ](https://www.proteinintakecalculators.online/en#faq): Common questions on daily needs, per-meal amounts, GLP-1 medications, older adults and safety.
+
+## Languages
+
+Available in English (en), Spanish (es), French (fr), German (de), Portuguese (pt), Italian (it), Dutch (nl) and Arabic (ar) at https://www.proteinintakecalculators.online/{lang}
+
+## Notes
+
+This calculator provides general fitness guidance and is not a substitute for professional medical or nutritional advice.
