@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import Script from "next/script";
 import ProteinCalculator from "@/components/ProteinCalculator";
 import FaqAccordion from "@/components/FaqAccordion";
@@ -49,6 +50,27 @@ function buildPersonaResult(p: Persona) {
 
 function label(dict: Dictionary["calculator"], key: string): string {
   return dict[key as keyof Dictionary["calculator"]] as string;
+}
+
+// Turns a section heading into a link to its dedicated deep-dive page. The
+// heading text itself is the (already-translated) anchor — good for SEO — and
+// an arrow appears on hover to signal it navigates.
+function TopicHeading({
+  href,
+  children,
+}: {
+  href: string;
+  children: React.ReactNode;
+}) {
+  return (
+    <Link
+      href={href}
+      className="group inline-flex items-center gap-2 hover:text-red transition-colors"
+    >
+      {children}
+      <ArrowIcon className="size-5 flex-none text-red opacity-0 -translate-x-1 transition-all group-hover:opacity-100 group-hover:translate-x-0 rtl:rotate-180" />
+    </Link>
+  );
 }
 
 const TABLE_HEAD =
@@ -199,7 +221,9 @@ export default async function Home({
       <section className="bg-cream-dark px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            {dict.byWeight.heading}
+            <TopicHeading href={`/${lang}/protein-by-body-weight`}>
+              {dict.byWeight.heading}
+            </TopicHeading>
           </h2>
           <p className="mt-4 text-stone-600">{dict.byWeight.intro}</p>
           <div className={TABLE_WRAP}>
@@ -233,7 +257,9 @@ export default async function Home({
       <section className="bg-white px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            {dict.weightLoss.heading}
+            <TopicHeading href={`/${lang}/protein-for-weight-loss`}>
+              {dict.weightLoss.heading}
+            </TopicHeading>
           </h2>
           <p className="mt-4 text-stone-600 leading-relaxed">
             {dict.weightLoss.body}
@@ -244,7 +270,9 @@ export default async function Home({
       <section className="bg-cream-dark px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            {dict.muscleGain.heading}
+            <TopicHeading href={`/${lang}/protein-for-muscle-gain`}>
+              {dict.muscleGain.heading}
+            </TopicHeading>
           </h2>
           <p className="mt-4 text-stone-600 leading-relaxed">
             {dict.muscleGain.body}
@@ -255,7 +283,9 @@ export default async function Home({
       <section className="bg-white px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            {dict.women.heading}
+            <TopicHeading href={`/${lang}/protein-for-women`}>
+              {dict.women.heading}
+            </TopicHeading>
           </h2>
           <p className="mt-4 text-stone-600 leading-relaxed">
             {dict.women.intro}
@@ -287,7 +317,9 @@ export default async function Home({
       <section className="bg-cream-dark px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            {dict.glp1.heading}
+            <TopicHeading href={`/${lang}/protein-on-ozempic-wegovy`}>
+              {dict.glp1.heading}
+            </TopicHeading>
           </h2>
           <p className="mt-4 text-stone-600 leading-relaxed">
             {dict.glp1.intro}
@@ -355,7 +387,9 @@ export default async function Home({
       <section className="bg-cream-dark px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            {dict.foods.heading}
+            <TopicHeading href={`/${lang}/high-protein-foods`}>
+              {dict.foods.heading}
+            </TopicHeading>
           </h2>
           <p className="mt-4 text-stone-600">{dict.foods.intro}</p>
           <div className={TABLE_WRAP}>
@@ -384,7 +418,9 @@ export default async function Home({
       <section className="bg-white px-6 py-16">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl sm:text-3xl font-bold text-charcoal">
-            {dict.dietTypes.heading}
+            <TopicHeading href={`/${lang}/vegetarian-vegan-protein`}>
+              {dict.dietTypes.heading}
+            </TopicHeading>
           </h2>
           <p className="mt-4 text-stone-600 leading-relaxed">
             {dict.dietTypes.intro}
