@@ -529,6 +529,706 @@
           "Haarausfall, brüchige Nägel und langsam heilende Haut",
           "Häufige kleine Infekte und zähe Regeneration nach dem Training"
         ]
+      },
+      "protein-for-athletes": {
+        "heading": "Protein für Sportler: Wie viel pro Tag?",
+        "lead": "Die meisten Leistungssportler brauchen 1,4 bis 2,0 g Protein pro kg Körpergewicht am Tag, deutlich mehr als die 0,8 g/kg eines sitzenden Erwachsenen. Für einen 75 kg schweren Sportler sind das etwa 105 bis 150 g pro Tag, je nach Trainingsumfang und Sportart.",
+        "paragraphs": [
+          "Sportler bauen Muskelprotein schneller ab und wieder auf als Untrainierte, daher ist ihr Tagesbedarf höher und stärker vom Timing abhängig. Kraft- und Schnellkraftsportler liegen am oberen Ende des Bereichs (1,6-2,0 g/kg), Ausdauersportler brauchen etwas weniger (1,2-1,6 g/kg), aber immer noch weit mehr als die Allgemeinbevölkerung.",
+          "Die tägliche Gesamtmenge zählt am meisten, doch die Verteilung hilft: Ziele auf 0,3-0,4 g/kg bei jeder von drei bis vier Mahlzeiten und nimm innerhalb von zwei Stunden nach hartem Training eine proteinreiche Mahlzeit. Vollwertige Lebensmittel sollten die Basis bilden, Shakes nur zum Auffüllen an intensiven Tagen oder auf Reisen zum Wettkampf."
+        ],
+        "bullets": [
+          "Kraft- und Schnellkraftsport: 1,6-2,0 g/kg pro Tag",
+          "Ausdauersport: 1,2-1,6 g/kg pro Tag",
+          "Auf 3-4 Mahlzeiten zu je 0,3-0,4 g/kg verteilen",
+          "Protein plus Kohlenhydrate binnen 2 Stunden nach harten Einheiten"
+        ]
+      },
+      "protein-for-runners": {
+        "heading": "Protein für Läufer: Tagesbedarf und Timing",
+        "lead": "Läufer brauchen etwa 1,2 bis 1,6 g Protein pro kg Körpergewicht am Tag, mehr als Nichtläufer, aber weniger als Kraftsportler. Ein 65 kg schwerer Läufer zielt so auf etwa 80 bis 105 g pro Tag, um Muskeln zu reparieren und die Regeneration zu unterstützen.",
+        "paragraphs": [
+          "Laufen gilt oft als Kohlenhydratsport, doch die wiederholte Belastung schädigt Muskelfasern, die Protein wieder aufbaut. Läufer mit hohem Umfang und Marathonläufer liegen am oberen Ende, weil chronisches Training und Kaloriendefizite sonst Magermasse abbauen und die Regeneration verlangsamen können.",
+          "Kombiniere Protein mit Kohlenhydraten nach langen oder harten Läufen, um Glykogen aufzufüllen und die Reparatur gleichzeitig zu starten. Ein Verhältnis von 3:1 oder 4:1 Kohlenhydrate zu Protein in der ersten Stunde funktioniert gut, und das restliche Protein über den Tag zu verteilen unterstützt die nächtliche Regeneration."
+        ],
+        "bullets": [
+          "Allgemeines Ziel: 1,2-1,6 g/kg pro Tag",
+          "Umfangreiche Wochen: näher ans obere Ende",
+          "Nach dem Lauf: Kohlenhydrate plus 20-30 g Protein binnen einer Stunde",
+          "Beim Diäten aufs Wettkampfgewicht Protein nicht kürzen"
+        ]
+      },
+      "protein-for-bodybuilding": {
+        "heading": "Protein fürs Bodybuilding: Wie viel für Masse",
+        "lead": "Bodybuilder essen typischerweise 1,6 bis 2,2 g Protein pro kg Körpergewicht am Tag, in der Wettkampfdiät bis zu 2,4 g/kg. Für einen 90 kg schweren Bodybuilder sind das etwa 145 bis 200 g Protein pro Tag.",
+        "paragraphs": [
+          "Die Muskelproteinsynthese wird durch ausreichend Gesamtprotein und einen Krafttrainingsreiz maximiert. Weit über 2,2 g/kg zu gehen bringt selten schneller Muskeln, doch eine etwas höhere Zufuhr in der Diät hilft, hart erarbeitete Masse zu schützen, während die Kalorien niedrig sind.",
+          "Die Verteilung ist für Bodybuilder ein echter Hebel: vier bis fünf Mahlzeiten zu je 30-50 g halten die Muskelproteinsynthese den ganzen Tag erhöht. Baue die meisten Mahlzeiten um mageres Fleisch, Fisch, Eier und Milchprodukte, und nutze Whey oder einen pflanzlichen Mix rund ums Training, um deine Zahlen zu erreichen."
+        ],
+        "bullets": [
+          "Aufbau in der Offseason: 1,6-2,2 g/kg pro Tag",
+          "Wettkampfvorbereitung: bis 2,4 g/kg zum Muskelerhalt",
+          "4-5 Mahlzeiten zu 30-50 g über den Tag",
+          "Progressives Krafttraining nötig, um das Protein zu nutzen"
+        ]
+      },
+      "protein-for-endurance": {
+        "heading": "Protein für Ausdauersportler: Tagesbedarf",
+        "lead": "Ausdauersportler brauchen etwa 1,2 bis 1,6 g Protein pro kg Körpergewicht am Tag, um Muskeln zu reparieren und Anpassungen zu unterstützen. Für einen 70 kg schweren Sportler sind das etwa 85 bis 110 g pro Tag, in umfangreichen Trainingsblöcken mehr.",
+        "paragraphs": [
+          "Lange Einheiten erhöhen die Proteinoxidation und den Umsatz von Bindegewebe, daher brauchen Ausdauersportler mehr als die sitzende Basis, auch wenn ihr Fokus auf Energie liegt. Chronisch zu wenig Protein in umfangreichen Phasen ist eine häufige Ursache für stagnierende Anpassung und hartnäckige Verletzungen.",
+          "Da die Einheiten lang sind, zählt Protein rund ums Training: eine kleine Dosis bei extrem langen Belastungen und eine volle Mahlzeit danach helfen beide. Halte die Kohlenhydrate hoch, damit Protein der Reparatur statt der Energie dient, und verteile es gleichmäßig auf die Mahlzeiten."
+        ],
+        "bullets": [
+          "Tagesziel: 1,2-1,6 g/kg",
+          "In umfangreichen oder Höhenblöcken die Zufuhr erhöhen",
+          "Kohlenhydrate hoch halten, damit Protein repariert",
+          "20-30 g Protein in die Mahlzeit nach der Einheit"
+        ]
+      },
+      "protein-for-cyclists": {
+        "heading": "Protein für Radfahrer: Wie viel brauchst du?",
+        "lead": "Radfahrer brauchen meist 1,2 bis 1,7 g Protein pro kg Körpergewicht am Tag, wobei das obere Ende zu intensiven Intervall- oder Bergeinheiten passt. Ein 70 kg schwerer Radfahrer zielt auf etwa 85 bis 120 g pro Tag.",
+        "paragraphs": [
+          "Radfahren ist gelenkschonend, aber umfangreich, und wiederholte harte Belastungen schädigen dennoch Muskeln, die Protein wieder aufbaut. Wer zweimal täglich trainiert, Etappenrennen fährt oder Kalorien für ein besseres Leistungsgewicht einschränkt, braucht Protein am oberen Ende, um Magermasse zu schützen.",
+          "Versorge lange Ausfahrten vor allem mit Kohlenhydraten und kombiniere danach Kohlenhydrate und Protein, um Glykogen aufzufüllen und die Regeneration zu starten. An aufeinanderfolgenden Trainingstagen kann eine Proteinmahlzeit vor dem Schlafen die nächtliche Reparatur zusätzlich unterstützen."
+        ],
+        "bullets": [
+          "Tagesziel: 1,2-1,7 g/kg",
+          "Zweimal täglich oder Etappenrennen: höher zielen",
+          "Nach langen Ausfahrten: Kohlenhydrate plus 20-30 g Protein",
+          "Magermasse schützen beim Streben nach Leistungsgewicht"
+        ]
+      },
+      "protein-for-swimmers": {
+        "heading": "Protein für Schwimmer: Regeneration und Leistung",
+        "lead": "Wettkampfschwimmer brauchen etwa 1,4 bis 2,0 g Protein pro kg Körpergewicht am Tag, da sie hohen Trainingsumfang mit erheblicher Oberkörperkraft verbinden. Ein 68 kg schwerer Schwimmer zielt auf etwa 95 bis 135 g pro Tag.",
+        "paragraphs": [
+          "Schwimmen baut große Mengen Muskulatur im ganzen Körper auf und beansprucht sie, und mehrere Beckeneinheiten pro Tag heben den Tagesbedarf in den Bereich der Kraftsportler. Ausreichend Protein unterstützt sowohl die Ausdauer- als auch die Kraftkomponente des Sports.",
+          "Da Einheiten oft früh beginnen und spät enden, plane proteinreiche Mahlzeiten und Snacks rund um den Beckenplan. Ein Shake direkt nach einem fordernden Satz, gefolgt von einer vollen Mahlzeit, hält die Regeneration zwischen den Einheiten aufrecht."
+        ],
+        "bullets": [
+          "Tagesziel: 1,4-2,0 g/kg",
+          "Zwei Einheiten täglich treiben den Bedarf ans obere Ende",
+          "Nach harten Sätzen einen Proteinsnack am Beckenrand bereithalten",
+          "Zufuhr auf Mahlzeiten und Shakes nach der Einheit verteilen"
+        ]
+      },
+      "protein-for-crossfit": {
+        "heading": "Protein für CrossFit: Wie viel zum Erholen und Wachsen",
+        "lead": "CrossFit-Athleten brauchen meist 1,6 bis 2,2 g Protein pro kg Körpergewicht am Tag, da der Sport Kraft, Schnellkraft und metabolische Kondition verbindet. Für einen 80 kg schweren Athleten sind das etwa 130 bis 175 g pro Tag.",
+        "paragraphs": [
+          "Hochintensives funktionelles Training erzeugt einen großen Reparaturbedarf, daher liegt CrossFit im selben Proteinbereich wie gezieltes Krafttraining. Wer sowohl eine schlanke Figur als auch bessere Leistung anstrebt, profitiert vom oberen Ende, besonders in der Diät.",
+          "Praktisches Timing hilft, die täglichen WODs zu bewältigen: eine Protein-Kohlenhydrat-Mahlzeit binnen zwei Stunden nach dem Training plus gleichmäßige Verteilung auf drei oder vier Mahlzeiten hält die Regeneration hoch. Zuerst vollwertige Lebensmittel, ein Shake zum Auffüllen an Tagen mit Doppeleinheit."
+        ],
+        "bullets": [
+          "Tagesziel: 1,6-2,2 g/kg",
+          "Definitionsphasen: ans obere Ende gehen",
+          "Nach jedem WOD mit Protein und Kohlenhydraten auftanken",
+          "Protein auf 3-4 Mahlzeiten für stetige Regeneration verteilen"
+        ]
+      },
+      "protein-for-strength-training": {
+        "heading": "Protein fürs Krafttraining: optimale Tageszufuhr",
+        "lead": "Fürs Krafttraining ziele auf 1,6 bis 2,2 g Protein pro kg Körpergewicht am Tag, den Bereich, der am konsistentesten mit Muskel- und Kraftzuwächsen verbunden ist. Eine 85 kg schwere Person zielt so auf etwa 135 bis 190 g pro Tag.",
+        "paragraphs": [
+          "Gewichtheben ist das Signal, das dem Körper sagt, Muskeln aufzubauen; Protein liefert das Rohmaterial. Den Bereich von 1,6-2,2 g/kg bei progressivem Training zu erreichen treibt die Anpassung, während eine viel höhere Zufuhr abnehmenden Ertrag bringt.",
+          "Verteile Protein auf drei oder vier Mahlzeiten zu 30-45 g, damit die Muskelproteinsynthese zwischen den Einheiten erhöht bleibt. Erholung, ausreichende Kalorien und konstantes Training zählen genauso wie das Erreichen deines täglichen Proteinziels."
+        ],
+        "bullets": [
+          "Tagesziel: 1,6-2,2 g/kg",
+          "30-45 g pro Mahlzeit über 3-4 Mahlzeiten",
+          "Progressiv trainieren, um das Protein zu nutzen",
+          "Gesamtkalorien, Schlaf und Regeneration nicht vernachlässigen"
+        ]
+      },
+      "protein-for-calisthenics": {
+        "heading": "Protein für Calisthenics: Muskeln mit dem Eigengewicht",
+        "lead": "Calisthenics-Athleten brauchen dieselben 1,6 bis 2,2 g Protein pro kg Körpergewicht am Tag wie Gewichtheber, um Muskeln aufzubauen, denn Eigengewichtstraining ist ebenfalls Widerstandstraining. Ein 72 kg schwerer Athlet zielt auf etwa 115 bis 160 g pro Tag.",
+        "paragraphs": [
+          "Fortschritt im Calisthenics entsteht dadurch, Eigengewichtsübungen mit der Zeit schwerer zu machen, was Muskelwachstum ebenso reizt wie zusätzliches Gewicht. Dein Proteinbedarf wird also vom Trainingsreiz bestimmt, nicht vom Gerät, und der Bereich des Krafttrainings gilt.",
+          "Da relative Schlankheit bei Skills wie Klimmzügen und Hebeln hilft, trainieren viele Calisthenics-Athleten nahe am Kalorienerhalt. In dem Fall schützt Protein am oberen Ende den Muskel, während der Körperfettanteil niedrig bleibt."
+        ],
+        "bullets": [
+          "Tagesziel: 1,6-2,2 g/kg",
+          "Eigengewichtsprogressionen zählen als Widerstandstraining",
+          "Schlank für Skills bleiben und Protein hoch halten",
+          "Auf 3-4 Mahlzeiten zu 30-45 g verteilen"
+        ]
+      },
+      "protein-for-marathon-training": {
+        "heading": "Protein fürs Marathontraining: wie viel und wann",
+        "lead": "Während des Marathontrainings steigt der Proteinbedarf auf etwa 1,4 bis 1,7 g pro kg Körpergewicht am Tag, um den Umfang ohne Muskelverlust zu bewältigen. Ein 65 kg schwerer Läufer zielt in den Spitzenwochen auf etwa 90 bis 110 g pro Tag.",
+        "paragraphs": [
+          "Der Umfang eines Marathonaufbaus schädigt Woche für Woche Muskeln und Bindegewebe, und viele Läufer nehmen unabsichtlich zu wenig Protein zu sich, weil sie sich auf Kohlenhydrate konzentrieren. Das obere Ende in den Spitzenwochen zu erreichen schützt Magermasse, unterstützt das Immunsystem und beschleunigt die Regeneration zwischen langen Läufen.",
+          "Tanke nach langen Läufen mit Kohlenhydraten und 20-30 g Protein auf und halte das Protein den restlichen Tag gleichmäßig. Im Tapering kannst du auf 1,2-1,4 g/kg zurückgehen, wenn der Trainingsumfang sinkt."
+        ],
+        "bullets": [
+          "Spitzentraining: 1,4-1,7 g/kg pro Tag",
+          "Tapering-Wochen: zurück auf 1,2-1,4 g/kg",
+          "Regeneration nach langem Lauf: Kohlenhydrate plus 20-30 g Protein",
+          "Den Rest gleichmäßig auf die Mahlzeiten verteilen"
+        ]
+      },
+      "protein-for-cutting": {
+        "heading": "Protein in der Definitionsphase: Muskeln beim Fettabbau erhalten",
+        "lead": "In der Definitionsphase schützt eine höhere Zufuhr von 1,8 bis 2,7 g Protein pro kg Körpergewicht am Tag den Muskel im Kaloriendefizit. Ein schlankerer 80 kg schwerer Athlet zielt beim Diäten oft auf etwa 160 bis 190 g pro Tag.",
+        "paragraphs": [
+          "Im Kaloriendefizit baut der Körper eher Muskeln zur Energiegewinnung ab, und eine hohe Proteinzufuhr ist die wirksamste diätetische Abwehr dagegen. Je schlanker und erfahrener du bist, desto näher solltest du ans obere Ende zielen.",
+          "Protein sättigt zudem stärker bei weniger Kalorien, was die Diät leichter durchhaltbar macht. Kombiniere die hohe Proteinzufuhr mit Krafttraining, um das Signal zu senden, dass Muskeln erhalten werden sollen, während Fett verloren geht."
+        ],
+        "bullets": [
+          "Ziel im Defizit: 1,8-2,7 g/kg pro Tag",
+          "Schlanker oder fortgeschritten: höher im Bereich zielen",
+          "Protein verbessert die Sättigung bei weniger Kalorien",
+          "Weiter trainieren, um Muskelerhalt zu signalisieren"
+        ]
+      },
+      "protein-for-bulking": {
+        "heading": "Protein für die Massephase: wie viel für Muskelaufbau",
+        "lead": "Für eine muskelaufbauende Massephase sind 1,6 bis 2,2 g Protein pro kg Körpergewicht am Tag zusammen mit einem Kalorienüberschuss völlig ausreichend. Ein 78 kg schwerer Athlet zielt auf etwa 125 bis 170 g pro Tag, während er zum Wachsen isst.",
+        "paragraphs": [
+          "Eine Massephase funktioniert, weil ein Kalorienüberschuss plus Training das Wachstum antreibt; Protein liefert die Bausteine, aber übermäßige Mengen sind nicht nötig. Sind 1,6-2,2 g/kg erreicht, werden zusätzliche Kalorien besser in Kohlenhydrate und Fett gesteckt, um Training und Regeneration zu versorgen.",
+          "Halte den Überschuss moderat, etwa 250-500 Kalorien über dem Erhalt, um vor allem Muskeln statt Fett zuzulegen. Verteile Protein auf die Mahlzeiten und halte das Training progressiv, um diese zusätzlichen Kalorien in Magermasse umzusetzen."
+        ],
+        "bullets": [
+          "Ziel in der Massephase: 1,6-2,2 g/kg pro Tag",
+          "Moderaten Überschuss von 250-500 kcal nutzen",
+          "Kalorien über das Protein hinaus aus Kohlenhydraten und Fett",
+          "Progressives Training macht aus dem Überschuss Muskeln"
+        ]
+      },
+      "protein-for-body-recomposition": {
+        "heading": "Protein für Körperrekomposition: Muskeln auf, Fett ab",
+        "lead": "Körperrekomposition gelingt am besten mit hoher Zufuhr von 1,8 bis 2,4 g Protein pro kg Körpergewicht am Tag bei Training nahe am Erhalt. Eine 75 kg schwere Person zielt auf etwa 135 bis 180 g pro Tag, um zugleich Muskeln aufzubauen und Fett zu verlieren.",
+        "paragraphs": [
+          "Rekomposition, gleichzeitig Muskeln aufbauen und Fett verlieren, ist am ehesten für Anfänger, Wiedereinsteiger und Menschen mit höherem Körperfett machbar. Eine hohe Proteinzufuhr ist der rote Faden jeder gelungenen Rekomposition, weil sie Muskelwachstum auch ohne Überschuss unterstützt.",
+          "Iss rund um den Kalorienerhalt, halte das Protein hoch und trainiere zwei- bis viermal pro Woche progressiv mit Widerstand. Der Fortschritt ist langsamer als eine gezielte Masse- oder Diätphase, verfolge daher Kraft und Maße statt nur das Gewicht auf der Waage."
+        ],
+        "bullets": [
+          "Ziel der Rekomposition: 1,8-2,4 g/kg pro Tag",
+          "Nahe am Erhalt essen, kein großer Überschuss oder Defizit",
+          "Beste Ergebnisse bei Anfängern und höherem Körperfett",
+          "Fortschritt an Kraft und Maßen messen, nicht an der Waage"
+        ]
+      },
+      "protein-for-lean-bulk": {
+        "heading": "Protein für den Lean Bulk: Muskeln mit wenig Fett",
+        "lead": "Ein Lean Bulk nutzt 1,6 bis 2,2 g Protein pro kg Körpergewicht am Tag zusammen mit einem kleinen Kalorienüberschuss, um Muskeln mit wenig Fett zuzulegen. Ein 76 kg schwerer Athlet zielt auf etwa 120 bis 165 g Protein pro Tag.",
+        "paragraphs": [
+          "Ziel eines Lean Bulk ist ein langsamer, kontrollierter Zuwachs, daher bleibt der Überschuss klein, etwa 200-350 Kalorien über dem Erhalt. Der Proteinbedarf ist derselbe wie in jeder Aufbauphase, doch die engere Kalorienkontrolle sorgt dafür, dass das zugelegte Gewicht überwiegend Muskel ist.",
+          "Ziele auf etwa 0,25-0,5 kg Zuwachs pro Monat und passe die Kalorien an, wenn die Waage zu schnell steigt. Konstantes Protein, progressives Training und Geduld unterscheiden einen Lean Bulk von einem nachlässigen."
+        ],
+        "bullets": [
+          "Proteinziel: 1,6-2,2 g/kg pro Tag",
+          "Überschuss klein halten, etwa 200-350 kcal",
+          "Auf 0,25-0,5 kg Zuwachs pro Monat zielen",
+          "Kalorien anpassen, wenn das Gewicht zu schnell steigt"
+        ]
+      },
+      "protein-for-fat-loss": {
+        "heading": "Protein für den Fettabbau: die Zufuhr, die wirkt",
+        "lead": "Für den Fettabbau ziele auf 1,6 bis 2,4 g Protein pro kg Körpergewicht am Tag, um Muskeln zu schützen und den Hunger zu steuern. Eine 80 kg schwere Person zielt im Kaloriendefizit auf etwa 130 bis 190 g pro Tag.",
+        "paragraphs": [
+          "Protein ist beim Fettabbau aus zwei Gründen der wichtigste Makronährstoff: Es erhält Muskeln im Defizit und ist der sättigendste Makronährstoff pro Kalorie. Zusammen machen sie die Diät wirksamer und weit leichter durchhaltbar.",
+          "Baue jede Mahlzeit um eine Proteinquelle, füge reichlich Gemüse für Volumen hinzu und lass Kohlenhydrate und Fett die restlichen Kalorien füllen. Etwas Krafttraining in der Woche sagt dem Körper, Muskeln zu behalten, während Fett verschwindet."
+        ],
+        "bullets": [
+          "Ziel im Defizit: 1,6-2,4 g/kg pro Tag",
+          "Protein ist der sättigendste Makronährstoff pro Kalorie",
+          "Jede Mahlzeit um eine Proteinquelle bauen",
+          "Weiter trainieren, um Muskeln in der Diät zu erhalten"
+        ]
+      },
+      "protein-for-maintaining-muscle": {
+        "heading": "Protein zum Erhalt der Muskelmasse",
+        "lead": "Um vorhandene Muskeln zu erhalten, reichen meist 1,2 bis 1,6 g Protein pro kg Körpergewicht am Tag, mehr als das Minimum von 0,8 g/kg, aber weniger als eine Aufbauphase. Eine 75 kg schwere Person zielt auf etwa 90 bis 120 g pro Tag.",
+        "paragraphs": [
+          "Muskeln zu halten braucht weniger Protein als sie aufzubauen, aber deutlich mehr als die Basis-Empfehlung, die nur zur Vermeidung von Mangel festgelegt wurde. Das zählt in Erhaltungsphasen, geschäftigen Zeiten oder Pausen vom harten Training, wenn Wachstum nicht das Ziel ist.",
+          "Halte zumindest etwas Widerstands- oder Belastungsreiz in der Woche, auch reduziert, damit die vorhandene Muskulatur einen Grund zu bleiben hat. Eine gleichmäßige Verteilung auf die Mahlzeiten hält die Muskelproteinsynthese Tag für Tag stabil."
+        ],
+        "bullets": [
+          "Erhaltungsziel: 1,2-1,6 g/kg pro Tag",
+          "Deutlich über dem Minimum von 0,8 g/kg",
+          "Etwas Trainingsreiz halten, um Muskeln zu behalten",
+          "Protein gleichmäßig auf die Mahlzeiten verteilen"
+        ]
+      },
+      "protein-for-beginners": {
+        "heading": "Protein für Anfänger: eine einfache Einstiegshilfe",
+        "lead": "Wenn du mit dem Training beginnst, ziele auf etwa 1,4 bis 1,8 g Protein pro kg Körpergewicht am Tag, ein realistisches Ziel, das die ersten Muskelzuwächse unterstützt. Ein 70 kg schwerer Anfänger zielt auf etwa 100 bis 125 g pro Tag.",
+        "paragraphs": [
+          "Anfänger bauen tatsächlich sehr effizient Muskeln auf, daher braucht es keine extreme Zufuhr für Ergebnisse. Ein moderates, konstantes Proteinziel zu erreichen zählt in den ersten Monaten weit mehr als das absolute obere Ende anzustreben.",
+          "Beginne damit, jeder Mahlzeit eine Proteinquelle hinzuzufügen, etwa Eier zum Frühstück, Hähnchen oder Hülsenfrüchte mittags und Fisch oder Tofu abends. Baue erst die Gewohnheit auf und feinjustiere die Mengen, wenn Training und Appetit wachsen."
+        ],
+        "bullets": [
+          "Anfängerziel: 1,4-1,8 g/kg pro Tag",
+          "Anfänger bauen Muskeln ohne extreme Zufuhr auf",
+          "Jeder Mahlzeit eine Proteinquelle hinzufügen",
+          "In den ersten Monaten zählt Konstanz mehr als Präzision"
+        ]
+      },
+      "protein-for-home-workouts": {
+        "heading": "Protein fürs Heimtraining: wie viel du brauchst",
+        "lead": "Training zu Hause erfordert dennoch 1,4 bis 2,0 g Protein pro kg Körpergewicht am Tag, wenn du Muskeln aufbauen oder halten willst. Eine 70 kg schwere Person zielt je nach Trainingshärte auf etwa 100 bis 140 g pro Tag.",
+        "paragraphs": [
+          "Deine Muskeln unterscheiden nicht zwischen Fitnessstudio und Wohnzimmer; entscheidend ist, dass das Training fordernd und progressiv ist. Bänder, Kurzhanteln oder Eigengewichtsprogressionen erzeugen alle einen Reparaturbedarf, den derselbe Proteinbereich abdeckt.",
+          "Für das Training zu Hause brauchst du keine speziellen Nahrungsergänzungen. Alltägliche Lebensmittel wie Eier, griechischer Joghurt, Linsen, Hähnchen und Dosenfisch decken das Ziel leicht, ein Shake ist optional bequem."
+        ],
+        "bullets": [
+          "Tagesziel: 1,4-2,0 g/kg je nach Intensität",
+          "Progressives Heimtraining erzeugt denselben Bedarf wie das Studio",
+          "Alltägliche Lebensmittel decken das Ziel ohne Ergänzungen",
+          "Bänder, Kurzhanteln und Eigengewicht zählen"
+        ]
+      },
+      "protein-per-meal": {
+        "heading": "Wie viel Protein pro Mahlzeit für Muskelaufbau?",
+        "lead": "Um die Muskelproteinsynthese zu maximieren, ziele auf etwa 0,4 g Protein pro kg Körpergewicht pro Mahlzeit, rund 25 bis 40 g für die meisten Erwachsenen. Die Zufuhr auf drei bis vier solcher Mahlzeiten zu verteilen ist wirksamer als eine oder zwei große.",
+        "paragraphs": [
+          "Jede proteinreiche Mahlzeit löst einen Schub der Muskelproteinsynthese aus, der einige Stunden hält, und es gibt eine praktische Obergrenze, wie stark eine einzelne Mahlzeit sie anregt. Deshalb schlägt das Verteilen von Protein über den Tag meist das Bündeln beim Abendessen.",
+          "Etwa 25-40 g hochwertiges Protein pro Mahlzeit mit rund 2,5-3 g Leucin reichen bei den meisten, um diese Obergrenze zu erreichen. Größere oder sehr muskulöse Personen brauchen eventuell das obere Ende, und eine Mahlzeit vor dem Schlafen kann eine nützliche vierte Portion ergänzen."
+        ],
+        "bullets": [
+          "Etwa 0,4 g/kg pro Mahlzeit anstreben (25-40 g bei den meisten)",
+          "3-4 Proteinportionen pro Tag anpeilen",
+          "Jede Mahlzeit braucht rund 2,5-3 g Leucin",
+          "Verteilen schlägt eine einzelne große Dosis"
+        ]
+      },
+      "protein-before-bed": {
+        "heading": "Protein vor dem Schlafen: hilft es dem Muskelaufbau?",
+        "lead": "30 bis 40 g langsam verdauliches Protein vor dem Schlafen können die nächtliche Muskelreparatur und Regeneration unterstützen. Casein aus Milchprodukten ist ideal, weil es die Aminosäuren über die Nacht allmählich freisetzt.",
+        "paragraphs": [
+          "Im Schlaf repariert der Körper weiter Muskeln, und eine Proteinportion vor dem Schlafen liefert Aminosäuren für diesen Prozess die ganze Nacht. Studien zeigen, dass eine Dosis von 30-40 g Casein vor dem Schlafen die nächtliche Muskelproteinsynthese erhöhen kann, besonders nach abendlichem Training.",
+          "Das ist am nützlichsten, wenn dein Protein tagsüber niedrig war oder du abends trainierst. Gute Optionen sind griechischer Joghurt, Hüttenkäse, Milch oder ein Casein-Shake, idealerweise als Teil einer normalen Abendroutine statt einer extra großen Mahlzeit."
+        ],
+        "bullets": [
+          "Dosis vor dem Schlafen: 30-40 g langsames Protein",
+          "Casein aus Milchprodukten verdaut nachts langsam",
+          "Am nützlichsten nach abendlichem Training oder geringer Tageszufuhr",
+          "Griechischer Joghurt, Hüttenkäse oder Milch eignen sich"
+        ]
+      },
+      "protein-after-workout": {
+        "heading": "Protein nach dem Training: wie viel und wie schnell?",
+        "lead": "Eine Mahlzeit nach dem Training mit etwa 20 bis 40 g Protein unterstützt die Muskelreparatur, und das Zeitfenster ist größer als früher angenommen. Hochwertiges Protein innerhalb von zwei Stunden nach dem Training ist für die meisten das praktische Ziel.",
+        "paragraphs": [
+          "Die Vorstellung eines engen anabolen Fensters wurde überzeichnet; am wichtigsten sind dein gesamtes Tagesprotein und eine solide Dosis rund ums Training. Für die meisten decken 20-40 g Protein nach einer Einheit den Reparaturbedarf bequem.",
+          "Wenn du nüchtern trainiert oder mehrere Stunden nichts gegessen hast, wird die Portion danach wichtiger und je früher, desto besser. Sonst erfüllt eine normale proteinreiche Mahlzeit innerhalb von zwei Stunden nach Schluss den Zweck."
+        ],
+        "bullets": [
+          "Dosis nach dem Training: 20-40 g Protein",
+          "Das anabole Fenster umfasst Stunden, nicht Minuten",
+          "Nüchternes Training macht eine baldige Portion wichtiger",
+          "Das gesamte Tagesprotein zählt weiterhin am meisten"
+        ]
+      },
+      "protein-before-workout": {
+        "heading": "Protein vor dem Training: lohnt es sich?",
+        "lead": "Eine Mahlzeit vor dem Training mit 20 bis 30 g Protein zwei bis drei Stunden davor kann die Regeneration verbessern und den Muskelabbau verringern. Wenn du nüchtern trainierst, wird eine Portion bald danach wichtiger.",
+        "paragraphs": [
+          "Protein vor dem Training hält während und nach der Einheit Aminosäuren im Blut verfügbar, was die Reparatur unterstützt. Eine gemischte Mahlzeit zwei bis drei Stunden vorher ist ideal, doch selbst ein kleinerer Proteinsnack näher am Training hilft, wenn eine volle Mahlzeit nicht praktisch ist.",
+          "Protein vor und nach dem Training sind teils austauschbar, daher müssen nicht beide groß sein. Wichtig ist, hochwertiges Protein einigermaßen nah an der Einheit zu bekommen, auf der einen oder anderen Seite."
+        ],
+        "bullets": [
+          "Dosis davor: 20-30 g, 2-3 Stunden vorher",
+          "Hält Aminosäuren während des Trainings verfügbar",
+          "Ein kleinerer Snack reicht, wenn keine volle Mahlzeit passt",
+          "Nüchternes Training erhöht den Wert, bald danach zu essen"
+        ]
+      },
+      "protein-for-breakfast": {
+        "heading": "Wie viel Protein zum Frühstück? Ein praktischer Leitfaden",
+        "lead": "Ziele auf mindestens 25 bis 30 g Protein zum Frühstück, um die Muskelproteinsynthese anzustoßen und den Appetit über den Morgen zu zügeln. Die meisten typischen Frühstücke bleiben ohne bewusste Mühe deutlich darunter.",
+        "paragraphs": [
+          "Viele essen den Großteil ihres Proteins abends und sehr wenig zum Frühstück, was eine Gelegenheit verschenkt, die Muskelproteinsynthese früher am Tag anzuregen. Mehr Protein aufs Frühstück vorzuziehen hilft, die Zufuhr auszugleichen, und verbessert die Sättigung.",
+          "25-30 g zu erreichen ist mit ein paar Umstellungen leicht: Eier, griechischer Joghurt, Hüttenkäse, Milch oder eine Portion Whey im Haferbrei oder Smoothie. Ein proteinreicheres Frühstück reduziert zudem das Naschen am Vormittag."
+        ],
+        "bullets": [
+          "Frühstücksziel: mindestens 25-30 g Protein",
+          "Gleicht einen meist abendlastigen Tag aus",
+          "Eier, griechischer Joghurt oder Whey machen es leicht",
+          "Proteinreiche Frühstücke reduzieren das Naschen am Vormittag"
+        ]
+      },
+      "protein-for-recovery": {
+        "heading": "Protein für die Muskelregeneration: wie viel zum Reparieren",
+        "lead": "Um sich gut von hartem Training zu erholen, brauchen die meisten aktiven Menschen 1,6 bis 2,2 g Protein pro kg Körpergewicht am Tag, gleichmäßig auf die Mahlzeiten verteilt. Eine 75 kg schwere Person zielt auf etwa 120 bis 165 g pro Tag.",
+        "paragraphs": [
+          "Regeneration ist der Zeitpunkt, an dem die Anpassung tatsächlich geschieht, und Protein liefert die Aminosäuren, die geschädigte Muskeln wieder aufbauen. Ein höheres Tagesziel zu erreichen und es auf die Mahlzeiten zu verteilen hält die Reparatur stetig, während chronisch niedrige Zufuhr dich wund und unterregeneriert lässt.",
+          "Kombiniere ausreichend Protein mit genügend Gesamtkalorien, Kohlenhydraten zum Auffüllen des Glykogens und gutem Schlaf. Protein allein kann die Regeneration nicht retten, wenn du insgesamt zu wenig isst oder zu wenig schläfst."
+        ],
+        "bullets": [
+          "Regenerationsziel: 1,6-2,2 g/kg pro Tag",
+          "Gleichmäßig auf 3-4 Mahlzeiten verteilen",
+          "Glykogen auch mit Kohlenhydraten auffüllen",
+          "Schlaf und Gesamtkalorien gehören zur Regeneration"
+        ]
+      },
+      "protein-for-keto-diet": {
+        "heading": "Protein bei der Keto-Diät: Wie viel ist richtig?",
+        "lead": "Bei einer ketogenen Diät unterstützt eine moderate Proteinzufuhr von etwa 1,2 bis 1,7 g pro kg Körpergewicht am Tag den Muskel, ohne bei den meisten die Ketose zu stören. Eine 75 kg schwere Person zielt auf etwa 90 bis 130 g pro Tag.",
+        "paragraphs": [
+          "Keto ist eine fettreiche, sehr kohlenhydratarme Diät, und ein verbreiteter Mythos besagt, zu viel Protein werfe dich aus der Ketose. Für die große Mehrheit ist eine moderate bis recht hohe Proteinzufuhr in Ordnung und hilft, Muskeln zu erhalten, während Fett der Hauptbrennstoff ist.",
+          "Priorisiere Protein und Fett, halte die Kohlenhydrate niedrig und passe je nach Ziel an: mehr Protein, wenn du Kraft trainierst, etwas weniger, wenn eine therapeutische Ketose das Ziel ist. Konzentriere dich auf vollwertige Quellen wie Eier, Fleisch, Fisch und Käse."
+        ],
+        "bullets": [
+          "Keto-Ziel: 1,2-1,7 g/kg pro Tag",
+          "Moderates Protein stört die Ketose selten",
+          "Krafttrainierende können ans obere Ende gehen",
+          "Mahlzeiten aus Eiern, Fleisch, Fisch und Käse bauen"
+        ]
+      },
+      "protein-for-intermittent-fasting": {
+        "heading": "Protein und Intervallfasten: dein Ziel erreichen",
+        "lead": "Intervallfasten ändert nicht, wie viel Protein du brauchst, etwa 1,6 bis 2,2 g pro kg am Tag für Muskeln, sondern presst es in ein kürzeres Essfenster. Eine 75 kg schwere Person zielt weiterhin auf etwa 120 bis 165 g pro Tag.",
+        "paragraphs": [
+          "Die Herausforderung beim Fasten ist, dasselbe Protein in weniger Mahlzeiten unterzubringen, was zwei bis drei größere Portionen von je 40-60 g bedeuten kann. Da jede Mahlzeit größer ist, zählt die Verteilung über den Tag weniger, doch das Erreichen deiner Gesamtmenge wird zur Hauptaufgabe.",
+          "Brich das Fasten mit einer reichhaltigen proteinreichen Mahlzeit und plane das Fenster so, dass mindestens zwei oder drei gute Proteinportionen bequem passen. Wenn du nüchtern trainierst, iss bald nach Schluss."
+        ],
+        "bullets": [
+          "Der Gesamtbedarf bleibt gleich: etwa 1,6-2,2 g/kg",
+          "In 2-3 größere Mahlzeiten von 40-60 g unterbringen",
+          "Das Fasten mit einer proteinreichen Mahlzeit brechen",
+          "Nach nüchternem Training bald essen"
+        ]
+      },
+      "protein-for-weight-gain": {
+        "heading": "Protein zum Zunehmen: wie man aufbaut",
+        "lead": "Um als Muskel zuzunehmen, kombiniere einen Kalorienüberschuss mit 1,6 bis 2,2 g Protein pro kg Körpergewicht am Tag. Eine 65 kg schwere Person zielt auf etwa 105 bis 145 g Protein pro Tag, während sie insgesamt mehr isst.",
+        "paragraphs": [
+          "Gesundes Zunehmen wird von einem Kalorienüberschuss getrieben, doch Protein und Krafttraining entscheiden, wie viel dieses Zuwachses Muskel statt Fett ist. Das Proteinziel zu erreichen, während du über dem Erhalt isst, lässt dich kontrolliert aufbauen.",
+          "Wenn dir das Essen schwerfällt, ergänze kaloriendichte, aber nahrhafte Lebensmittel wie Nussmus, Vollmilch, Haferflocken und Olivenöl und nutze Shakes zum Auffüllen. Ziele auf einen stetigen Zuwachs von etwa 0,25-0,5 kg pro Woche."
+        ],
+        "bullets": [
+          "Proteinziel: 1,6-2,2 g/kg pro Tag",
+          "Über dem Erhalt essen für einen Kalorienüberschuss",
+          "Krafttraining lenkt den Zuwachs zum Muskel",
+          "Auf 0,25-0,5 kg Zuwachs pro Woche zielen"
+        ]
+      },
+      "protein-for-skinny-guys": {
+        "heading": "Protein für schlanke Typen: Muskeln aufbauen als Hardgainer",
+        "lead": "Von Natur aus schlanke Hardgainer brauchen 1,6 bis 2,2 g Protein pro kg Körpergewicht am Tag plus einen klaren Kalorienüberschuss, um Muskeln aufzubauen. Ein 60 kg schwerer Hardgainer zielt auf etwa 95 bis 130 g Protein pro Tag.",
+        "paragraphs": [
+          "Für schlanke Menschen ist die größte Hürde beim Muskelaufbau meist, genug Gesamtkalorien zu essen, nicht speziell ein Proteinmangel. Erreiche deine Proteinzahl und konzentriere dich dann darauf, kaloriendichte Lebensmittel zu ergänzen, damit du jeden Tag verlässlich über dem Erhalt liegst.",
+          "Kombiniere den Überschuss mit einem einfachen progressiven Kraftprogramm und sei geduldig, denn Muskelaufbau ist langsam. Flüssige Kalorien wie Milch und Smoothies helfen, wenn großer Appetit schwerfällt."
+        ],
+        "bullets": [
+          "Proteinziel: 1,6-2,2 g/kg pro Tag",
+          "Gesamtkalorien sind die Hauptgrenze des Hardgainers",
+          "Kaloriendichte Lebensmittel und flüssige Kalorien nutzen",
+          "Progressiv trainieren und geduldig sein"
+        ]
+      },
+      "protein-for-over-40": {
+        "heading": "Protein ab 40: Warum du mehr brauchst",
+        "lead": "Ab 40 ziele auf mindestens 1,2 bis 1,6 g Protein pro kg Körpergewicht am Tag, um dem allmählichen Muskelverlust entgegenzuwirken, der in der Lebensmitte beginnt. Ein 75 kg schwerer Erwachsener zielt auf etwa 90 bis 120 g pro Tag.",
+        "paragraphs": [
+          "Ab etwa den Vierzigern wird der Muskel etwas widerstandsfähiger gegen das Aufbausignal von Protein und Training, ein Phänomen namens anabole Resistenz. Mehr Protein als jüngere Erwachsene zu essen und es mit Krafttraining zu verbinden hilft, das zu überwinden und Kraft zu erhalten.",
+          "Die Verteilung zählt mit dem Alter mehr: 30-40 g pro Mahlzeit zu erreichen ist wirksamer als kleinere Mengen, weil jede Mahlzeit groß genug sein muss, um die Muskelproteinsynthese auszulösen. Priorisiere Protein zum Frühstück, oft die proteinärmste Mahlzeit."
+        ],
+        "bullets": [
+          "Ziel ab 40: mindestens 1,2-1,6 g/kg pro Tag",
+          "Alternder Muskel braucht einen stärkeren Proteinreiz",
+          "Auf 30-40 g pro Mahlzeit zielen",
+          "Mit Krafttraining verbinden, um Kraft zu erhalten"
+        ]
+      },
+      "protein-for-over-50": {
+        "heading": "Protein ab 50: Muskeln und Kraft schützen",
+        "lead": "Erwachsene über 50 sollten auf 1,2 bis 1,5 g Protein pro kg Körpergewicht am Tag zielen, deutlich über der Standard-Empfehlung, um altersbedingten Muskelverlust zu bremsen. Ein 70 kg schwerer Erwachsener zielt auf etwa 85 bis 105 g pro Tag.",
+        "paragraphs": [
+          "Der Muskelverlust beschleunigt sich nach 50, und die alte Richtlinie von 0,8 g/kg gilt heute als zu niedrig für gesundes Altern. Eine höhere Zufuhr, auf die Mahlzeiten verteilt und mit Krafttraining kombiniert, schützt den Muskel, der dich mobil und selbstständig hält.",
+          "Da der Appetit mit dem Alter oft nachlässt, konzentriere dich auf proteindichte, leicht essbare Lebensmittel wie Eier, Milchprodukte, Fisch und Hülsenfrüchte. 25-30 g pro Mahlzeit zu erreichen ist ein praktischer Weg, die Muskelproteinsynthese aktiv zu halten."
+        ],
+        "bullets": [
+          "Ziel ab 50: 1,2-1,5 g/kg pro Tag",
+          "Die Empfehlung von 0,8 g/kg ist zu niedrig fürs gesunde Altern",
+          "Auf 25-30 g pro Mahlzeit zielen",
+          "Krafttraining erhält Kraft und Mobilität"
+        ]
+      },
+      "protein-for-menopause": {
+        "heading": "Protein in den Wechseljahren: wie viel und warum",
+        "lead": "Während und nach den Wechseljahren ziele auf etwa 1,2 bis 1,6 g Protein pro kg Körpergewicht am Tag, um Muskeln und Knochen zu schützen, während der Östrogenspiegel sinkt. Eine 68 kg schwere Frau zielt auf etwa 80 bis 110 g pro Tag.",
+        "paragraphs": [
+          "Der sinkende Östrogenspiegel in den Wechseljahren beschleunigt den Verlust von Muskeln und Knochendichte, und höheres Protein mit Krafttraining ist ein Schlüssel, um beidem entgegenzuwirken. Ausreichend Protein unterstützt zudem die Körperzusammensetzung in einer Zeit, in der sich Fett tendenziell umverteilt.",
+          "Verteile Protein auf die Mahlzeiten mit je 25-30 g und priorisiere es beim Frühstück, wo die Zufuhr oft am niedrigsten ist. Kombiniere das mit Krafttraining zwei- bis dreimal pro Woche und genügend Kalzium und Vitamin D für die Knochengesundheit."
+        ],
+        "bullets": [
+          "Ziel: 1,2-1,6 g/kg pro Tag",
+          "Schützt Muskeln und Knochen bei sinkendem Östrogen",
+          "Auf 25-30 g pro Mahlzeit zielen",
+          "Mit Krafttraining und genügend Kalzium kombinieren"
+        ]
+      },
+      "protein-for-pcos": {
+        "heading": "Protein und PCOS: wie es beim Umgang hilft",
+        "lead": "Eine proteinreichere Ernährung von etwa 1,2 bis 1,6 g pro kg Körpergewicht am Tag kann bei PCOS helfen, indem sie die Sättigung verbessert und die Blutzuckerkontrolle unterstützt. Eine 70 kg schwere Frau zielt auf etwa 85 bis 110 g pro Tag.",
+        "paragraphs": [
+          "Viele Frauen mit PCOS haben eine Insulinresistenz, und proteinreichere Mahlzeiten dämpfen Blutzuckerspitzen und erhöhen die Sättigung im Vergleich zu kohlenhydratlastigen. Das kann das Gewichtsmanagement, ein häufiges Ziel bei PCOS, erreichbarer machen.",
+          "Baue Mahlzeiten um Protein und Ballaststoffe, kombiniere Kohlenhydrate mit Protein, um ihre glykämische Wirkung abzumildern, und verbinde die Ernährung mit regelmäßiger Bewegung. Dies ist eine allgemeine Ernährungsinfo, keine medizinische Behandlung, arbeite also mit deiner Ärztin an einem Gesamtplan."
+        ],
+        "bullets": [
+          "Ziel: 1,2-1,6 g/kg pro Tag",
+          "Mehr Protein verbessert Sättigung und Blutzuckerkontrolle",
+          "Kohlenhydrate mit Protein und Ballaststoffen kombinieren",
+          "Nur allgemeine Info; ärztlichen Rat einholen"
+        ]
+      },
+      "protein-for-breastfeeding": {
+        "heading": "Protein in der Stillzeit: Tagesbedarf",
+        "lead": "Das Stillen erhöht den Proteinbedarf um etwa 20 bis 25 g pro Tag über die übliche Zufuhr hinaus, um die Milchbildung zu unterstützen. Viele stillende Mütter fahren gut mit rund 1,3 bis 1,5 g Protein pro kg Körpergewicht am Tag.",
+        "paragraphs": [
+          "Die Bildung von Muttermilch zehrt an deinen Proteinreserven, daher ist der Bedarf höher als in der Schwangerschaft und weit über der allgemeinen Basis. Ihn zu decken unterstützt sowohl eine gesunde Milchmenge als auch deine eigene Erholung und Energie im Wochenbett.",
+          "Verteile Protein auf regelmäßige Mahlzeiten und Snacks, was auch beim häufigen Hunger des Stillens hilft. Konzentriere dich auf nährstoffdichte Quellen und trinke ausreichend; dies ist eine allgemeine Info, kläre deinen individuellen Bedarf also mit deiner Fachperson."
+        ],
+        "bullets": [
+          "Rund 20-25 g pro Tag über die Basis hinzufügen",
+          "Viele Mütter fahren gut mit 1,3-1,5 g/kg pro Tag",
+          "Häufige Proteinsnacks helfen beim Stillhunger",
+          "Allgemeine Info; Bedarf mit der Fachperson bestätigen"
+        ]
+      },
+      "protein-for-postpartum": {
+        "heading": "Protein nach der Geburt: Erholung unterstützen",
+        "lead": "In den Wochen nach der Geburt unterstützt eine Proteinzufuhr von etwa 1,2 bis 1,6 g pro kg Körpergewicht am Tag die Geweberegeneration und Erholung. Beim Stillen kommen rund 20 bis 25 g pro Tag für die Milchbildung dazu.",
+        "paragraphs": [
+          "Der Körper braucht nach der Geburt zusätzliches Protein, um zu heilen, Gewebe wieder aufzubauen und, beim Stillen, Milch zu bilden. Eine ausreichende Zufuhr hilft zudem, Muskeln in einer fordernden Phase mit unterbrochenem Schlaf und unregelmäßigen Mahlzeiten zu erhalten.",
+          "Halte einfache, proteinreiche Lebensmittel bereit, etwa Joghurt, Eier, Käse, Nüsse und vorgegartes Fleisch, um auch bei wenig Zeit gut zu essen. Dies ist eine allgemeine Ernährungsinfo; deine Fachperson kann sie an deine Erholung anpassen."
+        ],
+        "bullets": [
+          "Erholungsziel: 1,2-1,6 g/kg pro Tag",
+          "20-25 g pro Tag hinzufügen, wenn du stillst",
+          "Schnelle Proteinsnacks griffbereit halten",
+          "Allgemeine Info; mit der Fachperson personalisieren"
+        ]
+      },
+      "protein-for-kids": {
+        "heading": "Protein für Kinder: Wie viel brauchen sie?",
+        "lead": "Kinder im Schulalter brauchen rund 0,95 g Protein pro kg Körpergewicht am Tag, was für ein 30 kg schweres Kind etwa 28 g sind. Der Bedarf wird am besten über alltägliche Lebensmittel statt Ergänzungen gedeckt.",
+        "paragraphs": [
+          "Kinder brauchen Protein für Wachstum und Erhalt, doch die Menge pro Kilo ist nur mäßig höher als bei Erwachsenen und wird mit einer ausgewogenen Ernährung leicht gedeckt. Die meisten Kinder in Industrieländern erreichen ihr Ziel mühelos ohne besonderen Aufwand.",
+          "Biete Protein bei jeder Mahlzeit aus verschiedenen Quellen an, etwa Milch, Eier, Joghurt, Hülsenfrüchte, Hähnchen und Fisch. Proteinergänzungen und Shakes sind für gesunde Kinder in der Regel unnötig; vollwertige Lebensmittel liefern Protein und die weiteren Nährstoffe, die Wachstum braucht."
+        ],
+        "bullets": [
+          "Ziel im Schulalter: etwa 0,95 g/kg pro Tag",
+          "Ein 30 kg schweres Kind braucht rund 28 g pro Tag",
+          "Vollwertige Lebensmittel decken den Bedarf leicht",
+          "Ergänzungen sind für gesunde Kinder meist unnötig"
+        ]
+      },
+      "protein-for-toddlers": {
+        "heading": "Protein für Kleinkinder: ein einfacher Leitfaden",
+        "lead": "Kleinkinder von ein bis drei Jahren brauchen etwa 1,05 g Protein pro kg Körpergewicht am Tag, rund 13 g für ein typisches 12 kg schweres Kind. Kleine, häufige Portionen aus vertrauten Lebensmitteln decken das leicht.",
+        "paragraphs": [
+          "Kleinkinder wachsen schnell, essen aber wenig, daher wird Protein am besten in kleinen Portionen über mehrere Mahlzeiten und Snacks geliefert. Milch und Milchprodukte allein liefern oft einen großen Teil des Proteins eines Kleinkinds, andere Lebensmittel ergänzen den Rest.",
+          "Gute Optionen sind Vollfettjoghurt, Käse, Eier, weich gekochte Hülsenfrüchte sowie fein gehacktes oder zerpflücktes Fleisch und Fisch. Proteinergänzungen sind nicht nötig; eine abwechslungsreiche Kost deckt den Bedarf, und Details kannst du mit dem Kinderarzt klären."
+        ],
+        "bullets": [
+          "Ziel 1-3 Jahre: etwa 1,05 g/kg pro Tag",
+          "Rund 13 g pro Tag für ein 12 kg schweres Kleinkind",
+          "Milchprodukte liefern einen großen Teil des Proteins",
+          "Keine Ergänzungen nötig; im Zweifel den Kinderarzt fragen"
+        ]
+      },
+      "protein-for-hair-growth": {
+        "heading": "Protein für das Haarwachstum: hilft es?",
+        "lead": "Haar besteht großteils aus dem Protein Keratin, daher unterstützt eine Ernährung mit mindestens 0,8 bis 1,2 g Protein pro kg Körpergewicht am Tag ein normales Haarwachstum. Ein Mangel kann zu dünner werdendem Haar und Haarausfall führen.",
+        "paragraphs": [
+          "Da Haarfollikel zu den stoffwechselaktivsten Geweben gehören, reagieren sie empfindlich auf niedrige Proteinzufuhr, und ein anhaltender Mangel kann Haare in eine Ausfallphase drängen. Deinen Grundbedarf an Protein zu decken ist daher eine Grundlage für gesundes Haar.",
+          "Weit über eine ausreichende Zufuhr hinaus zu essen lässt Haare jedoch nicht schneller wachsen; zusätzliches Protein hilft nur, wenn du zuvor knapp lagst. Unterstütze Haare mit insgesamt ausgewogener Ernährung inklusive Eisen, Zink und genug Kalorien, nicht mit übermäßigem Protein allein."
+        ],
+        "bullets": [
+          "Mindestens 0,8-1,2 g/kg pro Tag erreichen",
+          "Haar wird aus dem Protein Keratin aufgebaut",
+          "Ein Mangel kann dünner werdendes Haar und Ausfall verursachen",
+          "Zusätzliches Protein hilft nur bei vorherigem Mangel"
+        ]
+      },
+      "protein-for-skin": {
+        "heading": "Protein für Hautgesundheit und Kollagen",
+        "lead": "Deine Haut beruht auf den Proteinen Kollagen und Elastin, daher unterstützt das Erreichen von mindestens 0,8 bis 1,2 g Protein pro kg Körpergewicht am Tag ihre Struktur und Reparatur. Ausreichend Protein fördert Wundheilung und Hautwiderstand.",
+        "paragraphs": [
+          "Kollagen, das wichtigste Strukturprotein der Haut, wird aus Aminosäuren aufgebaut, die das Nahrungsprotein liefert. Eine Ernährung, die deinen Proteinbedarf konstant deckt, gibt dem Körper das Rohmaterial, um Haut zu erhalten und zu reparieren, besonders nach einer Verletzung.",
+          "Obwohl Kollagenpräparate beliebt sind, deckt schlicht genug Gesamtprotein zusammen mit Vitamin C, das zur Kollagenbildung nötig ist, die Grundlagen. Keine Menge zusätzliches Protein ersetzt Sonnenschutz und allgemeine Hautpflege."
+        ],
+        "bullets": [
+          "Mindestens 0,8-1,2 g/kg pro Tag erreichen",
+          "Kollagen und Elastin werden aus Nahrungsprotein aufgebaut",
+          "Vitamin C ist zur Kollagenbildung nötig",
+          "Protein unterstützt Reparatur, ersetzt aber keine Hautpflege"
+        ]
+      },
+      "protein-for-wound-healing": {
+        "heading": "Protein für die Wundheilung: wie viel zur Erholung",
+        "lead": "Die Wundheilung erhöht den Proteinbedarf auf etwa 1,25 bis 1,5 g pro kg Körpergewicht am Tag, bei großen oder schweren Wunden mehr. Ausreichend Protein ist entscheidend, um neues Gewebe zu bilden und Infektionen abzuwehren.",
+        "paragraphs": [
+          "Wundheilung ist ein proteinintensiver Prozess: Der Körper braucht Aminosäuren, um neues Gewebe, Blutgefäße und Immunzellen zu bilden. Zu wenig verlangsamt die Heilung und erhöht das Komplikationsrisiko, weshalb der Bedarf während der Erholung von Operation oder Verletzung steigt.",
+          "Priorisiere Protein bei jeder Mahlzeit und erwäge proteinreiche Snacks bei geringem Appetit, da Krankheit und Verletzung die Zufuhr oft genau dann senken, wenn der Bedarf am höchsten ist. Dies ist eine allgemeine Info, folge bei schweren Wunden also dem Rat deines Behandlungsteams."
+        ],
+        "bullets": [
+          "Heilungsziel: etwa 1,25-1,5 g/kg pro Tag",
+          "Große oder schwere Wunden können mehr erfordern",
+          "Protein bildet Gewebe und unterstützt die Immunabwehr",
+          "Allgemeine Info; dem Rat des Behandlungsteams folgen"
+        ]
+      },
+      "protein-for-sarcopenia": {
+        "heading": "Protein bei Sarkopenie: gegen altersbedingten Muskelverlust",
+        "lead": "Um der Sarkopenie entgegenzuwirken, wird älteren Menschen empfohlen, 1,2 bis 1,5 g Protein pro kg Körpergewicht am Tag zu essen, bei Krankheit oder Erholung bis zu 2,0 g/kg. Ein 70 kg schwerer Erwachsener zielt auf etwa 85 bis 105 g pro Tag.",
+        "paragraphs": [
+          "Sarkopenie ist der altersbedingte Verlust von Muskelmasse und Kraft, und niedrige Proteinzufuhr in Verbindung mit Inaktivität ist ein wesentlicher Treiber. Weit über der Standard-Empfehlung zu essen und dabei Krafttraining zu betreiben ist die wirksamste Ernährungsstrategie, um sie zu bremsen oder umzukehren.",
+          "Da älterer Muskel weniger auf kleine Proteinmengen reagiert, ziele auf 25-35 g pro Mahlzeit, um die Muskelproteinsynthese verlässlich auszulösen. Leucinreiche Quellen wie Milchprodukte, Eier, Fleisch und Fisch sind besonders nützlich, neben regelmäßigem Krafttraining."
+        ],
+        "bullets": [
+          "Ziel: 1,2-1,5 g/kg pro Tag, bei Krankheit bis 2,0",
+          "Auf 25-35 g pro Mahlzeit zielen",
+          "Leucinreiche Lebensmittel helfen dem alternden Muskel",
+          "Krafttraining ist entscheidend, um Kraft wieder aufzubauen"
+        ]
+      },
+      "whey-vs-plant-protein": {
+        "heading": "Whey vs. Pflanzenprotein: Was ist besser?",
+        "lead": "Whey und Pflanzenproteine können beide Muskeln aufbauen, doch Whey ist ein vollständiges Protein mit mehr Leucin, während pflanzliche Quellen oft kombiniert werden müssen. Ziele auf etwas mehr Pflanzenprotein, rund 1,7 bis 2,3 g pro kg am Tag, um Wheys Wirkung zu erreichen.",
+        "paragraphs": [
+          "Whey verdaut schnell und ist reich an Leucin, der Aminosäure, die die Muskelproteinsynthese auslöst, was es pro Gramm sehr wirksam macht. Die meisten einzelnen Pflanzenproteine sind bei einer oder mehreren essenziellen Aminosäuren geringer, daher schließen Mischungen wie Erbse plus Reis, oder schlicht Abwechslung, die Lücke.",
+          "Bei pflanzlicher Ernährung liefern eine etwas höhere Gesamtzufuhr und ein Mix aus Quellen dieselben Muskelergebnisse. Wähle nach Ernährung, Verträglichkeit und Vorliebe; beide wirken, wenn dein Gesamtproteinziel erreicht ist."
+        ],
+        "bullets": [
+          "Whey ist vollständig und leucinreich",
+          "Pflanzenquellen wie Erbse und Reis für volle Aminosäuren kombinieren",
+          "Pflanzliche Ernährung: etwas höher zielen, 1,7-2,3 g/kg",
+          "Beide bauen Muskeln auf, wenn das Gesamtprotein reicht"
+        ]
+      },
+      "protein-grams-per-pound": {
+        "heading": "Gramm Protein pro Pfund Körpergewicht",
+        "lead": "Eine gängige Muskelaufbau-Richtlinie ist 0,7 bis 1,0 g Protein pro Pfund Körpergewicht am Tag, was etwa 1,6 bis 2,2 g pro kg entspricht. Für eine 175 lb (79 kg) schwere Person sind das rund 125 bis 175 g Protein pro Tag.",
+        "paragraphs": [
+          "Die Faustregel ein Gramm pro Pfund ist beliebt, weil sie leicht zu merken ist, und sie liegt nahe am oberen Ende des evidenzbasierten Bereichs für Muskelaufbau. In Wahrheit funktioniert für die meisten alles zwischen 0,7 und 1,0 g pro Pfund gut.",
+          "Bei höherem Körperfett vermeidet es Überschätzung, die Zahl auf dein Ziel- oder Magergewicht zu beziehen. Rechne nach Vorliebe um, da 1 g pro Pfund etwa 2,2 g pro kg sind, und nutze einen Rechner, um die Zahl zu personalisieren."
+        ],
+        "bullets": [
+          "Muskelaufbau-Bereich: 0,7-1,0 g pro Pfund am Tag",
+          "Entspricht etwa 1,6-2,2 g pro kg",
+          "1 g pro Pfund sind rund 2,2 g pro kg",
+          "Bei hohem Körperfett Ziel- oder Magergewicht nutzen"
+        ]
+      },
+      "how-much-protein-to-build-muscle": {
+        "heading": "Wie viel Protein für den Muskelaufbau?",
+        "lead": "Für den Muskelaufbau weist die Forschung auf 1,6 bis 2,2 g Protein pro kg Körpergewicht am Tag hin, kombiniert mit progressivem Krafttraining. Für eine 80 kg schwere Person sind das rund 130 bis 175 g Protein pro Tag.",
+        "paragraphs": [
+          "Ein großer Forschungskörper konvergiert um etwa 1,6 g/kg als Punkt, an dem zusätzliches Protein kaum mehr Muskeln bringt, mit einer praktischen Obergrenze nahe 2,2 g/kg. Mehr zu essen ist für Gesunde nicht schädlich, beschleunigt die Zuwächse aber selten weiter.",
+          "Protein ist nur die halbe Gleichung: Ohne progressives Krafttraining baut zusätzliches Protein allein keine Muskeln auf. Verteile die Zufuhr auf drei oder vier Mahlzeiten, halte das Training konstant und iss genug Gesamtkalorien, um Wachstum zu unterstützen."
+        ],
+        "bullets": [
+          "Muskelaufbau-Bereich: 1,6-2,2 g/kg pro Tag",
+          "Zuwächse stagnieren über etwa 2,2 g/kg",
+          "Progressives Krafttraining ist entscheidend",
+          "Protein auf 3-4 Mahlzeiten verteilen"
+        ]
+      },
+      "how-much-protein-per-day": {
+        "heading": "Wie viel Protein pro Tag brauchst du?",
+        "lead": "Der tägliche Proteinbedarf reicht von 0,8 g pro kg für sitzende Erwachsene bis 1,6-2,2 g/kg für Muskelaufbauende. Für eine 70 kg schwere Person sind das je nach Aktivität und Zielen etwa 56 g bis 155 g.",
+        "paragraphs": [
+          "Die Empfehlung von 0,8 g/kg ist nur die Menge, um bei Inaktiven Mangel zu vermeiden, nicht die für optimale Gesundheit oder Leistung. Die meisten aktiven Erwachsenen fahren besser mit 1,2-2,0 g/kg, wobei die genaue Zahl von Training, Alter und davon abhängt, ob du zu- oder abnimmst.",
+          "Nutze dein Körpergewicht, dein Aktivitätsniveau und dein Ziel, um deine persönliche Zahl zu finden, statt eines Einheitswerts. Diese Gesamtmenge auf drei oder vier proteinreiche Mahlzeiten zu verteilen macht sie wirksam und leicht erreichbar."
+        ],
+        "bullets": [
+          "Sitzendes Minimum: 0,8 g/kg pro Tag",
+          "Aktive Erwachsene: 1,2-2,0 g/kg pro Tag",
+          "Muskelaufbau: 1,6-2,2 g/kg pro Tag",
+          "Nach Gewicht, Aktivität und Ziel personalisieren"
+        ]
+      },
+      "protein-for-two-meals-a-day": {
+        "heading": "Dein Proteinziel mit zwei Mahlzeiten am Tag erreichen",
+        "lead": "Wenn du nur zweimal am Tag isst, kannst du dennoch 1,6-2,2 g pro kg für den Muskelaufbau erreichen, mit größeren Dosen von 50-70 g pro Mahlzeit. Eine 75 kg schwere Person zielt auf etwa 120 bis 165 g, aufgeteilt auf die beiden.",
+        "paragraphs": [
+          "Weniger Mahlzeiten bedeutet, dass jede mehr Protein tragen muss, und die gute Nachricht ist, dass große Einzeldosen bei zeitlich getrennten Mahlzeiten effektiv genutzt werden. Zwei reichhaltige Proteinportionen können dein Tagesziel erreichen, solange die Gesamtmenge stimmt.",
+          "Baue jede Mahlzeit um eine große Proteinquelle plus Gemüse und hochwertige Kohlenhydrate und Fette. Wenn eine einzelne 50-70-g-Dosis schwer zu essen ist, ist ein proteinreicher Snack oder Shake zwischen den Mahlzeiten ein einfacher Weg, die Differenz auszugleichen."
+        ],
+        "bullets": [
+          "Auf 50-70 g Protein pro Mahlzeit zielen",
+          "Große Dosen werden bei getrennten Mahlzeiten gut genutzt",
+          "Das gesamte Tagesprotein zählt am meisten",
+          "Einen Shake ergänzen, wenn eine große Einzeldosis schwerfällt"
+        ]
+      },
+      "protein-for-office-workers": {
+        "heading": "Protein für Büroarbeiter und sitzende Jobs",
+        "lead": "Bei einem sitzenden Bürojob ziele auf mindestens 1,0 bis 1,4 g Protein pro kg Körpergewicht am Tag, mehr als das bloße Minimum, um Muskeln zu erhalten und den Appetit zu steuern. Ein 75 kg schwerer Angestellter zielt auf etwa 75 bis 105 g pro Tag.",
+        "paragraphs": [
+          "Ein Bürojob bedeutet wenig tägliche Bewegung, was es leicht macht, über die Jahre Muskeln zu verlieren und kaloriendichte Snacks zu überessen. Eine mäßig höhere Proteinzufuhr wirkt beidem entgegen, indem sie Muskeln unterstützt und dich zwischen den Mahlzeiten satter hält.",
+          "Plane proteinreiche Mahlzeiten und bürotaugliche Snacks wie griechischen Joghurt, Nüsse, gekochte Eier oder Edamame, um der Automatenfalle am Nachmittag zu entgehen. Jegliches Krafttraining außerhalb der Arbeitszeit macht dieses Protein weit nützlicher."
+        ],
+        "bullets": [
+          "Sitzendes Ziel: 1,0-1,4 g/kg pro Tag",
+          "Mehr Protein bremst das Naschen und erhält Muskeln",
+          "Bürotaugliche Proteinsnacks griffbereit halten",
+          "Krafttraining außerhalb der Arbeitszeit ergänzen"
+        ]
+      },
+      "protein-for-hiking": {
+        "heading": "Protein fürs Wandern und Trekking",
+        "lead": "Für lange Wanderungen und mehrtägige Trekkingtouren steigt der Proteinbedarf auf etwa 1,2 bis 1,6 g pro kg Körpergewicht am Tag, um Muskeln zu reparieren und die Last zu bewältigen. Ein 70 kg schwerer Wanderer zielt an großen Tagen auf etwa 85 bis 110 g pro Tag.",
+        "paragraphs": [
+          "Stunden des Gehens, besonders mit Rucksack und über Hügel, bauen Muskeln ab und erhöhen den Gesamtproteinumsatz. Auf mehrtägigen Touren lässt dich chronisch zu wenig Protein schwächer werden und langsamer von Tag zu Tag erholen.",
+          "Nimm leichtes, haltbares Protein wie Trockenfleisch, Nüsse, Käse, Thunfischbeutel und Proteinriegel mit und iss davon am Ende jedes Tages. Balanciere Protein mit reichlich Kohlenhydraten, die unterwegs deine Hauptenergiequelle bleiben."
+        ],
+        "bullets": [
+          "Ziel am großen Tag: 1,2-1,6 g/kg pro Tag",
+          "Mehrtägige Touren erhöhen den Bedarf",
+          "Trockenfleisch, Nüsse, Käse und Thunfischbeutel einpacken",
+          "Kohlenhydrate für Energie unterwegs hoch halten"
+        ]
+      },
+      "protein-for-soccer-players": {
+        "heading": "Protein für Fußballspieler: Tagesbedarf",
+        "lead": "Fußballspieler brauchen etwa 1,4 bis 1,8 g Protein pro kg Körpergewicht am Tag, um Sprints, Regeneration und Muskelreparatur über einen dichten Spielplan zu unterstützen. Ein 72 kg schwerer Spieler zielt auf etwa 100 bis 130 g pro Tag.",
+        "paragraphs": [
+          "Fußball verbindet Ausdauerlauf mit wiederholten Sprints, Sprüngen und Zweikämpfen und erzeugt so aerobe und muskuläre Anforderungen. Dieser Mix hebt den Proteinbedarf über den reinen Ausdauersport, besonders in Phasen dichter Spiele mit kurzer Regenerationszeit.",
+          "Tanke nach Spielen und harten Einheiten mit Kohlenhydraten und 25-35 g Protein auf, um Glykogen aufzufüllen und die Reparatur zu starten. Verteile das restliche Protein auf die Mahlzeiten, um die tägliche Regeneration durch die Saison zu stützen."
+        ],
+        "bullets": [
+          "Tagesziel: 1,4-1,8 g/kg pro Tag",
+          "Sprints und Zweikämpfe erhöhen die Ausdaueranforderung",
+          "Nach dem Spiel: Kohlenhydrate plus 25-35 g Protein",
+          "Den Rest auf die täglichen Mahlzeiten verteilen"
+        ]
+      },
+      "protein-for-basketball-players": {
+        "heading": "Protein für Basketballspieler: wie viel essen",
+        "lead": "Basketballspieler brauchen etwa 1,4 bis 1,9 g Protein pro kg Körpergewicht am Tag, um Sprünge, Sprints und Kontakt zu befeuern und zugleich die Regeneration zu stützen. Ein 85 kg schwerer Spieler zielt auf etwa 120 bis 160 g pro Tag.",
+        "paragraphs": [
+          "Die explosiven Sprünge, Richtungswechsel und der Körperkontakt im Basketball erzeugen zusätzlich zum Laufumfang erhebliche Muskelschäden. Höheres Protein unterstützt die Reparatur dieser Schäden und hilft, über eine lange Saison schlanke, kraftvolle Muskeln zu halten.",
+          "Priorisiere nach Spielen und Trainings eine Protein-Kohlenhydrat-Mahlzeit und halte das Protein über den Tag gleichmäßig, um dichte Spiele zu bewältigen. Vollwertige Quellen sollten führen, ein Shake als bequeme Option, wenn der Plan eng ist."
+        ],
+        "bullets": [
+          "Tagesziel: 1,4-1,9 g/kg pro Tag",
+          "Explosives Spiel erhöht den Muskelreparaturbedarf",
+          "Nach Spielen mit Protein und Kohlenhydraten auftanken",
+          "Die Zufuhr über einen dichten Plan gleichmäßig halten"
+        ]
+      },
+      "protein-for-gym-beginners": {
+        "heading": "Protein für Fitnessstudio-Einsteiger: wo anfangen",
+        "lead": "Neue Studiogänger sollten auf etwa 1,4 bis 1,8 g Protein pro kg Körpergewicht am Tag zielen, um ihre ersten Zuwächse ohne Verkomplizierung zu unterstützen. Ein 70 kg schwerer Anfänger zielt auf etwa 100 bis 125 g pro Tag.",
+        "paragraphs": [
+          "In den ersten Trainingsmonaten werden Muskeln leicht gewonnen, daher reicht eine moderate, konstante Proteinzufuhr für klaren Fortschritt. Es braucht keine aufwendigen Supplement-Stacks; ein solides Tagesziel aus echtem Essen erfüllt den Zweck.",
+          "Gewöhne dir an, jede Mahlzeit um eine Proteinquelle zu bauen und, wenn es passt, nach dem Training einen Shake zu trinken. Wenn du stärker wirst und härter trainierst, kannst du die Zufuhr in den Muskelaufbau-Bereich von 1,6-2,2 g/kg schieben."
+        ],
+        "bullets": [
+          "Anfängerziel: 1,4-1,8 g/kg pro Tag",
+          "Frühe Zuwächse kommen leicht mit konstantem Protein",
+          "Jede Mahlzeit um eine Proteinquelle bauen",
+          "Mit dem Fortschritt Richtung 1,6-2,2 g/kg gehen"
+        ]
       }
     }
   },

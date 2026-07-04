@@ -110,6 +110,206 @@ const TOPICS: Record<TopicKey, TopicConfig> = {
       faqIndices: [0, 7, 5],
       related: ["protein-by-body-weight", "high-protein-foods", "protein-for-seniors"],
     },
+    "protein-for-athletes": {
+      faqIndices: [1, 5, 6],
+      related: ["protein-for-strength-training", "protein-for-endurance", "protein-for-recovery"],
+    },
+    "protein-for-runners": {
+      faqIndices: [8, 3, 1],
+      related: ["protein-for-marathon-training", "protein-for-endurance", "protein-for-recovery"],
+    },
+    "protein-for-bodybuilding": {
+      faqIndices: [7, 5, 9],
+      related: ["protein-for-bulking", "protein-for-cutting", "how-much-protein-to-build-muscle"],
+    },
+    "protein-for-endurance": {
+      faqIndices: [4, 5, 8],
+      related: ["protein-for-runners", "protein-for-cyclists", "protein-for-recovery"],
+    },
+    "protein-for-cyclists": {
+      faqIndices: [7, 0, 8],
+      related: ["protein-for-endurance", "protein-for-recovery", "protein-for-athletes"],
+    },
+    "protein-for-swimmers": {
+      faqIndices: [1, 7, 6],
+      related: ["protein-for-athletes", "protein-for-strength-training", "protein-for-recovery"],
+    },
+    "protein-for-crossfit": {
+      faqIndices: [8, 4, 9],
+      related: ["protein-for-strength-training", "protein-for-recovery", "how-much-protein-to-build-muscle"],
+    },
+    "protein-for-strength-training": {
+      faqIndices: [1, 4, 5],
+      related: ["how-much-protein-to-build-muscle", "protein-for-muscle-gain", "protein-for-recovery"],
+    },
+    "protein-for-calisthenics": {
+      faqIndices: [5, 9, 6],
+      related: ["protein-for-home-workouts", "how-much-protein-to-build-muscle", "protein-for-strength-training"],
+    },
+    "protein-for-marathon-training": {
+      faqIndices: [8, 7, 9],
+      related: ["protein-for-runners", "protein-for-endurance", "protein-for-recovery"],
+    },
+    "protein-for-cutting": {
+      faqIndices: [7, 9, 8],
+      related: ["protein-for-fat-loss", "protein-for-body-recomposition", "protein-for-bodybuilding"],
+    },
+    "protein-for-bulking": {
+      faqIndices: [0, 2, 7],
+      related: ["protein-for-lean-bulk", "protein-for-weight-gain", "how-much-protein-to-build-muscle"],
+    },
+    "protein-for-body-recomposition": {
+      faqIndices: [9, 0, 5],
+      related: ["protein-for-cutting", "protein-for-lean-bulk", "how-much-protein-to-build-muscle"],
+    },
+    "protein-for-lean-bulk": {
+      faqIndices: [6, 4, 8],
+      related: ["protein-for-bulking", "protein-for-body-recomposition", "how-much-protein-to-build-muscle"],
+    },
+    "protein-for-fat-loss": {
+      faqIndices: [7, 1, 2],
+      related: ["protein-for-cutting", "protein-for-weight-loss", "protein-for-maintaining-muscle"],
+    },
+    "protein-for-maintaining-muscle": {
+      faqIndices: [7, 5, 8],
+      related: ["protein-for-fat-loss", "how-much-protein-per-day", "protein-per-meal"],
+    },
+    "protein-for-beginners": {
+      faqIndices: [1, 3, 7],
+      related: ["protein-for-gym-beginners", "how-much-protein-to-build-muscle", "protein-per-meal"],
+    },
+    "protein-for-home-workouts": {
+      faqIndices: [6, 4, 2],
+      related: ["protein-for-calisthenics", "protein-for-beginners", "how-much-protein-to-build-muscle"],
+    },
+    "protein-per-meal": {
+      faqIndices: [8, 5, 6],
+      related: ["protein-for-breakfast", "how-much-protein-per-day", "protein-before-bed"],
+    },
+    "protein-before-bed": {
+      faqIndices: [4, 3, 9],
+      related: ["protein-per-meal", "protein-after-workout", "protein-for-recovery"],
+    },
+    "protein-after-workout": {
+      faqIndices: [5, 3, 4],
+      related: ["protein-before-workout", "protein-for-recovery", "protein-per-meal"],
+    },
+    "protein-before-workout": {
+      faqIndices: [4, 5, 0],
+      related: ["protein-after-workout", "protein-for-recovery", "protein-per-meal"],
+    },
+    "protein-for-breakfast": {
+      faqIndices: [5, 2, 8],
+      related: ["protein-per-meal", "how-much-protein-per-day", "protein-for-office-workers"],
+    },
+    "protein-for-recovery": {
+      faqIndices: [1, 2, 9],
+      related: ["protein-after-workout", "protein-for-athletes", "protein-before-bed"],
+    },
+    "protein-for-keto-diet": {
+      faqIndices: [1, 9, 0],
+      related: ["protein-for-fat-loss", "how-much-protein-per-day", "protein-for-intermittent-fasting"],
+    },
+    "protein-for-intermittent-fasting": {
+      faqIndices: [8, 3, 2],
+      related: ["protein-for-two-meals-a-day", "protein-per-meal", "protein-for-fat-loss"],
+    },
+    "protein-for-weight-gain": {
+      faqIndices: [6, 8, 1],
+      related: ["protein-for-skinny-guys", "protein-for-bulking", "how-much-protein-to-build-muscle"],
+    },
+    "protein-for-skinny-guys": {
+      faqIndices: [9, 0, 5],
+      related: ["protein-for-weight-gain", "protein-for-bulking", "how-much-protein-to-build-muscle"],
+    },
+    "protein-for-over-40": {
+      faqIndices: [1, 0, 2],
+      related: ["protein-for-over-50", "protein-for-maintaining-muscle", "protein-for-sarcopenia"],
+    },
+    "protein-for-over-50": {
+      faqIndices: [9, 1, 3],
+      related: ["protein-for-sarcopenia", "protein-for-seniors", "protein-for-over-40"],
+    },
+    "protein-for-menopause": {
+      faqIndices: [5, 0, 2],
+      related: ["protein-for-over-50", "protein-for-women", "protein-for-sarcopenia"],
+    },
+    "protein-for-pcos": {
+      faqIndices: [1, 0, 4],
+      related: ["protein-for-women", "protein-for-fat-loss", "how-much-protein-per-day"],
+    },
+    "protein-for-breastfeeding": {
+      faqIndices: [3, 4, 6],
+      related: ["protein-for-postpartum", "protein-during-pregnancy", "protein-for-women"],
+    },
+    "protein-for-postpartum": {
+      faqIndices: [6, 3, 5],
+      related: ["protein-for-breastfeeding", "protein-during-pregnancy", "protein-for-women"],
+    },
+    "protein-for-kids": {
+      faqIndices: [5, 6, 3],
+      related: ["protein-for-toddlers", "protein-for-teenagers", "how-much-protein-per-day"],
+    },
+    "protein-for-toddlers": {
+      faqIndices: [6, 3, 8],
+      related: ["protein-for-kids", "protein-for-teenagers", "high-protein-foods"],
+    },
+    "protein-for-hair-growth": {
+      faqIndices: [1, 2, 4],
+      related: ["protein-for-skin", "protein-deficiency-signs", "how-much-protein-per-day"],
+    },
+    "protein-for-skin": {
+      faqIndices: [2, 8, 3],
+      related: ["protein-for-hair-growth", "protein-for-wound-healing", "how-much-protein-per-day"],
+    },
+    "protein-for-wound-healing": {
+      faqIndices: [9, 1, 3],
+      related: ["protein-for-skin", "protein-for-sarcopenia", "protein-for-seniors"],
+    },
+    "protein-for-sarcopenia": {
+      faqIndices: [2, 6, 3],
+      related: ["protein-for-seniors", "protein-for-over-50", "protein-for-maintaining-muscle"],
+    },
+    "whey-vs-plant-protein": {
+      faqIndices: [3, 6, 2],
+      related: ["vegetarian-vegan-protein", "high-protein-foods", "how-much-protein-to-build-muscle"],
+    },
+    "protein-grams-per-pound": {
+      faqIndices: [8, 6, 0],
+      related: ["how-much-protein-per-day", "how-much-protein-to-build-muscle", "protein-by-body-weight"],
+    },
+    "how-much-protein-to-build-muscle": {
+      faqIndices: [8, 0, 4],
+      related: ["protein-for-muscle-gain", "protein-for-strength-training", "protein-grams-per-pound"],
+    },
+    "how-much-protein-per-day": {
+      faqIndices: [3, 9, 6],
+      related: ["protein-grams-per-pound", "protein-per-meal", "protein-by-body-weight"],
+    },
+    "protein-for-two-meals-a-day": {
+      faqIndices: [2, 9, 3],
+      related: ["protein-for-intermittent-fasting", "protein-per-meal", "how-much-protein-per-day"],
+    },
+    "protein-for-office-workers": {
+      faqIndices: [5, 3, 2],
+      related: ["protein-for-maintaining-muscle", "protein-for-breakfast", "how-much-protein-per-day"],
+    },
+    "protein-for-hiking": {
+      faqIndices: [5, 8, 2],
+      related: ["protein-for-endurance", "protein-for-recovery", "protein-for-athletes"],
+    },
+    "protein-for-soccer-players": {
+      faqIndices: [5, 8, 9],
+      related: ["protein-for-athletes", "protein-for-endurance", "protein-for-recovery"],
+    },
+    "protein-for-basketball-players": {
+      faqIndices: [0, 7, 8],
+      related: ["protein-for-athletes", "protein-for-strength-training", "protein-for-recovery"],
+    },
+    "protein-for-gym-beginners": {
+      faqIndices: [7, 4, 5],
+      related: ["protein-for-beginners", "how-much-protein-to-build-muscle", "protein-per-meal"],
+    },
   }),
 };
 

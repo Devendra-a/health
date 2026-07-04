@@ -529,6 +529,706 @@
           "Queda de cabelo, unhas frágeis e pele que cicatriza devagar",
           "Doenças ligeiras frequentes e recuperação lenta do treino"
         ]
+      },
+      "protein-for-athletes": {
+        "heading": "Proteína para atletas: quanto por dia?",
+        "lead": "A maioria dos atletas de competição precisa de 1,4 a 2,0 g de proteína por kg de peso corporal por dia, bem acima dos 0,8 g/kg de um adulto sedentário. Para um atleta de 75 kg, isso equivale a cerca de 105 a 150 g por dia, ajustados à carga de treino e à modalidade.",
+        "paragraphs": [
+          "Os atletas degradam e reconstroem a proteína muscular mais depressa do que as pessoas não treinadas, por isso a necessidade diária é maior e mais sensível ao momento da ingestão. Os atletas de força e potência ficam no topo da faixa (1,6-2,0 g/kg), enquanto os de resistência precisam de um pouco menos (1,2-1,6 g/kg), mas ainda muito mais do que a população geral.",
+          "O total diário é o que mais importa, mas a distribuição ajuda: procure 0,3-0,4 g/kg em cada uma de três a quatro refeições e inclua uma refeição rica em proteína nas duas horas seguintes a um treino intenso. Os alimentos integrais devem ser a base, com os shakes apenas para preencher lacunas em dias pesados ou ao viajar para competir."
+        ],
+        "bullets": [
+          "Esportes de força e potência: 1,6-2,0 g/kg por dia",
+          "Esportes de resistência: 1,2-1,6 g/kg por dia",
+          "Divida em 3-4 refeições de 0,3-0,4 g/kg cada",
+          "Ingira proteína e carboidratos nas 2 horas após o esforço"
+        ]
+      },
+      "protein-for-runners": {
+        "heading": "Proteína para corredores: necessidades e momento",
+        "lead": "Os corredores precisam de cerca de 1,2 a 1,6 g de proteína por kg de peso corporal por dia, mais do que quem não corre, mas menos do que os atletas de força. Um corredor de 65 kg mira assim cerca de 80 a 105 g por dia para reparar o músculo e apoiar a recuperação.",
+        "paragraphs": [
+          "Correr costuma ser visto como um esporte de carboidratos, mas o impacto repetido danifica fibras musculares que a proteína reconstrói. Corredores de alta quilometragem e de maratona ficam no topo da faixa, pois o treino crônico e os déficits calóricos podem corroer a massa magra e retardar a recuperação.",
+          "Combine proteína com carboidrato após os treinos longos ou intensos para repor glicogênio e iniciar o reparo ao mesmo tempo. Uma proporção de 3:1 ou 4:1 de carboidrato para proteína na primeira hora funciona bem, e distribuir o restante da proteína ao longo do dia apoia a recuperação noturna."
+        ],
+        "bullets": [
+          "Meta geral: 1,2-1,6 g/kg por dia",
+          "Semanas de alta quilometragem: aproxime-se do topo",
+          "Após correr: carboidratos e 20-30 g de proteína em uma hora",
+          "Não corte proteína ao fazer dieta para o peso de prova"
+        ]
+      },
+      "protein-for-bodybuilding": {
+        "heading": "Proteína para musculação: quanto para ganhar massa",
+        "lead": "Os fisiculturistas costumam ingerir 1,6 a 2,2 g de proteína por kg de peso corporal por dia, e até 2,4 g/kg na definição para uma competição. Para um fisiculturista de 90 kg, são cerca de 145 a 200 g de proteína por dia.",
+        "paragraphs": [
+          "A síntese de proteína muscular é maximizada por proteína total suficiente e um estímulo de treino de força. Passar muito de 2,2 g/kg raramente adiciona músculo mais rápido, mas uma ingestão um pouco maior durante a definição ajuda a proteger a massa conquistada enquanto as calorias estão baixas.",
+          "A distribuição é uma alavanca real para os fisiculturistas: quatro a cinco refeições de 30-50 g cada mantêm a síntese proteica elevada o dia todo. Ancore a maioria das refeições em carne magra, peixe, ovos e laticínios, e use whey ou uma mistura vegetal em torno do treino para atingir seus números."
+        ],
+        "bullets": [
+          "Crescimento fora de temporada: 1,6-2,2 g/kg por dia",
+          "Preparação ou definição: até 2,4 g/kg para poupar músculo",
+          "4-5 refeições de 30-50 g ao longo do dia",
+          "É preciso treino de força progressivo para usar a proteína"
+        ]
+      },
+      "protein-for-endurance": {
+        "heading": "Proteína para esportes de resistência: necessidades diárias",
+        "lead": "Os atletas de resistência precisam de cerca de 1,2 a 1,6 g de proteína por kg de peso corporal por dia para reparar o músculo e apoiar a adaptação. Para um atleta de 70 kg, são cerca de 85 a 110 g por dia, mais nos blocos de alta carga.",
+        "paragraphs": [
+          "As sessões longas aumentam a oxidação de proteína e a renovação do tecido conjuntivo, por isso os atletas de resistência precisam de mais do que a base sedentária, mesmo que o foco seja o combustível. Comer pouca proteína de forma crônica em fases de alto volume é causa comum de adaptação estagnada e lesões persistentes.",
+          "Como as sessões são longas, a proteína em torno do treino importa: uma pequena dose durante esforços muito longos e uma refeição completa depois ajudam. Mantenha os carboidratos altos para reservar a proteína ao reparo e não à energia, e distribua-a de forma uniforme entre as refeições."
+        ],
+        "bullets": [
+          "Meta diária: 1,2-1,6 g/kg",
+          "Aumente a ingestão em blocos de alto volume ou altitude",
+          "Mantenha os carboidratos altos para que a proteína repare",
+          "Inclua 20-30 g de proteína na refeição pós-sessão"
+        ]
+      },
+      "protein-for-cyclists": {
+        "heading": "Proteína para ciclistas: de quanto você precisa?",
+        "lead": "Os ciclistas costumam precisar de 1,2 a 1,7 g de proteína por kg de peso corporal por dia, com o topo da faixa adequado a quem faz tiros intensos ou subidas. Um ciclista de 70 kg mira cerca de 85 a 120 g por dia.",
+        "paragraphs": [
+          "O ciclismo é de baixo impacto, mas de alto volume, e os esforços intensos repetidos ainda danificam músculo que a proteína reconstrói. Quem treina duas vezes ao dia, corre provas por etapas ou restringe calorias para melhorar a relação potência-peso precisa de proteína no topo da faixa para proteger a massa magra.",
+          "Alimente os pedais longos sobretudo com carboidratos e combine depois carboidratos e proteína logo em seguida para repor glicogênio e iniciar a recuperação. Em dias de treino encadeados, uma dose de proteína antes de dormir pode apoiar ainda mais o reparo noturno."
+        ],
+        "bullets": [
+          "Meta diária: 1,2-1,7 g/kg",
+          "Duas sessões ao dia ou provas por etapas: mire mais alto",
+          "Reponha com carboidratos e 20-30 g de proteína após pedais longos",
+          "Proteja a massa magra ao buscar potência-peso"
+        ]
+      },
+      "protein-for-swimmers": {
+        "heading": "Proteína para nadadores: recuperação e desempenho",
+        "lead": "Os nadadores de competição precisam de cerca de 1,4 a 2,0 g de proteína por kg de peso corporal por dia, pois combinam alto volume de treino com trabalho significativo de força do tronco superior. Um nadador de 68 kg mira cerca de 95 a 135 g por dia.",
+        "paragraphs": [
+          "A natação constrói e exige grandes quantidades de músculo em todo o corpo, e várias sessões de piscina por dia elevam a necessidade diária à faixa dos atletas de força. Proteína adequada apoia tanto o componente de resistência quanto o de potência do esporte.",
+          "Como as sessões costumam começar cedo e terminar tarde, planeje refeições e lanches ricos em proteína em torno do horário da piscina. Um shake logo após uma série exigente, seguido de uma refeição completa, mantém a recuperação entre as sessões."
+        ],
+        "bullets": [
+          "Meta diária: 1,4-2,0 g/kg",
+          "Treino em duas sessões leva a necessidade ao topo da faixa",
+          "Tenha um lanche proteico pronto à beira da piscina após séries duras",
+          "Distribua a ingestão entre refeições e shakes pós-sessão"
+        ]
+      },
+      "protein-for-crossfit": {
+        "heading": "Proteína para CrossFit: quanto para recuperar e crescer",
+        "lead": "Os atletas de CrossFit costumam precisar de 1,6 a 2,2 g de proteína por kg de peso corporal por dia, pois o esporte mistura força, potência e condicionamento metabólico. Para um atleta de 80 kg, são cerca de 130 a 175 g por dia.",
+        "paragraphs": [
+          "O treino funcional de alta intensidade gera grande demanda de reparo, por isso o CrossFit fica na mesma faixa de proteína do treino de força dedicado. Quem busca ao mesmo tempo um físico definido e melhor desempenho se beneficia do topo da faixa, sobretudo em dieta.",
+          "Um bom momento de ingestão ajuda a suportar os WODs diários: uma refeição com proteína e carboidratos nas duas horas após o treino, além de distribuição uniforme em três ou quatro refeições, mantém a recuperação alta. Primeiro alimentos integrais, com um shake para completar em dias de sessão dupla."
+        ],
+        "bullets": [
+          "Meta diária: 1,6-2,2 g/kg",
+          "Fases de definição: aproxime-se do topo da faixa",
+          "Reponha com proteína e carboidratos após cada WOD",
+          "Distribua a proteína em 3-4 refeições para recuperação estável"
+        ]
+      },
+      "protein-for-strength-training": {
+        "heading": "Proteína para treino de força: ingestão ideal",
+        "lead": "Para o treino de força, mire 1,6 a 2,2 g de proteína por kg de peso corporal por dia, a faixa mais associada a ganhos de músculo e força. Uma pessoa de 85 kg mira assim cerca de 135 a 190 g por dia.",
+        "paragraphs": [
+          "Levantar peso é o sinal que diz ao corpo para construir músculo; a proteína fornece a matéria-prima. Atingir a faixa de 1,6-2,2 g/kg enquanto treina de forma progressiva é o que impulsiona a adaptação, e elevar muito a ingestão traz retornos decrescentes.",
+          "Distribua a proteína em três ou quatro refeições de 30-45 g para que a síntese proteica se mantenha elevada entre as sessões. O descanso, calorias suficientes e treino consistente importam tanto quanto atingir sua meta diária de proteína."
+        ],
+        "bullets": [
+          "Meta diária: 1,6-2,2 g/kg",
+          "30-45 g por refeição em 3-4 refeições",
+          "Treine de forma progressiva para usar a proteína",
+          "Não descuide das calorias totais, do sono e da recuperação"
+        ]
+      },
+      "protein-for-calisthenics": {
+        "heading": "Proteína para calistenia: músculo com o peso do corpo",
+        "lead": "Os atletas de calistenia precisam dos mesmos 1,6 a 2,2 g de proteína por kg de peso corporal por dia que quem treina com pesos para ganhar músculo, porque o treino com o próprio peso também é treino de resistência. Um atleta de 72 kg mira cerca de 115 a 160 g por dia.",
+        "paragraphs": [
+          "O progresso na calistenia vem de tornar os movimentos com o peso do corpo mais difíceis com o tempo, o que estimula o crescimento muscular como faria uma carga adicionada. Sua necessidade de proteína é, portanto, fixada pelo estímulo do treino, não pelo equipamento, e aplica-se a faixa do treino de força.",
+          "Como manter-se relativamente definido ajuda em habilidades como barras e alavancas, muitos atletas de calistenia treinam perto das calorias de manutenção. Nesse caso, manter a proteína no topo da faixa protege o músculo enquanto a gordura corporal fica baixa."
+        ],
+        "bullets": [
+          "Meta diária: 1,6-2,2 g/kg",
+          "As progressões com peso do corpo contam como resistência",
+          "Fique definido para as habilidades mantendo a proteína alta",
+          "Distribua em 3-4 refeições de 30-45 g"
+        ]
+      },
+      "protein-for-marathon-training": {
+        "heading": "Proteína para treino de maratona: quanto e quando",
+        "lead": "Durante o treino de maratona, a necessidade de proteína sobe para cerca de 1,4 a 1,7 g por kg de peso corporal por dia para suportar a quilometragem sem perder músculo. Um corredor de 65 kg mira cerca de 90 a 110 g por dia nas semanas de pico.",
+        "paragraphs": [
+          "O volume de uma preparação de maratona danifica músculo e tecido conjuntivo semana após semana, e muitos corredores ingerem pouca proteína sem perceber por focar nos carboidratos. Atingir o topo da faixa nas semanas de pico protege a massa magra, apoia o sistema imunológico e acelera a recuperação entre os longões.",
+          "Reponha após os longões com carboidratos e 20-30 g de proteína e mantenha a proteína uniforme no resto do dia. No polimento, você pode reduzir para 1,2-1,4 g/kg à medida que o volume cai."
+        ],
+        "bullets": [
+          "Pico de treino: 1,4-1,7 g/kg por dia",
+          "Semanas de polimento: reduza para 1,2-1,4 g/kg",
+          "Recuperação do longão: carboidratos e 20-30 g de proteína",
+          "Distribua o restante de forma uniforme nas refeições"
+        ]
+      },
+      "protein-for-cutting": {
+        "heading": "Proteína na definição: preserve músculo ao perder gordura",
+        "lead": "Na definição, uma ingestão maior de 1,8 a 2,7 g de proteína por kg de peso corporal por dia protege o músculo no déficit calórico. Uma pessoa mais definida de 80 kg costuma mirar cerca de 160 a 190 g por dia durante a dieta.",
+        "paragraphs": [
+          "No déficit calórico, o corpo tende mais a degradar músculo para obter energia, e uma ingestão alta de proteína é a defesa dietética mais eficaz contra isso. Quanto mais definido e experiente você for, mais perto do topo da faixa deve mirar.",
+          "A proteína também sacia mais com menos calorias, o que torna a dieta mais fácil de sustentar. Combine a ingestão alta de proteína com treino de força para enviar o sinal de que o músculo deve ser mantido enquanto a gordura é perdida."
+        ],
+        "bullets": [
+          "Meta no déficit: 1,8-2,7 g/kg por dia",
+          "Mais definido ou avançado: mire mais alto na faixa",
+          "A proteína melhora a saciedade com menos calorias",
+          "Continue treinando força para sinalizar retenção muscular"
+        ]
+      },
+      "protein-for-bulking": {
+        "heading": "Proteína para ganho de massa: quanto para ganhar músculo",
+        "lead": "Para um ganho de massa muscular, 1,6 a 2,2 g de proteína por kg de peso corporal por dia bastam junto a um superávit calórico. Uma pessoa de 78 kg mira cerca de 125 a 170 g por dia enquanto come para crescer.",
+        "paragraphs": [
+          "O ganho de massa funciona porque um superávit calórico mais treino impulsionam o crescimento; a proteína fornece os blocos, mas você não precisa comer quantidades excessivas. Ao atingir 1,6-2,2 g/kg, as calorias extras rendem mais como carboidratos e gorduras para nutrir treino e recuperação.",
+          "Mantenha o superávit moderado, cerca de 250-500 calorias acima da manutenção, para ganhar sobretudo músculo e não gordura. Distribua a proteína pelas refeições e mantenha o treino progressivo para transformar essas calorias em tecido magro."
+        ],
+        "bullets": [
+          "Meta no ganho de massa: 1,6-2,2 g/kg por dia",
+          "Use um superávit moderado de 250-500 kcal",
+          "As calorias além da proteína vêm de carboidratos e gordura",
+          "O treino progressivo transforma o superávit em músculo"
+        ]
+      },
+      "protein-for-body-recomposition": {
+        "heading": "Proteína para recomposição corporal: músculo e menos gordura",
+        "lead": "A recomposição corporal funciona melhor com proteína alta de 1,8 a 2,4 g por kg de peso corporal por dia treinando perto da manutenção. Uma pessoa de 75 kg mira cerca de 135 a 180 g por dia para ganhar músculo e perder gordura ao mesmo tempo.",
+        "paragraphs": [
+          "A recomposição, ganhar músculo e perder gordura ao mesmo tempo, é mais viável para iniciantes, para quem retorna após uma pausa e para quem tem mais gordura corporal. Uma ingestão alta de proteína é o fio comum de toda recomposição bem-sucedida, pois apoia o crescimento muscular mesmo sem superávit.",
+          "Coma em torno das calorias de manutenção, mantenha a proteína alta e treine com resistência progressiva de duas a quatro vezes por semana. O progresso é mais lento que um ganho de massa ou uma definição dedicados, então acompanhe força e medidas em vez de apenas o peso na balança."
+        ],
+        "bullets": [
+          "Meta de recomposição: 1,8-2,4 g/kg por dia",
+          "Coma perto da manutenção, sem grande superávit ou déficit",
+          "Melhores resultados em iniciantes e com mais gordura corporal",
+          "Avalie o progresso por força e medidas, não pela balança"
+        ]
+      },
+      "protein-for-lean-bulk": {
+        "heading": "Proteína para ganho limpo: músculo com pouca gordura",
+        "lead": "Um ganho limpo usa 1,6 a 2,2 g de proteína por kg de peso corporal por dia junto a um pequeno superávit calórico para adicionar músculo com pouca gordura. Uma pessoa de 76 kg mira cerca de 120 a 165 g de proteína por dia.",
+        "paragraphs": [
+          "O objetivo de um ganho limpo é um aumento lento e controlado, então o superávit fica pequeno, cerca de 200-350 calorias acima da manutenção. As necessidades de proteína são as mesmas de qualquer fase de construção, mas o controle calórico mais rígido mantém o peso ganho principalmente como músculo.",
+          "Mire cerca de 0,25-0,5 kg de ganho por mês e ajuste as calorias se a balança subir rápido demais. Proteína constante, treino progressivo e paciência separam um ganho limpo de um descuidado."
+        ],
+        "bullets": [
+          "Meta de proteína: 1,6-2,2 g/kg por dia",
+          "Mantenha o superávit pequeno, cerca de 200-350 kcal",
+          "Mire 0,25-0,5 kg ganhos por mês",
+          "Ajuste as calorias se o peso subir rápido demais"
+        ]
+      },
+      "protein-for-fat-loss": {
+        "heading": "Proteína para perder gordura: a ingestão que funciona",
+        "lead": "Para perder gordura, mire 1,6 a 2,4 g de proteína por kg de peso corporal por dia para proteger o músculo e controlar a fome. Uma pessoa de 80 kg mira cerca de 130 a 190 g por dia em déficit calórico.",
+        "paragraphs": [
+          "A proteína é o macronutriente mais importante na perda de gordura por dois motivos: preserva o músculo no déficit e é o macronutriente mais saciante por caloria. Juntos, tornam a dieta mais eficaz e bem mais fácil de manter.",
+          "Baseie cada refeição em uma fonte de proteína, adicione bastante vegetal para volume e deixe carboidratos e gordura completarem as calorias restantes. Manter algum treino de força na semana diz ao corpo para segurar o músculo enquanto a gordura sai."
+        ],
+        "bullets": [
+          "Meta no déficit: 1,6-2,4 g/kg por dia",
+          "A proteína é o macronutriente mais saciante por caloria",
+          "Monte cada refeição em torno de uma fonte de proteína",
+          "Continue treinando força para preservar músculo na dieta"
+        ]
+      },
+      "protein-for-maintaining-muscle": {
+        "heading": "Proteína para manter a massa muscular",
+        "lead": "Para manter o músculo existente, 1,2 a 1,6 g de proteína por kg de peso corporal por dia costumam bastar, mais que o mínimo de 0,8 g/kg, mas menos que uma fase de construção. Uma pessoa de 75 kg mira cerca de 90 a 120 g por dia.",
+        "paragraphs": [
+          "Manter o músculo exige menos proteína do que construí-lo, mas bem mais que a recomendação básica, definida só para evitar deficiência. Isso importa em fases de manutenção, períodos corridos ou pausas do treino intenso quando o crescimento não é o objetivo.",
+          "Mantenha ao menos algum estímulo de resistência ou carga na semana, mesmo reduzido, para que o músculo que você tem tenha motivo para ficar. Uma distribuição uniforme entre as refeições ajuda a manter a síntese proteica estável dia após dia."
+        ],
+        "bullets": [
+          "Meta de manutenção: 1,2-1,6 g/kg por dia",
+          "Bem acima do mínimo de 0,8 g/kg",
+          "Mantenha algum estímulo de treino para reter músculo",
+          "Distribua a proteína de forma uniforme entre as refeições"
+        ]
+      },
+      "protein-for-beginners": {
+        "heading": "Proteína para iniciantes: um guia simples para começar",
+        "lead": "Se você está começando a treinar, mire cerca de 1,4 a 1,8 g de proteína por kg de peso corporal por dia, uma meta realista que apoia os primeiros ganhos musculares. Um iniciante de 70 kg mira cerca de 100 a 125 g por dia.",
+        "paragraphs": [
+          "Os iniciantes na verdade constroem músculo com muita eficiência, então não é preciso uma ingestão extrema para ver resultados. Atingir uma meta de proteína moderada e constante importa muito mais nos primeiros meses do que perseguir o topo absoluto da faixa.",
+          "Comece adicionando uma fonte de proteína a cada refeição, como ovos no café da manhã, frango ou feijão no almoço e peixe ou tofu no jantar. Crie primeiro o hábito e depois ajuste as quantidades conforme o treino e o apetite crescem."
+        ],
+        "bullets": [
+          "Meta de iniciante: 1,4-1,8 g/kg por dia",
+          "Iniciantes ganham músculo sem ingestão extrema",
+          "Adicione uma fonte de proteína a cada refeição",
+          "Consistência supera precisão nos primeiros meses"
+        ]
+      },
+      "protein-for-home-workouts": {
+        "heading": "Proteína para treinar em casa: de quanto você precisa",
+        "lead": "Treinar em casa ainda exige 1,4 a 2,0 g de proteína por kg de peso corporal por dia se você quer ganhar ou manter músculo. Uma pessoa de 70 kg mira cerca de 100 a 140 g por dia conforme a intensidade do treino.",
+        "paragraphs": [
+          "Seus músculos não distinguem uma academia de uma sala; o que importa é que o treino seja desafiador e progressivo. Elásticos, halteres ou progressões com o peso do corpo criam uma demanda de reparo que a mesma faixa de proteína cobre.",
+          "Você não precisa de suplementos especiais para treinar em casa. Alimentos do dia a dia como ovos, iogurte grego, lentilha, frango e peixe enlatado cobrem a meta com facilidade, com um shake como opção prática."
+        ],
+        "bullets": [
+          "Meta diária: 1,4-2,0 g/kg conforme a intensidade",
+          "Treino progressivo em casa gera as mesmas necessidades da academia",
+          "Alimentos do dia a dia cobrem a meta sem suplementos",
+          "Elásticos, halteres e peso do corpo contam"
+        ]
+      },
+      "protein-per-meal": {
+        "heading": "Quanta proteína por refeição para ganhar músculo?",
+        "lead": "Para maximizar a síntese de proteína muscular, mire cerca de 0,4 g de proteína por kg de peso corporal por refeição, aproximadamente 25 a 40 g para a maioria dos adultos. Distribuir a ingestão em três a quatro refeições assim é mais eficaz do que uma ou duas grandes.",
+        "paragraphs": [
+          "Cada refeição rica em proteína desencadeia um pico de síntese proteica que dura algumas horas, e há um teto prático de quanto uma única refeição estimula. Por isso distribuir a proteína ao longo do dia costuma superar concentrá-la toda no jantar.",
+          "Cerca de 25-40 g de proteína de qualidade por refeição, com aproximadamente 2,5-3 g de leucina, bastam para atingir esse teto na maioria. Pessoas maiores ou muito musculosas podem precisar do topo, e uma refeição antes de dormir pode adicionar uma quarta dose útil."
+        ],
+        "bullets": [
+          "Mire cerca de 0,4 g/kg por refeição (25-40 g na maioria)",
+          "Busque 3-4 doses de proteína por dia",
+          "Cada refeição precisa de cerca de 2,5-3 g de leucina",
+          "Distribuir a proteína supera uma única dose grande"
+        ]
+      },
+      "protein-before-bed": {
+        "heading": "Proteína antes de dormir: ajuda no ganho de músculo?",
+        "lead": "Ingerir 30 a 40 g de proteína de digestão lenta antes de dormir pode apoiar o reparo e a recuperação muscular durante a noite. A caseína, presente nos laticínios, é ideal porque libera aminoácidos de forma gradual ao longo da noite.",
+        "paragraphs": [
+          "Durante o sono, o corpo continua a reparar músculo, e uma dose de proteína antes de dormir fornece aminoácidos para esse processo a noite toda. Pesquisas mostram que uma dose de 30-40 g de caseína antes de dormir pode elevar a síntese proteica noturna, sobretudo após treino à noite.",
+          "Isso é mais útil se sua proteína diurna foi baixa ou se você treina à noite. Boas opções incluem iogurte grego, queijo cottage, leite ou um shake de caseína, de preferência como parte de uma rotina noturna normal e não de uma refeição extra grande."
+        ],
+        "bullets": [
+          "Dose antes de dormir: 30-40 g de proteína lenta",
+          "A caseína dos laticínios digere devagar à noite",
+          "Mais útil após treino noturno ou com baixa ingestão diurna",
+          "Iogurte grego, queijo cottage ou leite funcionam"
+        ]
+      },
+      "protein-after-workout": {
+        "heading": "Proteína depois do treino: quanto e em quanto tempo?",
+        "lead": "Uma refeição pós-treino com cerca de 20 a 40 g de proteína apoia o reparo muscular, e a janela de tempo é mais ampla do que se acreditava. Ingerir proteína de qualidade nas duas horas seguintes ao treino é a meta prática para a maioria.",
+        "paragraphs": [
+          "A ideia de uma janela anabólica estreita foi exagerada; o que mais importa é sua proteína total diária e uma boa dose em torno do treino. Para a maioria, 20-40 g de proteína após uma sessão cobrem confortavelmente a demanda de reparo.",
+          "Se você treinou em jejum ou não come há várias horas, a dose pós-treino ganha importância e quanto antes melhor. Caso contrário, uma refeição normal rica em proteína nas duas horas após terminar cumpre o papel."
+        ],
+        "bullets": [
+          "Dose pós-treino: 20-40 g de proteína",
+          "A janela anabólica é de horas, não de minutos",
+          "Treinar em jejum torna uma dose logo em seguida mais importante",
+          "A proteína total diária ainda é o que mais importa"
+        ]
+      },
+      "protein-before-workout": {
+        "heading": "Proteína antes do treino: vale a pena?",
+        "lead": "Uma refeição pré-treino com 20 a 30 g de proteína duas a três horas antes pode melhorar a recuperação e reduzir a degradação muscular. Se você treina em jejum, uma dose logo em seguida ganha importância.",
+        "paragraphs": [
+          "Comer proteína antes do treino mantém aminoácidos disponíveis no sangue durante e após a sessão, o que apoia o reparo. Uma refeição mista duas a três horas antes é ideal, mas até um lanche proteico menor mais perto do treino ajuda se uma refeição completa não for prática.",
+          "A proteína antes e depois do treino são em parte intercambiáveis, então não é preciso que ambas sejam grandes. O que importa é ingerir proteína de qualidade razoavelmente perto da sessão, de um lado ou de outro."
+        ],
+        "bullets": [
+          "Dose pré-treino: 20-30 g, 2-3 horas antes",
+          "Mantém aminoácidos disponíveis durante o treino",
+          "Um lanche menor serve se não couber uma refeição completa",
+          "Treinar em jejum aumenta o valor de comer logo depois"
+        ]
+      },
+      "protein-for-breakfast": {
+        "heading": "Quanta proteína no café da manhã? Guia prático",
+        "lead": "Mire pelo menos 25 a 30 g de proteína no café da manhã para ativar a síntese proteica e conter o apetite pela manhã. A maioria dos cafés da manhã típicos fica bem abaixo disso sem um esforço consciente.",
+        "paragraphs": [
+          "Muita gente ingere quase toda a proteína no jantar e muito pouca no café da manhã, desperdiçando a chance de estimular a síntese proteica mais cedo no dia. Adiantar mais proteína para o café da manhã ajuda a equilibrar a ingestão e melhora a saciedade.",
+          "Chegar a 25-30 g é fácil com algumas trocas: ovos, iogurte grego, queijo cottage, leite ou uma dose de whey na aveia ou num shake. Um café da manhã com mais proteína também tende a reduzir os lanches no meio da manhã."
+        ],
+        "bullets": [
+          "Meta no café da manhã: pelo menos 25-30 g de proteína",
+          "Equilibra um dia geralmente carregado no jantar",
+          "Ovos, iogurte grego ou whey facilitam",
+          "Cafés da manhã com mais proteína reduzem os lanches matinais"
+        ]
+      },
+      "protein-for-recovery": {
+        "heading": "Proteína para a recuperação muscular: quanto para reparar",
+        "lead": "Para recuperar bem de um treino duro, a maioria das pessoas ativas precisa de 1,6 a 2,2 g de proteína por kg de peso corporal por dia, distribuídos de forma uniforme entre as refeições. Uma pessoa de 75 kg mira cerca de 120 a 165 g por dia.",
+        "paragraphs": [
+          "A recuperação é quando a adaptação de fato acontece, e a proteína fornece os aminoácidos que reconstroem o músculo danificado. Atingir uma meta diária mais alta e distribuí-la entre as refeições mantém o reparo constante, enquanto uma ingestão cronicamente baixa deixa você dolorido e mal recuperado.",
+          "Combine proteína adequada com calorias totais suficientes, carboidratos para repor glicogênio e um bom sono. A proteína sozinha não conserta a recuperação se você come pouco no geral ou dorme pouco."
+        ],
+        "bullets": [
+          "Meta de recuperação: 1,6-2,2 g/kg por dia",
+          "Distribua de forma uniforme em 3-4 refeições",
+          "Reponha glicogênio também com carboidratos",
+          "Sono e calorias totais fazem parte da recuperação"
+        ]
+      },
+      "protein-for-keto-diet": {
+        "heading": "Proteína na dieta keto: quanto é adequado?",
+        "lead": "Em uma dieta cetogênica, uma ingestão moderada de proteína de cerca de 1,2 a 1,7 g por kg de peso corporal por dia apoia o músculo sem perturbar a cetose na maioria. Uma pessoa de 75 kg mira cerca de 90 a 130 g por dia.",
+        "paragraphs": [
+          "A keto é uma dieta rica em gordura e muito pobre em carboidratos, e um mito comum é que proteína demais tira você da cetose. Para a grande maioria, uma ingestão de proteína moderada a bastante alta é adequada e ajuda a preservar músculo enquanto a gordura é o combustível principal.",
+          "Priorize proteína e gordura, mantenha os carboidratos baixos e ajuste conforme seus objetivos: mais proteína se treina força, um pouco menos se busca cetose terapêutica. Foque em fontes de alimentos integrais como ovos, carne, peixe e queijo."
+        ],
+        "bullets": [
+          "Meta keto: 1,2-1,7 g/kg por dia",
+          "Proteína moderada raramente perturba a cetose",
+          "Quem treina força pode ficar no topo",
+          "Monte as refeições com ovos, carne, peixe e queijo"
+        ]
+      },
+      "protein-for-intermittent-fasting": {
+        "heading": "Proteína e jejum intermitente: atingindo sua meta",
+        "lead": "O jejum intermitente não muda quanta proteína você precisa, cerca de 1,6 a 2,2 g por kg por dia para músculo, mas a comprime em uma janela alimentar mais curta. Uma pessoa de 75 kg ainda mira cerca de 120 a 165 g por dia.",
+        "paragraphs": [
+          "O desafio do jejum é encaixar a mesma proteína em menos refeições, o que pode significar duas a três doses maiores de 40-60 g cada. Como cada refeição é maior, a distribuição ao longo do dia importa menos, mas atingir seu total passa a ser a tarefa principal.",
+          "Quebre o jejum com uma refeição substancial rica em proteína e planeje a janela para caberem confortavelmente pelo menos duas ou três boas doses de proteína. Se você treina em jejum, procure comer logo após terminar."
+        ],
+        "bullets": [
+          "A necessidade total não muda: cerca de 1,6-2,2 g/kg",
+          "Encaixe em 2-3 refeições maiores de 40-60 g",
+          "Quebre o jejum com uma refeição rica em proteína",
+          "Coma logo após treinar em jejum"
+        ]
+      },
+      "protein-for-weight-gain": {
+        "heading": "Proteína para ganhar peso: como se desenvolver",
+        "lead": "Para ganhar peso como músculo, combine um superávit calórico com 1,6 a 2,2 g de proteína por kg de peso corporal por dia. Uma pessoa de 65 kg mira cerca de 105 a 145 g de proteína por dia enquanto come mais no geral.",
+        "paragraphs": [
+          "O ganho de peso saudável é impulsionado por um superávit calórico, mas a proteína e o treino de força decidem quanto desse ganho é músculo e não gordura. Atingir a meta de proteína comendo acima da manutenção permite se desenvolver de forma controlada.",
+          "Se você tem dificuldade em comer o suficiente, adicione alimentos densos em calorias, mas nutritivos, como pastas de oleaginosas, leite integral, aveia e azeite, e use shakes para completar. Mire um ganho constante de cerca de 0,25-0,5 kg por semana."
+        ],
+        "bullets": [
+          "Meta de proteína: 1,6-2,2 g/kg por dia",
+          "Coma acima da manutenção para um superávit calórico",
+          "O treino de força direciona o ganho para o músculo",
+          "Mire 0,25-0,5 kg ganhos por semana"
+        ]
+      },
+      "protein-for-skinny-guys": {
+        "heading": "Proteína para pessoas magras: ganhar músculo sendo hardgainer",
+        "lead": "Pessoas naturalmente magras (hardgainers) precisam de 1,6 a 2,2 g de proteína por kg de peso corporal por dia mais um claro superávit calórico para construir músculo. Um hardgainer de 60 kg mira cerca de 95 a 130 g de proteína por dia.",
+        "paragraphs": [
+          "Para pessoas magras, a maior barreira ao músculo costuma ser comer calorias totais suficientes, não a falta de proteína em si. Atinja seu número de proteína e depois foque em adicionar alimentos densos em calorias para ficar de forma confiável acima da manutenção todos os dias.",
+          "Combine o superávit com um programa simples de força progressiva e tenha paciência, pois ganhar músculo é lento. Calorias líquidas como leite e shakes ajudam quando um grande apetite é difícil de ter."
+        ],
+        "bullets": [
+          "Meta de proteína: 1,6-2,2 g/kg por dia",
+          "As calorias totais são o principal limite do hardgainer",
+          "Use alimentos densos em calorias e calorias líquidas",
+          "Treine de forma progressiva e tenha paciência"
+        ]
+      },
+      "protein-for-over-40": {
+        "heading": "Proteína depois dos 40: por que você precisa de mais",
+        "lead": "Depois dos 40, mire pelo menos 1,2 a 1,6 g de proteína por kg de peso corporal por dia para conter a perda gradual de músculo que começa na meia-idade. Um adulto de 75 kg mira cerca de 90 a 120 g por dia.",
+        "paragraphs": [
+          "A partir dos quarenta, o músculo fica um pouco mais resistente ao sinal de construção da proteína e do treino, um fenômeno chamado resistência anabólica. Comer mais proteína que os adultos jovens, combinada com exercício de força, ajuda a superar isso e a preservar a força.",
+          "A distribuição importa mais com a idade: atingir 30-40 g por refeição é mais eficaz que quantidades menores, pois cada refeição precisa ser grande o suficiente para acionar a síntese proteica. Priorize a proteína no café da manhã, muitas vezes a refeição com menos proteína."
+        ],
+        "bullets": [
+          "Meta a partir dos 40: pelo menos 1,2-1,6 g/kg por dia",
+          "O músculo que envelhece precisa de um estímulo proteico maior",
+          "Mire 30-40 g por refeição",
+          "Combine com treino de força para manter a força"
+        ]
+      },
+      "protein-for-over-50": {
+        "heading": "Proteína depois dos 50: proteger músculo e força",
+        "lead": "Adultos com mais de 50 anos devem mirar 1,2 a 1,5 g de proteína por kg de peso corporal por dia, bem acima da recomendação padrão, para retardar a perda de músculo pela idade. Um adulto de 70 kg mira cerca de 85 a 105 g por dia.",
+        "paragraphs": [
+          "A perda de músculo acelera após os 50, e a antiga diretriz de 0,8 g/kg é hoje considerada baixa demais para um envelhecimento saudável. Uma ingestão maior, distribuída entre as refeições e combinada com treino de força, protege o músculo que o mantém móvel e independente.",
+          "Como o apetite costuma cair com a idade, foque em alimentos densos em proteína e fáceis de comer como ovos, laticínios, peixe e leguminosas. Atingir 25-30 g por refeição é um jeito prático de manter a síntese proteica ativa."
+        ],
+        "bullets": [
+          "Meta após os 50: 1,2-1,5 g/kg por dia",
+          "A recomendação de 0,8 g/kg é baixa para envelhecer com saúde",
+          "Mire 25-30 g por refeição",
+          "O treino de força preserva força e mobilidade"
+        ]
+      },
+      "protein-for-menopause": {
+        "heading": "Proteína na menopausa: quanto e por quê",
+        "lead": "Durante e após a menopausa, mire cerca de 1,2 a 1,6 g de proteína por kg de peso corporal por dia para proteger músculo e osso à medida que o estrogênio cai. Uma mulher de 68 kg mira cerca de 80 a 110 g por dia.",
+        "paragraphs": [
+          "A queda do estrogênio na menopausa acelera a perda de músculo e de densidade óssea, e mais proteína combinada com treino de força é uma forma-chave de conter ambas. Proteína adequada também apoia a composição corporal num momento em que a gordura tende a se redistribuir.",
+          "Distribua a proteína entre as refeições, mirando 25-30 g cada, e priorize-a no café da manhã, onde a ingestão costuma ser menor. Combine isso com treino de força duas a três vezes por semana e cálcio e vitamina D suficientes para a saúde óssea."
+        ],
+        "bullets": [
+          "Meta: 1,2-1,6 g/kg por dia",
+          "Protege músculo e osso com a queda do estrogênio",
+          "Mire 25-30 g por refeição",
+          "Combine com treino de força e cálcio suficiente"
+        ]
+      },
+      "protein-for-pcos": {
+        "heading": "Proteína e SOP: como ajuda no manejo",
+        "lead": "Uma dieta mais rica em proteína, de cerca de 1,2 a 1,6 g por kg de peso corporal por dia, pode ajudar na SOP melhorando a saciedade e apoiando o controle do açúcar no sangue. Uma mulher de 70 kg mira cerca de 85 a 110 g por dia.",
+        "paragraphs": [
+          "Muitas mulheres com SOP têm resistência à insulina, e refeições mais ricas em proteína atenuam os picos de açúcar e aumentam a saciedade em comparação com as carregadas de carboidrato. Isso pode tornar o manejo do peso, objetivo comum na SOP, mais alcançável.",
+          "Monte as refeições em torno de proteína e fibra, acompanhe os carboidratos com proteína para suavizar o impacto glicêmico e combine a dieta com atividade regular. Isto é orientação nutricional geral, não tratamento médico, então trabalhe com seu profissional em um plano integral."
+        ],
+        "bullets": [
+          "Meta: 1,2-1,6 g/kg por dia",
+          "Mais proteína melhora a saciedade e o controle do açúcar",
+          "Acompanhe os carboidratos com proteína e fibra",
+          "Apenas orientação geral; consulte seu profissional"
+        ]
+      },
+      "protein-for-breastfeeding": {
+        "heading": "Proteína durante a amamentação: necessidades diárias",
+        "lead": "A amamentação aumenta a necessidade de proteína em cerca de 20 a 25 g por dia acima da ingestão normal para apoiar a produção de leite. Muitas mães que amamentam vão bem em torno de 1,3 a 1,5 g de proteína por kg de peso corporal por dia.",
+        "paragraphs": [
+          "Produzir leite materno recorre às suas reservas de proteína, por isso a necessidade é maior que na gravidez e bem acima da base geral. Atingi-la apoia tanto uma produção de leite saudável quanto sua própria recuperação e energia no pós-parto.",
+          "Distribua a proteína por refeições e lanches regulares, o que também ajuda com a fome frequente da amamentação. Foque em fontes densas em nutrientes e hidrate-se bem; isto é orientação geral, então confirme suas necessidades individuais com seu profissional de saúde."
+        ],
+        "bullets": [
+          "Adicione cerca de 20-25 g por dia acima da base",
+          "Muitas mães vão bem em 1,3-1,5 g/kg por dia",
+          "Lanches proteicos frequentes ajudam com a fome",
+          "Orientação geral; confirme suas necessidades com o profissional"
+        ]
+      },
+      "protein-for-postpartum": {
+        "heading": "Proteína no pós-parto: apoiar a recuperação",
+        "lead": "Nas semanas após o parto, uma ingestão de proteína de cerca de 1,2 a 1,6 g por kg de peso corporal por dia apoia o reparo dos tecidos e a recuperação. Se amamenta, adicione cerca de 20 a 25 g por dia para a produção de leite.",
+        "paragraphs": [
+          "O corpo precisa de proteína extra para cicatrizar após o parto, reconstruir tecido e, se amamenta, produzir leite. Uma ingestão adequada também ajuda a preservar músculo em um período exigente de sono interrompido e refeições irregulares.",
+          "Mantenha à mão alimentos fáceis e ricos em proteína, como iogurte, ovos, queijo, oleaginosas e carne já cozida, para comer bem mesmo com pouco tempo. Isto é orientação nutricional geral; seu profissional pode adaptá-la à sua recuperação."
+        ],
+        "bullets": [
+          "Meta de recuperação: 1,2-1,6 g/kg por dia",
+          "Adicione 20-25 g por dia se amamenta",
+          "Mantenha lanches proteicos rápidos ao alcance",
+          "Orientação geral; personalize com seu profissional"
+        ]
+      },
+      "protein-for-kids": {
+        "heading": "Proteína para crianças: de quanto elas precisam?",
+        "lead": "Crianças em idade escolar precisam de cerca de 0,95 g de proteína por kg de peso corporal por dia, o que para uma criança de 30 kg são cerca de 28 g. As necessidades são melhor atendidas por alimentos do dia a dia do que por suplementos.",
+        "paragraphs": [
+          "As crianças precisam de proteína para crescer e para a manutenção, mas a quantidade por quilo é apenas modestamente maior que a dos adultos e é facilmente atendida por uma dieta equilibrada. A maioria das crianças em países desenvolvidos atinge a meta sem esforço especial.",
+          "Ofereça proteína em cada refeição a partir de fontes variadas como leite, ovos, iogurte, leguminosas, frango e peixe. Suplementos e shakes de proteína são geralmente desnecessários para crianças saudáveis; os alimentos integrais fornecem proteína e os demais nutrientes que o crescimento exige."
+        ],
+        "bullets": [
+          "Meta em idade escolar: cerca de 0,95 g/kg por dia",
+          "Uma criança de 30 kg precisa de cerca de 28 g por dia",
+          "Os alimentos integrais cobrem a necessidade com facilidade",
+          "Suplementos são geralmente desnecessários para crianças saudáveis"
+        ]
+      },
+      "protein-for-toddlers": {
+        "heading": "Proteína para bebês e crianças pequenas: um guia simples",
+        "lead": "Crianças de um a três anos precisam de cerca de 1,05 g de proteína por kg de peso corporal por dia, aproximadamente 13 g para uma criança típica de 12 kg. Porções pequenas e frequentes de alimentos conhecidos cobrem isso com facilidade.",
+        "paragraphs": [
+          "As crianças pequenas crescem rápido mas comem pouco, então a proteína é melhor fornecida em pequenas porções ao longo de várias refeições e lanches. Leite e laticínios sozinhos costumam fornecer boa parte da proteína de uma criança pequena, com outros alimentos completando o restante.",
+          "Boas opções incluem iogurte integral, queijo, ovos, leguminosas bem cozidas e carne e peixe finamente picados ou desfiados. Não são necessários suplementos de proteína; uma dieta variada atende à necessidade, e você pode verificar detalhes com o pediatra."
+        ],
+        "bullets": [
+          "Meta de 1 a 3 anos: cerca de 1,05 g/kg por dia",
+          "Aproximadamente 13 g por dia para uma criança de 12 kg",
+          "Os laticínios fornecem boa parte da proteína",
+          "Sem suplementos; pergunte ao pediatra em caso de dúvida"
+        ]
+      },
+      "protein-for-hair-growth": {
+        "heading": "Proteína para o crescimento do cabelo: ajuda?",
+        "lead": "O cabelo é feito em grande parte da proteína queratina, então uma dieta que atinja pelo menos 0,8 a 1,2 g de proteína por kg de peso corporal por dia apoia o crescimento normal do cabelo. A deficiência pode causar afinamento e queda.",
+        "paragraphs": [
+          "Como os folículos capilares estão entre os tecidos metabolicamente mais ativos, são sensíveis à baixa ingestão de proteína, e uma deficiência prolongada pode empurrar os fios para uma fase de queda. Atender às suas necessidades básicas de proteína é, portanto, uma base para cabelos saudáveis.",
+          "No entanto, comer muito além de uma proteína adequada não fará o cabelo crescer mais rápido; a proteína extra só ajuda se você estava com falta antes. Apoie o cabelo com nutrição equilibrada no geral, incluindo ferro, zinco e calorias suficientes, não com proteína em excesso apenas."
+        ],
+        "bullets": [
+          "Atinja pelo menos 0,8-1,2 g/kg por dia",
+          "O cabelo é construído a partir da proteína queratina",
+          "A deficiência pode causar afinamento e queda",
+          "A proteína extra só ajuda se você estava deficiente"
+        ]
+      },
+      "protein-for-skin": {
+        "heading": "Proteína para a saúde da pele e o colágeno",
+        "lead": "Sua pele depende das proteínas colágeno e elastina, então atingir pelo menos 0,8 a 1,2 g de proteína por kg de peso corporal por dia apoia sua estrutura e reparo. Proteína adequada favorece a cicatrização e a resistência da pele.",
+        "paragraphs": [
+          "O colágeno, principal proteína estrutural da pele, é construído a partir de aminoácidos fornecidos pela proteína da dieta. Uma dieta que atende de forma constante às suas necessidades de proteína dá ao corpo a matéria-prima para manter e reparar a pele, especialmente após uma lesão.",
+          "Embora os suplementos de colágeno sejam populares, simplesmente comer proteína total suficiente, junto com vitamina C, necessária para produzir colágeno, cobre o básico. Nenhuma quantidade de proteína extra substitui a proteção solar e os cuidados gerais com a pele."
+        ],
+        "bullets": [
+          "Atinja pelo menos 0,8-1,2 g/kg por dia",
+          "Colágeno e elastina são construídos a partir da proteína da dieta",
+          "A vitamina C é necessária para produzir colágeno",
+          "A proteína apoia o reparo, mas não substitui o cuidado com a pele"
+        ]
+      },
+      "protein-for-wound-healing": {
+        "heading": "Proteína para cicatrização de feridas: quanto para recuperar",
+        "lead": "A cicatrização de feridas aumenta a necessidade de proteína para cerca de 1,25 a 1,5 g por kg de peso corporal por dia, e mais para feridas grandes ou graves. Proteína adequada é essencial para construir tecido novo e combater infecção.",
+        "paragraphs": [
+          "O reparo de feridas é um processo intensivo em proteína: o corpo precisa de aminoácidos para formar tecido novo, vasos sanguíneos e células imunológicas. Ficar aquém retarda a cicatrização e aumenta o risco de complicações, por isso a necessidade sobe durante a recuperação de cirurgia ou lesão.",
+          "Priorize a proteína em cada refeição e considere lanches ricos em proteína se o apetite estiver baixo, pois doença e lesão costumam reduzir a ingestão justo quando a necessidade é máxima. Isto é orientação geral, então siga as recomendações da sua equipe médica para feridas graves."
+        ],
+        "bullets": [
+          "Meta de cicatrização: cerca de 1,25-1,5 g/kg por dia",
+          "Feridas grandes ou graves podem exigir mais",
+          "A proteína constrói tecido e apoia a imunidade",
+          "Orientação geral; siga o conselho da sua equipe médica"
+        ]
+      },
+      "protein-for-sarcopenia": {
+        "heading": "Proteína para a sarcopenia: combatendo a perda de músculo pela idade",
+        "lead": "Para conter a sarcopenia, recomenda-se aos idosos comer 1,2 a 1,5 g de proteína por kg de peso corporal por dia, e até 2,0 g/kg durante doença ou recuperação. Um adulto de 70 kg mira cerca de 85 a 105 g por dia.",
+        "paragraphs": [
+          "A sarcopenia é a perda de massa e força muscular pela idade, e a baixa ingestão de proteína combinada com a inatividade é um motor importante. Comer bem acima da recomendação padrão, junto com exercício de força, é a estratégia nutricional mais eficaz para retardá-la ou revertê-la.",
+          "Como o músculo mais velho responde menos a pequenas quantidades de proteína, mire 25-35 g por refeição para acionar de forma confiável a síntese proteica. Fontes ricas em leucina como laticínios, ovos, carne e peixe são especialmente úteis, junto a treino de força regular."
+        ],
+        "bullets": [
+          "Meta: 1,2-1,5 g/kg por dia, até 2,0 durante doença",
+          "Mire 25-35 g por refeição",
+          "Alimentos ricos em leucina ajudam o músculo mais velho",
+          "O treino de força é essencial para reconstruir a força"
+        ]
+      },
+      "whey-vs-plant-protein": {
+        "heading": "Proteína whey vs vegetal: qual é melhor?",
+        "lead": "Tanto o whey quanto as proteínas vegetais podem construir músculo, mas o whey é uma proteína completa com mais leucina, enquanto as fontes vegetais costumam precisar de combinação. Mire um pouco mais de proteína vegetal, cerca de 1,7 a 2,3 g por kg por dia, para igualar o efeito do whey.",
+        "paragraphs": [
+          "O whey digere rápido e é rico em leucina, o aminoácido que aciona a síntese proteica, o que o torna muito eficaz por grama. A maioria das proteínas vegetais isoladas é mais baixa em um ou mais aminoácidos essenciais, então misturas como ervilha mais arroz, ou simplesmente comer variado, fecham a lacuna.",
+          "Em uma dieta vegetal, uma ingestão total um pouco maior e uma mistura de fontes entregam os mesmos resultados de músculo. Escolha conforme sua dieta, digestão e preferência; ambas funcionam quando sua meta total de proteína é atingida."
+        ],
+        "bullets": [
+          "O whey é completo e rico em leucina",
+          "Combine fontes vegetais como ervilha e arroz para aminoácidos completos",
+          "Dietas vegetais: mire um pouco mais alto, 1,7-2,3 g/kg",
+          "Ambas constroem músculo quando a proteína total é adequada"
+        ]
+      },
+      "protein-grams-per-pound": {
+        "heading": "Gramas de proteína por libra de peso corporal",
+        "lead": "Uma diretriz comum para ganhar músculo é 0,7 a 1,0 g de proteína por libra de peso corporal por dia, o que equivale a cerca de 1,6 a 2,2 g por kg. Para uma pessoa de 175 lb (79 kg), são cerca de 125 a 175 g de proteína por dia.",
+        "paragraphs": [
+          "A regra de um grama por libra é popular por ser fácil de lembrar, e fica perto do topo da faixa baseada em evidências para construir músculo. Na verdade, qualquer valor entre 0,7 e 1,0 g por libra funciona bem para a maioria.",
+          "Se você tem mais gordura corporal, basear o número no peso-alvo ou magro evita exagerar. Converta conforme sua preferência, já que 1 g por libra é cerca de 2,2 g por kg, e use uma calculadora para personalizar o número."
+        ],
+        "bullets": [
+          "Faixa de ganho de músculo: 0,7-1,0 g por libra por dia",
+          "Equivale a cerca de 1,6-2,2 g por kg",
+          "1 g por libra é cerca de 2,2 g por kg",
+          "Use o peso-alvo ou magro se a gordura corporal for alta"
+        ]
+      },
+      "how-much-protein-to-build-muscle": {
+        "heading": "Quanta proteína para ganhar músculo?",
+        "lead": "Para ganhar músculo, a pesquisa aponta para 1,6 a 2,2 g de proteína por kg de peso corporal por dia, combinados com treino de resistência progressivo. Para uma pessoa de 80 kg, são cerca de 130 a 175 g de proteína por dia.",
+        "paragraphs": [
+          "Um amplo corpo de pesquisa converge em torno de 1,6 g/kg como o ponto onde a proteína extra deixa de adicionar muito músculo, com um teto prático perto de 2,2 g/kg. Comer mais não é prejudicial para pessoas saudáveis, mas raramente acelera mais os ganhos.",
+          "A proteína é apenas metade da equação: sem treino de resistência progressivo, a proteína extra não constrói músculo sozinha. Distribua a ingestão em três ou quatro refeições, mantenha o treino consistente e coma calorias totais suficientes para apoiar o crescimento."
+        ],
+        "bullets": [
+          "Faixa de ganho de músculo: 1,6-2,2 g/kg por dia",
+          "Os ganhos estagnam acima de cerca de 2,2 g/kg",
+          "O treino de resistência progressivo é essencial",
+          "Distribua a proteína em 3-4 refeições"
+        ]
+      },
+      "how-much-protein-per-day": {
+        "heading": "Quanta proteína por dia você precisa?",
+        "lead": "As necessidades diárias de proteína vão de 0,8 g por kg para adultos sedentários a 1,6-2,2 g/kg para quem ganha músculo. Para uma pessoa de 70 kg, isso vai de cerca de 56 g a 155 g conforme a atividade e os objetivos.",
+        "paragraphs": [
+          "A recomendação de 0,8 g/kg é apenas a quantidade para evitar deficiência em pessoas inativas, não a de saúde ou desempenho ideais. A maioria dos adultos ativos vai melhor com 1,2-2,0 g/kg, com o número exato definido pelo treino, pela idade e por ganhar ou perder peso.",
+          "Use seu peso corporal, nível de atividade e objetivo para achar seu número pessoal em vez de um valor único para todos. Distribuir esse total em três ou quatro refeições ricas em proteína o torna eficaz e fácil de atingir."
+        ],
+        "bullets": [
+          "Mínimo sedentário: 0,8 g/kg por dia",
+          "Adultos ativos: 1,2-2,0 g/kg por dia",
+          "Ganho de músculo: 1,6-2,2 g/kg por dia",
+          "Personalize por peso, atividade e objetivo"
+        ]
+      },
+      "protein-for-two-meals-a-day": {
+        "heading": "Atingir sua meta de proteína com duas refeições por dia",
+        "lead": "Se você come apenas duas vezes ao dia, ainda pode atingir 1,6-2,2 g por kg para ganhar músculo com doses maiores de 50-70 g por refeição. Uma pessoa de 75 kg mira cerca de 120 a 165 g divididos entre as duas.",
+        "paragraphs": [
+          "Menos refeições significa que cada uma deve carregar mais proteína, e a boa notícia é que doses únicas grandes são bem aproveitadas quando as refeições são espaçadas. Duas doses substanciais de proteína podem atingir sua meta diária desde que o total esteja certo.",
+          "Monte cada refeição em torno de uma grande fonte de proteína mais vegetais e carboidratos e gorduras de qualidade. Se uma única dose de 50-70 g for difícil de comer, um lanche ou shake rico em proteína entre as refeições é um jeito fácil de compensar a diferença."
+        ],
+        "bullets": [
+          "Mire 50-70 g de proteína por refeição",
+          "Doses maiores são bem aproveitadas com refeições espaçadas",
+          "A proteína total diária é o que mais importa",
+          "Adicione um shake se uma dose grande única for difícil"
+        ]
+      },
+      "protein-for-office-workers": {
+        "heading": "Proteína para trabalho de escritório e empregos sedentários",
+        "lead": "Se você tem um trabalho de escritório sedentário, mire pelo menos 1,0 a 1,4 g de proteína por kg de peso corporal por dia, mais que o mínimo, para preservar músculo e controlar o apetite. Um trabalhador de 75 kg mira cerca de 75 a 105 g por dia.",
+        "paragraphs": [
+          "Um trabalho de escritório significa pouco movimento diário, o que facilita perder músculo ao longo dos anos e exagerar em lanches densos em calorias. Uma ingestão de proteína um pouco maior ajuda a conter ambos, apoiando o músculo e mantendo você mais saciado entre as refeições.",
+          "Planeje refeições ricas em proteína e lanches adequados à mesa como iogurte grego, oleaginosas, ovos cozidos ou edamame para evitar a armadilha da máquina no meio da tarde. Adicionar qualquer treino de força fora do horário de trabalho torna essa proteína bem mais útil."
+        ],
+        "bullets": [
+          "Meta sedentária: 1,0-1,4 g/kg por dia",
+          "Mais proteína contém os lanches e preserva músculo",
+          "Mantenha lanches proteicos adequados à mesa ao alcance",
+          "Adicione treino de força fora do horário de trabalho"
+        ]
+      },
+      "protein-for-hiking": {
+        "heading": "Proteína para trilhas e trekking",
+        "lead": "Para trilhas longas e travessias de vários dias, a necessidade de proteína sobe para cerca de 1,2 a 1,6 g por kg de peso corporal por dia para reparar o músculo e lidar com a carga. Um trilheiro de 70 kg mira cerca de 85 a 110 g por dia nos dias grandes.",
+        "paragraphs": [
+          "Horas de caminhada, sobretudo com mochila e em terreno acidentado, degradam músculo e aumentam a renovação geral de proteína. Em travessias de vários dias, um aporte cronicamente baixo de proteína deixa você mais fraco e mais lento para recuperar de um dia para o outro.",
+          "Leve proteína leve e de longa duração como carne seca, oleaginosas, queijo, sachês de atum e barras de proteína, e coma um pouco ao fim de cada dia. Equilibre a proteína com bastante carboidrato, que continua sendo sua principal fonte de energia em movimento."
+        ],
+        "bullets": [
+          "Meta em dia grande: 1,2-1,6 g/kg por dia",
+          "Travessias de vários dias aumentam a necessidade",
+          "Leve carne seca, oleaginosas, queijo e sachês de atum",
+          "Mantenha os carboidratos altos para energia na trilha"
+        ]
+      },
+      "protein-for-soccer-players": {
+        "heading": "Proteína para jogadores de futebol: necessidades diárias",
+        "lead": "Os jogadores de futebol precisam de cerca de 1,4 a 1,8 g de proteína por kg de peso corporal por dia para apoiar os sprints, a recuperação e o reparo muscular num calendário cheio. Um jogador de 72 kg mira cerca de 100 a 130 g por dia.",
+        "paragraphs": [
+          "O futebol combina corrida de resistência com sprints, saltos e disputas repetidas, criando demandas aeróbicas e musculares. Essa mistura coloca a necessidade de proteína acima do esporte de resistência puro, sobretudo em períodos de jogos aglomerados com pouco tempo de recuperação.",
+          "Reponha após os jogos e sessões duras com carboidratos e 25-35 g de proteína para reabastecer o glicogênio e iniciar o reparo. Distribua o restante da proteína pelas refeições para apoiar a recuperação diária ao longo da temporada."
+        ],
+        "bullets": [
+          "Meta diária: 1,4-1,8 g/kg por dia",
+          "Sprints e disputas somam-se às demandas de resistência",
+          "Pós-jogo: carboidratos e 25-35 g de proteína",
+          "Distribua o restante pelas refeições diárias"
+        ]
+      },
+      "protein-for-basketball-players": {
+        "heading": "Proteína para jogadores de basquete: quanto comer",
+        "lead": "Os jogadores de basquete precisam de cerca de 1,4 a 1,9 g de proteína por kg de peso corporal por dia para alimentar saltos, sprints e contato enquanto apoiam a recuperação. Um jogador de 85 kg mira cerca de 120 a 160 g por dia.",
+        "paragraphs": [
+          "Os saltos explosivos, as mudanças de direção e o contato físico do basquete criam dano muscular significativo além do volume de corrida. Mais proteína apoia o reparo desse dano e ajuda a manter músculo magro e potente ao longo de uma temporada longa.",
+          "Priorize uma refeição com proteína e carboidratos após jogos e treinos, e mantenha a proteína uniforme durante o dia para lidar com jogos seguidos. As fontes de alimentos integrais devem liderar, com um shake como opção prática quando o calendário aperta."
+        ],
+        "bullets": [
+          "Meta diária: 1,4-1,9 g/kg por dia",
+          "O jogo explosivo soma demandas de reparo muscular",
+          "Reponha com proteína e carboidratos após os jogos",
+          "Mantenha a ingestão uniforme num calendário cheio"
+        ]
+      },
+      "protein-for-gym-beginners": {
+        "heading": "Proteína para iniciantes na academia: por onde começar",
+        "lead": "Novos frequentadores da academia devem mirar cerca de 1,4 a 1,8 g de proteína por kg de peso corporal por dia para apoiar seus primeiros ganhos sem complicar. Um iniciante de 70 kg mira cerca de 100 a 125 g por dia.",
+        "paragraphs": [
+          "Nos seus primeiros meses de treino, o músculo é ganho com facilidade, então uma ingestão de proteína moderada e constante basta para ver progresso claro. Não são necessárias combinações complexas de suplementos; uma meta diária sólida de comida de verdade cumpre o papel.",
+          "Adquira o hábito de montar cada refeição em torno de uma fonte de proteína e, se for prático, tomar um shake após o treino. À medida que fica mais forte e treina mais pesado, você pode empurrar a ingestão para a faixa de ganho de músculo de 1,6-2,2 g/kg."
+        ],
+        "bullets": [
+          "Meta de iniciante: 1,4-1,8 g/kg por dia",
+          "Os primeiros ganhos vêm fácil com proteína constante",
+          "Monte cada refeição em torno de uma fonte de proteína",
+          "Avance para 1,6-2,2 g/kg conforme progride"
+        ]
       }
     }
   },

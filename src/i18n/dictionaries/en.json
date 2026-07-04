@@ -529,6 +529,706 @@
           "Hair shedding, brittle nails and slow-healing skin",
           "Frequent minor illnesses and sluggish recovery from training"
         ]
+      },
+      "protein-for-athletes": {
+        "heading": "Protein Intake for Athletes: How Much Per Day?",
+        "lead": "Most competitive athletes need 1.4-2.0 g of protein per kg of body weight each day, well above the 0.8 g/kg baseline for sedentary adults. For a 75 kg (165 lb) athlete that is roughly 105-150 g per day, adjusted for training load and sport.",
+        "paragraphs": [
+          "Athletes break down and rebuild muscle protein faster than untrained people, so their daily requirement is higher and more sensitive to timing. Strength and power athletes sit at the top of the range (1.6-2.0 g/kg), while endurance athletes need slightly less (1.2-1.6 g/kg) but still far more than the general population.",
+          "Total daily intake matters most, but distribution helps: aim for 0.3-0.4 g/kg at each of three to four meals, and include a protein-rich meal within a couple of hours of hard training. Whole foods should form the base, with shakes used only to fill gaps on heavy training days or when travelling to competition."
+        ],
+        "bullets": [
+          "Strength and power sports: 1.6-2.0 g/kg per day",
+          "Endurance sports: 1.2-1.6 g/kg per day",
+          "Split intake across 3-4 meals of 0.3-0.4 g/kg each",
+          "Eat protein plus carbs within 2 hours of hard sessions"
+        ]
+      },
+      "protein-for-runners": {
+        "heading": "Protein for Runners: Daily Needs and Timing",
+        "lead": "Runners need about 1.2-1.6 g of protein per kg of body weight per day, more than non-runners but less than strength athletes. A 65 kg (143 lb) runner therefore targets roughly 80-105 g of protein daily to repair muscle and support recovery.",
+        "paragraphs": [
+          "Running is often thought of as a carbohydrate sport, but the repeated impact damages muscle fibres that protein rebuilds. Higher-mileage and marathon runners sit at the top of the range because chronic training and calorie deficits can otherwise erode lean mass and slow recovery.",
+          "Pair protein with carbohydrate after long or hard runs to refuel glycogen and start repair at the same time. A 3:1 or 4:1 carb-to-protein ratio in the first hour works well, and spreading the rest of your protein evenly across the day supports overnight recovery."
+        ],
+        "bullets": [
+          "General target: 1.2-1.6 g/kg per day",
+          "High-mileage weeks: move toward the upper end",
+          "Post-run: carbs plus 20-30 g protein within an hour",
+          "Do not cut protein when dieting for race weight"
+        ]
+      },
+      "protein-for-bodybuilding": {
+        "heading": "Protein for Bodybuilding: How Much to Build Mass",
+        "lead": "Bodybuilders typically eat 1.6-2.2 g of protein per kg of body weight per day, and up to 2.4 g/kg when cutting for a show. For a 90 kg (198 lb) bodybuilder that is around 145-200 g of protein per day.",
+        "paragraphs": [
+          "Muscle protein synthesis is maximised by both adequate total protein and a resistance-training stimulus. Going far beyond 2.2 g/kg rarely adds muscle faster, but a slightly higher intake during a cut helps protect hard-earned mass while calories are low.",
+          "Distribution is a genuine lever for bodybuilders: four to five meals of 30-50 g each keep muscle protein synthesis elevated throughout the day. Anchor most meals around lean meat, fish, eggs and dairy, and use whey or a plant blend around training to hit your numbers."
+        ],
+        "bullets": [
+          "Off-season growth: 1.6-2.2 g/kg per day",
+          "Contest prep or cut: up to 2.4 g/kg to spare muscle",
+          "4-5 meals of 30-50 g spread across the day",
+          "Progressive resistance training is required to use the protein"
+        ]
+      },
+      "protein-for-endurance": {
+        "heading": "Protein for Endurance Athletes: Daily Requirements",
+        "lead": "Endurance athletes need roughly 1.2-1.6 g of protein per kg of body weight per day to repair muscle and support adaptation. For a 70 kg (154 lb) athlete that is about 85-110 g per day, scaled up during heavy training blocks.",
+        "paragraphs": [
+          "Long training sessions increase protein oxidation and connective-tissue turnover, so endurance athletes need more than the sedentary baseline even though their focus is fuel. Chronic under-eating of protein during high-volume phases is a common cause of stalled adaptation and nagging injuries.",
+          "Because sessions are long, protein around training matters: a small dose during ultra-long efforts and a full meal afterward both help. Keep carbohydrate high to spare protein for repair rather than energy, and distribute protein evenly across meals."
+        ],
+        "bullets": [
+          "Daily target: 1.2-1.6 g/kg",
+          "Raise intake during high-volume or altitude blocks",
+          "Keep carbs high so protein is used for repair",
+          "Include 20-30 g protein in your post-session meal"
+        ]
+      },
+      "protein-for-cyclists": {
+        "heading": "Protein for Cyclists: How Much Do You Need?",
+        "lead": "Cyclists generally need 1.2-1.7 g of protein per kg of body weight per day, with the higher end suiting those doing intense interval or hill training. A 70 kg (154 lb) cyclist targets roughly 85-120 g per day.",
+        "paragraphs": [
+          "Cycling is low-impact but high-volume, and repeated hard efforts still damage muscle that protein rebuilds. Riders who train twice a day, race stage events, or restrict calories to hit a power-to-weight target need protein at the upper end to protect lean mass.",
+          "Fuel long rides mainly with carbohydrate, then combine carbs and protein immediately after to refill glycogen and begin recovery. On big back-to-back training days, a protein feed before bed can further support overnight repair."
+        ],
+        "bullets": [
+          "Daily target: 1.2-1.7 g/kg",
+          "Twice-a-day or stage racing: aim higher",
+          "Refuel with carbs plus 20-30 g protein after long rides",
+          "Guard lean mass when chasing power-to-weight"
+        ]
+      },
+      "protein-for-swimmers": {
+        "heading": "Protein for Swimmers: Fuel and Recovery Needs",
+        "lead": "Competitive swimmers need around 1.4-2.0 g of protein per kg of body weight per day because they combine high training volume with significant upper-body strength work. A 68 kg (150 lb) swimmer targets roughly 95-135 g daily.",
+        "paragraphs": [
+          "Swimming builds and taxes large amounts of muscle across the whole body, and multiple pool sessions per day raise the daily requirement toward the strength-athlete range. Adequate protein supports both the endurance and the power components of the sport.",
+          "Because sessions often start early and finish late, plan protein-rich meals and snacks around the pool schedule. A shake right after a demanding set, followed by a full meal, keeps recovery on track between sessions."
+        ],
+        "bullets": [
+          "Daily target: 1.4-2.0 g/kg",
+          "Two-a-day training pushes needs to the top of the range",
+          "Have a protein snack ready poolside after hard sets",
+          "Spread intake across meals and post-session shakes"
+        ]
+      },
+      "protein-for-crossfit": {
+        "heading": "Protein for CrossFit: How Much to Recover and Grow",
+        "lead": "CrossFit athletes typically need 1.6-2.2 g of protein per kg of body weight per day because the sport blends strength, power and metabolic conditioning. For an 80 kg (176 lb) athlete that is about 130-175 g per day.",
+        "paragraphs": [
+          "High-intensity functional training creates a large repair demand, so CrossFit sits in the same protein range as dedicated strength training. Athletes chasing both a lean physique and better performance benefit from the upper end, especially while dieting.",
+          "Practical timing helps you handle daily WODs: a protein-and-carb meal within a couple of hours of training, plus even distribution across three or four meals, keeps recovery high. Whole foods first, with a shake to top up on double-session days."
+        ],
+        "bullets": [
+          "Daily target: 1.6-2.2 g/kg",
+          "Lean-out phases: move toward the top of the range",
+          "Refuel with protein and carbs after each WOD",
+          "Spread protein across 3-4 meals for steady recovery"
+        ]
+      },
+      "protein-for-strength-training": {
+        "heading": "Protein for Strength Training: Optimal Daily Intake",
+        "lead": "For strength training, aim for 1.6-2.2 g of protein per kg of body weight per day, the range most consistently linked to gains in muscle and strength. An 85 kg (187 lb) lifter therefore targets roughly 135-190 g per day.",
+        "paragraphs": [
+          "Lifting weights is the signal that tells your body to build muscle; protein supplies the raw material. Meeting the 1.6-2.2 g/kg range while training progressively is what drives the adaptation, and pushing intake much higher yields diminishing returns.",
+          "Spread protein across three or four meals of 30-45 g so muscle protein synthesis stays elevated between sessions. Rest, adequate calories and consistent training matter just as much as hitting your daily protein target."
+        ],
+        "bullets": [
+          "Daily target: 1.6-2.2 g/kg",
+          "30-45 g per meal across 3-4 meals",
+          "Train progressively to actually use the protein",
+          "Do not neglect total calories, sleep and recovery"
+        ]
+      },
+      "protein-for-calisthenics": {
+        "heading": "Protein for Calisthenics: Building Muscle With Bodyweight",
+        "lead": "Calisthenics athletes need the same 1.6-2.2 g of protein per kg of body weight per day as weight trainers to build muscle, because bodyweight training is still resistance training. A 72 kg (159 lb) athlete targets roughly 115-160 g per day.",
+        "paragraphs": [
+          "Progress in calisthenics comes from making bodyweight movements harder over time, which stimulates muscle growth just like added weight does. That means your protein requirement is set by the training stimulus, not the equipment, so the strength-training range applies.",
+          "Because staying relatively lean helps with skills like pull-ups and levers, many calisthenics athletes train near maintenance calories. In that case, keeping protein at the upper end protects muscle while body fat stays low."
+        ],
+        "bullets": [
+          "Daily target: 1.6-2.2 g/kg",
+          "Bodyweight progressions count as resistance training",
+          "Stay lean for skills while keeping protein high",
+          "Distribute across 3-4 meals of 30-45 g"
+        ]
+      },
+      "protein-for-marathon-training": {
+        "heading": "Protein for Marathon Training: How Much and When",
+        "lead": "During marathon training, protein needs rise to about 1.4-1.7 g per kg of body weight per day to handle high mileage without losing muscle. A 65 kg (143 lb) runner targets roughly 90-110 g per day through peak training weeks.",
+        "paragraphs": [
+          "The volume of a marathon build damages muscle and connective tissue week after week, and many runners inadvertently under-eat protein while focusing on carbohydrate. Meeting the higher end during peak weeks protects lean mass, supports the immune system and speeds recovery between long runs.",
+          "Refuel after long runs with both carbohydrate and 20-30 g of protein, then keep protein even across the rest of the day. In the taper, you can ease back toward 1.2-1.4 g/kg as training volume drops."
+        ],
+        "bullets": [
+          "Peak training: 1.4-1.7 g/kg per day",
+          "Taper weeks: ease toward 1.2-1.4 g/kg",
+          "Long-run recovery: carbs plus 20-30 g protein",
+          "Spread the rest evenly across daily meals"
+        ]
+      },
+      "protein-for-cutting": {
+        "heading": "Protein for Cutting: Preserve Muscle While Losing Fat",
+        "lead": "When cutting, higher protein of 1.8-2.7 g per kg of body weight per day protects muscle in a calorie deficit. A leaner 80 kg (176 lb) lifter often targets around 160-190 g per day while dieting down.",
+        "paragraphs": [
+          "In a calorie deficit the body is more likely to break down muscle for energy, and a high protein intake is the single most effective dietary defence against that. The leaner and more experienced you are, the closer to the top of the range you should aim.",
+          "Protein also keeps you fuller on fewer calories, which makes the diet easier to sustain. Combine your high-protein intake with resistance training to send the signal that muscle should be kept while fat is lost."
+        ],
+        "bullets": [
+          "Deficit target: 1.8-2.7 g/kg per day",
+          "Leaner or advanced dieters: aim higher in the range",
+          "High protein improves fullness on fewer calories",
+          "Keep lifting to signal muscle retention"
+        ]
+      },
+      "protein-for-bulking": {
+        "heading": "Protein for Bulking: How Much to Gain Muscle",
+        "lead": "For a muscle-building bulk, 1.6-2.2 g of protein per kg of body weight per day is plenty when paired with a calorie surplus. A 78 kg (172 lb) lifter targets roughly 125-170 g per day while eating to grow.",
+        "paragraphs": [
+          "A bulk works because a calorie surplus plus training drives growth; protein supplies the building blocks but you do not need to eat excessive amounts of it. Once you meet 1.6-2.2 g/kg, extra calories are better spent on carbohydrate and fat to fuel training and recovery.",
+          "Keep the surplus moderate, roughly 250-500 calories above maintenance, so you gain mostly muscle rather than fat. Distribute protein across meals and keep training progressive to turn those extra calories into lean tissue."
+        ],
+        "bullets": [
+          "Bulking target: 1.6-2.2 g/kg per day",
+          "Use a moderate surplus of 250-500 kcal",
+          "Extra calories beyond protein come from carbs and fat",
+          "Progressive training turns the surplus into muscle"
+        ]
+      },
+      "protein-for-body-recomposition": {
+        "heading": "Protein for Body Recomposition: Build Muscle, Lose Fat",
+        "lead": "Body recomposition works best with high protein of 1.8-2.4 g per kg of body weight per day while training near maintenance calories. A 75 kg (165 lb) person targets roughly 135-180 g per day to gain muscle and lose fat at once.",
+        "paragraphs": [
+          "Recomposition, gaining muscle and losing fat simultaneously, is most achievable for beginners, those returning from a break, and anyone with higher body fat. A high protein intake is the common thread across every successful recomp because it supports muscle growth even without a calorie surplus.",
+          "Eat around maintenance calories, keep protein high, and train with progressive resistance two to four times a week. Progress is slower than a dedicated bulk or cut, so track strength and measurements rather than scale weight alone."
+        ],
+        "bullets": [
+          "Recomp target: 1.8-2.4 g/kg per day",
+          "Eat near maintenance calories, not a big surplus or deficit",
+          "Best results for beginners and higher body fat",
+          "Judge progress by strength and measurements, not scale weight"
+        ]
+      },
+      "protein-for-lean-bulk": {
+        "heading": "Protein for a Lean Bulk: Gain Muscle, Minimise Fat",
+        "lead": "A lean bulk uses 1.6-2.2 g of protein per kg of body weight per day alongside a small calorie surplus to add muscle with little fat. A 76 kg (168 lb) lifter targets roughly 120-165 g of protein per day.",
+        "paragraphs": [
+          "The point of a lean bulk is a slow, controlled gain, so the surplus is kept small, about 200-350 calories above maintenance. Protein needs are the same as any muscle-building phase, but the tighter calorie control is what keeps the added weight mostly muscle.",
+          "Aim for roughly 0.25-0.5 kg of gain per month and adjust calories if the scale moves too fast. Consistent protein, progressive training and patience are what separate a lean bulk from a sloppy one."
+        ],
+        "bullets": [
+          "Protein target: 1.6-2.2 g/kg per day",
+          "Keep the surplus small, about 200-350 kcal",
+          "Aim for 0.25-0.5 kg gained per month",
+          "Adjust calories if weight climbs too quickly"
+        ]
+      },
+      "protein-for-fat-loss": {
+        "heading": "Protein for Fat Loss: Daily Intake That Works",
+        "lead": "For fat loss, aim for 1.6-2.4 g of protein per kg of body weight per day to protect muscle and control hunger. A 80 kg (176 lb) person targets roughly 130-190 g per day while in a calorie deficit.",
+        "paragraphs": [
+          "Protein is the most important macronutrient during fat loss for two reasons: it preserves muscle in a deficit and it is the most filling macronutrient per calorie. Together these make the diet more effective and far easier to stick to.",
+          "Base each meal around a protein source, add plenty of vegetables for volume, and let carbohydrate and fat fill the remaining calories. Keeping some resistance training in your week tells the body to hold onto muscle while fat comes off."
+        ],
+        "bullets": [
+          "Deficit target: 1.6-2.4 g/kg per day",
+          "Protein is the most filling macronutrient per calorie",
+          "Build every meal around a protein source",
+          "Keep lifting to preserve muscle during the diet"
+        ]
+      },
+      "protein-for-maintaining-muscle": {
+        "heading": "Protein for Maintaining Muscle Mass",
+        "lead": "To maintain existing muscle, 1.2-1.6 g of protein per kg of body weight per day is usually enough, more than the 0.8 g/kg minimum but less than a building phase. A 75 kg (165 lb) person targets roughly 90-120 g per day.",
+        "paragraphs": [
+          "Holding onto muscle takes less protein than building it, but noticeably more than the basic RDA, which was set only to prevent deficiency. This matters during maintenance phases, busy periods, or breaks from hard training when growth is not the goal.",
+          "Keep at least some resistance or loading stimulus in your week, even if reduced, so the muscle you have has a reason to stay. Even distribution across meals helps hold muscle protein synthesis steady day to day."
+        ],
+        "bullets": [
+          "Maintenance target: 1.2-1.6 g/kg per day",
+          "Well above the 0.8 g/kg minimum RDA",
+          "Keep some training stimulus to retain muscle",
+          "Distribute protein evenly across meals"
+        ]
+      },
+      "protein-for-beginners": {
+        "heading": "Protein for Beginners: A Simple Starting Guide",
+        "lead": "If you are new to training, aim for about 1.4-1.8 g of protein per kg of body weight per day, a realistic target that supports early muscle gains. A 70 kg (154 lb) beginner targets roughly 100-125 g per day.",
+        "paragraphs": [
+          "Beginners actually build muscle very efficiently, so you do not need an extreme intake to see results. Hitting a moderate, consistent protein target matters far more in the first months than chasing the absolute top of the range.",
+          "Start by adding a protein source to every meal, such as eggs at breakfast, chicken or beans at lunch, and fish or tofu at dinner. Build the habit first, then fine-tune amounts as your training and appetite grow."
+        ],
+        "bullets": [
+          "Beginner target: 1.4-1.8 g/kg per day",
+          "Beginners gain muscle efficiently without extreme intake",
+          "Add a protein source to every meal",
+          "Consistency beats precision in the early months"
+        ]
+      },
+      "protein-for-home-workouts": {
+        "heading": "Protein for Home Workouts: How Much You Need",
+        "lead": "Training at home still requires 1.4-2.0 g of protein per kg of body weight per day if you want to build or keep muscle. A 70 kg (154 lb) person targets roughly 100-140 g per day depending on how hard they train.",
+        "paragraphs": [
+          "Your muscles cannot tell the difference between a gym and a living room; what matters is that the training is challenging and progressive. Bands, dumbbells, or bodyweight progressions all create a repair demand that the same protein range supports.",
+          "You do not need special supplements to train at home. Everyday foods such as eggs, Greek yoghurt, lentils, chicken and canned fish easily cover the target, with a shake as an optional convenience."
+        ],
+        "bullets": [
+          "Daily target: 1.4-2.0 g/kg depending on intensity",
+          "Progressive home training drives the same needs as the gym",
+          "Everyday foods cover the target without supplements",
+          "Bands, dumbbells and bodyweight all count"
+        ]
+      },
+      "protein-per-meal": {
+        "heading": "How Much Protein Per Meal to Build Muscle?",
+        "lead": "To maximise muscle protein synthesis, aim for about 0.4 g of protein per kg of body weight per meal, roughly 25-40 g for most adults. Spreading intake across three to four such meals is more effective than one or two large ones.",
+        "paragraphs": [
+          "Each protein-rich meal triggers a burst of muscle protein synthesis that lasts a few hours, and there is a practical ceiling to how much a single meal stimulates it. That is why spreading protein across the day generally beats loading it all into dinner.",
+          "Around 25-40 g of quality protein per meal, containing roughly 2.5-3 g of leucine, is enough to hit that ceiling for most people. Larger or very muscular individuals may need the upper end, and a pre-sleep meal can add a useful fourth feeding."
+        ],
+        "bullets": [
+          "Aim for about 0.4 g/kg per meal (25-40 g for most adults)",
+          "Target 3-4 protein feedings per day",
+          "Each meal needs roughly 2.5-3 g of leucine",
+          "Spreading protein beats one large dose"
+        ]
+      },
+      "protein-before-bed": {
+        "heading": "Protein Before Bed: Does It Help Muscle Growth?",
+        "lead": "Eating 30-40 g of slow-digesting protein before bed can support overnight muscle repair and recovery. Casein, found in dairy, is ideal because it releases amino acids gradually through the night.",
+        "paragraphs": [
+          "During sleep your body continues to repair muscle, and a pre-bed protein feed provides amino acids for that process across the whole night. Research shows a 30-40 g casein dose before sleep can raise overnight muscle protein synthesis, especially after evening training.",
+          "This is most useful if your daytime protein has been low or you train in the evening. Good options include Greek yoghurt, cottage cheese, milk, or a casein shake, ideally as part of a normal evening routine rather than an extra large meal."
+        ],
+        "bullets": [
+          "Pre-sleep dose: 30-40 g of slow protein",
+          "Casein from dairy digests slowly overnight",
+          "Most useful after evening training or low daytime intake",
+          "Greek yoghurt, cottage cheese or milk all work"
+        ]
+      },
+      "protein-after-workout": {
+        "heading": "Protein After a Workout: How Much and How Soon?",
+        "lead": "A post-workout meal of about 20-40 g of protein supports muscle repair, and the timing window is wider than once believed. Getting quality protein within a couple of hours of training is the practical goal for most people.",
+        "paragraphs": [
+          "The idea of a narrow anabolic window has been overstated; what matters most is your total daily protein and getting a solid dose sometime around training. For most people, 20-40 g of protein after a session covers the repair demand comfortably.",
+          "If you trained fasted or have not eaten for several hours, a post-workout feed becomes more important and sooner is better. Otherwise, a normal protein-rich meal within a couple of hours of finishing does the job."
+        ],
+        "bullets": [
+          "Post-workout dose: 20-40 g of protein",
+          "The anabolic window is hours, not minutes",
+          "Fasted training makes a prompt feed more important",
+          "Total daily protein still matters most"
+        ]
+      },
+      "protein-before-workout": {
+        "heading": "Protein Before a Workout: Is It Worth It?",
+        "lead": "A pre-workout meal with 20-30 g of protein two to three hours before training can improve recovery and reduce muscle breakdown. If you train fasted, a protein feed soon afterward becomes more important.",
+        "paragraphs": [
+          "Eating protein before training keeps amino acids available in the bloodstream during and after your session, which supports repair. A mixed meal two to three hours out is ideal, but even a smaller protein snack closer to training helps if a full meal is not practical.",
+          "Pre-workout protein and post-workout protein are somewhat interchangeable, so you do not need both to be large. What matters is that you get quality protein reasonably close to the training session, on either side."
+        ],
+        "bullets": [
+          "Pre-workout dose: 20-30 g, 2-3 hours before",
+          "Keeps amino acids available during training",
+          "A smaller snack works if a full meal is not practical",
+          "Fasted training raises the value of eating soon after"
+        ]
+      },
+      "protein-for-breakfast": {
+        "heading": "How Much Protein at Breakfast? A Practical Guide",
+        "lead": "Aim for at least 25-30 g of protein at breakfast to kick-start muscle protein synthesis and curb appetite through the morning. Most typical breakfasts fall well short of this without a conscious effort.",
+        "paragraphs": [
+          "Many people eat most of their protein at dinner and very little at breakfast, which wastes an opportunity to stimulate muscle protein synthesis earlier in the day. Front-loading more protein into breakfast helps balance intake and improves fullness.",
+          "Reaching 25-30 g is easy with a few swaps: eggs, Greek yoghurt, cottage cheese, milk, or a scoop of whey in oats or a smoothie. A higher-protein breakfast also tends to reduce mid-morning snacking."
+        ],
+        "bullets": [
+          "Breakfast target: at least 25-30 g of protein",
+          "Balances a day that is usually dinner-heavy",
+          "Eggs, Greek yoghurt or whey make it easy",
+          "Higher-protein breakfasts reduce mid-morning snacking"
+        ]
+      },
+      "protein-for-recovery": {
+        "heading": "Protein for Muscle Recovery: How Much to Repair",
+        "lead": "To recover well from hard training, most active people need 1.6-2.2 g of protein per kg of body weight per day, spread evenly across meals. A 75 kg (165 lb) person targets roughly 120-165 g per day.",
+        "paragraphs": [
+          "Recovery is when adaptation actually happens, and protein supplies the amino acids that rebuild damaged muscle. Meeting a higher daily target and distributing it across meals keeps repair steady, while chronically low intake leaves you sore and under-recovered.",
+          "Combine adequate protein with enough total calories, carbohydrate to refill glycogen, and quality sleep. Protein alone cannot fix recovery if you are under-eating overall or short on rest."
+        ],
+        "bullets": [
+          "Recovery target: 1.6-2.2 g/kg per day",
+          "Distribute evenly across 3-4 meals",
+          "Refill glycogen with carbohydrate too",
+          "Sleep and total calories are part of recovery"
+        ]
+      },
+      "protein-for-keto-diet": {
+        "heading": "Protein on a Keto Diet: How Much Is Right?",
+        "lead": "On a ketogenic diet, a moderate protein intake of about 1.2-1.7 g per kg of body weight per day supports muscle without disrupting ketosis for most people. A 75 kg (165 lb) person targets roughly 90-130 g per day.",
+        "paragraphs": [
+          "Keto is a high-fat, very-low-carb diet, and a common myth is that too much protein will knock you out of ketosis. For the vast majority of people, a moderate to fairly high protein intake is fine and helps preserve muscle while fat is the main fuel.",
+          "Prioritise protein and fat, keep carbohydrate low, and adjust based on your goals: more protein if you lift, slightly less if therapeutic ketosis is the aim. Focus on whole-food sources like eggs, meat, fish and cheese."
+        ],
+        "bullets": [
+          "Keto target: 1.2-1.7 g/kg per day",
+          "Moderate protein rarely disrupts ketosis",
+          "Lifters can sit at the higher end",
+          "Build meals from eggs, meat, fish and cheese"
+        ]
+      },
+      "protein-for-intermittent-fasting": {
+        "heading": "Protein and Intermittent Fasting: Hitting Your Target",
+        "lead": "Intermittent fasting does not change how much protein you need, about 1.6-2.2 g per kg per day for muscle, but it compresses it into a shorter eating window. A 75 kg (165 lb) person still targets roughly 120-165 g per day.",
+        "paragraphs": [
+          "The challenge with fasting is fitting the same protein into fewer meals, which can mean two to three larger feedings of 40-60 g each. Because each meal is bigger, distribution across the day matters less, but hitting your total becomes the main task.",
+          "Break your fast with a substantial protein-rich meal, and plan the eating window so at least two or three good protein doses fit comfortably. If you train while fasted, aim to eat soon after finishing."
+        ],
+        "bullets": [
+          "Total need is unchanged: about 1.6-2.2 g/kg",
+          "Fit it into 2-3 larger meals of 40-60 g",
+          "Break the fast with a protein-rich meal",
+          "Eat soon after fasted training"
+        ]
+      },
+      "protein-for-weight-gain": {
+        "heading": "Protein for Weight Gain: How to Build Up",
+        "lead": "To gain weight as muscle, combine a calorie surplus with 1.6-2.2 g of protein per kg of body weight per day. A 65 kg (143 lb) person targets roughly 105-145 g of protein daily while eating more overall.",
+        "paragraphs": [
+          "Healthy weight gain is driven by a calorie surplus, but protein and resistance training decide how much of that gain is muscle rather than fat. Meeting the protein target while eating above maintenance lets you build up in a controlled way.",
+          "If you struggle to eat enough, add calorie-dense but nutritious foods such as nut butters, whole milk, oats and olive oil, and use shakes to top up. Aim for a steady gain of around 0.25-0.5 kg per week."
+        ],
+        "bullets": [
+          "Protein target: 1.6-2.2 g/kg per day",
+          "Eat above maintenance for a calorie surplus",
+          "Resistance training steers gains toward muscle",
+          "Aim for 0.25-0.5 kg gained per week"
+        ]
+      },
+      "protein-for-skinny-guys": {
+        "heading": "Protein for Skinny Guys: Gaining Muscle as a Hardgainer",
+        "lead": "Naturally lean hardgainers need 1.6-2.2 g of protein per kg of body weight per day plus a clear calorie surplus to build muscle. A 60 kg (132 lb) hardgainer targets roughly 95-130 g of protein daily.",
+        "paragraphs": [
+          "For skinny individuals, the biggest barrier to muscle is usually eating enough total calories, not a lack of protein specifically. Hit your protein number, then focus on adding calorie-dense foods so you are reliably above maintenance every day.",
+          "Pair the surplus with a simple progressive resistance program and be patient, since gaining muscle is slow. Liquid calories like milk and smoothies help when a big appetite is hard to come by."
+        ],
+        "bullets": [
+          "Protein target: 1.6-2.2 g/kg per day",
+          "Total calories are the main limiter for hardgainers",
+          "Use calorie-dense foods and liquid calories",
+          "Train progressively and be patient"
+        ]
+      },
+      "protein-for-over-40": {
+        "heading": "Protein After 40: Why You Need More",
+        "lead": "After age 40, aim for at least 1.2-1.6 g of protein per kg of body weight per day to counter the gradual muscle loss that begins in midlife. A 75 kg (165 lb) adult targets roughly 90-120 g per day.",
+        "paragraphs": [
+          "From around your forties, muscle becomes slightly more resistant to the muscle-building signal of protein and training, a phenomenon called anabolic resistance. Eating more protein than younger adults, and combining it with resistance exercise, helps overcome this and preserve strength.",
+          "Distribution matters more with age: hitting 30-40 g per meal is more effective than smaller amounts, because each meal needs to be large enough to trigger muscle protein synthesis. Prioritise protein at breakfast, which is often the lowest-protein meal."
+        ],
+        "bullets": [
+          "Target from 40: at least 1.2-1.6 g/kg per day",
+          "Ageing muscle needs a bigger protein stimulus",
+          "Aim for 30-40 g per meal",
+          "Combine with resistance training to keep strength"
+        ]
+      },
+      "protein-for-over-50": {
+        "heading": "Protein After 50: Protecting Muscle and Strength",
+        "lead": "Adults over 50 should aim for 1.2-1.5 g of protein per kg of body weight per day, well above the standard RDA, to slow age-related muscle loss. A 70 kg (154 lb) adult targets roughly 85-105 g per day.",
+        "paragraphs": [
+          "Muscle loss accelerates after 50, and the old 0.8 g/kg guideline is now considered too low for healthy ageing. A higher intake, spread across meals and paired with resistance training, protects the muscle that keeps you mobile and independent.",
+          "Because appetite often declines with age, focus on protein-dense, easy-to-eat foods such as eggs, dairy, fish and legumes. Reaching 25-30 g per meal is a practical way to keep muscle protein synthesis switched on."
+        ],
+        "bullets": [
+          "Target over 50: 1.2-1.5 g/kg per day",
+          "The 0.8 g/kg RDA is too low for healthy ageing",
+          "Aim for 25-30 g per meal",
+          "Resistance training preserves strength and mobility"
+        ]
+      },
+      "protein-for-menopause": {
+        "heading": "Protein During Menopause: How Much and Why",
+        "lead": "During and after menopause, aim for about 1.2-1.6 g of protein per kg of body weight per day to protect muscle and bone as oestrogen declines. A 68 kg (150 lb) woman targets roughly 80-110 g per day.",
+        "paragraphs": [
+          "Falling oestrogen during menopause accelerates loss of muscle and bone density, and higher protein combined with resistance training is a key way to counter both. Adequate protein also supports body composition at a time when fat tends to redistribute.",
+          "Spread protein across meals, aiming for 25-30 g each, and prioritise it at breakfast where intake is often lowest. Pair this with strength training two to three times a week and enough calcium and vitamin D for bone health."
+        ],
+        "bullets": [
+          "Target: 1.2-1.6 g/kg per day",
+          "Protects muscle and bone as oestrogen falls",
+          "Aim for 25-30 g per meal",
+          "Combine with strength training and enough calcium"
+        ]
+      },
+      "protein-for-pcos": {
+        "heading": "Protein and PCOS: How It Supports Management",
+        "lead": "A higher-protein diet of about 1.2-1.6 g per kg of body weight per day can help with PCOS by improving fullness and supporting blood-sugar control. A 70 kg (154 lb) woman targets roughly 85-110 g per day.",
+        "paragraphs": [
+          "Many women with PCOS have insulin resistance, and higher-protein meals blunt blood-sugar spikes and increase satiety compared with carbohydrate-heavy ones. This can make weight management, a common goal in PCOS, more achievable.",
+          "Build meals around protein and fibre, pair carbohydrates with protein to soften their glycaemic impact, and combine the diet with regular activity. This is general nutrition guidance, not medical treatment, so work with your clinician on an overall plan."
+        ],
+        "bullets": [
+          "Target: 1.2-1.6 g/kg per day",
+          "Higher protein improves fullness and blood-sugar control",
+          "Pair carbs with protein and fibre",
+          "General guidance only; consult your clinician"
+        ]
+      },
+      "protein-for-breastfeeding": {
+        "heading": "Protein While Breastfeeding: Daily Needs",
+        "lead": "Breastfeeding raises protein needs by roughly 20-25 g per day above your normal intake to support milk production. Many nursing mothers do well around 1.3-1.5 g of protein per kg of body weight per day.",
+        "paragraphs": [
+          "Producing breast milk draws on your protein stores, so needs are higher than in pregnancy and well above the general baseline. Meeting them supports both a healthy milk supply and your own recovery and energy in the postpartum period.",
+          "Spread protein across regular meals and snacks, which also helps with the frequent hunger of nursing. Focus on nutrient-dense sources and stay well hydrated; this is general guidance, so check with your healthcare provider about your individual needs."
+        ],
+        "bullets": [
+          "Add roughly 20-25 g per day over baseline",
+          "Many mothers do well at 1.3-1.5 g/kg per day",
+          "Frequent protein snacks help with nursing hunger",
+          "General guidance; confirm needs with your provider"
+        ]
+      },
+      "protein-for-postpartum": {
+        "heading": "Protein Postpartum: Supporting Recovery",
+        "lead": "In the weeks after birth, a protein intake of about 1.2-1.6 g per kg of body weight per day supports tissue repair and recovery. If breastfeeding, add roughly 20-25 g per day on top for milk production.",
+        "paragraphs": [
+          "The body needs extra protein to heal after childbirth, rebuild tissue and, if nursing, produce milk. Adequate intake also helps preserve muscle during a demanding period of broken sleep and irregular meals.",
+          "Keep easy, protein-rich foods on hand, such as yoghurt, eggs, cheese, nuts and pre-cooked meat, so you can eat well even when time is short. This is general nutrition guidance; your provider can tailor it to your recovery."
+        ],
+        "bullets": [
+          "Recovery target: 1.2-1.6 g/kg per day",
+          "Add 20-25 g per day if breastfeeding",
+          "Keep quick protein snacks within reach",
+          "General guidance; personalise with your provider"
+        ]
+      },
+      "protein-for-kids": {
+        "heading": "Protein for Kids: How Much Do Children Need?",
+        "lead": "School-age children need roughly 0.95 g of protein per kg of body weight per day, which for a 30 kg (66 lb) child is about 28 g. Needs are best met through everyday foods rather than supplements.",
+        "paragraphs": [
+          "Children need protein for growth as well as maintenance, but the amount per kilogram is only modestly higher than for adults and is easily met by a balanced diet. Most children in developed countries comfortably reach their target without any special effort.",
+          "Offer protein at each meal from a variety of sources such as milk, eggs, yoghurt, beans, chicken and fish. Protein supplements and shakes are generally unnecessary for healthy children; whole foods provide protein plus the other nutrients growth requires."
+        ],
+        "bullets": [
+          "School-age target: about 0.95 g/kg per day",
+          "A 30 kg child needs roughly 28 g per day",
+          "Whole foods easily cover the requirement",
+          "Supplements are usually unnecessary for healthy kids"
+        ]
+      },
+      "protein-for-toddlers": {
+        "heading": "Protein for Toddlers: A Simple Guide",
+        "lead": "Toddlers aged one to three need about 1.05 g of protein per kg of body weight per day, roughly 13 g for a typical 12 kg (26 lb) child. Small, frequent servings from familiar foods cover this easily.",
+        "paragraphs": [
+          "Toddlers grow quickly but eat small amounts, so protein is best delivered in little servings across several meals and snacks. Milk and dairy alone often supply a large share of a toddler's protein, with other foods adding the rest.",
+          "Good options include full-fat yoghurt, cheese, eggs, soft-cooked beans, and finely chopped or shredded meat and fish. There is no need for protein supplements; a varied toddler diet meets the requirement, and you can check specifics with your paediatrician."
+        ],
+        "bullets": [
+          "Ages 1-3 target: about 1.05 g/kg per day",
+          "Roughly 13 g per day for a 12 kg toddler",
+          "Dairy supplies much of a toddler's protein",
+          "No supplements needed; ask your paediatrician if unsure"
+        ]
+      },
+      "protein-for-hair-growth": {
+        "heading": "Protein for Hair Growth: Does It Help?",
+        "lead": "Hair is made largely of the protein keratin, so a diet meeting at least 0.8-1.2 g of protein per kg of body weight per day supports normal hair growth. Deficiency can cause hair thinning and shedding.",
+        "paragraphs": [
+          "Because hair follicles are among the most metabolically active tissues, they are sensitive to low protein intake, and prolonged deficiency can push hairs into a shedding phase. Meeting your basic protein needs is therefore a foundation for healthy hair.",
+          "Eating well beyond adequate protein will not grow hair faster, however; extra protein only helps if you were previously short. Support hair with overall balanced nutrition including iron, zinc and enough calories, not with excessive protein alone."
+        ],
+        "bullets": [
+          "Meet at least 0.8-1.2 g/kg per day",
+          "Hair is built from the protein keratin",
+          "Deficiency can cause thinning and shedding",
+          "Extra protein only helps if you were deficient"
+        ]
+      },
+      "protein-for-skin": {
+        "heading": "Protein for Skin Health and Collagen",
+        "lead": "Your skin relies on the proteins collagen and elastin, so meeting at least 0.8-1.2 g of protein per kg of body weight per day supports its structure and repair. Adequate protein aids wound healing and skin resilience.",
+        "paragraphs": [
+          "Collagen, the main structural protein in skin, is built from amino acids supplied by dietary protein. A diet that consistently meets your protein needs gives your body the raw materials to maintain and repair skin, particularly after injury.",
+          "While collagen supplements are popular, simply eating enough total protein, along with vitamin C which is needed to make collagen, covers the basics. No amount of extra protein substitutes for sun protection and overall skin care."
+        ],
+        "bullets": [
+          "Meet at least 0.8-1.2 g/kg per day",
+          "Collagen and elastin are built from dietary protein",
+          "Vitamin C is needed to make collagen",
+          "Protein supports repair but is not a substitute for skincare"
+        ]
+      },
+      "protein-for-wound-healing": {
+        "heading": "Protein for Wound Healing: How Much to Recover",
+        "lead": "Healing wounds increases protein needs to roughly 1.25-1.5 g per kg of body weight per day, and more for large or serious wounds. Adequate protein is essential for building new tissue and fighting infection.",
+        "paragraphs": [
+          "Wound repair is a protein-intensive process: the body needs amino acids to form new tissue, blood vessels and immune cells. Falling short slows healing and raises the risk of complications, which is why protein needs rise during recovery from surgery or injury.",
+          "Prioritise protein at every meal and consider protein-rich snacks if appetite is low, since illness and injury often reduce intake at the very time needs are highest. This is general guidance, so follow the advice of your medical team for serious wounds."
+        ],
+        "bullets": [
+          "Healing target: about 1.25-1.5 g/kg per day",
+          "Large or serious wounds may need more",
+          "Protein builds tissue and supports immunity",
+          "General guidance; follow your medical team's advice"
+        ]
+      },
+      "protein-for-sarcopenia": {
+        "heading": "Protein for Sarcopenia: Fighting Age-Related Muscle Loss",
+        "lead": "To help counter sarcopenia, older adults are advised to eat 1.2-1.5 g of protein per kg of body weight per day, and up to 2.0 g/kg during illness or recovery. A 70 kg (154 lb) adult targets roughly 85-105 g per day.",
+        "paragraphs": [
+          "Sarcopenia is the age-related loss of muscle mass and strength, and low protein intake combined with inactivity is a major driver. Eating well above the standard RDA, while doing resistance exercise, is the most effective nutritional strategy to slow or reverse it.",
+          "Because older muscle responds less to small amounts of protein, aim for 25-35 g per meal to reliably trigger muscle protein synthesis. Leucine-rich sources like dairy, eggs, meat and fish are especially useful, alongside regular strength training."
+        ],
+        "bullets": [
+          "Target: 1.2-1.5 g/kg per day, up to 2.0 during illness",
+          "Aim for 25-35 g per meal",
+          "Leucine-rich foods help ageing muscle respond",
+          "Resistance training is essential to rebuild strength"
+        ]
+      },
+      "whey-vs-plant-protein": {
+        "heading": "Whey vs Plant Protein: Which Is Better?",
+        "lead": "Whey and plant proteins can both build muscle, but whey is a complete protein with more leucine, while plant sources often need blending. Aim for slightly more plant protein, around 1.7-2.3 g per kg per day, to match whey's effect.",
+        "paragraphs": [
+          "Whey digests quickly and is rich in leucine, the amino acid that triggers muscle protein synthesis, which makes it very effective per gram. Most single plant proteins are lower in one or more essential amino acids, so blends such as pea plus rice, or simply eating a variety, close the gap.",
+          "For a plant-based diet, a slightly higher total protein intake and a mix of sources deliver the same muscle-building results. Choose based on your diet, digestion and preference; both work when your overall protein target is met."
+        ],
+        "bullets": [
+          "Whey is complete and high in leucine",
+          "Blend plant sources like pea and rice for full amino acids",
+          "Plant-based diets: aim slightly higher, 1.7-2.3 g/kg",
+          "Both build muscle when total protein is adequate"
+        ]
+      },
+      "protein-grams-per-pound": {
+        "heading": "Protein Grams Per Pound of Body Weight",
+        "lead": "A common muscle-building guideline is 0.7-1.0 g of protein per pound of body weight per day, which equals about 1.6-2.2 g per kg. For a 175 lb (79 kg) person that is roughly 125-175 g of protein per day.",
+        "paragraphs": [
+          "The one gram per pound rule of thumb is popular because it is easy to remember, and it lands near the upper end of the evidence-based range for building muscle. In truth, anywhere from 0.7 to 1.0 g per pound works well for most trainees.",
+          "If you carry higher body fat, basing the figure on your goal or lean body weight avoids overshooting. Convert to your preference, since 1 g per pound is about 2.2 g per kg, and use a calculator to personalise the number."
+        ],
+        "bullets": [
+          "Muscle-building range: 0.7-1.0 g per pound per day",
+          "Equivalent to about 1.6-2.2 g per kg",
+          "1 g per pound is roughly 2.2 g per kg",
+          "Use goal or lean weight if body fat is high"
+        ]
+      },
+      "how-much-protein-to-build-muscle": {
+        "heading": "How Much Protein to Build Muscle?",
+        "lead": "To build muscle, research points to 1.6-2.2 g of protein per kg of body weight per day, combined with progressive resistance training. For an 80 kg (176 lb) person that is roughly 130-175 g of protein daily.",
+        "paragraphs": [
+          "A large body of research converges on about 1.6 g/kg as the point where extra protein stops adding much muscle, with a practical ceiling around 2.2 g/kg. Eating more than that is not harmful for healthy people but rarely speeds gains further.",
+          "Protein is only half the equation: without progressive resistance training, extra protein will not build muscle on its own. Spread intake across three or four meals, keep training consistent, and eat enough total calories to support growth."
+        ],
+        "bullets": [
+          "Muscle-building range: 1.6-2.2 g/kg per day",
+          "Gains plateau above roughly 2.2 g/kg",
+          "Progressive resistance training is essential",
+          "Spread protein across 3-4 meals"
+        ]
+      },
+      "how-much-protein-per-day": {
+        "heading": "How Much Protein Per Day Do You Need?",
+        "lead": "Daily protein needs range from 0.8 g per kg for sedentary adults to 1.6-2.2 g/kg for those building muscle. For a 70 kg (154 lb) person that is anywhere from about 56 g to 155 g depending on activity and goals.",
+        "paragraphs": [
+          "The 0.8 g/kg RDA is only the amount needed to prevent deficiency in inactive people, not the amount for optimal health or performance. Most active adults do better at 1.2-2.0 g/kg, with the exact figure set by training, age and whether you are gaining or losing weight.",
+          "Use your body weight, activity level and goal to find your personal number rather than a one-size-fits-all figure. Spreading that total across three to four protein-rich meals makes it both effective and easy to reach."
+        ],
+        "bullets": [
+          "Sedentary minimum: 0.8 g/kg per day",
+          "Active adults: 1.2-2.0 g/kg per day",
+          "Muscle building: 1.6-2.2 g/kg per day",
+          "Personalise by weight, activity and goal"
+        ]
+      },
+      "protein-for-two-meals-a-day": {
+        "heading": "Hitting Your Protein Target on Two Meals a Day",
+        "lead": "If you eat just two meals a day, you can still reach a muscle-building 1.6-2.2 g per kg by having larger doses of 50-70 g per meal. A 75 kg (165 lb) person aims for roughly 120-165 g split across the two.",
+        "paragraphs": [
+          "Fewer meals means each one has to carry more protein, and the good news is that larger single doses are used effectively when meals are spaced apart. Two substantial protein feedings can meet your daily target as long as the total is right.",
+          "Build each meal around a large protein source plus vegetables and quality carbohydrates and fats. If a single 50-70 g dose is hard to eat, a protein-rich snack or shake between meals is an easy way to make up the difference."
+        ],
+        "bullets": [
+          "Aim for 50-70 g of protein per meal",
+          "Larger doses are used well when meals are spaced out",
+          "Total daily protein is what matters most",
+          "Add a shake if a big single dose is hard to eat"
+        ]
+      },
+      "protein-for-office-workers": {
+        "heading": "Protein for Office Workers and Desk Jobs",
+        "lead": "If you have a sedentary desk job, aim for at least 1.0-1.4 g of protein per kg of body weight per day, more than the bare minimum, to preserve muscle and control appetite. A 75 kg (165 lb) worker targets roughly 75-105 g per day.",
+        "paragraphs": [
+          "A desk job means low daily movement, which makes it easy to lose muscle over the years and to overeat calorie-dense snacks. A moderately higher protein intake helps counter both by supporting muscle and keeping you fuller between meals.",
+          "Plan protein-rich meals and desk-friendly snacks such as Greek yoghurt, nuts, boiled eggs or edamame to avoid the mid-afternoon vending-machine trap. Adding any resistance training outside work hours makes that protein far more useful."
+        ],
+        "bullets": [
+          "Sedentary target: 1.0-1.4 g/kg per day",
+          "Higher protein curbs snacking and preserves muscle",
+          "Keep desk-friendly protein snacks on hand",
+          "Add resistance training outside work hours"
+        ]
+      },
+      "protein-for-hiking": {
+        "heading": "Protein for Hiking and Backpacking",
+        "lead": "For long hikes and multi-day treks, protein needs rise to about 1.2-1.6 g per kg of body weight per day to repair muscle and manage the load. A 70 kg (154 lb) hiker targets roughly 85-110 g per day on big days.",
+        "paragraphs": [
+          "Hours of walking, especially with a pack and over hills, break down muscle and increase overall protein turnover. On multi-day trips, chronic under-fuelling of protein leaves you weaker and slower to recover between days on the trail.",
+          "Carry lightweight, shelf-stable protein such as jerky, nuts, cheese, tuna pouches and protein bars, and eat some at the end of each day. Balance protein with plenty of carbohydrate, which remains your main energy source on the move."
+        ],
+        "bullets": [
+          "Big-day target: 1.2-1.6 g/kg per day",
+          "Multi-day treks raise the requirement",
+          "Pack jerky, nuts, cheese and tuna pouches",
+          "Keep carbohydrate high for energy on the trail"
+        ]
+      },
+      "protein-for-soccer-players": {
+        "heading": "Protein for Soccer Players: Daily Needs",
+        "lead": "Soccer players need about 1.4-1.8 g of protein per kg of body weight per day to support sprinting, recovery and muscle repair across a busy match schedule. A 72 kg (159 lb) player targets roughly 100-130 g per day.",
+        "paragraphs": [
+          "Soccer combines endurance running with repeated sprints, jumps and tackles, creating both aerobic and muscular demands. That mix puts protein needs above pure endurance sport, particularly during congested fixture periods when recovery time is short.",
+          "Refuel after matches and hard sessions with carbohydrate plus 25-35 g of protein to restock glycogen and start repair. Spread the remaining protein across meals to support day-to-day recovery through the season."
+        ],
+        "bullets": [
+          "Daily target: 1.4-1.8 g/kg per day",
+          "Sprints and tackles add to endurance demands",
+          "Post-match: carbs plus 25-35 g protein",
+          "Distribute the rest across daily meals"
+        ]
+      },
+      "protein-for-basketball-players": {
+        "heading": "Protein for Basketball Players: How Much to Eat",
+        "lead": "Basketball players need roughly 1.4-1.9 g of protein per kg of body weight per day to fuel jumping, sprinting and contact while supporting recovery. An 85 kg (187 lb) player targets roughly 120-160 g per day.",
+        "paragraphs": [
+          "The explosive jumping, cutting and physical contact of basketball create significant muscle damage on top of the running volume. Higher protein supports the repair of that damage and helps maintain lean, powerful muscle through a long season.",
+          "Prioritise a protein-and-carb meal after games and practices, and keep protein even across the day to handle back-to-back fixtures. Whole-food sources should lead, with a shake as a convenient option when the schedule is tight."
+        ],
+        "bullets": [
+          "Daily target: 1.4-1.9 g/kg per day",
+          "Explosive play adds muscle-repair demands",
+          "Refuel with protein and carbs after games",
+          "Keep intake even through a busy schedule"
+        ]
+      },
+      "protein-for-gym-beginners": {
+        "heading": "Protein for Gym Beginners: Where to Start",
+        "lead": "New gym-goers should aim for about 1.4-1.8 g of protein per kg of body weight per day to support their first muscle gains without overcomplicating things. A 70 kg (154 lb) beginner targets roughly 100-125 g per day.",
+        "paragraphs": [
+          "In your first months of training, muscle is gained readily, so a moderate and consistent protein intake is enough to see clear progress. There is no need for elaborate supplement stacks; a solid daily target from real food does the job.",
+          "Get into the habit of building each meal around a protein source and, if convenient, having a shake after training. As you get stronger and train harder, you can nudge intake toward the muscle-building range of 1.6-2.2 g/kg."
+        ],
+        "bullets": [
+          "Beginner target: 1.4-1.8 g/kg per day",
+          "Early gains come easily with consistent protein",
+          "Build each meal around a protein source",
+          "Progress toward 1.6-2.2 g/kg as you advance"
+        ]
       }
     }
   },

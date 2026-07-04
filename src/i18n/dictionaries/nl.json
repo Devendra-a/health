@@ -529,6 +529,706 @@
           "Haaruitval, broze nagels en traag helende huid",
           "Vaak kleine infecties en moeizaam herstel van training"
         ]
+      },
+      "protein-for-athletes": {
+        "heading": "Eiwit voor atleten: hoeveel per dag?",
+        "lead": "De meeste wedstrijdatleten hebben 1,4 tot 2,0 g eiwit per kg lichaamsgewicht per dag nodig, ruim boven de 0,8 g/kg voor een zittende volwassene. Voor een atleet van 75 kg is dat ongeveer 105 tot 150 g per dag, afhankelijk van de trainingsbelasting en de sport.",
+        "paragraphs": [
+          "Atleten breken spiereiwit sneller af en bouwen het sneller weer op dan ongetrainde mensen, dus hun dagelijkse behoefte is hoger en gevoeliger voor timing. Kracht- en power-atleten zitten bovenaan het bereik (1,6-2,0 g/kg), terwijl duuratleten iets minder nodig hebben (1,2-1,6 g/kg), maar nog altijd veel meer dan de algemene bevolking.",
+          "De dagelijkse totale hoeveelheid telt het meest, maar verdeling helpt: streef naar 0,3-0,4 g/kg bij elk van drie tot vier maaltijden en neem binnen een paar uur na een zware training een eiwitrijke maaltijd. Volwaardige voeding vormt de basis, met shakes alleen om gaten te vullen op zware trainingsdagen of onderweg naar een wedstrijd."
+        ],
+        "bullets": [
+          "Kracht- en powersporten: 1,6-2,0 g/kg per dag",
+          "Duursporten: 1,2-1,6 g/kg per dag",
+          "Verdeel over 3-4 maaltijden van elk 0,3-0,4 g/kg",
+          "Eet eiwit plus koolhydraten binnen 2 uur na een zware inspanning"
+        ]
+      },
+      "protein-for-runners": {
+        "heading": "Eiwit voor hardlopers: behoefte en timing",
+        "lead": "Hardlopers hebben ongeveer 1,2 tot 1,6 g eiwit per kg lichaamsgewicht per dag nodig, meer dan niet-hardlopers maar minder dan krachtatleten. Een hardloper van 65 kg mikt zo op ongeveer 80 tot 105 g per dag om spieren te herstellen en het herstel te ondersteunen.",
+        "paragraphs": [
+          "Hardlopen wordt vaak als een koolhydraatsport gezien, maar de herhaalde belasting beschadigt spiervezels die eiwit weer opbouwt. Hardlopers met veel kilometers en marathonlopers zitten bovenaan het bereik, omdat chronische training en calorietekorten anders spiermassa kunnen aantasten en het herstel vertragen.",
+          "Combineer eiwit met koolhydraten na lange of zware lopen om glycogeen aan te vullen en het herstel tegelijk te starten. Een verhouding van 3:1 of 4:1 koolhydraten tot eiwit in het eerste uur werkt goed, en de rest van je eiwit over de dag verdelen ondersteunt het nachtelijke herstel."
+        ],
+        "bullets": [
+          "Algemeen doel: 1,2-1,6 g/kg per dag",
+          "Weken met veel kilometers: richting het hoge einde",
+          "Na het lopen: koolhydraten en 20-30 g eiwit binnen een uur",
+          "Verlaag eiwit niet bij het diëten voor je wedstrijdgewicht"
+        ]
+      },
+      "protein-for-bodybuilding": {
+        "heading": "Eiwit voor bodybuilding: hoeveel voor massa",
+        "lead": "Bodybuilders eten doorgaans 1,6 tot 2,2 g eiwit per kg lichaamsgewicht per dag, en tot 2,4 g/kg bij het droogtrainen voor een wedstrijd. Voor een bodybuilder van 90 kg is dat ongeveer 145 tot 200 g eiwit per dag.",
+        "paragraphs": [
+          "Spiereiwitsynthese wordt gemaximaliseerd door voldoende totaal eiwit en een krachttrainingsprikkel. Ver boven de 2,2 g/kg gaan levert zelden sneller spiermassa op, maar een iets hogere inname tijdens het droogtrainen helpt de zuurverdiende massa te beschermen terwijl de calorieën laag zijn.",
+          "Verdeling is voor bodybuilders een echte hefboom: vier tot vijf maaltijden van 30-50 g elk houden de spiereiwitsynthese de hele dag verhoogd. Bouw de meeste maaltijden rond mager vlees, vis, eieren en zuivel, en gebruik whey of een plantaardige mix rond de training om je getallen te halen."
+        ],
+        "bullets": [
+          "Groei buiten het seizoen: 1,6-2,2 g/kg per dag",
+          "Wedstrijdvoorbereiding: tot 2,4 g/kg om spieren te sparen",
+          "4-5 maaltijden van 30-50 g over de dag",
+          "Progressieve krachttraining is nodig om het eiwit te benutten"
+        ]
+      },
+      "protein-for-endurance": {
+        "heading": "Eiwit voor duursporters: dagelijkse behoefte",
+        "lead": "Duursporters hebben ongeveer 1,2 tot 1,6 g eiwit per kg lichaamsgewicht per dag nodig om spieren te herstellen en aanpassing te ondersteunen. Voor een sporter van 70 kg is dat ongeveer 85 tot 110 g per dag, meer in blokken met een hoge belasting.",
+        "paragraphs": [
+          "Lange sessies verhogen de eiwitoxidatie en de omzet van bindweefsel, dus duursporters hebben meer nodig dan de zittende basis, ook al ligt de focus op brandstof. Chronisch te weinig eiwit in fases met veel volume is een veelvoorkomende oorzaak van stagnerende aanpassing en aanhoudende blessures.",
+          "Omdat de sessies lang zijn, telt eiwit rond de training: een kleine dosis tijdens ultralange inspanningen en een volledige maaltijd erna helpen allebei. Houd de koolhydraten hoog zodat eiwit voor herstel wordt gebruikt in plaats van energie, en verdeel het gelijkmatig over de maaltijden."
+        ],
+        "bullets": [
+          "Dagelijks doel: 1,2-1,6 g/kg",
+          "Verhoog de inname in blokken met veel volume of op hoogte",
+          "Houd de koolhydraten hoog zodat eiwit herstelt",
+          "Neem 20-30 g eiwit in de maaltijd na de sessie"
+        ]
+      },
+      "protein-for-cyclists": {
+        "heading": "Eiwit voor wielrenners: hoeveel heb je nodig?",
+        "lead": "Wielrenners hebben doorgaans 1,2 tot 1,7 g eiwit per kg lichaamsgewicht per dag nodig, waarbij het hoge einde past bij wie intensieve intervallen of klimwerk doet. Een wielrenner van 70 kg mikt op ongeveer 85 tot 120 g per dag.",
+        "paragraphs": [
+          "Wielrennen is gewrichtsvriendelijk maar met veel volume, en herhaalde zware inspanningen beschadigen toch spieren die eiwit weer opbouwt. Wie tweemaal daags traint, etappekoersen rijdt of calorieën beperkt voor een betere vermogen-gewichtverhouding heeft eiwit aan het hoge einde nodig om spiermassa te beschermen.",
+          "Voed lange ritten vooral met koolhydraten en combineer daarna koolhydraten en eiwit direct erna om glycogeen aan te vullen en het herstel te starten. Op opeenvolgende trainingsdagen kan een eiwitportie voor het slapen het nachtelijke herstel verder ondersteunen."
+        ],
+        "bullets": [
+          "Dagelijks doel: 1,2-1,7 g/kg",
+          "Tweemaal daags of etappekoersen: mik hoger",
+          "Vul aan met koolhydraten en 20-30 g eiwit na lange ritten",
+          "Bescherm spiermassa bij het najagen van vermogen-gewicht"
+        ]
+      },
+      "protein-for-swimmers": {
+        "heading": "Eiwit voor zwemmers: herstel en prestatie",
+        "lead": "Wedstrijdzwemmers hebben ongeveer 1,4 tot 2,0 g eiwit per kg lichaamsgewicht per dag nodig, omdat ze veel trainingsvolume combineren met flink krachtwerk voor het bovenlichaam. Een zwemmer van 68 kg mikt op ongeveer 95 tot 135 g per dag.",
+        "paragraphs": [
+          "Zwemmen bouwt en belast grote hoeveelheden spier in het hele lichaam, en meerdere zwembadsessies per dag tillen de dagelijkse behoefte richting het bereik van krachtatleten. Voldoende eiwit ondersteunt zowel de duur- als de krachtcomponent van de sport.",
+          "Omdat sessies vaak vroeg beginnen en laat eindigen, plan eiwitrijke maaltijden en snacks rond het zwembadschema. Een shake direct na een zware set, gevolgd door een volledige maaltijd, houdt het herstel tussen de sessies op peil."
+        ],
+        "bullets": [
+          "Dagelijks doel: 1,4-2,0 g/kg",
+          "Twee sessies per dag duwen de behoefte naar het hoge einde",
+          "Houd na zware sets een eiwitsnack klaar bij het bad",
+          "Verdeel de inname over maaltijden en shakes na de sessie"
+        ]
+      },
+      "protein-for-crossfit": {
+        "heading": "Eiwit voor CrossFit: hoeveel om te herstellen en groeien",
+        "lead": "CrossFit-atleten hebben doorgaans 1,6 tot 2,2 g eiwit per kg lichaamsgewicht per dag nodig, omdat de sport kracht, power en metabole conditie combineert. Voor een atleet van 80 kg is dat ongeveer 130 tot 175 g per dag.",
+        "paragraphs": [
+          "Functionele training met hoge intensiteit creëert een grote herstelvraag, dus CrossFit zit in hetzelfde eiwitbereik als toegewijde krachttraining. Wie zowel een slank lichaam als betere prestaties nastreeft, heeft baat bij het hoge einde, zeker tijdens het diëten.",
+          "Praktische timing helpt de dagelijkse WOD's aan te kunnen: een eiwit-koolhydraatmaaltijd binnen een paar uur na de training, plus gelijkmatige verdeling over drie of vier maaltijden, houdt het herstel hoog. Eerst volwaardige voeding, met een shake om aan te vullen op dagen met een dubbele sessie."
+        ],
+        "bullets": [
+          "Dagelijks doel: 1,6-2,2 g/kg",
+          "Droogtrainfases: richting het hoge einde",
+          "Vul na elke WOD aan met eiwit en koolhydraten",
+          "Verdeel eiwit over 3-4 maaltijden voor stabiel herstel"
+        ]
+      },
+      "protein-for-strength-training": {
+        "heading": "Eiwit voor krachttraining: optimale dagelijkse inname",
+        "lead": "Voor krachttraining mik je op 1,6 tot 2,2 g eiwit per kg lichaamsgewicht per dag, het bereik dat het meest consistent gelinkt is aan spier- en krachtwinst. Iemand van 85 kg mikt zo op ongeveer 135 tot 190 g per dag.",
+        "paragraphs": [
+          "Gewichtheffen is het signaal dat je lichaam vertelt spieren op te bouwen; eiwit levert de grondstof. Het bereik van 1,6-2,2 g/kg halen terwijl je progressief traint is wat de aanpassing aandrijft, en de inname veel hoger opvoeren levert afnemend rendement op.",
+          "Verdeel eiwit over drie of vier maaltijden van 30-45 g zodat de spiereiwitsynthese tussen sessies verhoogd blijft. Rust, voldoende calorieën en consistente training tellen net zo zwaar als het halen van je dagelijkse eiwitdoel."
+        ],
+        "bullets": [
+          "Dagelijks doel: 1,6-2,2 g/kg",
+          "30-45 g per maaltijd over 3-4 maaltijden",
+          "Train progressief om het eiwit te benutten",
+          "Verwaarloos totale calorieën, slaap en herstel niet"
+        ]
+      },
+      "protein-for-calisthenics": {
+        "heading": "Eiwit voor calisthenics: spieren met eigen gewicht",
+        "lead": "Calisthenics-atleten hebben dezelfde 1,6 tot 2,2 g eiwit per kg lichaamsgewicht per dag nodig als gewichttrainers om spieren op te bouwen, want training met het eigen lichaamsgewicht is ook weerstandstraining. Een atleet van 72 kg mikt op ongeveer 115 tot 160 g per dag.",
+        "paragraphs": [
+          "Vooruitgang in calisthenics komt door lichaamsgewichtoefeningen na verloop van tijd zwaarder te maken, wat spiergroei prikkelt net als toegevoegd gewicht. Je eiwitbehoefte wordt dus bepaald door de trainingsprikkel, niet door de uitrusting, en het bereik van krachttraining geldt.",
+          "Omdat relatief slank blijven helpt bij skills als optrekken en hefbomen, trainen veel calisthenics-atleten dicht bij hun onderhoudscalorieën. In dat geval beschermt eiwit aan het hoge einde de spier terwijl het lichaamsvet laag blijft."
+        ],
+        "bullets": [
+          "Dagelijks doel: 1,6-2,2 g/kg",
+          "Lichaamsgewichtprogressies tellen als weerstandstraining",
+          "Blijf slank voor de skills met eiwit hoog",
+          "Verdeel over 3-4 maaltijden van 30-45 g"
+        ]
+      },
+      "protein-for-marathon-training": {
+        "heading": "Eiwit voor marathontraining: hoeveel en wanneer",
+        "lead": "Tijdens marathontraining stijgt de eiwitbehoefte naar ongeveer 1,4 tot 1,7 g per kg lichaamsgewicht per dag om het kilometeraantal aan te kunnen zonder spierverlies. Een hardloper van 65 kg mikt in piekweken op ongeveer 90 tot 110 g per dag.",
+        "paragraphs": [
+          "Het volume van een marathonopbouw beschadigt week na week spier en bindweefsel, en veel hardlopers nemen onbedoeld te weinig eiwit doordat ze op koolhydraten focussen. Het hoge einde halen in piekweken beschermt spiermassa, ondersteunt het immuunsysteem en versnelt het herstel tussen lange lopen.",
+          "Vul na lange lopen aan met koolhydraten en 20-30 g eiwit en houd het eiwit de rest van de dag gelijkmatig. In de taper kun je terug naar 1,2-1,4 g/kg naarmate het volume daalt."
+        ],
+        "bullets": [
+          "Piektraining: 1,4-1,7 g/kg per dag",
+          "Taperweken: terug naar 1,2-1,4 g/kg",
+          "Herstel na lange loop: koolhydraten en 20-30 g eiwit",
+          "Verdeel de rest gelijkmatig over de maaltijden"
+        ]
+      },
+      "protein-for-cutting": {
+        "heading": "Eiwit tijdens het cutten: spier behouden bij vetverlies",
+        "lead": "Tijdens het cutten beschermt een hogere inname van 1,8 tot 2,7 g eiwit per kg lichaamsgewicht per dag de spier in een calorietekort. Een slankere sporter van 80 kg mikt tijdens het diëten vaak op ongeveer 160 tot 190 g per dag.",
+        "paragraphs": [
+          "In een calorietekort is het lichaam eerder geneigd spier af te breken voor energie, en een hoge eiwitinname is de meest effectieve voedingsverdediging daartegen. Hoe slanker en ervarener je bent, hoe dichter bij het hoge einde van het bereik je moet mikken.",
+          "Eiwit verzadigt ook meer bij minder calorieën, wat het dieet makkelijker vol te houden maakt. Combineer de hoge eiwitinname met krachttraining om het signaal te geven dat spier behouden moet blijven terwijl vet verdwijnt."
+        ],
+        "bullets": [
+          "Doel in tekort: 1,8-2,7 g/kg per dag",
+          "Slanker of gevorderd: mik hoger in het bereik",
+          "Eiwit verbetert de verzadiging bij minder calorieën",
+          "Blijf trainen om spierbehoud te signaleren"
+        ]
+      },
+      "protein-for-bulking": {
+        "heading": "Eiwit tijdens het bulken: hoeveel voor spiergroei",
+        "lead": "Voor een spieropbouwende bulk zijn 1,6 tot 2,2 g eiwit per kg lichaamsgewicht per dag ruim voldoende samen met een calorieoverschot. Iemand van 78 kg mikt op ongeveer 125 tot 170 g per dag terwijl hij eet om te groeien.",
+        "paragraphs": [
+          "Een bulk werkt omdat een calorieoverschot plus training de groei aandrijft; eiwit levert de bouwstenen maar je hoeft er geen buitensporige hoeveelheden van te eten. Zodra je 1,6-2,2 g/kg haalt, worden extra calorieën beter besteed aan koolhydraten en vet om training en herstel te voeden.",
+          "Houd het overschot gematigd, ongeveer 250-500 calorieën boven onderhoud, om vooral spier en geen vet aan te komen. Verdeel eiwit over de maaltijden en houd de training progressief om die extra calorieën in spierweefsel om te zetten."
+        ],
+        "bullets": [
+          "Doel bij bulken: 1,6-2,2 g/kg per dag",
+          "Gebruik een gematigd overschot van 250-500 kcal",
+          "Calorieën boven het eiwit komen uit koolhydraten en vet",
+          "Progressieve training maakt van het overschot spier"
+        ]
+      },
+      "protein-for-body-recomposition": {
+        "heading": "Eiwit voor lichaamsrecompositie: spier op, vet af",
+        "lead": "Lichaamsrecompositie werkt het best met veel eiwit van 1,8 tot 2,4 g per kg lichaamsgewicht per dag bij trainen rond onderhoud. Iemand van 75 kg mikt op ongeveer 135 tot 180 g per dag om tegelijk spier op te bouwen en vet te verliezen.",
+        "paragraphs": [
+          "Recompositie, tegelijk spier opbouwen en vet verliezen, is het best haalbaar voor beginners, wie terugkeert na een pauze en wie meer lichaamsvet heeft. Een hoge eiwitinname is de rode draad in elke geslaagde recompositie omdat het spiergroei ondersteunt zelfs zonder overschot.",
+          "Eet rond je onderhoudscalorieën, houd het eiwit hoog en train twee tot vier keer per week met progressieve weerstand. De vooruitgang is trager dan een toegewijde bulk of cut, dus volg kracht en maten in plaats van alleen je gewicht op de weegschaal."
+        ],
+        "bullets": [
+          "Recompositiedoel: 1,8-2,4 g/kg per dag",
+          "Eet rond onderhoud, geen groot overschot of tekort",
+          "Beste resultaten bij beginners en meer lichaamsvet",
+          "Beoordeel vooruitgang op kracht en maten, niet de weegschaal"
+        ]
+      },
+      "protein-for-lean-bulk": {
+        "heading": "Eiwit voor een lean bulk: spier met weinig vet",
+        "lead": "Een lean bulk gebruikt 1,6 tot 2,2 g eiwit per kg lichaamsgewicht per dag samen met een klein calorieoverschot om spier toe te voegen met weinig vet. Iemand van 76 kg mikt op ongeveer 120 tot 165 g eiwit per dag.",
+        "paragraphs": [
+          "Het doel van een lean bulk is een langzame, gecontroleerde toename, dus het overschot blijft klein, ongeveer 200-350 calorieën boven onderhoud. De eiwitbehoefte is gelijk aan die van elke opbouwfase, maar de strakkere caloriecontrole zorgt dat het aangekomen gewicht vooral spier is.",
+          "Mik op ongeveer 0,25-0,5 kg aankomen per maand en pas de calorieën aan als de weegschaal te snel stijgt. Consistent eiwit, progressieve training en geduld onderscheiden een lean bulk van een slordige."
+        ],
+        "bullets": [
+          "Eiwitdoel: 1,6-2,2 g/kg per dag",
+          "Houd het overschot klein, ongeveer 200-350 kcal",
+          "Mik op 0,25-0,5 kg aankomen per maand",
+          "Pas de calorieën aan als het gewicht te snel stijgt"
+        ]
+      },
+      "protein-for-fat-loss": {
+        "heading": "Eiwit voor vetverlies: de inname die werkt",
+        "lead": "Voor vetverlies mik je op 1,6 tot 2,4 g eiwit per kg lichaamsgewicht per dag om spier te beschermen en honger te beheersen. Iemand van 80 kg mikt op ongeveer 130 tot 190 g per dag in een calorietekort.",
+        "paragraphs": [
+          "Eiwit is de belangrijkste macronutriënt bij vetverlies om twee redenen: het behoudt spier in een tekort en het is de meest verzadigende macronutriënt per calorie. Samen maken ze het dieet effectiever en veel makkelijker vol te houden.",
+          "Bouw elke maaltijd rond een eiwitbron, voeg volop groenten toe voor volume en laat koolhydraten en vet de resterende calorieën vullen. Wat krachttraining in je week houden vertelt het lichaam de spier vast te houden terwijl het vet verdwijnt."
+        ],
+        "bullets": [
+          "Doel in tekort: 1,6-2,4 g/kg per dag",
+          "Eiwit is de meest verzadigende macronutriënt per calorie",
+          "Bouw elke maaltijd rond een eiwitbron",
+          "Blijf trainen om spier te behouden tijdens het dieet"
+        ]
+      },
+      "protein-for-maintaining-muscle": {
+        "heading": "Eiwit om spiermassa te behouden",
+        "lead": "Om bestaande spier te behouden zijn 1,2 tot 1,6 g eiwit per kg lichaamsgewicht per dag meestal genoeg, meer dan het minimum van 0,8 g/kg maar minder dan een opbouwfase. Iemand van 75 kg mikt op ongeveer 90 tot 120 g per dag.",
+        "paragraphs": [
+          "Spier vasthouden kost minder eiwit dan opbouwen, maar merkbaar meer dan de basisaanbeveling, die alleen is vastgesteld om tekorten te voorkomen. Dit telt tijdens onderhoudsfases, drukke periodes of pauzes van zware training wanneer groei niet het doel is.",
+          "Houd ten minste wat weerstands- of belastingsprikkel in je week, ook als die minder is, zodat de spier die je hebt een reden heeft om te blijven. Een gelijkmatige verdeling over de maaltijden helpt de spiereiwitsynthese dag na dag stabiel te houden."
+        ],
+        "bullets": [
+          "Onderhoudsdoel: 1,2-1,6 g/kg per dag",
+          "Ruim boven het minimum van 0,8 g/kg",
+          "Houd wat trainingsprikkel om spier te behouden",
+          "Verdeel eiwit gelijkmatig over de maaltijden"
+        ]
+      },
+      "protein-for-beginners": {
+        "heading": "Eiwit voor beginners: een eenvoudige startgids",
+        "lead": "Als je begint met trainen, mik je op ongeveer 1,4 tot 1,8 g eiwit per kg lichaamsgewicht per dag, een realistisch doel dat de eerste spierwinst ondersteunt. Een beginner van 70 kg mikt op ongeveer 100 tot 125 g per dag.",
+        "paragraphs": [
+          "Beginners bouwen eigenlijk heel efficiënt spier op, dus je hebt geen extreme inname nodig om resultaat te zien. Een gematigd, consistent eiwitdoel halen telt in de eerste maanden veel zwaarder dan het absolute hoge einde najagen.",
+          "Begin met een eiwitbron aan elke maaltijd toevoegen, zoals eieren bij het ontbijt, kip of peulvruchten bij de lunch, en vis of tofu bij het avondeten. Bouw eerst de gewoonte op en stem daarna de hoeveelheden af naarmate je training en eetlust groeien."
+        ],
+        "bullets": [
+          "Beginnersdoel: 1,4-1,8 g/kg per dag",
+          "Beginners bouwen spier op zonder extreme inname",
+          "Voeg een eiwitbron aan elke maaltijd toe",
+          "Consistentie wint van precisie in de eerste maanden"
+        ]
+      },
+      "protein-for-home-workouts": {
+        "heading": "Eiwit voor thuis trainen: hoeveel je nodig hebt",
+        "lead": "Thuis trainen vereist nog steeds 1,4 tot 2,0 g eiwit per kg lichaamsgewicht per dag als je spier wilt opbouwen of behouden. Iemand van 70 kg mikt op ongeveer 100 tot 140 g per dag, afhankelijk van hoe zwaar hij traint.",
+        "paragraphs": [
+          "Je spieren merken het verschil tussen een sportschool en een woonkamer niet; wat telt is dat de training uitdagend en progressief is. Banden, dumbbells of lichaamsgewichtprogressies creëren allemaal een herstelvraag die hetzelfde eiwitbereik dekt.",
+          "Je hebt geen speciale supplementen nodig om thuis te trainen. Alledaagse voeding zoals eieren, Griekse yoghurt, linzen, kip en vis uit blik dekt het doel gemakkelijk, met een shake als handige optie."
+        ],
+        "bullets": [
+          "Dagelijks doel: 1,4-2,0 g/kg afhankelijk van de intensiteit",
+          "Progressief thuis trainen geeft dezelfde behoefte als de sportschool",
+          "Alledaagse voeding dekt het doel zonder supplementen",
+          "Banden, dumbbells en lichaamsgewicht tellen"
+        ]
+      },
+      "protein-per-meal": {
+        "heading": "Hoeveel eiwit per maaltijd om spier op te bouwen?",
+        "lead": "Om de spiereiwitsynthese te maximaliseren, mik je op ongeveer 0,4 g eiwit per kg lichaamsgewicht per maaltijd, ongeveer 25 tot 40 g voor de meeste volwassenen. De inname over drie tot vier van zulke maaltijden verdelen is effectiever dan één of twee grote.",
+        "paragraphs": [
+          "Elke eiwitrijke maaltijd zet een piek in de spiereiwitsynthese in gang die een paar uur duurt, en er is een praktisch plafond aan hoeveel één maaltijd die stimuleert. Daarom verslaat eiwit over de dag verdelen meestal het alles in het avondeten stoppen.",
+          "Ongeveer 25-40 g kwaliteitseiwit per maaltijd, met ongeveer 2,5-3 g leucine, is voor de meesten genoeg om dat plafond te bereiken. Grotere of zeer gespierde mensen hebben misschien het hoge einde nodig, en een maaltijd voor het slapen kan een nuttige vierde portie toevoegen."
+        ],
+        "bullets": [
+          "Mik op ongeveer 0,4 g/kg per maaltijd (25-40 g voor de meesten)",
+          "Streef naar 3-4 eiwitmomenten per dag",
+          "Elke maaltijd heeft ongeveer 2,5-3 g leucine nodig",
+          "Verdelen verslaat één grote dosis"
+        ]
+      },
+      "protein-before-bed": {
+        "heading": "Eiwit voor het slapen: helpt het bij spiergroei?",
+        "lead": "30 tot 40 g langzaam verteerbaar eiwit voor het slapen kan het spierherstel en de regeneratie 's nachts ondersteunen. Caseïne, uit zuivel, is ideaal omdat het aminozuren geleidelijk door de nacht heen vrijgeeft.",
+        "paragraphs": [
+          "Tijdens de slaap blijft je lichaam spier herstellen, en een eiwitportie voor het slapen levert aminozuren voor dat proces de hele nacht. Onderzoek laat zien dat een dosis van 30-40 g caseïne voor het slapen de nachtelijke spiereiwitsynthese kan verhogen, zeker na avondtraining.",
+          "Dit is het nuttigst als je eiwit overdag laag was of als je 's avonds traint. Goede opties zijn Griekse yoghurt, kwark, melk of een caseïneshake, bij voorkeur als deel van een normale avondroutine in plaats van een extra grote maaltijd."
+        ],
+        "bullets": [
+          "Dosis voor het slapen: 30-40 g langzaam eiwit",
+          "Caseïne uit zuivel verteert 's nachts langzaam",
+          "Meest nuttig na avondtraining of bij lage inname overdag",
+          "Griekse yoghurt, kwark of melk werken"
+        ]
+      },
+      "protein-after-workout": {
+        "heading": "Eiwit na een training: hoeveel en hoe snel?",
+        "lead": "Een maaltijd na de training met ongeveer 20 tot 40 g eiwit ondersteunt het spierherstel, en het tijdvenster is breder dan ooit gedacht. Kwaliteitseiwit binnen een paar uur na de training is voor de meesten het praktische doel.",
+        "paragraphs": [
+          "Het idee van een smal anabool venster is overdreven; wat het meest telt is je totale dagelijkse eiwit en een stevige dosis ergens rond de training. Voor de meesten dekt 20-40 g eiwit na een sessie de herstelvraag ruim.",
+          "Als je nuchter traint of al enkele uren niet hebt gegeten, wordt een portie na de training belangrijker en is eerder beter. Anders doet een normale eiwitrijke maaltijd binnen een paar uur na afloop het werk."
+        ],
+        "bullets": [
+          "Dosis na de training: 20-40 g eiwit",
+          "Het anabole venster is uren, geen minuten",
+          "Nuchter trainen maakt een snelle portie belangrijker",
+          "Totaal dagelijks eiwit telt nog steeds het meest"
+        ]
+      },
+      "protein-before-workout": {
+        "heading": "Eiwit voor een training: is het de moeite waard?",
+        "lead": "Een maaltijd voor de training met 20 tot 30 g eiwit twee tot drie uur van tevoren kan het herstel verbeteren en spierafbraak verminderen. Als je nuchter traint, wordt een portie kort erna belangrijker.",
+        "paragraphs": [
+          "Eiwit eten voor de training houdt aminozuren beschikbaar in het bloed tijdens en na de sessie, wat het herstel ondersteunt. Een gemengde maaltijd twee tot drie uur van tevoren is ideaal, maar zelfs een kleinere eiwitsnack dichter bij de training helpt als een volledige maaltijd niet praktisch is.",
+          "Eiwit voor en na de training zijn deels uitwisselbaar, dus ze hoeven niet allebei groot te zijn. Wat telt is dat je kwaliteitseiwit redelijk dicht bij de sessie binnenkrijgt, aan de ene of de andere kant."
+        ],
+        "bullets": [
+          "Dosis vooraf: 20-30 g, 2-3 uur van tevoren",
+          "Houdt aminozuren beschikbaar tijdens de training",
+          "Een kleinere snack volstaat als een volle maaltijd niet past",
+          "Nuchter trainen verhoogt de waarde van snel erna eten"
+        ]
+      },
+      "protein-for-breakfast": {
+        "heading": "Hoeveel eiwit bij het ontbijt? Een praktische gids",
+        "lead": "Mik op minstens 25 tot 30 g eiwit bij het ontbijt om de spiereiwitsynthese op gang te brengen en de eetlust door de ochtend te temperen. De meeste typische ontbijten blijven hier ver onder zonder bewuste moeite.",
+        "paragraphs": [
+          "Veel mensen eten het grootste deel van hun eiwit bij het avondeten en heel weinig bij het ontbijt, wat een kans verspilt om de spiereiwitsynthese eerder op de dag te stimuleren. Meer eiwit naar het ontbijt halen helpt de inname in balans te brengen en verbetert de verzadiging.",
+          "25-30 g halen is makkelijk met een paar wissels: eieren, Griekse yoghurt, kwark, melk of een schep whey in havermout of een smoothie. Een eiwitrijker ontbijt vermindert ook meestal het snacken halverwege de ochtend."
+        ],
+        "bullets": [
+          "Ontbijtdoel: minstens 25-30 g eiwit",
+          "Brengt een dag die meestal op het avondeten leunt in balans",
+          "Eieren, Griekse yoghurt of whey maken het makkelijk",
+          "Eiwitrijkere ontbijten verminderen het snacken in de ochtend"
+        ]
+      },
+      "protein-for-recovery": {
+        "heading": "Eiwit voor spierherstel: hoeveel om te repareren",
+        "lead": "Om goed te herstellen van zware training hebben de meeste actieve mensen 1,6 tot 2,2 g eiwit per kg lichaamsgewicht per dag nodig, gelijkmatig verdeeld over de maaltijden. Iemand van 75 kg mikt op ongeveer 120 tot 165 g per dag.",
+        "paragraphs": [
+          "Herstel is wanneer de aanpassing echt plaatsvindt, en eiwit levert de aminozuren die beschadigde spier weer opbouwen. Een hoger dagelijks doel halen en het over de maaltijden verdelen houdt het herstel stabiel, terwijl chronisch lage inname je stijf en onderhersteld laat.",
+          "Combineer voldoende eiwit met genoeg totale calorieën, koolhydraten om glycogeen aan te vullen en goede slaap. Eiwit alleen kan het herstel niet redden als je in het algemeen te weinig eet of te weinig slaapt."
+        ],
+        "bullets": [
+          "Hersteldoel: 1,6-2,2 g/kg per dag",
+          "Verdeel gelijkmatig over 3-4 maaltijden",
+          "Vul glycogeen ook aan met koolhydraten",
+          "Slaap en totale calorieën horen bij het herstel"
+        ]
+      },
+      "protein-for-keto-diet": {
+        "heading": "Eiwit bij een keto-dieet: hoeveel is juist?",
+        "lead": "Bij een ketogeen dieet ondersteunt een gematigde eiwitinname van ongeveer 1,2 tot 1,7 g per kg lichaamsgewicht per dag de spier zonder bij de meesten de ketose te verstoren. Iemand van 75 kg mikt op ongeveer 90 tot 130 g per dag.",
+        "paragraphs": [
+          "Keto is een vetrijk, zeer koolhydraatarm dieet, en een veelvoorkomende mythe is dat te veel eiwit je uit ketose haalt. Voor de grote meerderheid is een gematigde tot vrij hoge eiwitinname prima en helpt het spier te behouden terwijl vet de belangrijkste brandstof is.",
+          "Geef prioriteit aan eiwit en vet, houd de koolhydraten laag en pas aan op je doelen: meer eiwit als je krachttraint, iets minder als therapeutische ketose het doel is. Richt je op volwaardige bronnen als eieren, vlees, vis en kaas."
+        ],
+        "bullets": [
+          "Keto-doel: 1,2-1,7 g/kg per dag",
+          "Gematigd eiwit verstoort de ketose zelden",
+          "Krachttrainers kunnen aan het hoge einde zitten",
+          "Bouw maaltijden met eieren, vlees, vis en kaas"
+        ]
+      },
+      "protein-for-intermittent-fasting": {
+        "heading": "Eiwit en intermittent fasting: je doel halen",
+        "lead": "Intermittent fasting verandert niet hoeveel eiwit je nodig hebt, ongeveer 1,6 tot 2,2 g per kg per dag voor spier, maar perst het in een korter eetvenster. Iemand van 75 kg mikt nog steeds op ongeveer 120 tot 165 g per dag.",
+        "paragraphs": [
+          "De uitdaging bij vasten is hetzelfde eiwit in minder maaltijden passen, wat twee tot drie grotere porties van elk 40-60 g kan betekenen. Omdat elke maaltijd groter is, telt de verdeling over de dag minder, maar je totaal halen wordt de hoofdtaak.",
+          "Breek je vasten met een stevige eiwitrijke maaltijd en plan het venster zo dat er comfortabel minstens twee of drie goede eiwitporties in passen. Als je nuchter traint, probeer dan kort na afloop te eten."
+        ],
+        "bullets": [
+          "De totale behoefte verandert niet: ongeveer 1,6-2,2 g/kg",
+          "Pas het in 2-3 grotere maaltijden van 40-60 g",
+          "Breek het vasten met een eiwitrijke maaltijd",
+          "Eet kort na nuchter trainen"
+        ]
+      },
+      "protein-for-weight-gain": {
+        "heading": "Eiwit om aan te komen: hoe je opbouwt",
+        "lead": "Om als spier aan te komen, combineer je een calorieoverschot met 1,6 tot 2,2 g eiwit per kg lichaamsgewicht per dag. Iemand van 65 kg mikt op ongeveer 105 tot 145 g eiwit per dag terwijl hij in het algemeen meer eet.",
+        "paragraphs": [
+          "Gezond aankomen wordt aangedreven door een calorieoverschot, maar eiwit en krachttraining bepalen hoeveel van die winst spier is in plaats van vet. Het eiwitdoel halen terwijl je boven onderhoud eet laat je op een gecontroleerde manier opbouwen.",
+          "Als je moeite hebt genoeg te eten, voeg dan calorierijke maar voedzame voeding toe zoals notenpasta, volle melk, havermout en olijfolie, en gebruik shakes om aan te vullen. Mik op een gestage aankomst van ongeveer 0,25-0,5 kg per week."
+        ],
+        "bullets": [
+          "Eiwitdoel: 1,6-2,2 g/kg per dag",
+          "Eet boven onderhoud voor een calorieoverschot",
+          "Krachttraining stuurt de winst richting spier",
+          "Mik op 0,25-0,5 kg aankomen per week"
+        ]
+      },
+      "protein-for-skinny-guys": {
+        "heading": "Eiwit voor slanke mensen: spier opbouwen als hardgainer",
+        "lead": "Van nature slanke hardgainers hebben 1,6 tot 2,2 g eiwit per kg lichaamsgewicht per dag plus een duidelijk calorieoverschot nodig om spier op te bouwen. Een hardgainer van 60 kg mikt op ongeveer 95 tot 130 g eiwit per dag.",
+        "paragraphs": [
+          "Voor slanke mensen is de grootste hindernis voor spier meestal genoeg totale calorieën eten, niet specifiek een eiwittekort. Haal je eiwitgetal en focus daarna op calorierijke voeding toevoegen zodat je elke dag betrouwbaar boven onderhoud zit.",
+          "Combineer het overschot met een eenvoudig progressief krachtprogramma en wees geduldig, want spier opbouwen is traag. Vloeibare calorieën zoals melk en smoothies helpen wanneer een grote eetlust moeilijk te vinden is."
+        ],
+        "bullets": [
+          "Eiwitdoel: 1,6-2,2 g/kg per dag",
+          "Totale calorieën zijn de belangrijkste beperking voor de hardgainer",
+          "Gebruik calorierijke voeding en vloeibare calorieën",
+          "Train progressief en wees geduldig"
+        ]
+      },
+      "protein-for-over-40": {
+        "heading": "Eiwit na je 40e: waarom je meer nodig hebt",
+        "lead": "Na je 40e mik je op minstens 1,2 tot 1,6 g eiwit per kg lichaamsgewicht per dag om het geleidelijke spierverlies tegen te gaan dat in de middelbare leeftijd begint. Een volwassene van 75 kg mikt op ongeveer 90 tot 120 g per dag.",
+        "paragraphs": [
+          "Vanaf ongeveer je veertigste wordt spier iets bestendiger tegen het opbouwsignaal van eiwit en training, een verschijnsel dat anabole resistentie heet. Meer eiwit eten dan jongere volwassenen, en het combineren met krachtoefening, helpt dit te overwinnen en kracht te behouden.",
+          "Verdeling telt zwaarder met de leeftijd: 30-40 g per maaltijd halen is effectiever dan kleinere hoeveelheden, omdat elke maaltijd groot genoeg moet zijn om de spiereiwitsynthese te triggeren. Geef prioriteit aan eiwit bij het ontbijt, vaak de maaltijd met het minste eiwit."
+        ],
+        "bullets": [
+          "Doel vanaf 40: minstens 1,2-1,6 g/kg per dag",
+          "Verouderende spier heeft een grotere eiwitprikkel nodig",
+          "Mik op 30-40 g per maaltijd",
+          "Combineer met krachttraining om kracht te behouden"
+        ]
+      },
+      "protein-for-over-50": {
+        "heading": "Eiwit na je 50e: spier en kracht beschermen",
+        "lead": "Volwassenen boven de 50 zouden op 1,2 tot 1,5 g eiwit per kg lichaamsgewicht per dag moeten mikken, ruim boven de standaardaanbeveling, om leeftijdsgebonden spierverlies te vertragen. Een volwassene van 70 kg mikt op ongeveer 85 tot 105 g per dag.",
+        "paragraphs": [
+          "Spierverlies versnelt na je 50e, en de oude richtlijn van 0,8 g/kg wordt nu te laag geacht voor gezond ouder worden. Een hogere inname, verdeeld over de maaltijden en gecombineerd met krachttraining, beschermt de spier die je mobiel en zelfstandig houdt.",
+          "Omdat de eetlust vaak afneemt met de leeftijd, richt je op eiwitrijke, makkelijk te eten voeding zoals eieren, zuivel, vis en peulvruchten. 25-30 g per maaltijd halen is een praktische manier om de spiereiwitsynthese actief te houden."
+        ],
+        "bullets": [
+          "Doel na 50: 1,2-1,5 g/kg per dag",
+          "De aanbeveling van 0,8 g/kg is te laag voor gezond ouder worden",
+          "Mik op 25-30 g per maaltijd",
+          "Krachttraining behoudt kracht en mobiliteit"
+        ]
+      },
+      "protein-for-menopause": {
+        "heading": "Eiwit tijdens de overgang: hoeveel en waarom",
+        "lead": "Tijdens en na de overgang mik je op ongeveer 1,2 tot 1,6 g eiwit per kg lichaamsgewicht per dag om spier en bot te beschermen terwijl de oestrogeenspiegel daalt. Een vrouw van 68 kg mikt op ongeveer 80 tot 110 g per dag.",
+        "paragraphs": [
+          "De dalende oestrogeenspiegel in de overgang versnelt het verlies van spier en botdichtheid, en meer eiwit gecombineerd met krachttraining is een belangrijke manier om beide tegen te gaan. Voldoende eiwit ondersteunt ook de lichaamssamenstelling op een moment dat vet zich meestal herverdeelt.",
+          "Verdeel eiwit over de maaltijden, met 25-30 g per stuk, en geef er prioriteit aan bij het ontbijt waar de inname vaak het laagst is. Combineer dit met krachttraining twee tot drie keer per week en genoeg calcium en vitamine D voor de botgezondheid."
+        ],
+        "bullets": [
+          "Doel: 1,2-1,6 g/kg per dag",
+          "Beschermt spier en bot terwijl oestrogeen daalt",
+          "Mik op 25-30 g per maaltijd",
+          "Combineer met krachttraining en genoeg calcium"
+        ]
+      },
+      "protein-for-pcos": {
+        "heading": "Eiwit en PCOS: hoe het helpt bij het beheer",
+        "lead": "Een eiwitrijker dieet van ongeveer 1,2 tot 1,6 g per kg lichaamsgewicht per dag kan helpen bij PCOS door de verzadiging te verbeteren en de bloedsuikercontrole te ondersteunen. Een vrouw van 70 kg mikt op ongeveer 85 tot 110 g per dag.",
+        "paragraphs": [
+          "Veel vrouwen met PCOS hebben insulineresistentie, en eiwitrijkere maaltijden dempen bloedsuikerpieken en verhogen de verzadiging vergeleken met koolhydraatrijke. Dit kan gewichtsbeheer, een veelvoorkomend doel bij PCOS, haalbaarder maken.",
+          "Bouw maaltijden rond eiwit en vezels, combineer koolhydraten met eiwit om hun glykemische impact te verzachten en combineer het dieet met regelmatige beweging. Dit is algemeen voedingsadvies, geen medische behandeling, dus werk met je arts aan een totaalplan."
+        ],
+        "bullets": [
+          "Doel: 1,2-1,6 g/kg per dag",
+          "Meer eiwit verbetert verzadiging en bloedsuikercontrole",
+          "Combineer koolhydraten met eiwit en vezels",
+          "Alleen algemeen advies; raadpleeg je arts"
+        ]
+      },
+      "protein-for-breastfeeding": {
+        "heading": "Eiwit tijdens borstvoeding: dagelijkse behoefte",
+        "lead": "Borstvoeding verhoogt de eiwitbehoefte met ongeveer 20 tot 25 g per dag boven je normale inname om de melkproductie te ondersteunen. Veel moeders die borstvoeding geven doen het goed rond 1,3 tot 1,5 g eiwit per kg lichaamsgewicht per dag.",
+        "paragraphs": [
+          "Moedermelk maken put uit je eiwitreserves, dus de behoefte is hoger dan in de zwangerschap en ruim boven de algemene basis. Eraan voldoen ondersteunt zowel een gezonde melkproductie als je eigen herstel en energie na de bevalling.",
+          "Verdeel eiwit over regelmatige maaltijden en snacks, wat ook helpt bij de frequente honger van het voeden. Richt je op voedzame bronnen en drink voldoende; dit is algemeen advies, dus check je individuele behoefte bij je zorgverlener."
+        ],
+        "bullets": [
+          "Voeg ongeveer 20-25 g per dag toe boven de basis",
+          "Veel moeders doen het goed op 1,3-1,5 g/kg per dag",
+          "Frequente eiwitsnacks helpen bij de honger",
+          "Algemeen advies; bevestig je behoefte bij je zorgverlener"
+        ]
+      },
+      "protein-for-postpartum": {
+        "heading": "Eiwit na de bevalling: het herstel ondersteunen",
+        "lead": "In de weken na de bevalling ondersteunt een eiwitinname van ongeveer 1,2 tot 1,6 g per kg lichaamsgewicht per dag het weefselherstel en de regeneratie. Als je borstvoeding geeft, voeg dan ongeveer 20 tot 25 g per dag toe voor de melkproductie.",
+        "paragraphs": [
+          "Het lichaam heeft extra eiwit nodig om te genezen na de bevalling, weefsel op te bouwen en, bij borstvoeding, melk te maken. Voldoende inname helpt ook spier te behouden in een veeleisende periode van onderbroken slaap en onregelmatige maaltijden.",
+          "Houd makkelijke, eiwitrijke voeding bij de hand, zoals yoghurt, eieren, kaas, noten en voorgekookt vlees, zodat je goed kunt eten ook als de tijd kort is. Dit is algemeen voedingsadvies; je zorgverlener kan het afstemmen op je herstel."
+        ],
+        "bullets": [
+          "Hersteldoel: 1,2-1,6 g/kg per dag",
+          "Voeg 20-25 g per dag toe bij borstvoeding",
+          "Houd snelle eiwitsnacks binnen handbereik",
+          "Algemeen advies; personaliseer met je zorgverlener"
+        ]
+      },
+      "protein-for-kids": {
+        "heading": "Eiwit voor kinderen: hoeveel hebben ze nodig?",
+        "lead": "Kinderen in de schoolgaande leeftijd hebben ongeveer 0,95 g eiwit per kg lichaamsgewicht per dag nodig, wat voor een kind van 30 kg ongeveer 28 g is. De behoefte wordt het best gedekt met alledaagse voeding in plaats van supplementen.",
+        "paragraphs": [
+          "Kinderen hebben eiwit nodig voor groei en onderhoud, maar de hoeveelheid per kilo is slechts bescheiden hoger dan bij volwassenen en wordt makkelijk gedekt met een uitgebalanceerd dieet. De meeste kinderen in ontwikkelde landen halen hun doel moeiteloos zonder speciale inspanning.",
+          "Bied bij elke maaltijd eiwit uit gevarieerde bronnen zoals melk, eieren, yoghurt, peulvruchten, kip en vis. Eiwitsupplementen en shakes zijn voor gezonde kinderen doorgaans onnodig; volwaardige voeding levert eiwit plus de andere voedingsstoffen die groei vereist."
+        ],
+        "bullets": [
+          "Doel schoolgaande leeftijd: ongeveer 0,95 g/kg per dag",
+          "Een kind van 30 kg heeft ongeveer 28 g per dag nodig",
+          "Volwaardige voeding dekt de behoefte gemakkelijk",
+          "Supplementen zijn meestal onnodig voor gezonde kinderen"
+        ]
+      },
+      "protein-for-toddlers": {
+        "heading": "Eiwit voor peuters: een eenvoudige gids",
+        "lead": "Peuters van één tot drie jaar hebben ongeveer 1,05 g eiwit per kg lichaamsgewicht per dag nodig, ongeveer 13 g voor een typische peuter van 12 kg. Kleine, frequente porties uit vertrouwde voeding dekken dit gemakkelijk.",
+        "paragraphs": [
+          "Peuters groeien snel maar eten weinig, dus eiwit wordt het best geleverd in kleine porties verspreid over meerdere maaltijden en snacks. Melk en zuivel alleen leveren vaak een groot deel van het eiwit van een peuter, met andere voeding voor de rest.",
+          "Goede opties zijn volle yoghurt, kaas, eieren, zacht gekookte peulvruchten, en fijngesneden of geplukt vlees en vis. Eiwitsupplementen zijn niet nodig; een gevarieerd dieet dekt de behoefte, en details kun je checken bij je kinderarts."
+        ],
+        "bullets": [
+          "Doel 1-3 jaar: ongeveer 1,05 g/kg per dag",
+          "Ongeveer 13 g per dag voor een peuter van 12 kg",
+          "Zuivel levert een groot deel van het eiwit",
+          "Geen supplementen; vraag de kinderarts bij twijfel"
+        ]
+      },
+      "protein-for-hair-growth": {
+        "heading": "Eiwit voor haargroei: helpt het?",
+        "lead": "Haar bestaat grotendeels uit het eiwit keratine, dus een dieet dat minstens 0,8 tot 1,2 g eiwit per kg lichaamsgewicht per dag haalt ondersteunt normale haargroei. Een tekort kan dunner wordend haar en uitval veroorzaken.",
+        "paragraphs": [
+          "Omdat haarzakjes tot de metabolisch meest actieve weefsels behoren, zijn ze gevoelig voor lage eiwitinname, en een langdurig tekort kan haren in een uitvalfase duwen. Aan je basiseiwitbehoefte voldoen is dus een fundament voor gezond haar.",
+          "Ver boven een adequate inname eten laat haar echter niet sneller groeien; extra eiwit helpt alleen als je eerder tekortkwam. Ondersteun haar met over het geheel uitgebalanceerde voeding inclusief ijzer, zink en voldoende calorieën, niet met alleen overmatig eiwit."
+        ],
+        "bullets": [
+          "Haal minstens 0,8-1,2 g/kg per dag",
+          "Haar wordt opgebouwd uit het eiwit keratine",
+          "Een tekort kan dunner worden en uitval veroorzaken",
+          "Extra eiwit helpt alleen als je een tekort had"
+        ]
+      },
+      "protein-for-skin": {
+        "heading": "Eiwit voor huidgezondheid en collageen",
+        "lead": "Je huid steunt op de eiwitten collageen en elastine, dus minstens 0,8 tot 1,2 g eiwit per kg lichaamsgewicht per dag halen ondersteunt de structuur en het herstel. Voldoende eiwit bevordert wondgenezing en huidveerkracht.",
+        "paragraphs": [
+          "Collageen, het belangrijkste structuureiwit van de huid, wordt opgebouwd uit aminozuren die voedingseiwit levert. Een dieet dat consequent aan je eiwitbehoefte voldoet geeft het lichaam de grondstof om de huid te onderhouden en te herstellen, zeker na een verwonding.",
+          "Hoewel collageensupplementen populair zijn, dekt simpelweg genoeg totaal eiwit eten, samen met vitamine C die nodig is om collageen te maken, de basis. Geen hoeveelheid extra eiwit vervangt zonbescherming en algemene huidverzorging."
+        ],
+        "bullets": [
+          "Haal minstens 0,8-1,2 g/kg per dag",
+          "Collageen en elastine worden opgebouwd uit voedingseiwit",
+          "Vitamine C is nodig om collageen te maken",
+          "Eiwit ondersteunt herstel maar vervangt geen huidverzorging"
+        ]
+      },
+      "protein-for-wound-healing": {
+        "heading": "Eiwit voor wondgenezing: hoeveel om te herstellen",
+        "lead": "Wondgenezing verhoogt de eiwitbehoefte naar ongeveer 1,25 tot 1,5 g per kg lichaamsgewicht per dag, en meer voor grote of ernstige wonden. Voldoende eiwit is essentieel om nieuw weefsel op te bouwen en infectie te bestrijden.",
+        "paragraphs": [
+          "Wondherstel is een eiwitintensief proces: het lichaam heeft aminozuren nodig om nieuw weefsel, bloedvaten en immuuncellen te vormen. Tekortschieten vertraagt de genezing en verhoogt het risico op complicaties, daarom stijgt de behoefte tijdens herstel van operatie of letsel.",
+          "Geef bij elke maaltijd prioriteit aan eiwit en overweeg eiwitrijke snacks als de eetlust laag is, want ziekte en letsel verminderen de inname vaak juist wanneer de behoefte het hoogst is. Dit is algemeen advies, dus volg bij ernstige wonden de aanwijzingen van je medisch team."
+        ],
+        "bullets": [
+          "Genezingsdoel: ongeveer 1,25-1,5 g/kg per dag",
+          "Grote of ernstige wonden vragen mogelijk meer",
+          "Eiwit bouwt weefsel op en ondersteunt de afweer",
+          "Algemeen advies; volg het advies van je medisch team"
+        ]
+      },
+      "protein-for-sarcopenia": {
+        "heading": "Eiwit bij sarcopenie: leeftijdsgebonden spierverlies tegengaan",
+        "lead": "Om sarcopenie tegen te gaan wordt ouderen aangeraden 1,2 tot 1,5 g eiwit per kg lichaamsgewicht per dag te eten, en tot 2,0 g/kg tijdens ziekte of herstel. Een volwassene van 70 kg mikt op ongeveer 85 tot 105 g per dag.",
+        "paragraphs": [
+          "Sarcopenie is het leeftijdsgebonden verlies van spiermassa en kracht, en lage eiwitinname in combinatie met inactiviteit is een belangrijke aandrijver. Ruim boven de standaardaanbeveling eten, samen met krachtoefening, is de meest effectieve voedingsstrategie om het te vertragen of om te keren.",
+          "Omdat oudere spier minder reageert op kleine hoeveelheden eiwit, mik je op 25-35 g per maaltijd om de spiereiwitsynthese betrouwbaar te triggeren. Leucinerijke bronnen als zuivel, eieren, vlees en vis zijn bijzonder nuttig, samen met regelmatige krachttraining."
+        ],
+        "bullets": [
+          "Doel: 1,2-1,5 g/kg per dag, tot 2,0 tijdens ziekte",
+          "Mik op 25-35 g per maaltijd",
+          "Leucinerijke voeding helpt de oudere spier reageren",
+          "Krachttraining is essentieel om kracht te herwinnen"
+        ]
+      },
+      "whey-vs-plant-protein": {
+        "heading": "Whey vs plantaardig eiwit: wat is beter?",
+        "lead": "Zowel whey als plantaardige eiwitten kunnen spier opbouwen, maar whey is een compleet eiwit met meer leucine, terwijl plantaardige bronnen vaak gecombineerd moeten worden. Mik op iets meer plantaardig eiwit, ongeveer 1,7 tot 2,3 g per kg per dag, om het effect van whey te evenaren.",
+        "paragraphs": [
+          "Whey verteert snel en is rijk aan leucine, het aminozuur dat de spiereiwitsynthese triggert, wat het per gram zeer effectief maakt. De meeste losse plantaardige eiwitten zijn lager in één of meer essentiële aminozuren, dus mengsels als erwt plus rijst, of gewoon gevarieerd eten, dichten het gat.",
+          "Bij een plantaardig dieet leveren een iets hogere totale inname en een mix van bronnen dezelfde spierresultaten. Kies op basis van je dieet, spijsvertering en voorkeur; beide werken als je totale eiwitdoel wordt gehaald."
+        ],
+        "bullets": [
+          "Whey is compleet en rijk aan leucine",
+          "Combineer plantaardige bronnen als erwt en rijst voor volledige aminozuren",
+          "Plantaardige diëten: mik iets hoger, 1,7-2,3 g/kg",
+          "Beide bouwen spier op als het totale eiwit voldoende is"
+        ]
+      },
+      "protein-grams-per-pound": {
+        "heading": "Gram eiwit per pond lichaamsgewicht",
+        "lead": "Een gangbare richtlijn voor spieropbouw is 0,7 tot 1,0 g eiwit per pond lichaamsgewicht per dag, wat neerkomt op ongeveer 1,6 tot 2,2 g per kg. Voor iemand van 175 lb (79 kg) is dat ongeveer 125 tot 175 g eiwit per dag.",
+        "paragraphs": [
+          "De vuistregel van één gram per pond is populair omdat hij makkelijk te onthouden is, en hij valt dicht bij het hoge einde van het op bewijs gebaseerde bereik voor spieropbouw. In werkelijkheid werkt elke waarde tussen 0,7 en 1,0 g per pond goed voor de meesten.",
+          "Als je meer lichaamsvet hebt, voorkomt het getal baseren op je streef- of vetvrije gewicht dat je te hoog uitkomt. Reken om naar je voorkeur, want 1 g per pond is ongeveer 2,2 g per kg, en gebruik een calculator om het getal te personaliseren."
+        ],
+        "bullets": [
+          "Bereik voor spieropbouw: 0,7-1,0 g per pond per dag",
+          "Gelijk aan ongeveer 1,6-2,2 g per kg",
+          "1 g per pond is ongeveer 2,2 g per kg",
+          "Gebruik streef- of vetvrij gewicht bij hoog lichaamsvet"
+        ]
+      },
+      "how-much-protein-to-build-muscle": {
+        "heading": "Hoeveel eiwit om spier op te bouwen?",
+        "lead": "Om spier op te bouwen wijst onderzoek op 1,6 tot 2,2 g eiwit per kg lichaamsgewicht per dag, gecombineerd met progressieve krachttraining. Voor iemand van 80 kg is dat ongeveer 130 tot 175 g eiwit per dag.",
+        "paragraphs": [
+          "Een grote hoeveelheid onderzoek komt samen rond 1,6 g/kg als het punt waarop extra eiwit weinig spier meer toevoegt, met een praktisch plafond rond 2,2 g/kg. Meer eten is niet schadelijk voor gezonde mensen maar versnelt de winst zelden verder.",
+          "Eiwit is maar de helft van de vergelijking: zonder progressieve krachttraining bouwt extra eiwit op zichzelf geen spier op. Verdeel de inname over drie of vier maaltijden, houd de training consistent en eet genoeg totale calorieën om groei te ondersteunen."
+        ],
+        "bullets": [
+          "Bereik voor spieropbouw: 1,6-2,2 g/kg per dag",
+          "De winst vlakt af boven ongeveer 2,2 g/kg",
+          "Progressieve krachttraining is essentieel",
+          "Verdeel eiwit over 3-4 maaltijden"
+        ]
+      },
+      "how-much-protein-per-day": {
+        "heading": "Hoeveel eiwit per dag heb je nodig?",
+        "lead": "De dagelijkse eiwitbehoefte loopt van 0,8 g per kg voor zittende volwassenen tot 1,6-2,2 g/kg voor wie spier opbouwt. Voor iemand van 70 kg is dat ergens tussen ongeveer 56 g en 155 g, afhankelijk van activiteit en doelen.",
+        "paragraphs": [
+          "De 0,8 g/kg-aanbeveling is alleen de hoeveelheid om tekorten te voorkomen bij inactieve mensen, niet die voor optimale gezondheid of prestatie. De meeste actieve volwassenen doen het beter op 1,2-2,0 g/kg, met het exacte getal bepaald door training, leeftijd en of je aankomt of afvalt.",
+          "Gebruik je lichaamsgewicht, activiteitsniveau en doel om je persoonlijke getal te vinden in plaats van één maat voor iedereen. Dat totaal over drie of vier eiwitrijke maaltijden verdelen maakt het effectief en makkelijk haalbaar."
+        ],
+        "bullets": [
+          "Zittend minimum: 0,8 g/kg per dag",
+          "Actieve volwassenen: 1,2-2,0 g/kg per dag",
+          "Spieropbouw: 1,6-2,2 g/kg per dag",
+          "Personaliseer op gewicht, activiteit en doel"
+        ]
+      },
+      "protein-for-two-meals-a-day": {
+        "heading": "Je eiwitdoel halen met twee maaltijden per dag",
+        "lead": "Als je maar twee keer per dag eet, kun je toch 1,6-2,2 g per kg halen voor spieropbouw met grotere doses van 50-70 g per maaltijd. Iemand van 75 kg mikt op ongeveer 120 tot 165 g verdeeld over de twee.",
+        "paragraphs": [
+          "Minder maaltijden betekent dat elke maaltijd meer eiwit moet dragen, en het goede nieuws is dat grote losse doses effectief worden benut wanneer maaltijden uit elkaar liggen. Twee stevige eiwitporties kunnen je dagelijkse doel halen zolang het totaal klopt.",
+          "Bouw elke maaltijd rond een grote eiwitbron plus groenten en kwaliteitskoolhydraten en -vetten. Als één dosis van 50-70 g moeilijk te eten is, is een eiwitrijke snack of shake tussen de maaltijden een makkelijke manier om het verschil op te vangen."
+        ],
+        "bullets": [
+          "Mik op 50-70 g eiwit per maaltijd",
+          "Grote doses worden goed benut bij maaltijden uit elkaar",
+          "Totaal dagelijks eiwit telt het meest",
+          "Voeg een shake toe als één grote dosis moeilijk is"
+        ]
+      },
+      "protein-for-office-workers": {
+        "heading": "Eiwit voor kantoorwerkers en zittende banen",
+        "lead": "Als je een zittende kantoorbaan hebt, mik je op minstens 1,0 tot 1,4 g eiwit per kg lichaamsgewicht per dag, meer dan het strikte minimum, om spier te behouden en de eetlust te beheersen. Een werker van 75 kg mikt op ongeveer 75 tot 105 g per dag.",
+        "paragraphs": [
+          "Een kantoorbaan betekent weinig dagelijkse beweging, wat het makkelijk maakt om over de jaren spier te verliezen en te veel calorierijke snacks te eten. Een matig hogere eiwitinname helpt beide tegen te gaan door spier te ondersteunen en je voller te houden tussen de maaltijden.",
+          "Plan eiwitrijke maaltijden en bureauvriendelijke snacks zoals Griekse yoghurt, noten, gekookte eieren of edamame om de automaatval in de middag te vermijden. Elke krachttraining buiten werktijd toevoegen maakt dat eiwit veel nuttiger."
+        ],
+        "bullets": [
+          "Zittend doel: 1,0-1,4 g/kg per dag",
+          "Meer eiwit remt het snacken en behoudt spier",
+          "Houd bureauvriendelijke eiwitsnacks bij de hand",
+          "Voeg krachttraining buiten werktijd toe"
+        ]
+      },
+      "protein-for-hiking": {
+        "heading": "Eiwit voor wandelen en trekking",
+        "lead": "Voor lange wandelingen en meerdaagse trektochten stijgt de eiwitbehoefte naar ongeveer 1,2 tot 1,6 g per kg lichaamsgewicht per dag om spier te herstellen en de belasting aan te kunnen. Een wandelaar van 70 kg mikt op grote dagen op ongeveer 85 tot 110 g per dag.",
+        "paragraphs": [
+          "Urenlang lopen, zeker met een rugzak en over heuvels, breekt spier af en verhoogt de algehele eiwitomzet. Op meerdaagse tochten laat chronisch te weinig eiwit je zwakker en trager herstellen van dag tot dag.",
+          "Neem licht, houdbaar eiwit mee zoals gedroogd vlees, noten, kaas, tonijnzakjes en eiwitrepen, en eet er aan het eind van elke dag wat van. Balanceer eiwit met volop koolhydraten, die onderweg je belangrijkste energiebron blijven."
+        ],
+        "bullets": [
+          "Doel op grote dagen: 1,2-1,6 g/kg per dag",
+          "Meerdaagse tochten verhogen de behoefte",
+          "Neem gedroogd vlees, noten, kaas en tonijnzakjes mee",
+          "Houd de koolhydraten hoog voor energie onderweg"
+        ]
+      },
+      "protein-for-soccer-players": {
+        "heading": "Eiwit voor voetballers: dagelijkse behoefte",
+        "lead": "Voetballers hebben ongeveer 1,4 tot 1,8 g eiwit per kg lichaamsgewicht per dag nodig om sprints, herstel en spierherstel te ondersteunen in een druk wedstrijdschema. Een speler van 72 kg mikt op ongeveer 100 tot 130 g per dag.",
+        "paragraphs": [
+          "Voetbal combineert duurloop met herhaalde sprints, sprongen en duels, wat zowel aerobe als musculaire eisen stelt. Die mix legt de eiwitbehoefte boven pure duursport, vooral in periodes met opeengepakte wedstrijden en weinig hersteltijd.",
+          "Vul na wedstrijden en zware sessies aan met koolhydraten en 25-35 g eiwit om glycogeen bij te vullen en het herstel te starten. Verdeel het resterende eiwit over de maaltijden om het dagelijkse herstel door het seizoen te ondersteunen."
+        ],
+        "bullets": [
+          "Dagelijks doel: 1,4-1,8 g/kg per dag",
+          "Sprints en duels komen bovenop de dureisen",
+          "Na de wedstrijd: koolhydraten en 25-35 g eiwit",
+          "Verdeel de rest over de dagelijkse maaltijden"
+        ]
+      },
+      "protein-for-basketball-players": {
+        "heading": "Eiwit voor basketballers: hoeveel eten",
+        "lead": "Basketballers hebben ongeveer 1,4 tot 1,9 g eiwit per kg lichaamsgewicht per dag nodig om springen, sprinten en contact te voeden terwijl ze het herstel ondersteunen. Een speler van 85 kg mikt op ongeveer 120 tot 160 g per dag.",
+        "paragraphs": [
+          "De explosieve sprongen, richtingsveranderingen en het fysieke contact van basketbal veroorzaken aanzienlijke spierschade bovenop het loopvolume. Meer eiwit ondersteunt het herstel van die schade en helpt slanke, krachtige spier te behouden door een lang seizoen.",
+          "Geef prioriteit aan een eiwit-koolhydraatmaaltijd na wedstrijden en trainingen, en houd het eiwit over de dag gelijkmatig om opeenvolgende wedstrijden aan te kunnen. Volwaardige bronnen moeten voorop staan, met een shake als handige optie wanneer het schema krap is."
+        ],
+        "bullets": [
+          "Dagelijks doel: 1,4-1,9 g/kg per dag",
+          "Explosief spel voegt spierherstelvraag toe",
+          "Vul na wedstrijden aan met eiwit en koolhydraten",
+          "Houd de inname gelijkmatig in een druk schema"
+        ]
+      },
+      "protein-for-gym-beginners": {
+        "heading": "Eiwit voor sportschoolbeginners: waar te beginnen",
+        "lead": "Nieuwe sportschoolgangers zouden op ongeveer 1,4 tot 1,8 g eiwit per kg lichaamsgewicht per dag moeten mikken om hun eerste winst te ondersteunen zonder het ingewikkeld te maken. Een beginner van 70 kg mikt op ongeveer 100 tot 125 g per dag.",
+        "paragraphs": [
+          "In je eerste trainingsmaanden wordt spier makkelijk gewonnen, dus een gematigde, consistente eiwitinname volstaat om duidelijke vooruitgang te zien. Ingewikkelde supplementstapels zijn niet nodig; een solide dagdoel uit echte voeding doet het werk.",
+          "Maak er een gewoonte van elke maaltijd rond een eiwitbron te bouwen en, als het uitkomt, een shake na de training te nemen. Naarmate je sterker wordt en zwaarder traint, kun je de inname richting het spieropbouwbereik van 1,6-2,2 g/kg duwen."
+        ],
+        "bullets": [
+          "Beginnersdoel: 1,4-1,8 g/kg per dag",
+          "Vroege winst komt makkelijk met consistent eiwit",
+          "Bouw elke maaltijd rond een eiwitbron",
+          "Ga richting 1,6-2,2 g/kg naarmate je vordert"
+        ]
       }
     }
   },

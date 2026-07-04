@@ -529,6 +529,706 @@
           "Caduta dei capelli, unghie fragili e pelle che guarisce lentamente",
           "Malanni frequenti e recupero faticoso dall'allenamento"
         ]
+      },
+      "protein-for-athletes": {
+        "heading": "Proteine per gli atleti: quante al giorno?",
+        "lead": "La maggior parte degli atleti agonisti ha bisogno di 1,4-2,0 g di proteine per kg di peso corporeo al giorno, ben oltre gli 0,8 g/kg di un adulto sedentario. Per un atleta di 75 kg sono circa 105-150 g al giorno, in base al carico di allenamento e alla disciplina.",
+        "paragraphs": [
+          "Gli atleti degradano e ricostruiscono le proteine muscolari più rapidamente dei non allenati, quindi il fabbisogno giornaliero è più alto e più sensibile al timing. Gli atleti di forza e potenza si collocano in cima all'intervallo (1,6-2,0 g/kg), mentre quelli di resistenza ne richiedono un po' meno (1,2-1,6 g/kg), ma comunque molto più della popolazione generale.",
+          "Il totale giornaliero conta di più, ma la distribuzione aiuta: punta a 0,3-0,4 g/kg in ciascuno di tre o quattro pasti e includi un pasto ricco di proteine entro un paio d'ore da un allenamento intenso. Gli alimenti integrali devono essere la base, con i frullati solo per colmare le lacune nei giorni pesanti o in trasferta per la gara."
+        ],
+        "bullets": [
+          "Sport di forza e potenza: 1,6-2,0 g/kg al giorno",
+          "Sport di resistenza: 1,2-1,6 g/kg al giorno",
+          "Suddividi in 3-4 pasti da 0,3-0,4 g/kg ciascuno",
+          "Assumi proteine e carboidrati entro 2 ore dallo sforzo"
+        ]
+      },
+      "protein-for-runners": {
+        "heading": "Proteine per i corridori: fabbisogno e timing",
+        "lead": "I corridori hanno bisogno di circa 1,2-1,6 g di proteine per kg di peso corporeo al giorno, più di chi non corre ma meno degli atleti di forza. Un corridore di 65 kg punta così a circa 80-105 g al giorno per riparare il muscolo e favorire il recupero.",
+        "paragraphs": [
+          "La corsa è spesso vista come uno sport di carboidrati, ma l'impatto ripetuto danneggia fibre muscolari che le proteine ricostruiscono. I corridori ad alto chilometraggio e da maratona si collocano in cima all'intervallo, perché l'allenamento cronico e i deficit calorici possono erodere la massa magra e rallentare il recupero.",
+          "Abbina proteine e carboidrati dopo le uscite lunghe o intense per reintegrare il glicogeno e avviare la riparazione allo stesso tempo. Un rapporto di 3:1 o 4:1 tra carboidrati e proteine nella prima ora funziona bene, e distribuire il resto delle proteine nell'arco della giornata favorisce il recupero notturno."
+        ],
+        "bullets": [
+          "Obiettivo generale: 1,2-1,6 g/kg al giorno",
+          "Settimane ad alto chilometraggio: avvicinati al limite superiore",
+          "Dopo la corsa: carboidrati e 20-30 g di proteine entro un'ora",
+          "Non tagliare le proteine mentre sei a dieta per il peso gara"
+        ]
+      },
+      "protein-for-bodybuilding": {
+        "heading": "Proteine per il bodybuilding: quante per la massa",
+        "lead": "I bodybuilder assumono in genere 1,6-2,2 g di proteine per kg di peso corporeo al giorno, e fino a 2,4 g/kg in definizione per una gara. Per un bodybuilder di 90 kg sono circa 145-200 g di proteine al giorno.",
+        "paragraphs": [
+          "La sintesi proteica muscolare è massimizzata da proteine totali sufficienti e da uno stimolo di allenamento di forza. Superare di molto i 2,2 g/kg raramente aggiunge muscolo più in fretta, ma un apporto un po' più alto in definizione aiuta a proteggere la massa conquistata mentre le calorie sono basse.",
+          "La distribuzione è una vera leva per i bodybuilder: quattro o cinque pasti da 30-50 g ciascuno mantengono elevata la sintesi proteica tutto il giorno. Àncora la maggior parte dei pasti a carne magra, pesce, uova e latticini, e usa whey o un mix vegetale attorno all'allenamento per raggiungere i tuoi numeri."
+        ],
+        "bullets": [
+          "Crescita fuori stagione: 1,6-2,2 g/kg al giorno",
+          "Preparazione o definizione: fino a 2,4 g/kg per risparmiare muscolo",
+          "4-5 pasti da 30-50 g distribuiti nella giornata",
+          "Serve allenamento di forza progressivo per usare le proteine"
+        ]
+      },
+      "protein-for-endurance": {
+        "heading": "Proteine per gli sport di resistenza: fabbisogno giornaliero",
+        "lead": "Gli atleti di resistenza hanno bisogno di circa 1,2-1,6 g di proteine per kg di peso corporeo al giorno per riparare il muscolo e sostenere l'adattamento. Per un atleta di 70 kg sono circa 85-110 g al giorno, di più nei blocchi ad alto carico.",
+        "paragraphs": [
+          "Le sedute lunghe aumentano l'ossidazione delle proteine e il ricambio del tessuto connettivo, quindi gli atleti di resistenza necessitano di più della base sedentaria, anche se il focus è il carburante. Assumere poche proteine in modo cronico nelle fasi ad alto volume è una causa comune di adattamento stagnante e infortuni fastidiosi.",
+          "Poiché le sedute sono lunghe, le proteine attorno all'allenamento contano: una piccola dose durante gli sforzi ultra-lunghi e un pasto completo dopo aiutano entrambi. Mantieni alti i carboidrati per riservare le proteine alla riparazione e non all'energia, e distribuiscile in modo uniforme tra i pasti."
+        ],
+        "bullets": [
+          "Obiettivo giornaliero: 1,2-1,6 g/kg",
+          "Aumenta l'apporto nei blocchi ad alto volume o in quota",
+          "Mantieni alti i carboidrati perché le proteine riparino",
+          "Includi 20-30 g di proteine nel pasto dopo la seduta"
+        ]
+      },
+      "protein-for-cyclists": {
+        "heading": "Proteine per i ciclisti: di quante hai bisogno?",
+        "lead": "I ciclisti hanno in genere bisogno di 1,2-1,7 g di proteine per kg di peso corporeo al giorno, con il limite superiore adatto a chi fa ripetute intense o salite. Un ciclista di 70 kg punta a circa 85-120 g al giorno.",
+        "paragraphs": [
+          "Il ciclismo è a basso impatto ma ad alto volume, e gli sforzi intensi ripetuti danneggiano comunque muscolo che le proteine ricostruiscono. Chi si allena due volte al giorno, corre gare a tappe o restringe le calorie per migliorare il rapporto potenza-peso ha bisogno di proteine al limite superiore per proteggere la massa magra.",
+          "Alimenta le uscite lunghe soprattutto con carboidrati, poi combina carboidrati e proteine subito dopo per reintegrare il glicogeno e avviare il recupero. Nelle giornate di allenamento ravvicinate, una dose di proteine prima di dormire può sostenere ulteriormente la riparazione notturna."
+        ],
+        "bullets": [
+          "Obiettivo giornaliero: 1,2-1,7 g/kg",
+          "Due sedute al giorno o gare a tappe: punta più in alto",
+          "Reintegra con carboidrati e 20-30 g di proteine dopo le uscite lunghe",
+          "Proteggi la massa magra puntando al rapporto potenza-peso"
+        ]
+      },
+      "protein-for-swimmers": {
+        "heading": "Proteine per i nuotatori: recupero e prestazione",
+        "lead": "I nuotatori agonisti hanno bisogno di circa 1,4-2,0 g di proteine per kg di peso corporeo al giorno, perché uniscono un alto volume di allenamento a un notevole lavoro di forza per la parte superiore. Un nuotatore di 68 kg punta a circa 95-135 g al giorno.",
+        "paragraphs": [
+          "Il nuoto costruisce e sollecita grandi quantità di muscolo in tutto il corpo, e più sedute in vasca al giorno alzano il fabbisogno giornaliero verso l'intervallo degli atleti di forza. Proteine adeguate sostengono sia la componente di resistenza sia quella di potenza dello sport.",
+          "Poiché le sedute spesso iniziano presto e finiscono tardi, pianifica pasti e spuntini ricchi di proteine attorno agli orari della vasca. Un frullato subito dopo una serie impegnativa, seguito da un pasto completo, mantiene il recupero tra le sedute."
+        ],
+        "bullets": [
+          "Obiettivo giornaliero: 1,4-2,0 g/kg",
+          "Due sedute al giorno spingono il fabbisogno in cima all'intervallo",
+          "Tieni pronto uno spuntino proteico a bordo vasca dopo le serie dure",
+          "Distribuisci l'apporto tra pasti e frullati post-seduta"
+        ]
+      },
+      "protein-for-crossfit": {
+        "heading": "Proteine per il CrossFit: quante per recuperare e crescere",
+        "lead": "Gli atleti di CrossFit hanno in genere bisogno di 1,6-2,2 g di proteine per kg di peso corporeo al giorno, perché lo sport unisce forza, potenza e condizionamento metabolico. Per un atleta di 80 kg sono circa 130-175 g al giorno.",
+        "paragraphs": [
+          "L'allenamento funzionale ad alta intensità crea una grande richiesta di riparazione, quindi il CrossFit si colloca nello stesso intervallo proteico dell'allenamento di forza dedicato. Chi cerca insieme un fisico asciutto e migliori prestazioni trae vantaggio dal limite superiore, soprattutto in dieta.",
+          "Un buon timing aiuta a reggere i WOD quotidiani: un pasto con proteine e carboidrati entro un paio d'ore dall'allenamento, più una distribuzione uniforme su tre o quattro pasti, mantiene alto il recupero. Prima gli alimenti integrali, con un frullato per completare nei giorni di doppia seduta."
+        ],
+        "bullets": [
+          "Obiettivo giornaliero: 1,6-2,2 g/kg",
+          "Fasi di definizione: avvicinati al limite superiore",
+          "Reintegra con proteine e carboidrati dopo ogni WOD",
+          "Distribuisci le proteine su 3-4 pasti per un recupero costante"
+        ]
+      },
+      "protein-for-strength-training": {
+        "heading": "Proteine per l'allenamento di forza: apporto ottimale",
+        "lead": "Per l'allenamento di forza, punta a 1,6-2,2 g di proteine per kg di peso corporeo al giorno, l'intervallo più costantemente legato a guadagni di muscolo e forza. Una persona di 85 kg punta così a circa 135-190 g al giorno.",
+        "paragraphs": [
+          "Sollevare pesi è il segnale che dice al corpo di costruire muscolo; le proteine forniscono la materia prima. Raggiungere l'intervallo di 1,6-2,2 g/kg allenandosi in modo progressivo è ciò che guida l'adattamento, mentre spingere l'apporto molto più in alto dà rendimenti decrescenti.",
+          "Distribuisci le proteine su tre o quattro pasti da 30-45 g perché la sintesi proteica resti elevata tra le sedute. Il riposo, calorie sufficienti e allenamento costante contano tanto quanto raggiungere il tuo obiettivo proteico giornaliero."
+        ],
+        "bullets": [
+          "Obiettivo giornaliero: 1,6-2,2 g/kg",
+          "30-45 g per pasto su 3-4 pasti",
+          "Allenati in modo progressivo per usare le proteine",
+          "Non trascurare calorie totali, sonno e recupero"
+        ]
+      },
+      "protein-for-calisthenics": {
+        "heading": "Proteine per il calisthenics: muscolo a corpo libero",
+        "lead": "Gli atleti di calisthenics hanno bisogno degli stessi 1,6-2,2 g di proteine per kg di peso corporeo al giorno di chi si allena con i pesi per costruire muscolo, perché l'allenamento a corpo libero è comunque allenamento di resistenza. Un atleta di 72 kg punta a circa 115-160 g al giorno.",
+        "paragraphs": [
+          "Il progresso nel calisthenics arriva rendendo più difficili nel tempo i movimenti a corpo libero, il che stimola la crescita muscolare come farebbe un peso aggiunto. Il tuo fabbisogno proteico è quindi fissato dallo stimolo dell'allenamento, non dall'attrezzatura, e vale l'intervallo dell'allenamento di forza.",
+          "Poiché restare relativamente asciutti aiuta con skill come trazioni e leve, molti atleti di calisthenics si allenano vicino alle calorie di mantenimento. In quel caso, tenere le proteine al limite superiore protegge il muscolo mentre il grasso corporeo resta basso."
+        ],
+        "bullets": [
+          "Obiettivo giornaliero: 1,6-2,2 g/kg",
+          "Le progressioni a corpo libero contano come resistenza",
+          "Resta asciutto per le skill tenendo alte le proteine",
+          "Distribuisci su 3-4 pasti da 30-45 g"
+        ]
+      },
+      "protein-for-marathon-training": {
+        "heading": "Proteine per l'allenamento della maratona: quante e quando",
+        "lead": "Durante l'allenamento per la maratona, il fabbisogno proteico sale a circa 1,4-1,7 g per kg di peso corporeo al giorno per reggere il chilometraggio senza perdere muscolo. Un corridore di 65 kg punta a circa 90-110 g al giorno nelle settimane di picco.",
+        "paragraphs": [
+          "Il volume di una preparazione alla maratona danneggia muscolo e tessuto connettivo settimana dopo settimana, e molti corridori assumono involontariamente poche proteine perché si concentrano sui carboidrati. Raggiungere il limite superiore nelle settimane di picco protegge la massa magra, sostiene il sistema immunitario e accelera il recupero tra i lunghi.",
+          "Reintegra dopo i lunghi con carboidrati e 20-30 g di proteine, poi mantieni le proteine uniformi per il resto della giornata. Nello scarico puoi tornare verso 1,2-1,4 g/kg man mano che il volume cala."
+        ],
+        "bullets": [
+          "Picco di allenamento: 1,4-1,7 g/kg al giorno",
+          "Settimane di scarico: torna verso 1,2-1,4 g/kg",
+          "Recupero dal lungo: carboidrati e 20-30 g di proteine",
+          "Distribuisci il resto in modo uniforme nei pasti"
+        ]
+      },
+      "protein-for-cutting": {
+        "heading": "Proteine in definizione: preserva il muscolo perdendo grasso",
+        "lead": "In definizione, un apporto più alto di 1,8-2,7 g di proteine per kg di peso corporeo al giorno protegge il muscolo nel deficit calorico. Un atleta più asciutto di 80 kg punta spesso a circa 160-190 g al giorno durante la dieta.",
+        "paragraphs": [
+          "Nel deficit calorico il corpo tende di più a degradare muscolo per ricavare energia, e un apporto proteico alto è la difesa alimentare più efficace contro questo. Più sei asciutto ed esperto, più vicino al limite superiore dell'intervallo dovresti puntare.",
+          "Le proteine saziano anche di più con meno calorie, il che rende la dieta più facile da sostenere. Combina l'apporto proteico alto con l'allenamento di forza per inviare il segnale che il muscolo va mantenuto mentre il grasso viene perso."
+        ],
+        "bullets": [
+          "Obiettivo nel deficit: 1,8-2,7 g/kg al giorno",
+          "Più asciutto o avanzato: punta più in alto nell'intervallo",
+          "Le proteine migliorano la sazietà con meno calorie",
+          "Continua ad allenarti per segnalare la ritenzione muscolare"
+        ]
+      },
+      "protein-for-bulking": {
+        "heading": "Proteine per la massa: quante per guadagnare muscolo",
+        "lead": "Per una fase di massa muscolare, 1,6-2,2 g di proteine per kg di peso corporeo al giorno bastano insieme a un surplus calorico. Una persona di 78 kg punta a circa 125-170 g al giorno mentre mangia per crescere.",
+        "paragraphs": [
+          "La massa funziona perché un surplus calorico più l'allenamento guidano la crescita; le proteine forniscono i mattoni ma non serve mangiarne in quantità eccessive. Una volta raggiunti 1,6-2,2 g/kg, le calorie extra rendono di più come carboidrati e grassi per nutrire allenamento e recupero.",
+          "Mantieni il surplus moderato, circa 250-500 calorie sopra il mantenimento, per guadagnare soprattutto muscolo e non grasso. Distribuisci le proteine nei pasti e mantieni l'allenamento progressivo per trasformare quelle calorie extra in tessuto magro."
+        ],
+        "bullets": [
+          "Obiettivo in massa: 1,6-2,2 g/kg al giorno",
+          "Usa un surplus moderato di 250-500 kcal",
+          "Le calorie oltre le proteine vengono da carboidrati e grassi",
+          "L'allenamento progressivo trasforma il surplus in muscolo"
+        ]
+      },
+      "protein-for-body-recomposition": {
+        "heading": "Proteine per la ricomposizione corporea: muscolo e meno grasso",
+        "lead": "La ricomposizione corporea funziona meglio con proteine alte di 1,8-2,4 g per kg di peso corporeo al giorno allenandosi vicino al mantenimento. Una persona di 75 kg punta a circa 135-180 g al giorno per guadagnare muscolo e perdere grasso insieme.",
+        "paragraphs": [
+          "La ricomposizione, guadagnare muscolo e perdere grasso insieme, è più fattibile per i principianti, per chi rientra dopo una pausa e per chi ha più grasso corporeo. Un apporto proteico alto è il filo comune di ogni ricomposizione riuscita perché sostiene la crescita muscolare anche senza surplus.",
+          "Mangia attorno alle calorie di mantenimento, tieni alte le proteine e allenati con resistenza progressiva da due a quattro volte a settimana. Il progresso è più lento di una massa o una definizione dedicate, quindi segui forza e misure invece del solo peso sulla bilancia."
+        ],
+        "bullets": [
+          "Obiettivo di ricomposizione: 1,8-2,4 g/kg al giorno",
+          "Mangia vicino al mantenimento, senza grande surplus o deficit",
+          "Risultati migliori nei principianti e con più grasso corporeo",
+          "Valuta il progresso da forza e misure, non dalla bilancia"
+        ]
+      },
+      "protein-for-lean-bulk": {
+        "heading": "Proteine per la massa pulita: muscolo con poco grasso",
+        "lead": "Una massa pulita usa 1,6-2,2 g di proteine per kg di peso corporeo al giorno insieme a un piccolo surplus calorico per aggiungere muscolo con poco grasso. Un atleta di 76 kg punta a circa 120-165 g di proteine al giorno.",
+        "paragraphs": [
+          "L'obiettivo di una massa pulita è un aumento lento e controllato, quindi il surplus resta piccolo, circa 200-350 calorie sopra il mantenimento. Il fabbisogno proteico è lo stesso di ogni fase di costruzione, ma il controllo calorico più stretto fa sì che il peso guadagnato sia soprattutto muscolo.",
+          "Punta a circa 0,25-0,5 kg di guadagno al mese e regola le calorie se la bilancia sale troppo in fretta. Proteine costanti, allenamento progressivo e pazienza distinguono una massa pulita da una trascurata."
+        ],
+        "bullets": [
+          "Obiettivo proteico: 1,6-2,2 g/kg al giorno",
+          "Mantieni il surplus piccolo, circa 200-350 kcal",
+          "Punta a 0,25-0,5 kg guadagnati al mese",
+          "Regola le calorie se il peso sale troppo in fretta"
+        ]
+      },
+      "protein-for-fat-loss": {
+        "heading": "Proteine per perdere grasso: l'apporto che funziona",
+        "lead": "Per perdere grasso, punta a 1,6-2,4 g di proteine per kg di peso corporeo al giorno per proteggere il muscolo e controllare la fame. Una persona di 80 kg punta a circa 130-190 g al giorno in deficit calorico.",
+        "paragraphs": [
+          "Le proteine sono il macronutriente più importante nella perdita di grasso per due motivi: preservano il muscolo nel deficit e sono il macronutriente più saziante per caloria. Insieme rendono la dieta più efficace e molto più facile da rispettare.",
+          "Basa ogni pasto su una fonte di proteine, aggiungi abbondante verdura per il volume e lascia che carboidrati e grassi completino le calorie restanti. Mantenere un po' di allenamento di forza nella settimana dice al corpo di tenere il muscolo mentre il grasso se ne va."
+        ],
+        "bullets": [
+          "Obiettivo nel deficit: 1,6-2,4 g/kg al giorno",
+          "Le proteine sono il macronutriente più saziante per caloria",
+          "Costruisci ogni pasto attorno a una fonte di proteine",
+          "Continua ad allenarti per preservare il muscolo in dieta"
+        ]
+      },
+      "protein-for-maintaining-muscle": {
+        "heading": "Proteine per mantenere la massa muscolare",
+        "lead": "Per mantenere il muscolo esistente, di solito bastano 1,2-1,6 g di proteine per kg di peso corporeo al giorno, più del minimo di 0,8 g/kg ma meno di una fase di costruzione. Una persona di 75 kg punta a circa 90-120 g al giorno.",
+        "paragraphs": [
+          "Mantenere il muscolo richiede meno proteine che costruirlo, ma sensibilmente più della dose base, fissata solo per prevenire carenze. Questo conta nelle fasi di mantenimento, nei periodi intensi o nelle pause dall'allenamento duro quando la crescita non è l'obiettivo.",
+          "Mantieni almeno un po' di stimolo di resistenza o carico nella settimana, anche ridotto, perché il muscolo che hai abbia un motivo per restare. Una distribuzione uniforme nei pasti aiuta a tenere stabile la sintesi proteica giorno dopo giorno."
+        ],
+        "bullets": [
+          "Obiettivo di mantenimento: 1,2-1,6 g/kg al giorno",
+          "Ben oltre il minimo di 0,8 g/kg",
+          "Mantieni un po' di stimolo di allenamento per tenere il muscolo",
+          "Distribuisci le proteine in modo uniforme nei pasti"
+        ]
+      },
+      "protein-for-beginners": {
+        "heading": "Proteine per principianti: una guida semplice per iniziare",
+        "lead": "Se sei nuovo all'allenamento, punta a circa 1,4-1,8 g di proteine per kg di peso corporeo al giorno, un obiettivo realistico che sostiene i primi guadagni muscolari. Un principiante di 70 kg punta a circa 100-125 g al giorno.",
+        "paragraphs": [
+          "I principianti in realtà costruiscono muscolo con grande efficienza, quindi non serve un apporto estremo per vedere risultati. Raggiungere un obiettivo proteico moderato e costante conta molto di più nei primi mesi che inseguire il vertice assoluto dell'intervallo.",
+          "Inizia aggiungendo una fonte di proteine a ogni pasto, come uova a colazione, pollo o legumi a pranzo, e pesce o tofu a cena. Costruisci prima l'abitudine, poi affina le quantità man mano che allenamento e appetito crescono."
+        ],
+        "bullets": [
+          "Obiettivo da principiante: 1,4-1,8 g/kg al giorno",
+          "I principianti guadagnano muscolo senza apporti estremi",
+          "Aggiungi una fonte di proteine a ogni pasto",
+          "La costanza batte la precisione nei primi mesi"
+        ]
+      },
+      "protein-for-home-workouts": {
+        "heading": "Proteine per l'allenamento a casa: quante ti servono",
+        "lead": "Allenarsi a casa richiede comunque 1,4-2,0 g di proteine per kg di peso corporeo al giorno se vuoi costruire o mantenere muscolo. Una persona di 70 kg punta a circa 100-140 g al giorno a seconda dell'intensità.",
+        "paragraphs": [
+          "I tuoi muscoli non distinguono una palestra da un soggiorno; ciò che conta è che l'allenamento sia impegnativo e progressivo. Elastici, manubri o progressioni a corpo libero creano tutti una richiesta di riparazione che lo stesso intervallo proteico copre.",
+          "Non servono integratori speciali per allenarsi a casa. Alimenti di tutti i giorni come uova, yogurt greco, lenticchie, pollo e pesce in scatola coprono l'obiettivo con facilità, con un frullato come opzione comoda."
+        ],
+        "bullets": [
+          "Obiettivo giornaliero: 1,4-2,0 g/kg a seconda dell'intensità",
+          "L'allenamento progressivo a casa crea le stesse esigenze della palestra",
+          "Gli alimenti di tutti i giorni coprono l'obiettivo senza integratori",
+          "Elastici, manubri e corpo libero contano"
+        ]
+      },
+      "protein-per-meal": {
+        "heading": "Quante proteine per pasto per costruire muscolo?",
+        "lead": "Per massimizzare la sintesi proteica muscolare, punta a circa 0,4 g di proteine per kg di peso corporeo per pasto, circa 25-40 g per la maggior parte degli adulti. Distribuire l'apporto su tre o quattro pasti così è più efficace di uno o due grandi.",
+        "paragraphs": [
+          "Ogni pasto ricco di proteine innesca un picco di sintesi proteica che dura alcune ore, e c'è un tetto pratico a quanto un singolo pasto la stimola. Per questo distribuire le proteine nell'arco della giornata di solito batte il concentrarle tutte a cena.",
+          "Circa 25-40 g di proteine di qualità per pasto, con circa 2,5-3 g di leucina, bastano a raggiungere quel tetto per la maggior parte. Persone più grandi o molto muscolose possono aver bisogno del limite superiore, e un pasto prima di dormire può aggiungere una quarta assunzione utile."
+        ],
+        "bullets": [
+          "Punta a circa 0,4 g/kg per pasto (25-40 g per la maggior parte)",
+          "Mira a 3-4 assunzioni di proteine al giorno",
+          "Ogni pasto ha bisogno di circa 2,5-3 g di leucina",
+          "Distribuire le proteine batte una singola dose grande"
+        ]
+      },
+      "protein-before-bed": {
+        "heading": "Proteine prima di dormire: aiutano la crescita muscolare?",
+        "lead": "Assumere 30-40 g di proteine a digestione lenta prima di dormire può sostenere la riparazione e il recupero muscolare durante la notte. La caseina, presente nei latticini, è ideale perché rilascia gli amminoacidi in modo graduale nel corso della notte.",
+        "paragraphs": [
+          "Durante il sonno il corpo continua a riparare il muscolo, e un'assunzione di proteine prima di dormire fornisce amminoacidi per quel processo per tutta la notte. La ricerca mostra che una dose di 30-40 g di caseina prima di dormire può aumentare la sintesi proteica notturna, soprattutto dopo un allenamento serale.",
+          "È più utile se le proteine diurne sono state basse o se ti alleni la sera. Buone opzioni sono yogurt greco, fiocchi di latte, latte o un frullato di caseina, idealmente come parte di una normale routine serale e non di un pasto extra abbondante."
+        ],
+        "bullets": [
+          "Dose prima di dormire: 30-40 g di proteine lente",
+          "La caseina dei latticini si digerisce lentamente di notte",
+          "Più utile dopo allenamento serale o con basso apporto diurno",
+          "Yogurt greco, fiocchi di latte o latte vanno bene"
+        ]
+      },
+      "protein-after-workout": {
+        "heading": "Proteine dopo l'allenamento: quante e in quanto tempo?",
+        "lead": "Un pasto post-allenamento con circa 20-40 g di proteine sostiene la riparazione muscolare, e la finestra temporale è più ampia di quanto si credesse. Assumere proteine di qualità entro un paio d'ore dall'allenamento è l'obiettivo pratico per la maggior parte.",
+        "paragraphs": [
+          "L'idea di una finestra anabolica stretta è stata esagerata; ciò che conta di più è l'apporto proteico totale giornaliero e una buona dose attorno all'allenamento. Per la maggior parte, 20-40 g di proteine dopo una seduta coprono comodamente la richiesta di riparazione.",
+          "Se ti sei allenato a digiuno o non mangi da diverse ore, l'assunzione post-allenamento diventa più importante e prima è meglio. Altrimenti, un normale pasto ricco di proteine entro un paio d'ore dalla fine assolve il compito."
+        ],
+        "bullets": [
+          "Dose post-allenamento: 20-40 g di proteine",
+          "La finestra anabolica è di ore, non di minuti",
+          "L'allenamento a digiuno rende più importante un'assunzione rapida",
+          "L'apporto proteico totale giornaliero conta comunque di più"
+        ]
+      },
+      "protein-before-workout": {
+        "heading": "Proteine prima dell'allenamento: ne vale la pena?",
+        "lead": "Un pasto pre-allenamento con 20-30 g di proteine due o tre ore prima può migliorare il recupero e ridurre la degradazione muscolare. Se ti alleni a digiuno, un'assunzione poco dopo diventa più importante.",
+        "paragraphs": [
+          "Mangiare proteine prima dell'allenamento mantiene amminoacidi disponibili nel sangue durante e dopo la seduta, il che sostiene la riparazione. Un pasto misto due o tre ore prima è ideale, ma anche uno spuntino proteico più piccolo vicino all'allenamento aiuta se un pasto completo non è pratico.",
+          "Le proteine prima e dopo l'allenamento sono in parte interscambiabili, quindi non serve che entrambe siano abbondanti. Ciò che conta è assumere proteine di qualità ragionevolmente vicino alla seduta, da un lato o dall'altro."
+        ],
+        "bullets": [
+          "Dose pre-allenamento: 20-30 g, 2-3 ore prima",
+          "Mantiene amminoacidi disponibili durante l'allenamento",
+          "Uno spuntino più piccolo va bene se non c'è spazio per un pasto",
+          "L'allenamento a digiuno aumenta il valore di mangiare poco dopo"
+        ]
+      },
+      "protein-for-breakfast": {
+        "heading": "Quante proteine a colazione? Una guida pratica",
+        "lead": "Punta ad almeno 25-30 g di proteine a colazione per avviare la sintesi proteica e frenare l'appetito nel corso della mattina. La maggior parte delle colazioni tipiche resta ben al di sotto senza uno sforzo consapevole.",
+        "paragraphs": [
+          "Molte persone assumono gran parte delle proteine a cena e pochissime a colazione, sprecando l'occasione di stimolare la sintesi proteica prima nella giornata. Anticipare più proteine a colazione aiuta a bilanciare l'apporto e migliora la sazietà.",
+          "Raggiungere 25-30 g è facile con qualche cambio: uova, yogurt greco, fiocchi di latte, latte o una misura di whey nell'avena o in un frullato. Una colazione più proteica tende anche a ridurre gli spuntini di metà mattina."
+        ],
+        "bullets": [
+          "Obiettivo a colazione: almeno 25-30 g di proteine",
+          "Bilancia una giornata di solito sbilanciata sulla cena",
+          "Uova, yogurt greco o whey lo rendono facile",
+          "Le colazioni più proteiche riducono gli spuntini mattutini"
+        ]
+      },
+      "protein-for-recovery": {
+        "heading": "Proteine per il recupero muscolare: quante per riparare",
+        "lead": "Per recuperare bene da un allenamento duro, la maggior parte delle persone attive ha bisogno di 1,6-2,2 g di proteine per kg di peso corporeo al giorno, distribuiti in modo uniforme nei pasti. Una persona di 75 kg punta a circa 120-165 g al giorno.",
+        "paragraphs": [
+          "Il recupero è il momento in cui l'adattamento avviene davvero, e le proteine forniscono gli amminoacidi che ricostruiscono il muscolo danneggiato. Raggiungere un obiettivo giornaliero più alto e distribuirlo nei pasti mantiene costante la riparazione, mentre un apporto cronicamente basso ti lascia indolenzito e mal recuperato.",
+          "Combina proteine adeguate con calorie totali sufficienti, carboidrati per reintegrare il glicogeno e un buon sonno. Le proteine da sole non possono sistemare il recupero se mangi poco in generale o dormi poco."
+        ],
+        "bullets": [
+          "Obiettivo di recupero: 1,6-2,2 g/kg al giorno",
+          "Distribuisci in modo uniforme su 3-4 pasti",
+          "Reintegra il glicogeno anche con i carboidrati",
+          "Sonno e calorie totali fanno parte del recupero"
+        ]
+      },
+      "protein-for-keto-diet": {
+        "heading": "Proteine nella dieta keto: quante sono giuste?",
+        "lead": "In una dieta chetogenica, un apporto proteico moderato di circa 1,2-1,7 g per kg di peso corporeo al giorno sostiene il muscolo senza disturbare la chetosi nella maggior parte dei casi. Una persona di 75 kg punta a circa 90-130 g al giorno.",
+        "paragraphs": [
+          "La keto è una dieta ricca di grassi e molto povera di carboidrati, e un mito comune è che troppe proteine ti facciano uscire dalla chetosi. Per la grande maggioranza, un apporto proteico da moderato ad abbastanza alto va bene e aiuta a preservare il muscolo mentre il grasso è il carburante principale.",
+          "Dai priorità a proteine e grassi, tieni bassi i carboidrati e regola in base agli obiettivi: più proteine se ti alleni con i pesi, un po' meno se punti a una chetosi terapeutica. Concentrati su fonti integrali come uova, carne, pesce e formaggio."
+        ],
+        "bullets": [
+          "Obiettivo keto: 1,2-1,7 g/kg al giorno",
+          "Proteine moderate raramente disturbano la chetosi",
+          "Chi si allena con i pesi può stare al limite superiore",
+          "Costruisci i pasti con uova, carne, pesce e formaggio"
+        ]
+      },
+      "protein-for-intermittent-fasting": {
+        "heading": "Proteine e digiuno intermittente: raggiungere l'obiettivo",
+        "lead": "Il digiuno intermittente non cambia quante proteine ti servono, circa 1,6-2,2 g per kg al giorno per il muscolo, ma le comprime in una finestra alimentare più breve. Una persona di 75 kg punta comunque a circa 120-165 g al giorno.",
+        "paragraphs": [
+          "La sfida del digiuno è far stare le stesse proteine in meno pasti, il che può significare due o tre assunzioni più abbondanti da 40-60 g ciascuna. Poiché ogni pasto è più grande, la distribuzione nell'arco della giornata conta meno, ma raggiungere il totale diventa il compito principale.",
+          "Rompi il digiuno con un pasto sostanzioso ricco di proteine e pianifica la finestra perché ci stiano comodamente almeno due o tre buone assunzioni di proteine. Se ti alleni a digiuno, cerca di mangiare poco dopo aver finito."
+        ],
+        "bullets": [
+          "Il fabbisogno totale non cambia: circa 1,6-2,2 g/kg",
+          "Fallo stare in 2-3 pasti più abbondanti da 40-60 g",
+          "Rompi il digiuno con un pasto ricco di proteine",
+          "Mangia poco dopo l'allenamento a digiuno"
+        ]
+      },
+      "protein-for-weight-gain": {
+        "heading": "Proteine per aumentare di peso: come svilupparsi",
+        "lead": "Per aumentare di peso come muscolo, combina un surplus calorico con 1,6-2,2 g di proteine per kg di peso corporeo al giorno. Una persona di 65 kg punta a circa 105-145 g di proteine al giorno mangiando di più in generale.",
+        "paragraphs": [
+          "Un aumento di peso sano è guidato da un surplus calorico, ma proteine e allenamento di forza decidono quanto di quell'aumento è muscolo e non grasso. Raggiungere l'obiettivo proteico mangiando sopra il mantenimento ti permette di svilupparti in modo controllato.",
+          "Se fatichi a mangiare abbastanza, aggiungi alimenti densi di calorie ma nutrienti come creme di frutta secca, latte intero, avena e olio d'oliva, e usa i frullati per completare. Punta a un aumento costante di circa 0,25-0,5 kg a settimana."
+        ],
+        "bullets": [
+          "Obiettivo proteico: 1,6-2,2 g/kg al giorno",
+          "Mangia sopra il mantenimento per un surplus calorico",
+          "L'allenamento di forza orienta l'aumento verso il muscolo",
+          "Punta a 0,25-0,5 kg guadagnati a settimana"
+        ]
+      },
+      "protein-for-skinny-guys": {
+        "heading": "Proteine per i magri: guadagnare muscolo da hardgainer",
+        "lead": "Le persone naturalmente magre (hardgainer) hanno bisogno di 1,6-2,2 g di proteine per kg di peso corporeo al giorno più un chiaro surplus calorico per costruire muscolo. Un hardgainer di 60 kg punta a circa 95-130 g di proteine al giorno.",
+        "paragraphs": [
+          "Per le persone magre, il maggiore ostacolo al muscolo è di solito mangiare abbastanza calorie totali, non una carenza di proteine in sé. Raggiungi il tuo numero di proteine, poi concentrati sull'aggiungere alimenti densi di calorie per stare in modo affidabile sopra il mantenimento ogni giorno.",
+          "Abbina il surplus a un semplice programma di forza progressiva e sii paziente, perché guadagnare muscolo è lento. Le calorie liquide come latte e frullati aiutano quando un grande appetito è difficile da avere."
+        ],
+        "bullets": [
+          "Obiettivo proteico: 1,6-2,2 g/kg al giorno",
+          "Le calorie totali sono il limite principale dell'hardgainer",
+          "Usa alimenti densi di calorie e calorie liquide",
+          "Allenati in modo progressivo e sii paziente"
+        ]
+      },
+      "protein-for-over-40": {
+        "heading": "Proteine dopo i 40 anni: perché ne serve di più",
+        "lead": "Dopo i 40 anni, punta ad almeno 1,2-1,6 g di proteine per kg di peso corporeo al giorno per contrastare la graduale perdita di muscolo che inizia nella mezza età. Un adulto di 75 kg punta a circa 90-120 g al giorno.",
+        "paragraphs": [
+          "Dai quaranta in poi, il muscolo diventa un po' più resistente al segnale di costruzione di proteine e allenamento, un fenomeno chiamato resistenza anabolica. Mangiare più proteine dei giovani adulti, e abbinarle all'esercizio di forza, aiuta a superarlo e a preservare la forza.",
+          "La distribuzione conta di più con l'età: raggiungere 30-40 g per pasto è più efficace di quantità minori, perché ogni pasto deve essere abbastanza grande da innescare la sintesi proteica. Dai priorità alle proteine a colazione, spesso il pasto con meno proteine."
+        ],
+        "bullets": [
+          "Obiettivo dai 40: almeno 1,2-1,6 g/kg al giorno",
+          "Il muscolo che invecchia ha bisogno di uno stimolo proteico maggiore",
+          "Punta a 30-40 g per pasto",
+          "Abbina all'allenamento di forza per mantenere la forza"
+        ]
+      },
+      "protein-for-over-50": {
+        "heading": "Proteine dopo i 50 anni: proteggere muscolo e forza",
+        "lead": "Gli adulti oltre i 50 anni dovrebbero puntare a 1,2-1,5 g di proteine per kg di peso corporeo al giorno, ben oltre la dose standard, per rallentare la perdita di muscolo legata all'età. Un adulto di 70 kg punta a circa 85-105 g al giorno.",
+        "paragraphs": [
+          "La perdita di muscolo accelera dopo i 50, e la vecchia indicazione di 0,8 g/kg è oggi considerata troppo bassa per un invecchiamento sano. Un apporto più alto, distribuito nei pasti e abbinato all'allenamento di forza, protegge il muscolo che ti tiene mobile e autonomo.",
+          "Poiché l'appetito spesso cala con l'età, concentrati su alimenti densi di proteine e facili da mangiare come uova, latticini, pesce e legumi. Raggiungere 25-30 g per pasto è un modo pratico di tenere attiva la sintesi proteica."
+        ],
+        "bullets": [
+          "Obiettivo dopo i 50: 1,2-1,5 g/kg al giorno",
+          "La dose di 0,8 g/kg è troppo bassa per invecchiare in salute",
+          "Punta a 25-30 g per pasto",
+          "L'allenamento di forza preserva forza e mobilità"
+        ]
+      },
+      "protein-for-menopause": {
+        "heading": "Proteine in menopausa: quante e perché",
+        "lead": "Durante e dopo la menopausa, punta a circa 1,2-1,6 g di proteine per kg di peso corporeo al giorno per proteggere muscolo e osso mentre gli estrogeni calano. Una donna di 68 kg punta a circa 80-110 g al giorno.",
+        "paragraphs": [
+          "Il calo degli estrogeni in menopausa accelera la perdita di muscolo e di densità ossea, e proteine più alte abbinate all'allenamento di forza sono un modo chiave per contrastare entrambe. Proteine adeguate sostengono anche la composizione corporea in un momento in cui il grasso tende a ridistribuirsi.",
+          "Distribuisci le proteine nei pasti, puntando a 25-30 g ciascuno, e dai loro priorità a colazione dove l'apporto è spesso più basso. Abbina questo all'allenamento di forza due o tre volte a settimana e a calcio e vitamina D sufficienti per la salute delle ossa."
+        ],
+        "bullets": [
+          "Obiettivo: 1,2-1,6 g/kg al giorno",
+          "Protegge muscolo e osso mentre gli estrogeni calano",
+          "Punta a 25-30 g per pasto",
+          "Abbina all'allenamento di forza e a calcio sufficiente"
+        ]
+      },
+      "protein-for-pcos": {
+        "heading": "Proteine e PCOS: come aiutano nella gestione",
+        "lead": "Una dieta più ricca di proteine, di circa 1,2-1,6 g per kg di peso corporeo al giorno, può aiutare nella PCOS migliorando la sazietà e sostenendo il controllo della glicemia. Una donna di 70 kg punta a circa 85-110 g al giorno.",
+        "paragraphs": [
+          "Molte donne con PCOS hanno insulino-resistenza, e i pasti più ricchi di proteine attenuano i picchi glicemici e aumentano la sazietà rispetto a quelli carichi di carboidrati. Questo può rendere più raggiungibile la gestione del peso, obiettivo comune nella PCOS.",
+          "Costruisci i pasti attorno a proteine e fibre, abbina i carboidrati alle proteine per attenuarne l'impatto glicemico e combina la dieta con un'attività regolare. Questa è un'indicazione nutrizionale generale, non una terapia medica, quindi lavora con il tuo medico su un piano complessivo."
+        ],
+        "bullets": [
+          "Obiettivo: 1,2-1,6 g/kg al giorno",
+          "Più proteine migliorano sazietà e controllo della glicemia",
+          "Abbina i carboidrati a proteine e fibre",
+          "Solo indicazione generale; consulta il tuo medico"
+        ]
+      },
+      "protein-for-breastfeeding": {
+        "heading": "Proteine durante l'allattamento: fabbisogno giornaliero",
+        "lead": "L'allattamento aumenta il fabbisogno proteico di circa 20-25 g al giorno oltre l'apporto abituale per sostenere la produzione di latte. Molte madri che allattano stanno bene attorno a 1,3-1,5 g di proteine per kg di peso corporeo al giorno.",
+        "paragraphs": [
+          "Produrre latte materno attinge alle tue riserve di proteine, quindi il fabbisogno è più alto che in gravidanza e ben oltre la base generale. Soddisfarlo sostiene sia una sana produzione di latte sia il tuo recupero ed energia nel post-parto.",
+          "Distribuisci le proteine tra pasti e spuntini regolari, il che aiuta anche con la fame frequente dell'allattamento. Concentrati su fonti dense di nutrienti e idratati bene; questa è un'indicazione generale, quindi verifica il tuo fabbisogno individuale con il tuo professionista sanitario."
+        ],
+        "bullets": [
+          "Aggiungi circa 20-25 g al giorno oltre la base",
+          "Molte madri stanno bene a 1,3-1,5 g/kg al giorno",
+          "Spuntini proteici frequenti aiutano con la fame",
+          "Indicazione generale; conferma il fabbisogno col professionista"
+        ]
+      },
+      "protein-for-postpartum": {
+        "heading": "Proteine nel post-parto: sostenere il recupero",
+        "lead": "Nelle settimane dopo il parto, un apporto proteico di circa 1,2-1,6 g per kg di peso corporeo al giorno sostiene la riparazione dei tessuti e il recupero. Se allatti, aggiungi circa 20-25 g al giorno per la produzione di latte.",
+        "paragraphs": [
+          "Il corpo ha bisogno di proteine extra per guarire dopo il parto, ricostruire i tessuti e, se allatti, produrre latte. Un apporto adeguato aiuta anche a preservare il muscolo in un periodo impegnativo di sonno interrotto e pasti irregolari.",
+          "Tieni a portata di mano alimenti facili e ricchi di proteine, come yogurt, uova, formaggio, frutta secca e carne già cotta, per mangiare bene anche con poco tempo. Questa è un'indicazione nutrizionale generale; il tuo professionista può adattarla al tuo recupero."
+        ],
+        "bullets": [
+          "Obiettivo di recupero: 1,2-1,6 g/kg al giorno",
+          "Aggiungi 20-25 g al giorno se allatti",
+          "Tieni a portata spuntini proteici veloci",
+          "Indicazione generale; personalizza col professionista"
+        ]
+      },
+      "protein-for-kids": {
+        "heading": "Proteine per i bambini: di quante hanno bisogno?",
+        "lead": "I bambini in età scolare hanno bisogno di circa 0,95 g di proteine per kg di peso corporeo al giorno, che per un bambino di 30 kg sono circa 28 g. Il fabbisogno si soddisfa meglio con alimenti di tutti i giorni che con integratori.",
+        "paragraphs": [
+          "I bambini hanno bisogno di proteine per la crescita e per il mantenimento, ma la quantità per chilo è solo modestamente più alta di quella degli adulti e si copre facilmente con una dieta equilibrata. La maggior parte dei bambini nei Paesi sviluppati raggiunge l'obiettivo senza sforzi particolari.",
+          "Offri proteine a ogni pasto da fonti varie come latte, uova, yogurt, legumi, pollo e pesce. Integratori e frullati di proteine sono in genere non necessari per bambini sani; gli alimenti integrali forniscono proteine e gli altri nutrienti che la crescita richiede."
+        ],
+        "bullets": [
+          "Obiettivo in età scolare: circa 0,95 g/kg al giorno",
+          "Un bambino di 30 kg ha bisogno di circa 28 g al giorno",
+          "Gli alimenti integrali coprono il fabbisogno con facilità",
+          "Gli integratori sono di solito non necessari per bambini sani"
+        ]
+      },
+      "protein-for-toddlers": {
+        "heading": "Proteine per i bambini piccoli: una guida semplice",
+        "lead": "I bambini da uno a tre anni hanno bisogno di circa 1,05 g di proteine per kg di peso corporeo al giorno, circa 13 g per un bambino tipico di 12 kg. Piccole porzioni frequenti di alimenti familiari coprono questo con facilità.",
+        "paragraphs": [
+          "I bambini piccoli crescono in fretta ma mangiano poco, quindi le proteine si forniscono meglio in piccole porzioni distribuite su più pasti e spuntini. Latte e latticini da soli spesso forniscono buona parte delle proteine di un bambino piccolo, con altri alimenti a completare il resto.",
+          "Buone opzioni sono yogurt intero, formaggio, uova, legumi ben cotti, e carne e pesce tritati fini o sfilacciati. Non servono integratori di proteine; una dieta varia soddisfa il fabbisogno, e puoi verificare i dettagli con il pediatra."
+        ],
+        "bullets": [
+          "Obiettivo 1-3 anni: circa 1,05 g/kg al giorno",
+          "Circa 13 g al giorno per un bambino di 12 kg",
+          "I latticini forniscono buona parte delle proteine",
+          "Nessun integratore; chiedi al pediatra in caso di dubbio"
+        ]
+      },
+      "protein-for-hair-growth": {
+        "heading": "Proteine per la crescita dei capelli: aiutano?",
+        "lead": "I capelli sono fatti in gran parte della proteina cheratina, quindi una dieta che raggiunge almeno 0,8-1,2 g di proteine per kg di peso corporeo al giorno sostiene una normale crescita dei capelli. Una carenza può causare assottigliamento e caduta.",
+        "paragraphs": [
+          "Poiché i follicoli piliferi sono tra i tessuti metabolicamente più attivi, sono sensibili a un basso apporto di proteine, e una carenza prolungata può spingere i capelli in una fase di caduta. Soddisfare il fabbisogno proteico di base è quindi una base per capelli sani.",
+          "Tuttavia mangiare ben oltre un apporto adeguato non farà crescere i capelli più in fretta; le proteine extra aiutano solo se prima eri a corto. Sostieni i capelli con una nutrizione complessivamente equilibrata che includa ferro, zinco e calorie sufficienti, non con proteine in eccesso da sole."
+        ],
+        "bullets": [
+          "Raggiungi almeno 0,8-1,2 g/kg al giorno",
+          "I capelli sono costruiti dalla proteina cheratina",
+          "Una carenza può causare assottigliamento e caduta",
+          "Le proteine extra aiutano solo se eri carente"
+        ]
+      },
+      "protein-for-skin": {
+        "heading": "Proteine per la salute della pelle e il collagene",
+        "lead": "La tua pelle dipende dalle proteine collagene ed elastina, quindi raggiungere almeno 0,8-1,2 g di proteine per kg di peso corporeo al giorno sostiene la sua struttura e riparazione. Proteine adeguate favoriscono la guarigione delle ferite e la resistenza della pelle.",
+        "paragraphs": [
+          "Il collagene, la principale proteina strutturale della pelle, è costruito dagli amminoacidi forniti dalle proteine alimentari. Una dieta che soddisfa in modo costante il tuo fabbisogno proteico dà al corpo la materia prima per mantenere e riparare la pelle, soprattutto dopo una lesione.",
+          "Sebbene gli integratori di collagene siano popolari, semplicemente mangiare abbastanza proteine totali, insieme alla vitamina C necessaria per produrre collagene, copre le basi. Nessuna quantità di proteine extra sostituisce la protezione solare e la cura generale della pelle."
+        ],
+        "bullets": [
+          "Raggiungi almeno 0,8-1,2 g/kg al giorno",
+          "Collagene ed elastina sono costruiti dalle proteine alimentari",
+          "La vitamina C è necessaria per produrre collagene",
+          "Le proteine sostengono la riparazione ma non sostituiscono la cura della pelle"
+        ]
+      },
+      "protein-for-wound-healing": {
+        "heading": "Proteine per la guarigione delle ferite: quante per recuperare",
+        "lead": "La guarigione delle ferite aumenta il fabbisogno proteico a circa 1,25-1,5 g per kg di peso corporeo al giorno, e di più per ferite grandi o gravi. Proteine adeguate sono essenziali per costruire tessuto nuovo e combattere le infezioni.",
+        "paragraphs": [
+          "La riparazione delle ferite è un processo intensivo in proteine: il corpo ha bisogno di amminoacidi per formare tessuto nuovo, vasi sanguigni e cellule immunitarie. Restare a corto rallenta la guarigione e aumenta il rischio di complicanze, per questo il fabbisogno sale durante il recupero da chirurgia o infortunio.",
+          "Dai priorità alle proteine a ogni pasto e considera spuntini ricchi di proteine se l'appetito è basso, poiché malattia e infortunio spesso riducono l'apporto proprio quando il fabbisogno è massimo. Questa è un'indicazione generale, quindi segui le indicazioni del tuo team medico per le ferite gravi."
+        ],
+        "bullets": [
+          "Obiettivo di guarigione: circa 1,25-1,5 g/kg al giorno",
+          "Ferite grandi o gravi possono richiedere di più",
+          "Le proteine costruiscono tessuto e sostengono l'immunità",
+          "Indicazione generale; segui il consiglio del team medico"
+        ]
+      },
+      "protein-for-sarcopenia": {
+        "heading": "Proteine per la sarcopenia: contrastare la perdita di muscolo con l'età",
+        "lead": "Per contrastare la sarcopenia, si consiglia agli anziani di assumere 1,2-1,5 g di proteine per kg di peso corporeo al giorno, e fino a 2,0 g/kg durante malattia o recupero. Un adulto di 70 kg punta a circa 85-105 g al giorno.",
+        "paragraphs": [
+          "La sarcopenia è la perdita di massa e forza muscolare legata all'età, e un basso apporto di proteine unito all'inattività ne è un motore importante. Mangiare ben oltre la dose standard, insieme all'esercizio di forza, è la strategia nutrizionale più efficace per rallentarla o invertirla.",
+          "Poiché il muscolo più anziano risponde meno a piccole quantità di proteine, punta a 25-35 g per pasto per innescare in modo affidabile la sintesi proteica. Le fonti ricche di leucina come latticini, uova, carne e pesce sono particolarmente utili, insieme a un regolare allenamento di forza."
+        ],
+        "bullets": [
+          "Obiettivo: 1,2-1,5 g/kg al giorno, fino a 2,0 durante malattia",
+          "Punta a 25-35 g per pasto",
+          "Gli alimenti ricchi di leucina aiutano il muscolo anziano",
+          "L'allenamento di forza è essenziale per ricostruire la forza"
+        ]
+      },
+      "whey-vs-plant-protein": {
+        "heading": "Proteine del siero vs vegetali: quali sono migliori?",
+        "lead": "Sia le proteine del siero sia quelle vegetali possono costruire muscolo, ma il siero è una proteina completa con più leucina, mentre le fonti vegetali spesso vanno combinate. Punta a un po' più di proteine vegetali, circa 1,7-2,3 g per kg al giorno, per eguagliare l'effetto del siero.",
+        "paragraphs": [
+          "Il siero si digerisce in fretta ed è ricco di leucina, l'amminoacido che innesca la sintesi proteica, il che lo rende molto efficace per grammo. La maggior parte delle proteine vegetali singole è più povera di uno o più amminoacidi essenziali, quindi miscele come pisello più riso, o semplicemente mangiare vario, colmano il divario.",
+          "In una dieta vegetale, un apporto totale un po' più alto e un mix di fonti danno gli stessi risultati sul muscolo. Scegli in base a dieta, digestione e preferenza; entrambe funzionano quando il tuo obiettivo proteico totale è raggiunto."
+        ],
+        "bullets": [
+          "Il siero è completo e ricco di leucina",
+          "Combina fonti vegetali come pisello e riso per amminoacidi completi",
+          "Diete vegetali: punta un po' più in alto, 1,7-2,3 g/kg",
+          "Entrambe costruiscono muscolo quando le proteine totali sono adeguate"
+        ]
+      },
+      "protein-grams-per-pound": {
+        "heading": "Grammi di proteine per libbra di peso corporeo",
+        "lead": "Una linea guida comune per costruire muscolo è 0,7-1,0 g di proteine per libbra di peso corporeo al giorno, che equivale a circa 1,6-2,2 g per kg. Per una persona di 175 lb (79 kg) sono circa 125-175 g di proteine al giorno.",
+        "paragraphs": [
+          "La regola di un grammo per libbra è popolare perché facile da ricordare, e cade vicino al limite superiore dell'intervallo basato sull'evidenza per costruire muscolo. In realtà, qualsiasi valore tra 0,7 e 1,0 g per libbra funziona bene per la maggior parte.",
+          "Se hai più grasso corporeo, basare il numero sul peso obiettivo o magro evita di eccedere. Converti secondo la tua preferenza, dato che 1 g per libbra è circa 2,2 g per kg, e usa un calcolatore per personalizzare il numero."
+        ],
+        "bullets": [
+          "Intervallo per costruire muscolo: 0,7-1,0 g per libbra al giorno",
+          "Equivale a circa 1,6-2,2 g per kg",
+          "1 g per libbra è circa 2,2 g per kg",
+          "Usa il peso obiettivo o magro se il grasso corporeo è alto"
+        ]
+      },
+      "how-much-protein-to-build-muscle": {
+        "heading": "Quante proteine per costruire muscolo?",
+        "lead": "Per costruire muscolo, la ricerca indica 1,6-2,2 g di proteine per kg di peso corporeo al giorno, insieme a un allenamento di resistenza progressivo. Per una persona di 80 kg sono circa 130-175 g di proteine al giorno.",
+        "paragraphs": [
+          "Un ampio corpo di ricerca converge attorno a 1,6 g/kg come punto in cui le proteine extra smettono di aggiungere molto muscolo, con un tetto pratico vicino a 2,2 g/kg. Mangiarne di più non è dannoso per le persone sane ma raramente accelera ulteriormente i guadagni.",
+          "Le proteine sono solo metà dell'equazione: senza allenamento di resistenza progressivo, le proteine extra non costruiscono muscolo da sole. Distribuisci l'apporto su tre o quattro pasti, mantieni l'allenamento costante e mangia abbastanza calorie totali per sostenere la crescita."
+        ],
+        "bullets": [
+          "Intervallo per costruire muscolo: 1,6-2,2 g/kg al giorno",
+          "I guadagni si fermano oltre circa 2,2 g/kg",
+          "L'allenamento di resistenza progressivo è essenziale",
+          "Distribuisci le proteine su 3-4 pasti"
+        ]
+      },
+      "how-much-protein-per-day": {
+        "heading": "Quante proteine al giorno ti servono?",
+        "lead": "Il fabbisogno proteico giornaliero va da 0,8 g per kg per gli adulti sedentari a 1,6-2,2 g/kg per chi costruisce muscolo. Per una persona di 70 kg va da circa 56 g a 155 g a seconda di attività e obiettivi.",
+        "paragraphs": [
+          "La dose di 0,8 g/kg è solo la quantità necessaria a prevenire carenze nelle persone inattive, non quella per una salute o una prestazione ottimali. La maggior parte degli adulti attivi sta meglio a 1,2-2,0 g/kg, con il numero esatto fissato da allenamento, età e dal fatto di aumentare o perdere peso.",
+          "Usa il tuo peso corporeo, il livello di attività e l'obiettivo per trovare il tuo numero personale invece di un valore unico per tutti. Distribuire quel totale su tre o quattro pasti ricchi di proteine lo rende efficace e facile da raggiungere."
+        ],
+        "bullets": [
+          "Minimo sedentario: 0,8 g/kg al giorno",
+          "Adulti attivi: 1,2-2,0 g/kg al giorno",
+          "Costruzione muscolare: 1,6-2,2 g/kg al giorno",
+          "Personalizza per peso, attività e obiettivo"
+        ]
+      },
+      "protein-for-two-meals-a-day": {
+        "heading": "Raggiungere l'obiettivo proteico con due pasti al giorno",
+        "lead": "Se mangi solo due volte al giorno, puoi comunque raggiungere 1,6-2,2 g per kg per costruire muscolo con dosi più grandi di 50-70 g per pasto. Una persona di 75 kg punta a circa 120-165 g divisi tra i due.",
+        "paragraphs": [
+          "Meno pasti significa che ciascuno deve portare più proteine, e la buona notizia è che dosi singole grandi vengono usate efficacemente quando i pasti sono distanziati. Due assunzioni proteiche sostanziose possono raggiungere il tuo obiettivo giornaliero purché il totale sia giusto.",
+          "Costruisci ogni pasto attorno a una grande fonte di proteine più verdure e carboidrati e grassi di qualità. Se una singola dose da 50-70 g è difficile da mangiare, uno spuntino o frullato ricco di proteine tra i pasti è un modo facile per colmare la differenza."
+        ],
+        "bullets": [
+          "Punta a 50-70 g di proteine per pasto",
+          "Le dosi più grandi si usano bene con pasti distanziati",
+          "Le proteine totali giornaliere contano di più",
+          "Aggiungi un frullato se una singola dose grande è difficile"
+        ]
+      },
+      "protein-for-office-workers": {
+        "heading": "Proteine per il lavoro d'ufficio e i lavori sedentari",
+        "lead": "Se hai un lavoro d'ufficio sedentario, punta ad almeno 1,0-1,4 g di proteine per kg di peso corporeo al giorno, più del minimo, per preservare il muscolo e controllare l'appetito. Un impiegato di 75 kg punta a circa 75-105 g al giorno.",
+        "paragraphs": [
+          "Un lavoro d'ufficio significa poco movimento quotidiano, il che rende facile perdere muscolo negli anni e mangiare troppi spuntini densi di calorie. Un apporto proteico moderatamente più alto aiuta a contrastare entrambi sostenendo il muscolo e tenendoti più sazio tra i pasti.",
+          "Pianifica pasti ricchi di proteine e spuntini adatti alla scrivania come yogurt greco, frutta secca, uova sode o edamame per evitare la trappola del distributore di metà pomeriggio. Aggiungere qualsiasi allenamento di forza fuori dall'orario di lavoro rende quelle proteine molto più utili."
+        ],
+        "bullets": [
+          "Obiettivo sedentario: 1,0-1,4 g/kg al giorno",
+          "Più proteine frenano gli spuntini e preservano il muscolo",
+          "Tieni a portata spuntini proteici adatti alla scrivania",
+          "Aggiungi allenamento di forza fuori dall'orario di lavoro"
+        ]
+      },
+      "protein-for-hiking": {
+        "heading": "Proteine per l'escursionismo e il trekking",
+        "lead": "Per lunghe escursioni e trekking di più giorni, il fabbisogno proteico sale a circa 1,2-1,6 g per kg di peso corporeo al giorno per riparare il muscolo e gestire il carico. Un escursionista di 70 kg punta a circa 85-110 g al giorno nelle giornate impegnative.",
+        "paragraphs": [
+          "Ore di cammino, soprattutto con lo zaino e su terreno collinare, degradano muscolo e aumentano il ricambio proteico complessivo. Nei trekking di più giorni, un apporto cronicamente basso di proteine ti lascia più debole e più lento a recuperare da un giorno all'altro.",
+          "Porta proteine leggere e a lunga conservazione come carne essiccata, frutta secca, formaggio, buste di tonno e barrette proteiche, e mangiane un po' alla fine di ogni giorno. Bilancia le proteine con abbondanti carboidrati, che restano la tua principale fonte di energia in movimento."
+        ],
+        "bullets": [
+          "Obiettivo nelle giornate impegnative: 1,2-1,6 g/kg al giorno",
+          "I trekking di più giorni alzano il fabbisogno",
+          "Porta carne essiccata, frutta secca, formaggio e buste di tonno",
+          "Tieni alti i carboidrati per l'energia in cammino"
+        ]
+      },
+      "protein-for-soccer-players": {
+        "heading": "Proteine per i calciatori: fabbisogno giornaliero",
+        "lead": "I calciatori hanno bisogno di circa 1,4-1,8 g di proteine per kg di peso corporeo al giorno per sostenere sprint, recupero e riparazione muscolare in un calendario fitto. Un giocatore di 72 kg punta a circa 100-130 g al giorno.",
+        "paragraphs": [
+          "Il calcio unisce corsa di resistenza a sprint, salti e contrasti ripetuti, creando richieste aerobiche e muscolari. Questo mix pone il fabbisogno proteico sopra lo sport di pura resistenza, soprattutto nei periodi di partite ravvicinate con poco tempo di recupero.",
+          "Reintegra dopo le partite e le sedute dure con carboidrati e 25-35 g di proteine per ricaricare il glicogeno e avviare la riparazione. Distribuisci le proteine restanti nei pasti per sostenere il recupero quotidiano nella stagione."
+        ],
+        "bullets": [
+          "Obiettivo giornaliero: 1,4-1,8 g/kg al giorno",
+          "Sprint e contrasti si sommano alle richieste di resistenza",
+          "Dopo la partita: carboidrati e 25-35 g di proteine",
+          "Distribuisci il resto nei pasti quotidiani"
+        ]
+      },
+      "protein-for-basketball-players": {
+        "heading": "Proteine per i cestisti: quanto mangiare",
+        "lead": "I cestisti hanno bisogno di circa 1,4-1,9 g di proteine per kg di peso corporeo al giorno per alimentare salti, sprint e contatto sostenendo il recupero. Un giocatore di 85 kg punta a circa 120-160 g al giorno.",
+        "paragraphs": [
+          "I salti esplosivi, i cambi di direzione e il contatto fisico del basket creano un danno muscolare significativo oltre al volume di corsa. Più proteine sostengono la riparazione di quel danno e aiutano a mantenere muscolo magro e potente in una stagione lunga.",
+          "Dai priorità a un pasto con proteine e carboidrati dopo partite e allenamenti, e mantieni le proteine uniformi nella giornata per gestire le partite ravvicinate. Le fonti integrali devono guidare, con un frullato come opzione comoda quando il calendario è fitto."
+        ],
+        "bullets": [
+          "Obiettivo giornaliero: 1,4-1,9 g/kg al giorno",
+          "Il gioco esplosivo aggiunge richieste di riparazione muscolare",
+          "Reintegra con proteine e carboidrati dopo le partite",
+          "Mantieni l'apporto uniforme in un calendario fitto"
+        ]
+      },
+      "protein-for-gym-beginners": {
+        "heading": "Proteine per chi inizia in palestra: da dove partire",
+        "lead": "Chi è nuovo in palestra dovrebbe puntare a circa 1,4-1,8 g di proteine per kg di peso corporeo al giorno per sostenere i primi guadagni senza complicarsi la vita. Un principiante di 70 kg punta a circa 100-125 g al giorno.",
+        "paragraphs": [
+          "Nei primi mesi di allenamento il muscolo si guadagna con facilità, quindi un apporto proteico moderato e costante basta per vedere progressi chiari. Non servono complessi stack di integratori; un solido obiettivo giornaliero da cibo vero assolve il compito.",
+          "Prendi l'abitudine di costruire ogni pasto attorno a una fonte di proteine e, se comodo, di prendere un frullato dopo l'allenamento. Man mano che diventi più forte e ti alleni più duramente, puoi spingere l'apporto verso l'intervallo di costruzione muscolare di 1,6-2,2 g/kg."
+        ],
+        "bullets": [
+          "Obiettivo da principiante: 1,4-1,8 g/kg al giorno",
+          "I primi guadagni arrivano facili con proteine costanti",
+          "Costruisci ogni pasto attorno a una fonte di proteine",
+          "Avanza verso 1,6-2,2 g/kg man mano che progredisci"
+        ]
       }
     }
   },
