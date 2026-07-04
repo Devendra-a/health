@@ -345,7 +345,7 @@ function RangeBar({
           style={{ insetInlineStart: `${pct(marker)}%` }}
         />
       </div>
-      <div className="mt-1.5 flex justify-between text-[10px] text-stone-400">
+      <div className="mt-1.5 flex justify-between text-[10px] text-stone-500">
         <span>0 g</span>
         <span>{Math.round(max)} g</span>
       </div>
@@ -434,12 +434,12 @@ function ResultShell({
       </div>
 
       <div className="mt-5 rounded-2xl bg-gradient-to-br from-red to-red-deep text-white p-6 text-center">
-        <p className="text-sm text-white/80 font-medium">{title}</p>
+        <p className="text-sm text-white font-medium">{title}</p>
         <p className="mt-1">
           <span className="text-4xl font-bold">{bigValue}</span>
           <span className="text-lg font-medium ms-1">{bigUnit}</span>
         </p>
-        <p className="text-sm text-white/80 mt-2">{rangeText}</p>
+        <p className="text-sm text-white mt-2">{rangeText}</p>
       </div>
 
       {showMinMax && <RangeBar low={low} high={high} marker={recommended} />}
@@ -559,7 +559,7 @@ function FoodPlanPanel({
           <div key={item.key} className="flex justify-between text-sm">
             <span className="text-stone-600">
               {dict.foodPlan.foods[item.key as keyof typeof dict.foodPlan.foods]}{" "}
-              <span className="text-stone-400">
+              <span className="text-stone-500">
                 {fill(dict.foodPlan.servings, { n: item.servings })}
               </span>
             </span>
@@ -929,8 +929,11 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
             </div>
 
             <div>
-              <label className={LABEL_CLASS}>{dict.activityLevel}</label>
+              <label htmlFor="activity-level" className={LABEL_CLASS}>
+                {dict.activityLevel}
+              </label>
               <select
+                id="activity-level"
                 value={activity}
                 onChange={(e) => setActivity(e.target.value as Activity)}
                 className={INPUT_CLASS}
