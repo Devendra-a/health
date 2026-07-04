@@ -164,7 +164,15 @@
     "carbsLabel": "Carbohidratos",
     "fatLabel": "Grasa",
     "shareResult": "Compartir enlace del resultado",
-    "linkCopied": "¡Enlace copiado!"
+    "linkCopied": "¡Enlace copiado!",
+    "waterLabel": "Agua",
+    "downloadPlan": "Descargar plan",
+    "downloaded": "¡Descargado!",
+    "mealSchedule": {
+      "heading": "Horarios de comida sugeridos",
+      "mealLabel": "Comida {n}",
+      "note": "Supone desayuno hacia las 8:00 y cena antes de las 20:00; ajusta los horarios a tu día."
+    }
   },
   "howTo": {
     "heading": "Cómo usar esta calculadora de ingesta de proteínas",

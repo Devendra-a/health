@@ -164,7 +164,15 @@
     "carbsLabel": "Hidratos de carbono",
     "fatLabel": "Gordura",
     "shareResult": "Partilhar link do resultado",
-    "linkCopied": "Link copiado!"
+    "linkCopied": "Link copiado!",
+    "waterLabel": "Água",
+    "downloadPlan": "Baixar plano",
+    "downloaded": "Baixado!",
+    "mealSchedule": {
+      "heading": "Horários de refeição sugeridos",
+      "mealLabel": "Refeição {n}",
+      "note": "Considera café da manhã por volta das 8h e jantar até às 20h — ajuste os horários ao seu dia."
+    }
   },
   "howTo": {
     "heading": "Como usar esta calculadora de ingestão de proteína",

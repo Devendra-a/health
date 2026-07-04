@@ -164,7 +164,15 @@
     "carbsLabel": "Carboidrati",
     "fatLabel": "Grassi",
     "shareResult": "Condividi il link del risultato",
-    "linkCopied": "Link copiato!"
+    "linkCopied": "Link copiato!",
+    "waterLabel": "Acqua",
+    "downloadPlan": "Scarica il piano",
+    "downloaded": "Scaricato!",
+    "mealSchedule": {
+      "heading": "Orari dei pasti suggeriti",
+      "mealLabel": "Pasto {n}",
+      "note": "Presuppone colazione verso le 8:00 e cena entro le 20:00 — adatta gli orari alla tua giornata."
+    }
   },
   "howTo": {
     "heading": "Come usare questo calcolatore dell'assunzione di proteine",

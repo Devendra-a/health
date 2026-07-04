@@ -102,11 +102,20 @@ export default async function Home({
       <section className="relative overflow-hidden bg-gradient-to-br from-charcoal via-charcoal to-charcoal-soft text-white">
         <div
           aria-hidden
-          className="pointer-events-none absolute -top-24 -end-24 size-96 rounded-full bg-red/10 blur-3xl"
+          className="pointer-events-none absolute inset-0 opacity-[0.12]"
+          style={{
+            backgroundImage:
+              "radial-gradient(circle, rgba(255,255,255,0.45) 1px, transparent 1px)",
+            backgroundSize: "26px 26px",
+          }}
         />
         <div
           aria-hidden
-          className="pointer-events-none absolute -bottom-32 -start-16 size-96 rounded-full bg-red/10 blur-3xl"
+          className="pointer-events-none absolute -top-24 -end-24 size-96 rounded-full bg-red/15 blur-3xl motion-safe:animate-drift"
+        />
+        <div
+          aria-hidden
+          className="pointer-events-none absolute -bottom-32 -start-16 size-96 rounded-full bg-red/10 blur-3xl motion-safe:animate-drift [animation-delay:-4.5s]"
         />
         <div className="relative max-w-5xl mx-auto px-6 py-20 sm:py-28 text-center">
           <span className="inline-flex items-center gap-2 rounded-full bg-white/5 border border-red/25 px-4 py-1.5 text-xs font-medium tracking-wide uppercase text-red-light">
@@ -206,7 +215,7 @@ export default async function Home({
               </thead>
               <tbody className="divide-y divide-stone-100 bg-white">
                 {dict.howMuch.rows.map((row) => (
-                  <tr key={row.goal} className="even:bg-cream-dark/60">
+                  <tr key={row.goal} className="even:bg-cream-dark/60 hover:bg-red-soft/30 transition-colors">
                     <td className="px-4 py-3 text-stone-700">{row.goal}</td>
                     <td className="px-4 py-3 font-medium text-charcoal">
                       {row.range}
@@ -238,7 +247,7 @@ export default async function Home({
               </thead>
               <tbody className="divide-y divide-stone-100 bg-white">
                 {dict.byWeight.rows.map((row) => (
-                  <tr key={row.weight} className="even:bg-cream-dark/60">
+                  <tr key={row.weight} className="even:bg-cream-dark/60 hover:bg-red-soft/30 transition-colors">
                     <td className="px-4 py-3 text-stone-700">{row.weight}</td>
                     <td className="px-4 py-3 font-medium text-charcoal">
                       {row.general}
@@ -301,7 +310,7 @@ export default async function Home({
               </thead>
               <tbody className="divide-y divide-stone-100 bg-white">
                 {dict.women.rows.map((row) => (
-                  <tr key={row.stage} className="even:bg-cream-dark/60">
+                  <tr key={row.stage} className="even:bg-cream-dark/60 hover:bg-red-soft/30 transition-colors">
                     <td className="px-4 py-3 text-stone-700">{row.stage}</td>
                     <td className="px-4 py-3 font-medium text-charcoal">
                       {row.range}
@@ -403,7 +412,7 @@ export default async function Home({
               </thead>
               <tbody className="divide-y divide-stone-100 bg-white">
                 {dict.foods.rows.map((row) => (
-                  <tr key={row.food} className="even:bg-cream-dark/60">
+                  <tr key={row.food} className="even:bg-cream-dark/60 hover:bg-red-soft/30 transition-colors">
                     <td className="px-4 py-3 text-stone-700">{row.food}</td>
                     <td className="px-4 py-3 font-medium text-charcoal">
                       {row.protein}

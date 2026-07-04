@@ -241,6 +241,33 @@ export function splitProteinPerMeal(
   return { perMeal: Math.round(dailyTargetG / meals), dailyTotal: dailyTargetG };
 }
 
+// Rough daily fluid guideline (~35 ml per kg of bodyweight), in liters.
+export function calculateWaterIntake(weightKg: number): number {
+  return Math.round(weightKg * 0.035 * 10) / 10;
+}
+
+export type MealSlot = { minutes: number; grams: number };
+
+// Spreads meals evenly between ~8:00 and ~20:00, snapped to half-hour marks.
+export function buildMealSchedule(
+  dailyTargetG: number,
+  meals: number
+): MealSlot[] {
+  const start = 8 * 60;
+  const end = 20 * 60;
+  const grams = Math.round(dailyTargetG / meals);
+  return Array.from({ length: meals }, (_, i) => {
+    const raw = meals === 1 ? start : start + (i * (end - start)) / (meals - 1);
+    return { minutes: Math.round(raw / 30) * 30, grams };
+  });
+}
+
+export function formatMinutes(minutes: number): string {
+  const h = Math.floor(minutes / 60);
+  const m = minutes % 60;
+  return `${h}:${String(m).padStart(2, "0")}`;
+}
+
 export type DietPreference = "nonVegetarian" | "vegetarian" | "vegan";
 
 export const DIET_PREFERENCES: DietPreference[] = ["nonVegetarian", "vegetarian", "vegan"];

@@ -164,7 +164,15 @@
     "carbsLabel": "Koolhydraten",
     "fatLabel": "Vet",
     "shareResult": "Deel resultaatlink",
-    "linkCopied": "Link gekopieerd!"
+    "linkCopied": "Link gekopieerd!",
+    "waterLabel": "Water",
+    "downloadPlan": "Plan downloaden",
+    "downloaded": "Gedownload!",
+    "mealSchedule": {
+      "heading": "Voorgestelde maaltijdtijden",
+      "mealLabel": "Maaltijd {n}",
+      "note": "Gaat uit van ontbijt rond 8:00 en avondeten vóór 20:00 — verschuif de tijden naar jouw dag."
+    }
   },
   "howTo": {
     "heading": "Hoe deze eiwitinname calculator te gebruiken",

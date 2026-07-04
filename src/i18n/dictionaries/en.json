@@ -164,7 +164,15 @@
     "carbsLabel": "Carbs",
     "fatLabel": "Fat",
     "shareResult": "Share result link",
-    "linkCopied": "Link copied!"
+    "linkCopied": "Link copied!",
+    "waterLabel": "Water",
+    "downloadPlan": "Download plan",
+    "downloaded": "Downloaded!",
+    "mealSchedule": {
+      "heading": "Suggested meal times",
+      "mealLabel": "Meal {n}",
+      "note": "Assumes breakfast around 8:00 and dinner by 20:00 — shift the times to fit your day."
+    }
   },
   "howTo": {
     "heading": "How to Use This Protein Intake Calculator",

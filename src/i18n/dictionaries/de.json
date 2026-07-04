@@ -164,7 +164,15 @@
     "carbsLabel": "Kohlenhydrate",
     "fatLabel": "Fett",
     "shareResult": "Ergebnis-Link teilen",
-    "linkCopied": "Link kopiert!"
+    "linkCopied": "Link kopiert!",
+    "waterLabel": "Wasser",
+    "downloadPlan": "Plan herunterladen",
+    "downloaded": "Heruntergeladen!",
+    "mealSchedule": {
+      "heading": "Vorgeschlagene Essenszeiten",
+      "mealLabel": "Mahlzeit {n}",
+      "note": "Geht von Frühstück gegen 8:00 Uhr und Abendessen bis 20:00 Uhr aus – passe die Zeiten an deinen Tag an."
+    }
   },
   "howTo": {
     "heading": "So verwenden Sie diesen Protein-Rechner",

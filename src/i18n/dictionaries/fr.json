@@ -164,7 +164,15 @@
     "carbsLabel": "Glucides",
     "fatLabel": "Lipides",
     "shareResult": "Partager le lien du résultat",
-    "linkCopied": "Lien copié !"
+    "linkCopied": "Lien copié !",
+    "waterLabel": "Eau",
+    "downloadPlan": "Télécharger le plan",
+    "downloaded": "Téléchargé !",
+    "mealSchedule": {
+      "heading": "Horaires de repas suggérés",
+      "mealLabel": "Repas {n}",
+      "note": "Suppose un petit-déjeuner vers 8h00 et un dîner avant 20h00 — décalez les horaires selon votre journée."
+    }
   },
   "howTo": {
     "heading": "Comment utiliser ce calculateur d'apport en protéines",

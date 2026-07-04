@@ -14,6 +14,7 @@ import {
   TRAINING_DICT_KEY,
   bmiCategory,
   buildFoodPlan,
+  buildMealSchedule,
   calculateBMI,
   calculateBMR,
   calculateBMRKatchMcArdle,
@@ -23,7 +24,9 @@ import {
   calculateMuscleProtein,
   calculateProteinRange,
   calculateTDEE,
+  calculateWaterIntake,
   calculateWeightLossProtein,
+  formatMinutes,
   getProteinPerKgRange,
   inToCm,
   lbToKg,
@@ -63,6 +66,7 @@ type Result = {
   goalCalories: number | null;
   carbsG: number | null;
   fatG: number | null;
+  waterL: number;
 };
 
 // Everything the Daily Protein tab needs to compute a result. Kept as plain
@@ -128,7 +132,19 @@ function computeDailyResult(inputs: DailyInputs): Result | null {
     fatG = macros.fatG;
   }
 
-  return { low, high, perKgLow, perKgHigh, tdee, bmi, bmiCat, goalCalories, carbsG, fatG };
+  return {
+    low,
+    high,
+    perKgLow,
+    perKgHigh,
+    tdee,
+    bmi,
+    bmiCat,
+    goalCalories,
+    carbsG,
+    fatG,
+    waterL: calculateWaterIntake(weightKg),
+  };
 }
 
 // Share-URL / localStorage codec for the Daily Protein inputs.
@@ -300,6 +316,79 @@ function WeightUnitInput({
   );
 }
 
+// Visual meter for the protein range: brand-red band on a lighter step of the
+// same ramp, with a marker at the recommended value. Decorative only — the
+// exact numbers are printed as text right below it.
+function RangeBar({
+  low,
+  high,
+  marker,
+}: {
+  low: number;
+  high: number;
+  marker: number;
+}) {
+  const max = Math.max(high * 1.15, 1);
+  const pct = (v: number) => Math.min(100, Math.max(0, (v / max) * 100));
+  return (
+    <div className="mt-5" aria-hidden>
+      <div className="relative h-2.5 rounded-full bg-red-soft/70">
+        <div
+          className="absolute inset-y-0 rounded-full bg-gradient-to-r from-red/70 to-red rtl:bg-gradient-to-l"
+          style={{
+            insetInlineStart: `${pct(low)}%`,
+            width: `${pct(high) - pct(low)}%`,
+          }}
+        />
+        <div
+          className="absolute top-1/2 h-4 w-1.5 rounded-full bg-charcoal ring-2 ring-white -translate-y-1/2 -translate-x-1/2 rtl:translate-x-1/2"
+          style={{ insetInlineStart: `${pct(marker)}%` }}
+        />
+      </div>
+      <div className="mt-1.5 flex justify-between text-[10px] text-stone-400">
+        <span>0 g</span>
+        <span>{Math.round(max)} g</span>
+      </div>
+    </div>
+  );
+}
+
+// Timeline of suggested meal times, spread across the waking day.
+function MealSchedulePanel({
+  dict,
+  targetG,
+  meals,
+}: {
+  dict: CalculatorDict;
+  targetG: number;
+  meals: number;
+}) {
+  const slots = buildMealSchedule(targetG, meals);
+  return (
+    <div className="mt-5 rounded-xl border border-stone-200 bg-cream-dark/40 p-4 text-start">
+      <h3 className="flex items-center gap-2 text-sm font-semibold text-charcoal">
+        <ClockIcon className="size-4 text-red" />
+        {dict.mealSchedule.heading}
+      </h3>
+      <ol className="mt-3 space-y-2">
+        {slots.map((slot, i) => (
+          <li key={slot.minutes} className="flex items-center gap-3 text-sm">
+            <span className="w-12 flex-none font-mono text-xs text-stone-500 tabular-nums">
+              {formatMinutes(slot.minutes)}
+            </span>
+            <span className="size-2 flex-none rounded-full bg-red" />
+            <span className="flex-1 text-stone-600">
+              {fill(dict.mealSchedule.mealLabel, { n: i + 1 })}
+            </span>
+            <span className="font-semibold text-charcoal">{slot.grams}g</span>
+          </li>
+        ))}
+      </ol>
+      <p className="mt-3 text-xs text-stone-500">{dict.mealSchedule.note}</p>
+    </div>
+  );
+}
+
 function ResultShell({
   dict,
   badge,
@@ -316,6 +405,7 @@ function ResultShell({
   onRecalculate,
   showMinMax = true,
   foodPlanTarget,
+  mealSchedule,
 }: {
   dict: CalculatorDict;
   badge: string;
@@ -332,9 +422,10 @@ function ResultShell({
   onRecalculate: () => void;
   showMinMax?: boolean;
   foodPlanTarget?: number;
+  mealSchedule?: { targetG: number; meals: number };
 }) {
   return (
-    <div className="mt-8 rounded-3xl bg-white shadow-2xl shadow-charcoal/10 border border-stone-100 p-6 sm:p-8">
+    <div className="mt-8 rounded-3xl bg-white shadow-2xl shadow-charcoal/10 border border-stone-100 p-6 sm:p-8 motion-safe:animate-fade-in-up">
       <div className="flex items-center justify-between">
         <h2 className="text-xl font-bold text-charcoal">{dict.resultsHeading}</h2>
         <span className="rounded-full bg-red-soft/60 text-red text-xs font-semibold px-3 py-1">
@@ -351,8 +442,10 @@ function ResultShell({
         <p className="text-sm text-white/80 mt-2">{rangeText}</p>
       </div>
 
+      {showMinMax && <RangeBar low={low} high={high} marker={recommended} />}
+
       {showMinMax && (
-        <div className="mt-5 grid grid-cols-3 gap-3 text-center">
+        <div className="mt-4 grid grid-cols-3 gap-3 text-center">
           <div>
             <p className="text-xs text-stone-500">{dict.minimum}</p>
             <p className="text-lg font-semibold text-charcoal">{low}g</p>
@@ -388,6 +481,14 @@ function ResultShell({
           </div>
         ))}
       </div>
+
+      {mealSchedule && (
+        <MealSchedulePanel
+          dict={dict}
+          targetG={mealSchedule.targetG}
+          meals={mealSchedule.meals}
+        />
+      )}
 
       {foodPlanTarget !== undefined && (
         <FoodPlanPanel dict={dict} targetG={foodPlanTarget} />
@@ -496,6 +597,7 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
   const [result, setResult] = useState<Result | null>(null);
   const [copied, setCopied] = useState(false);
   const [shared, setShared] = useState(false);
+  const [downloaded, setDownloaded] = useState(false);
 
   // Muscle Building tab
   const [muscleWeight, setMuscleWeight] = useState("");
@@ -578,6 +680,7 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
     setResult(computeDailyResult(dailyInputs));
     setCopied(false);
     setShared(false);
+    setDownloaded(false);
     try {
       localStorage.setItem(STORAGE_KEY, inputsToParams(dailyInputs).toString());
     } catch {
@@ -600,6 +703,43 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
     navigator.clipboard.writeText(url);
     setShared(true);
     setTimeout(() => setShared(false), 2000);
+  }
+
+  // Assembles the visible result into a plain-text file the visitor can keep.
+  function handleDownload() {
+    if (!result) return;
+    const mid = Math.round((result.low + result.high) / 2);
+    const lines = [
+      `${dict.resultTitle}: ${result.low}–${result.high} g`,
+      `${dict.perKg}: ${result.perKgLow.toFixed(1)}–${result.perKgHigh.toFixed(1)} g/kg`,
+      `${dict.perMeal}: ${Math.round(result.low / 4)}–${Math.round(result.high / 4)} g`,
+      `${dict.waterLabel}: ${result.waterL} L`,
+    ];
+    if (result.tdee !== null) {
+      lines.push(`${dict.calories}: ${result.tdee} kcal`);
+    }
+    if (result.goalCalories !== null) {
+      lines.push(`${dict.goalCalories}: ${result.goalCalories} kcal`);
+    }
+    if (result.carbsG !== null && result.fatG !== null) {
+      lines.push(
+        `${dict.macroHeading}: ${dict.proteinLabel} ${mid} g · ${dict.carbsLabel} ${result.carbsG} g · ${dict.fatLabel} ${result.fatG} g`
+      );
+    }
+    lines.push(
+      "",
+      `${window.location.origin}${window.location.pathname}?${inputsToParams(dailyInputs)}#calculator`
+    );
+    const url = URL.createObjectURL(
+      new Blob([lines.join("\n")], { type: "text/plain" })
+    );
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "protein-plan.txt";
+    a.click();
+    URL.revokeObjectURL(url);
+    setDownloaded(true);
+    setTimeout(() => setDownloaded(false), 2000);
   }
 
   function handleCalculateMuscle(e: React.FormEvent) {
@@ -1070,12 +1210,18 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
         )}
 
         {activeTab === "dailyProtein" && result && (
-          <div className="mt-6 rounded-2xl bg-gradient-to-br from-red-soft/60 to-white border border-red/15 p-5 text-center">
+          <div className="mt-6 rounded-2xl bg-gradient-to-br from-red-soft/60 to-white border border-red/15 p-5 text-center motion-safe:animate-fade-in-up">
             <p className="text-sm text-charcoal/70 font-medium">{primaryLabel}</p>
             <p className="text-4xl font-bold text-charcoal mt-1">
               {primaryLow}–{primaryHigh} g
             </p>
             <p className="text-sm text-stone-600 mt-2">{dict.resultNote}</p>
+
+            <RangeBar
+              low={result.low}
+              high={result.high}
+              marker={Math.round((result.low + result.high) / 2)}
+            />
 
             <div className="mt-4 grid grid-cols-2 sm:grid-cols-3 gap-3">
               <div className="rounded-lg bg-white border border-red/15 px-3 py-2">
@@ -1121,6 +1267,12 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
                   </p>
                 </div>
               )}
+              <div className="rounded-lg bg-white border border-red/15 px-3 py-2">
+                <p className="text-xs text-stone-500">{dict.waterLabel}</p>
+                <p className="text-sm font-semibold text-charcoal">
+                  {result.waterL} L
+                </p>
+              </div>
             </div>
 
             {result.goalCalories !== null &&
@@ -1174,6 +1326,13 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
                 className="rounded-full border border-red bg-white text-red text-sm font-medium px-5 py-2 hover:bg-red-soft transition-colors"
               >
                 {shared ? dict.linkCopied : dict.shareResult}
+              </button>
+              <button
+                type="button"
+                onClick={handleDownload}
+                className="rounded-full border border-red bg-white text-red text-sm font-medium px-5 py-2 hover:bg-red-soft transition-colors"
+              >
+                {downloaded ? dict.downloaded : dict.downloadPlan}
               </button>
             </div>
           </div>
@@ -1345,6 +1504,10 @@ export default function ProteinCalculator({ dict }: { dict: CalculatorDict }) {
           onRecalculate={() => setPerMealResult(null)}
           showMinMax={false}
           foodPlanTarget={perMealResult.dailyTotal}
+          mealSchedule={{
+            targetG: perMealResult.dailyTotal,
+            meals: perMealMeals,
+          }}
         />
       )}
     </div>
