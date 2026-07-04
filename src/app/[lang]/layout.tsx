@@ -90,7 +90,7 @@ export default async function RootLayout({
       <body className="min-h-full flex flex-col">
         <Header lang={lang} dict={dict.nav} />
         {children}
-        <Footer dict={dict.footer} />
+        <Footer lang={lang} dict={dict.footer} />
       </body>
     </html>
   );

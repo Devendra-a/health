@@ -411,7 +411,8 @@
   },
   "footer": {
     "disclaimer": "This calculator provides general fitness guidance and is not a substitute for professional medical or nutritional advice.",
-    "copyright": "© {year} Protein Intake Calculator. All rights reserved."
+    "copyright": "© {year} Protein Intake Calculator. All rights reserved.",
+    "privacyLink": "Privacy Policy"
   },
   "topicPages": {
     "sectionHeading": "More protein guides",
@@ -528,6 +529,62 @@
           "Frequent minor illnesses and sluggish recovery from training"
         ]
       }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "metaDescription": "How Protein Intake Calculator handles your data: calculations stay in your browser, no personal data is stored, and Google AdSense may use cookies to serve ads.",
+    "updated": "Last updated: July 4, 2026",
+    "intro": "Your privacy matters. This page explains what information proteinintakecalculators.online collects, how it is used, and the choices you have. The short version: the calculator runs entirely in your browser, we don't ask for or store personal data, and the only third-party cookies come from advertising.",
+    "dataCollection": {
+      "heading": "Information This Site Collects",
+      "paragraphs": [
+        "The protein calculator runs entirely in your browser. The details you enter — age, weight, height, activity level and goal — are used only to compute your result on your device. They are never saved, transmitted or shared.",
+        "This site has no user accounts, no sign-up forms and no newsletter, so we never ask for your name, email address or any other personal information."
+      ]
+    },
+    "advertising": {
+      "heading": "Advertising and Google AdSense",
+      "paragraphs": [
+        "This site uses Google AdSense to display ads. Third-party vendors, including Google, use cookies to serve ads based on your prior visits to this website or other websites.",
+        "Google's use of advertising cookies enables it and its partners to serve ads to you based on your visits to this site and/or other sites on the internet. Where required by law (for example in the European Economic Area and the UK), ads are only personalized with your consent.",
+        "You can opt out of personalized advertising, or learn more about how Google uses data, via the links below:"
+      ],
+      "links": {
+        "adsSettings": "Google Ads Settings",
+        "partnerSites": "How Google uses information from sites that use its services",
+        "aboutAds": "www.aboutads.info — opt out of personalized advertising"
+      }
+    },
+    "cookies": {
+      "heading": "Cookies",
+      "paragraphs": [
+        "A cookie is a small text file stored by your browser. This site does not set cookies of its own; the only cookies you may encounter here are set by advertising partners as described above. You can block or delete cookies at any time in your browser settings — the calculator works fully without them."
+      ]
+    },
+    "hosting": {
+      "heading": "Hosting and Log Data",
+      "paragraphs": [
+        "Like almost every website, the servers that host this site may automatically record basic technical data such as your IP address, browser type and the pages you visit. These logs are used only to keep the site secure and running and are not combined with any other data to identify you."
+      ]
+    },
+    "children": {
+      "heading": "Children's Privacy",
+      "paragraphs": [
+        "This site provides general nutrition information and is not directed at children under 13. We do not knowingly collect personal information from anyone, including children."
+      ]
+    },
+    "changes": {
+      "heading": "Changes to This Policy",
+      "paragraphs": [
+        "We may update this policy from time to time, for example when advertising partners change. The latest version will always be available on this page, with the date above updated accordingly."
+      ]
+    },
+    "contact": {
+      "heading": "Contact",
+      "paragraphs": [
+        "If you have any questions about this privacy policy, contact us at devendrapratapm4@gmail.com."
+      ]
     }
   }
 }

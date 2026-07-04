@@ -411,7 +411,8 @@
   },
   "footer": {
     "disclaimer": "Esta calculadora ofrece orientación general de fitness y no sustituye el consejo médico o nutricional profesional.",
-    "copyright": "© {year} Calculadora de Ingesta de Proteínas. Todos los derechos reservados."
+    "copyright": "© {year} Calculadora de Ingesta de Proteínas. Todos los derechos reservados.",
+    "privacyLink": "Política de privacidad"
   },
   "topicPages": {
     "sectionHeading": "Más guías de proteínas",
@@ -528,6 +529,62 @@
           "Enfermedades leves frecuentes y recuperación lenta del entrenamiento"
         ]
       }
+    }
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "metaDescription": "Cómo trata tus datos la calculadora de proteínas: los cálculos se realizan en tu navegador, no se guardan datos personales y Google AdSense puede usar cookies para mostrar anuncios.",
+    "updated": "Última actualización: 4 de julio de 2026",
+    "intro": "Tu privacidad importa. Esta página explica qué información recoge proteinintakecalculators.online, cómo se utiliza y qué opciones tienes. En resumen: la calculadora funciona íntegramente en tu navegador, no pedimos ni guardamos datos personales, y las únicas cookies de terceros proceden de la publicidad.",
+    "dataCollection": {
+      "heading": "Qué información recoge este sitio",
+      "paragraphs": [
+        "La calculadora de proteínas funciona completamente en tu navegador. Los datos que introduces — edad, peso, altura, nivel de actividad y objetivo — se usan solo para calcular tu resultado en tu dispositivo. Nunca se guardan, se transmiten ni se comparten.",
+        "Este sitio no tiene cuentas de usuario, formularios de registro ni boletines, por lo que nunca te pedimos tu nombre, dirección de correo electrónico ni ningún otro dato personal."
+      ]
+    },
+    "advertising": {
+      "heading": "Publicidad y Google AdSense",
+      "paragraphs": [
+        "Este sitio utiliza Google AdSense para mostrar anuncios. Proveedores externos, incluido Google, usan cookies para mostrar anuncios basados en tus visitas anteriores a este u otros sitios web.",
+        "El uso de cookies publicitarias por parte de Google le permite a él y a sus socios mostrarte anuncios basados en tus visitas a este sitio y/o a otros sitios de internet. Donde la ley lo exige (por ejemplo, en el Espacio Económico Europeo y el Reino Unido), los anuncios solo se personalizan con tu consentimiento.",
+        "Puedes desactivar la publicidad personalizada o saber más sobre cómo Google usa los datos en los siguientes enlaces:"
+      ],
+      "links": {
+        "adsSettings": "Configuración de anuncios de Google",
+        "partnerSites": "Cómo usa Google la información de los sitios que utilizan sus servicios",
+        "aboutAds": "www.aboutads.info — desactivar la publicidad personalizada"
+      }
+    },
+    "cookies": {
+      "heading": "Cookies",
+      "paragraphs": [
+        "Una cookie es un pequeño archivo de texto que guarda tu navegador. Este sitio no establece cookies propias; las únicas cookies que puedes encontrar aquí las establecen los socios publicitarios, como se describe arriba. Puedes bloquear o eliminar las cookies en cualquier momento desde la configuración de tu navegador — la calculadora funciona perfectamente sin ellas."
+      ]
+    },
+    "hosting": {
+      "heading": "Alojamiento y registros",
+      "paragraphs": [
+        "Como casi todos los sitios web, los servidores que alojan este sitio pueden registrar automáticamente datos técnicos básicos como tu dirección IP, el tipo de navegador y las páginas que visitas. Estos registros se usan solo para mantener el sitio seguro y en funcionamiento y no se combinan con otros datos para identificarte."
+      ]
+    },
+    "children": {
+      "heading": "Privacidad de los menores",
+      "paragraphs": [
+        "Este sitio ofrece información general sobre nutrición y no está dirigido a menores de 13 años. No recogemos deliberadamente información personal de nadie, incluidos los menores."
+      ]
+    },
+    "changes": {
+      "heading": "Cambios en esta política",
+      "paragraphs": [
+        "Podemos actualizar esta política ocasionalmente, por ejemplo cuando cambien los socios publicitarios. La versión más reciente estará siempre disponible en esta página, con la fecha de arriba actualizada."
+      ]
+    },
+    "contact": {
+      "heading": "Contacto",
+      "paragraphs": [
+        "Si tienes alguna pregunta sobre esta política de privacidad, escríbenos a devendrapratapm4@gmail.com."
+      ]
     }
   }
 }

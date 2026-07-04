@@ -411,7 +411,8 @@
   },
   "footer": {
     "disclaimer": "Ce calculateur fournit des conseils généraux de fitness et ne remplace pas un avis médical ou nutritionnel professionnel.",
-    "copyright": "© {year} Calculateur d'Apport en Protéines. Tous droits réservés."
+    "copyright": "© {year} Calculateur d'Apport en Protéines. Tous droits réservés.",
+    "privacyLink": "Politique de confidentialité"
   },
   "topicPages": {
     "sectionHeading": "Plus de guides sur les protéines",
@@ -528,6 +529,62 @@
           "Petites infections fréquentes et récupération sportive laborieuse"
         ]
       }
+    }
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "metaDescription": "Comment le calculateur de protéines traite vos données : les calculs restent dans votre navigateur, aucune donnée personnelle n'est stockée et Google AdSense peut utiliser des cookies pour diffuser des annonces.",
+    "updated": "Dernière mise à jour : 4 juillet 2026",
+    "intro": "Votre vie privée compte. Cette page explique quelles informations proteinintakecalculators.online collecte, comment elles sont utilisées et quels choix vous avez. En bref : le calculateur fonctionne entièrement dans votre navigateur, nous ne demandons ni ne stockons de données personnelles, et les seuls cookies tiers proviennent de la publicité.",
+    "dataCollection": {
+      "heading": "Les informations collectées par ce site",
+      "paragraphs": [
+        "Le calculateur de protéines fonctionne entièrement dans votre navigateur. Les informations que vous saisissez — âge, poids, taille, niveau d'activité et objectif — servent uniquement à calculer votre résultat sur votre appareil. Elles ne sont jamais enregistrées, transmises ni partagées.",
+        "Ce site ne propose ni compte utilisateur, ni formulaire d'inscription, ni newsletter : nous ne vous demandons donc jamais votre nom, votre adresse e-mail ni aucune autre information personnelle."
+      ]
+    },
+    "advertising": {
+      "heading": "Publicité et Google AdSense",
+      "paragraphs": [
+        "Ce site utilise Google AdSense pour afficher des annonces. Des fournisseurs tiers, dont Google, utilisent des cookies pour diffuser des annonces en fonction de vos visites antérieures sur ce site ou d'autres sites web.",
+        "L'utilisation de cookies publicitaires par Google lui permet, ainsi qu'à ses partenaires, de vous proposer des annonces basées sur vos visites sur ce site et/ou d'autres sites internet. Lorsque la loi l'exige (par exemple dans l'Espace économique européen et au Royaume-Uni), les annonces ne sont personnalisées qu'avec votre consentement.",
+        "Vous pouvez désactiver la publicité personnalisée ou en savoir plus sur l'utilisation des données par Google via les liens ci-dessous :"
+      ],
+      "links": {
+        "adsSettings": "Paramètres des annonces Google",
+        "partnerSites": "Comment Google utilise les informations provenant des sites qui utilisent ses services",
+        "aboutAds": "www.aboutads.info — désactiver la publicité personnalisée"
+      }
+    },
+    "cookies": {
+      "heading": "Cookies",
+      "paragraphs": [
+        "Un cookie est un petit fichier texte enregistré par votre navigateur. Ce site ne dépose aucun cookie propre ; les seuls cookies que vous pouvez rencontrer ici sont déposés par les partenaires publicitaires, comme décrit ci-dessus. Vous pouvez bloquer ou supprimer les cookies à tout moment dans les paramètres de votre navigateur — le calculateur fonctionne parfaitement sans eux."
+      ]
+    },
+    "hosting": {
+      "heading": "Hébergement et journaux",
+      "paragraphs": [
+        "Comme presque tous les sites web, les serveurs qui hébergent ce site peuvent enregistrer automatiquement des données techniques de base telles que votre adresse IP, votre type de navigateur et les pages consultées. Ces journaux servent uniquement à assurer la sécurité et le bon fonctionnement du site et ne sont pas croisés avec d'autres données pour vous identifier."
+      ]
+    },
+    "children": {
+      "heading": "Vie privée des enfants",
+      "paragraphs": [
+        "Ce site fournit des informations générales sur la nutrition et ne s'adresse pas aux enfants de moins de 13 ans. Nous ne collectons sciemment de données personnelles auprès de personne, y compris des enfants."
+      ]
+    },
+    "changes": {
+      "heading": "Modifications de cette politique",
+      "paragraphs": [
+        "Nous pouvons mettre à jour cette politique de temps à autre, par exemple lorsque les partenaires publicitaires changent. La version la plus récente sera toujours disponible sur cette page, avec la date ci-dessus mise à jour."
+      ]
+    },
+    "contact": {
+      "heading": "Contact",
+      "paragraphs": [
+        "Pour toute question concernant cette politique de confidentialité, écrivez-nous à devendrapratapm4@gmail.com."
+      ]
     }
   }
 }

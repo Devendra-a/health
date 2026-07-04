@@ -411,7 +411,8 @@
   },
   "footer": {
     "disclaimer": "Deze calculator biedt algemene fitnessbegeleiding en is geen vervanging voor professioneel medisch of voedingsadvies.",
-    "copyright": "© {year} Eiwitinname Calculator. Alle rechten voorbehouden."
+    "copyright": "© {year} Eiwitinname Calculator. Alle rechten voorbehouden.",
+    "privacyLink": "Privacybeleid"
   },
   "topicPages": {
     "sectionHeading": "Meer eiwitgidsen",
@@ -528,6 +529,62 @@
           "Vaak kleine infecties en moeizaam herstel van training"
         ]
       }
+    }
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "metaDescription": "Hoe de eiwitcalculator met je gegevens omgaat: berekeningen blijven in je browser, er worden geen persoonlijke gegevens opgeslagen en Google AdSense kan cookies gebruiken om advertenties te tonen.",
+    "updated": "Laatst bijgewerkt: 4 juli 2026",
+    "intro": "Je privacy is belangrijk. Deze pagina legt uit welke informatie proteinintakecalculators.online verzamelt, hoe die wordt gebruikt en welke keuzes je hebt. Kort samengevat: de calculator draait volledig in je browser, we vragen en bewaren geen persoonlijke gegevens, en de enige cookies van derden komen van advertenties.",
+    "dataCollection": {
+      "heading": "Welke informatie deze site verzamelt",
+      "paragraphs": [
+        "De eiwitcalculator draait volledig in je browser. De gegevens die je invoert — leeftijd, gewicht, lengte, activiteitsniveau en doel — worden alleen gebruikt om je resultaat op je apparaat te berekenen. Ze worden nooit opgeslagen, verzonden of gedeeld.",
+        "Deze site heeft geen gebruikersaccounts, aanmeldformulieren of nieuwsbrief, dus we vragen nooit om je naam, e-mailadres of andere persoonlijke gegevens."
+      ]
+    },
+    "advertising": {
+      "heading": "Advertenties en Google AdSense",
+      "paragraphs": [
+        "Deze site gebruikt Google AdSense om advertenties te tonen. Externe leveranciers, waaronder Google, gebruiken cookies om advertenties te tonen op basis van je eerdere bezoeken aan deze of andere websites.",
+        "Door advertentiecookies kunnen Google en zijn partners je advertenties tonen op basis van je bezoeken aan deze site en/of andere sites op internet. Waar de wet dat vereist (bijvoorbeeld in de Europese Economische Ruimte en het Verenigd Koninkrijk), worden advertenties alleen gepersonaliseerd met jouw toestemming.",
+        "Via de onderstaande links kun je gepersonaliseerde advertenties uitschakelen of meer lezen over hoe Google gegevens gebruikt:"
+      ],
+      "links": {
+        "adsSettings": "Google Advertentie-instellingen",
+        "partnerSites": "Hoe Google informatie gebruikt van sites die zijn diensten gebruiken",
+        "aboutAds": "www.aboutads.info — gepersonaliseerde advertenties uitschakelen"
+      }
+    },
+    "cookies": {
+      "heading": "Cookies",
+      "paragraphs": [
+        "Een cookie is een klein tekstbestand dat je browser opslaat. Deze site plaatst zelf geen cookies; de enige cookies die je hier kunt tegenkomen worden geplaatst door advertentiepartners, zoals hierboven beschreven. Je kunt cookies op elk moment blokkeren of verwijderen in je browserinstellingen — de calculator werkt prima zonder."
+      ]
+    },
+    "hosting": {
+      "heading": "Hosting en loggegevens",
+      "paragraphs": [
+        "Zoals bijna elke website kunnen de servers die deze site hosten automatisch basale technische gegevens vastleggen, zoals je IP-adres, browsertype en de bezochte pagina's. Deze logs worden alleen gebruikt om de site veilig en draaiend te houden en worden niet gecombineerd met andere gegevens om je te identificeren."
+      ]
+    },
+    "children": {
+      "heading": "Privacy van kinderen",
+      "paragraphs": [
+        "Deze site biedt algemene voedingsinformatie en is niet gericht op kinderen onder de 13 jaar. We verzamelen bewust geen persoonlijke informatie van wie dan ook, ook niet van kinderen."
+      ]
+    },
+    "changes": {
+      "heading": "Wijzigingen in dit beleid",
+      "paragraphs": [
+        "We kunnen dit beleid van tijd tot tijd bijwerken, bijvoorbeeld wanneer advertentiepartners veranderen. De nieuwste versie is altijd op deze pagina te vinden, met de bijgewerkte datum hierboven."
+      ]
+    },
+    "contact": {
+      "heading": "Contact",
+      "paragraphs": [
+        "Heb je vragen over dit privacybeleid? Mail ons op devendrapratapm4@gmail.com."
+      ]
     }
   }
 }

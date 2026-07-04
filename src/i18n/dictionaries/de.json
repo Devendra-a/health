@@ -411,7 +411,8 @@
   },
   "footer": {
     "disclaimer": "Dieser Rechner bietet allgemeine Fitness-Orientierung und ersetzt keine professionelle medizinische oder ernährungswissenschaftliche Beratung.",
-    "copyright": "© {year} Protein-Rechner. Alle Rechte vorbehalten."
+    "copyright": "© {year} Protein-Rechner. Alle Rechte vorbehalten.",
+    "privacyLink": "Datenschutzerklärung"
   },
   "topicPages": {
     "sectionHeading": "Weitere Protein-Ratgeber",
@@ -528,6 +529,62 @@
           "Häufige kleine Infekte und zähe Regeneration nach dem Training"
         ]
       }
+    }
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "metaDescription": "So geht der Protein-Rechner mit Ihren Daten um: Berechnungen bleiben in Ihrem Browser, es werden keine persönlichen Daten gespeichert, und Google AdSense kann Cookies zur Anzeigenschaltung verwenden.",
+    "updated": "Zuletzt aktualisiert: 4. Juli 2026",
+    "intro": "Ihre Privatsphäre ist uns wichtig. Diese Seite erklärt, welche Informationen proteinintakecalculators.online erhebt, wie sie verwendet werden und welche Wahlmöglichkeiten Sie haben. Kurz gesagt: Der Rechner läuft vollständig in Ihrem Browser, wir fragen keine persönlichen Daten ab und speichern keine, und die einzigen Drittanbieter-Cookies stammen aus der Werbung.",
+    "dataCollection": {
+      "heading": "Welche Informationen diese Website erhebt",
+      "paragraphs": [
+        "Der Protein-Rechner läuft vollständig in Ihrem Browser. Die von Ihnen eingegebenen Angaben — Alter, Gewicht, Größe, Aktivitätslevel und Ziel — werden ausschließlich zur Berechnung Ihres Ergebnisses auf Ihrem Gerät verwendet. Sie werden niemals gespeichert, übertragen oder weitergegeben.",
+        "Diese Website hat keine Benutzerkonten, keine Anmeldeformulare und keinen Newsletter — wir fragen daher nie nach Ihrem Namen, Ihrer E-Mail-Adresse oder anderen persönlichen Daten."
+      ]
+    },
+    "advertising": {
+      "heading": "Werbung und Google AdSense",
+      "paragraphs": [
+        "Diese Website nutzt Google AdSense zur Anzeige von Werbung. Drittanbieter, einschließlich Google, verwenden Cookies, um Anzeigen auf Grundlage Ihrer früheren Besuche dieser oder anderer Websites zu schalten.",
+        "Durch den Einsatz von Werbe-Cookies können Google und seine Partner Ihnen Anzeigen auf Basis Ihrer Besuche dieser und/oder anderer Websites im Internet anzeigen. Wo gesetzlich vorgeschrieben (etwa im Europäischen Wirtschaftsraum und im Vereinigten Königreich), werden Anzeigen nur mit Ihrer Einwilligung personalisiert.",
+        "Über die folgenden Links können Sie personalisierte Werbung deaktivieren oder mehr darüber erfahren, wie Google Daten verwendet:"
+      ],
+      "links": {
+        "adsSettings": "Google-Einstellungen für Werbung",
+        "partnerSites": "Wie Google Informationen von Websites verwendet, die seine Dienste nutzen",
+        "aboutAds": "www.aboutads.info — personalisierte Werbung deaktivieren"
+      }
+    },
+    "cookies": {
+      "heading": "Cookies",
+      "paragraphs": [
+        "Ein Cookie ist eine kleine Textdatei, die Ihr Browser speichert. Diese Website setzt keine eigenen Cookies; die einzigen Cookies, denen Sie hier begegnen können, werden wie oben beschrieben von Werbepartnern gesetzt. Sie können Cookies jederzeit in Ihren Browser-Einstellungen blockieren oder löschen — der Rechner funktioniert auch ohne sie uneingeschränkt."
+      ]
+    },
+    "hosting": {
+      "heading": "Hosting und Protokolldaten",
+      "paragraphs": [
+        "Wie fast jede Website können die Server, die diese Website hosten, automatisch grundlegende technische Daten wie Ihre IP-Adresse, Ihren Browsertyp und die aufgerufenen Seiten protokollieren. Diese Protokolle dienen ausschließlich der Sicherheit und dem Betrieb der Website und werden nicht mit anderen Daten kombiniert, um Sie zu identifizieren."
+      ]
+    },
+    "children": {
+      "heading": "Datenschutz für Kinder",
+      "paragraphs": [
+        "Diese Website bietet allgemeine Ernährungsinformationen und richtet sich nicht an Kinder unter 13 Jahren. Wir erheben wissentlich keine personenbezogenen Daten — von niemandem, auch nicht von Kindern."
+      ]
+    },
+    "changes": {
+      "heading": "Änderungen dieser Erklärung",
+      "paragraphs": [
+        "Wir können diese Erklärung von Zeit zu Zeit aktualisieren, etwa wenn sich Werbepartner ändern. Die aktuelle Version ist stets auf dieser Seite verfügbar, mit entsprechend aktualisiertem Datum."
+      ]
+    },
+    "contact": {
+      "heading": "Kontakt",
+      "paragraphs": [
+        "Bei Fragen zu dieser Datenschutzerklärung erreichen Sie uns unter devendrapratapm4@gmail.com."
+      ]
     }
   }
 }
