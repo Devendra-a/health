@@ -97,7 +97,7 @@ export default async function Home({
         async
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1300842618865363"
         crossOrigin="anonymous"
-        strategy="afterInteractive"
+        strategy="lazyOnload"
       />
       <section className="relative overflow-hidden bg-gradient-to-br from-charcoal via-charcoal to-charcoal-soft text-white">
         <div
