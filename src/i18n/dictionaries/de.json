@@ -412,7 +412,8 @@
   "footer": {
     "disclaimer": "Dieser Rechner bietet allgemeine Fitness-Orientierung und ersetzt keine professionelle medizinische oder ernährungswissenschaftliche Beratung.",
     "copyright": "© {year} Protein-Rechner. Alle Rechte vorbehalten.",
-    "privacyLink": "Datenschutzerklärung"
+    "privacyLink": "Datenschutzerklärung",
+    "aboutLink": "Über uns"
   },
   "topicPages": {
     "sectionHeading": "Weitere Protein-Ratgeber",
@@ -584,6 +585,43 @@
       "heading": "Kontakt",
       "paragraphs": [
         "Bei Fragen zu dieser Datenschutzerklärung erreichen Sie uns unter devendrapratapm4@gmail.com."
+      ]
+    }
+  },
+  "about": {
+    "title": "Über diese Website",
+    "metaDescription": "Wofür der Protein-Rechner da ist, wie die Empfehlungen berechnet werden und wie sich die Website finanziert.",
+    "intro": "proteinintakecalculators.online ist ein kostenloses Tool, das Ihnen zeigt, wie viel Protein Sie täglich brauchen — egal ob Sie abnehmen, Muskeln aufbauen oder einfach gesund bleiben möchten.",
+    "mission": {
+      "heading": "Wofür diese Website da ist",
+      "paragraphs": [
+        "Protein-Ratschläge im Internet widersprechen sich oft: Ein Artikel empfiehlt 0,8 Gramm pro Kilo, der nächste das Doppelte. Unser Ziel ist es, Klarheit zu schaffen und Ihnen in Sekunden eine klare, persönliche Zahl zu liefern — zusammen mit praktischen Guides für echte Lebenssituationen: Abnehmen, Muskelaufbau, Schwangerschaft, vegetarische Ernährung und mehr.",
+        "Alles auf dieser Website ist kostenlos und funktioniert ohne Konto. Sie geben Ihre Daten ein, erhalten Ihren Bereich — und nichts davon verlässt jemals Ihren Browser."
+      ]
+    },
+    "methodology": {
+      "heading": "Wie die Zahlen berechnet werden",
+      "paragraphs": [
+        "Der Rechner basiert auf der Mifflin-St-Jeor-Formel und auf täglichen Proteinbereichen, mit denen Ernährungsberater und Krafttrainer arbeiten — etwa 0,8 bis 2,2 Gramm pro Kilogramm Körpergewicht, je nach Ziel, Alter und Aktivitätslevel.",
+        "Die vollständige Methode wird direkt auf der Rechner-Seite Schritt für Schritt erklärt, sodass Sie immer nachvollziehen können, wie Ihr Ergebnis zustande kam. Kein Rätselraten, keine Blackbox."
+      ]
+    },
+    "funding": {
+      "heading": "Wie sich die Website finanziert",
+      "paragraphs": [
+        "Die Website finanziert sich über Werbung — dadurch bleiben alle Tools und Guides kostenlos. Anzeigen beeinflussen die Empfehlungen nie; diese stammen aus veröffentlichter Ernährungsforschung und sind für alle gleich."
+      ]
+    },
+    "medical": {
+      "heading": "Keine medizinische Beratung",
+      "paragraphs": [
+        "Alle Inhalte sind allgemeine Ernährungsinformationen, keine medizinische Beratung. Wenn Sie schwanger sind, eine Erkrankung wie Diabetes oder eine Nierenerkrankung haben oder Medikamente einnehmen, die den Appetit beeinflussen, sprechen Sie mit Ihrem Arzt oder einer Ernährungsfachkraft, bevor Sie Ihre Proteinzufuhr ändern."
+      ]
+    },
+    "contact": {
+      "heading": "Kontakt",
+      "paragraphs": [
+        "Fragen, Korrekturen oder Feedback? Schreiben Sie uns an devendrapratapm4@gmail.com — wir lesen alles."
       ]
     }
   }

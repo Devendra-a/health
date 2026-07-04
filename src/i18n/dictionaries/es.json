@@ -412,7 +412,8 @@
   "footer": {
     "disclaimer": "Esta calculadora ofrece orientación general de fitness y no sustituye el consejo médico o nutricional profesional.",
     "copyright": "© {year} Calculadora de Ingesta de Proteínas. Todos los derechos reservados.",
-    "privacyLink": "Política de privacidad"
+    "privacyLink": "Política de privacidad",
+    "aboutLink": "Acerca de"
   },
   "topicPages": {
     "sectionHeading": "Más guías de proteínas",
@@ -584,6 +585,43 @@
       "heading": "Contacto",
       "paragraphs": [
         "Si tienes alguna pregunta sobre esta política de privacidad, escríbenos a devendrapratapm4@gmail.com."
+      ]
+    }
+  },
+  "about": {
+    "title": "Acerca de este sitio",
+    "metaDescription": "Para qué sirve la calculadora de proteínas, cómo se calculan las recomendaciones y cómo se financia el sitio.",
+    "intro": "proteinintakecalculators.online es una herramienta gratuita que te ayuda a saber cuánta proteína necesitas cada día — ya sea para perder peso, ganar músculo o simplemente mantenerte sano.",
+    "mission": {
+      "heading": "Para qué sirve este sitio",
+      "paragraphs": [
+        "Los consejos sobre proteína en internet suelen ser contradictorios: un artículo dice 0,8 gramos por kilo y el siguiente afirma que necesitas el doble. Nuestro objetivo es aclarar el ruido y darte una cifra clara y personalizada en segundos, junto con guías prácticas para situaciones reales — pérdida de peso, ganancia muscular, embarazo, dietas vegetarianas y más.",
+        "Todo en este sitio es gratuito y funciona sin cuenta. Introduces tus datos, obtienes tu rango, y nada de lo que escribes sale de tu navegador."
+      ]
+    },
+    "methodology": {
+      "heading": "Cómo se calculan las cifras",
+      "paragraphs": [
+        "La calculadora se basa en la ecuación de Mifflin-St Jeor y en los rangos diarios de proteína que usan dietistas y entrenadores de fuerza — aproximadamente de 0,8 a 2,2 gramos por kilo de peso corporal, según tu objetivo, edad y nivel de actividad.",
+        "El método completo se explica paso a paso en la propia página de la calculadora, para que siempre puedas ver exactamente cómo se obtuvo tu resultado. Sin conjeturas ni cajas negras."
+      ]
+    },
+    "funding": {
+      "heading": "Cómo se financia el sitio",
+      "paragraphs": [
+        "El sitio se financia con publicidad, que es lo que mantiene gratuitas todas las herramientas y guías. Los anuncios nunca influyen en las recomendaciones — estas proceden de investigación nutricional publicada y son iguales para todos."
+      ]
+    },
+    "medical": {
+      "heading": "No es consejo médico",
+      "paragraphs": [
+        "Todo el contenido es información nutricional general, no consejo médico. Si estás embarazada, tienes una condición como diabetes o enfermedad renal, o tomas medicación que afecta al apetito, consulta a tu médico o a un dietista titulado antes de cambiar tu ingesta de proteína."
+      ]
+    },
+    "contact": {
+      "heading": "Contacto",
+      "paragraphs": [
+        "¿Preguntas, correcciones o sugerencias? Escríbenos a devendrapratapm4@gmail.com — lo leemos todo."
       ]
     }
   }

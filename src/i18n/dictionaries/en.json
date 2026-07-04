@@ -412,7 +412,8 @@
   "footer": {
     "disclaimer": "This calculator provides general fitness guidance and is not a substitute for professional medical or nutritional advice.",
     "copyright": "© {year} Protein Intake Calculator. All rights reserved.",
-    "privacyLink": "Privacy Policy"
+    "privacyLink": "Privacy Policy",
+    "aboutLink": "About"
   },
   "topicPages": {
     "sectionHeading": "More protein guides",
@@ -584,6 +585,43 @@
       "heading": "Contact",
       "paragraphs": [
         "If you have any questions about this privacy policy, contact us at devendrapratapm4@gmail.com."
+      ]
+    }
+  },
+  "about": {
+    "title": "About This Site",
+    "metaDescription": "What Protein Intake Calculator is for, how the recommendations are calculated, and how the site is funded.",
+    "intro": "proteinintakecalculators.online is a free tool that helps you work out how much protein you need each day — whether your goal is losing weight, building muscle or simply staying healthy.",
+    "mission": {
+      "heading": "What This Site Is For",
+      "paragraphs": [
+        "Protein advice online is often contradictory: one article says 0.8 grams per kilogram, the next says you need double that. Our goal is to cut through the noise and give you a clear, personalized number in seconds, together with practical guides for real-life situations — weight loss, muscle gain, pregnancy, vegetarian diets and more.",
+        "Everything on this site is free and works without an account. You enter your details, you get your range, and nothing you type ever leaves your browser."
+      ]
+    },
+    "methodology": {
+      "heading": "How the Numbers Are Calculated",
+      "paragraphs": [
+        "The calculator is built on the Mifflin-St Jeor equation and on daily protein ranges used by dietitians and strength coaches — roughly 0.8 to 2.2 grams per kilogram of body weight, depending on your goal, age and activity level.",
+        "The full method is explained step by step right on the calculator page, so you can always see exactly how your result was produced. No guesswork, no black box."
+      ]
+    },
+    "funding": {
+      "heading": "How the Site Is Funded",
+      "paragraphs": [
+        "The site is funded by advertising, which is what keeps every tool and guide free. Ads never influence the recommendations — those come from published nutrition research and are the same for everyone."
+      ]
+    },
+    "medical": {
+      "heading": "Not Medical Advice",
+      "paragraphs": [
+        "Everything here is general nutrition information, not medical advice. If you are pregnant, managing a condition such as diabetes or kidney disease, or taking medication that affects your appetite, talk to your doctor or a registered dietitian before changing your protein intake."
+      ]
+    },
+    "contact": {
+      "heading": "Contact",
+      "paragraphs": [
+        "Questions, corrections or feedback? Email us at devendrapratapm4@gmail.com — we read everything."
       ]
     }
   }

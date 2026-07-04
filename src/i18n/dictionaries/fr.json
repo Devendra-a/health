@@ -412,7 +412,8 @@
   "footer": {
     "disclaimer": "Ce calculateur fournit des conseils généraux de fitness et ne remplace pas un avis médical ou nutritionnel professionnel.",
     "copyright": "© {year} Calculateur d'Apport en Protéines. Tous droits réservés.",
-    "privacyLink": "Politique de confidentialité"
+    "privacyLink": "Politique de confidentialité",
+    "aboutLink": "À propos"
   },
   "topicPages": {
     "sectionHeading": "Plus de guides sur les protéines",
@@ -584,6 +585,43 @@
       "heading": "Contact",
       "paragraphs": [
         "Pour toute question concernant cette politique de confidentialité, écrivez-nous à devendrapratapm4@gmail.com."
+      ]
+    }
+  },
+  "about": {
+    "title": "À propos de ce site",
+    "metaDescription": "À quoi sert le calculateur de protéines, comment les recommandations sont calculées et comment le site est financé.",
+    "intro": "proteinintakecalculators.online est un outil gratuit qui vous aide à déterminer la quantité de protéines dont vous avez besoin chaque jour — que votre objectif soit de perdre du poids, de développer vos muscles ou simplement de rester en bonne santé.",
+    "mission": {
+      "heading": "À quoi sert ce site",
+      "paragraphs": [
+        "Les conseils sur les protéines en ligne sont souvent contradictoires : un article recommande 0,8 gramme par kilo, le suivant affirme qu'il en faut le double. Notre objectif est de clarifier tout cela et de vous donner un chiffre clair et personnalisé en quelques secondes, accompagné de guides pratiques pour des situations concrètes — perte de poids, prise de muscle, grossesse, régimes végétariens et plus encore.",
+        "Tout est gratuit et fonctionne sans compte. Vous saisissez vos informations, vous obtenez votre fourchette, et rien de ce que vous tapez ne quitte votre navigateur."
+      ]
+    },
+    "methodology": {
+      "heading": "Comment les chiffres sont calculés",
+      "paragraphs": [
+        "Le calculateur repose sur l'équation de Mifflin-St Jeor et sur les fourchettes quotidiennes de protéines utilisées par les diététiciens et les coachs — environ 0,8 à 2,2 grammes par kilo de poids corporel, selon votre objectif, votre âge et votre niveau d'activité.",
+        "La méthode complète est expliquée étape par étape sur la page du calculateur, pour que vous puissiez toujours voir exactement comment votre résultat a été obtenu. Pas de devinettes, pas de boîte noire."
+      ]
+    },
+    "funding": {
+      "heading": "Comment le site est financé",
+      "paragraphs": [
+        "Le site est financé par la publicité, ce qui permet de garder tous les outils et guides gratuits. Les annonces n'influencent jamais les recommandations — celles-ci proviennent de recherches en nutrition publiées et sont les mêmes pour tout le monde."
+      ]
+    },
+    "medical": {
+      "heading": "Pas un avis médical",
+      "paragraphs": [
+        "Tout le contenu est une information nutritionnelle générale, pas un avis médical. Si vous êtes enceinte, si vous gérez une maladie comme le diabète ou une maladie rénale, ou si vous prenez un médicament qui affecte l'appétit, parlez-en à votre médecin ou à un diététicien avant de modifier votre apport en protéines."
+      ]
+    },
+    "contact": {
+      "heading": "Contact",
+      "paragraphs": [
+        "Questions, corrections ou suggestions ? Écrivez-nous à devendrapratapm4@gmail.com — nous lisons tout."
       ]
     }
   }

@@ -49,5 +49,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     alternates: { languages: languagesFor(() => "/privacy") },
   }));
 
-  return [...homepages, ...topicPages, ...privacyPages];
+  const aboutPages: MetadataRoute.Sitemap = locales.map((locale) => ({
+    url: `${SITE_URL}/${locale}/about`,
+    lastModified: now,
+    changeFrequency: "yearly",
+    priority: 0.3,
+    alternates: { languages: languagesFor(() => "/about") },
+  }));
+
+  return [...homepages, ...topicPages, ...privacyPages, ...aboutPages];
 }

@@ -412,7 +412,8 @@
   "footer": {
     "disclaimer": "Deze calculator biedt algemene fitnessbegeleiding en is geen vervanging voor professioneel medisch of voedingsadvies.",
     "copyright": "© {year} Eiwitinname Calculator. Alle rechten voorbehouden.",
-    "privacyLink": "Privacybeleid"
+    "privacyLink": "Privacybeleid",
+    "aboutLink": "Over ons"
   },
   "topicPages": {
     "sectionHeading": "Meer eiwitgidsen",
@@ -584,6 +585,43 @@
       "heading": "Contact",
       "paragraphs": [
         "Heb je vragen over dit privacybeleid? Mail ons op devendrapratapm4@gmail.com."
+      ]
+    }
+  },
+  "about": {
+    "title": "Over deze site",
+    "metaDescription": "Waarvoor de eiwitcalculator dient, hoe de aanbevelingen worden berekend en hoe de site wordt gefinancierd.",
+    "intro": "proteinintakecalculators.online is een gratis hulpmiddel waarmee je uitrekent hoeveel eiwit je dagelijks nodig hebt — of je nu wilt afvallen, spieren wilt opbouwen of gewoon gezond wilt blijven.",
+    "mission": {
+      "heading": "Waarvoor deze site dient",
+      "paragraphs": [
+        "Eiwitadvies op internet is vaak tegenstrijdig: het ene artikel zegt 0,8 gram per kilo, het volgende beweert dat je het dubbele nodig hebt. Ons doel is duidelijkheid scheppen en je binnen enkele seconden een helder, persoonlijk getal geven, samen met praktische gidsen voor echte situaties — afvallen, spieropbouw, zwangerschap, vegetarische voeding en meer.",
+        "Alles op deze site is gratis en werkt zonder account. Je vult je gegevens in, krijgt je bereik, en niets van wat je typt verlaat ooit je browser."
+      ]
+    },
+    "methodology": {
+      "heading": "Hoe de getallen worden berekend",
+      "paragraphs": [
+        "De calculator is gebaseerd op de Mifflin-St Jeor-vergelijking en op dagelijkse eiwitbereiken die diëtisten en krachttrainers gebruiken — ruwweg 0,8 tot 2,2 gram per kilo lichaamsgewicht, afhankelijk van je doel, leeftijd en activiteitsniveau.",
+        "De volledige methode wordt stap voor stap uitgelegd op de calculatorpagina, zodat je altijd precies kunt zien hoe je resultaat tot stand kwam. Geen giswerk, geen black box."
+      ]
+    },
+    "funding": {
+      "heading": "Hoe de site wordt gefinancierd",
+      "paragraphs": [
+        "De site wordt gefinancierd met advertenties — daardoor blijven alle tools en gidsen gratis. Advertenties beïnvloeden de aanbevelingen nooit; die komen uit gepubliceerd voedingsonderzoek en zijn voor iedereen gelijk."
+      ]
+    },
+    "medical": {
+      "heading": "Geen medisch advies",
+      "paragraphs": [
+        "Alle inhoud is algemene voedingsinformatie, geen medisch advies. Ben je zwanger, heb je een aandoening zoals diabetes of een nierziekte, of gebruik je medicatie die je eetlust beïnvloedt? Overleg dan met je arts of een diëtist voordat je je eiwitinname verandert."
+      ]
+    },
+    "contact": {
+      "heading": "Contact",
+      "paragraphs": [
+        "Vragen, correcties of feedback? Mail ons op devendrapratapm4@gmail.com — we lezen alles."
       ]
     }
   }

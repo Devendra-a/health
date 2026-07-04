@@ -412,7 +412,8 @@
   "footer": {
     "disclaimer": "Questo calcolatore fornisce indicazioni generali di fitness e non sostituisce il parere medico o nutrizionale professionale.",
     "copyright": "© {year} Calcolatore dell'Assunzione di Proteine. Tutti i diritti riservati.",
-    "privacyLink": "Informativa sulla privacy"
+    "privacyLink": "Informativa sulla privacy",
+    "aboutLink": "Chi siamo"
   },
   "topicPages": {
     "sectionHeading": "Altre guide sulle proteine",
@@ -584,6 +585,43 @@
       "heading": "Contatti",
       "paragraphs": [
         "Per qualsiasi domanda su questa informativa sulla privacy, scrivici a devendrapratapm4@gmail.com."
+      ]
+    }
+  },
+  "about": {
+    "title": "Informazioni su questo sito",
+    "metaDescription": "A cosa serve il calcolatore di proteine, come vengono calcolate le raccomandazioni e come si finanzia il sito.",
+    "intro": "proteinintakecalculators.online è uno strumento gratuito che ti aiuta a capire di quante proteine hai bisogno ogni giorno — che il tuo obiettivo sia perdere peso, mettere su muscoli o semplicemente restare in salute.",
+    "mission": {
+      "heading": "A cosa serve questo sito",
+      "paragraphs": [
+        "I consigli sulle proteine online sono spesso contraddittori: un articolo dice 0,8 grammi per chilo, il successivo sostiene che ne serve il doppio. Il nostro obiettivo è fare chiarezza e darti un numero preciso e personalizzato in pochi secondi, insieme a guide pratiche per situazioni reali — dimagrimento, aumento muscolare, gravidanza, diete vegetariane e altro.",
+        "Tutto sul sito è gratuito e funziona senza account. Inserisci i tuoi dati, ottieni il tuo intervallo, e nulla di ciò che digiti lascia mai il tuo browser."
+      ]
+    },
+    "methodology": {
+      "heading": "Come vengono calcolati i numeri",
+      "paragraphs": [
+        "Il calcolatore si basa sull'equazione di Mifflin-St Jeor e sugli intervalli giornalieri di proteine usati da dietisti e preparatori atletici — circa 0,8-2,2 grammi per chilo di peso corporeo, a seconda di obiettivo, età e livello di attività.",
+        "Il metodo completo è spiegato passo dopo passo direttamente nella pagina del calcolatore, così puoi sempre vedere esattamente come è stato ottenuto il tuo risultato. Niente congetture, niente scatola nera."
+      ]
+    },
+    "funding": {
+      "heading": "Come si finanzia il sito",
+      "paragraphs": [
+        "Il sito si finanzia con la pubblicità, che è ciò che mantiene gratuiti tutti gli strumenti e le guide. Gli annunci non influenzano mai le raccomandazioni — che derivano dalla ricerca nutrizionale pubblicata e sono uguali per tutti."
+      ]
+    },
+    "medical": {
+      "heading": "Non è un consiglio medico",
+      "paragraphs": [
+        "Tutti i contenuti sono informazioni nutrizionali generali, non consigli medici. Se sei incinta, gestisci una condizione come il diabete o una malattia renale, o assumi farmaci che influenzano l'appetito, parla con il tuo medico o con un dietista prima di cambiare il tuo apporto proteico."
+      ]
+    },
+    "contact": {
+      "heading": "Contatti",
+      "paragraphs": [
+        "Domande, correzioni o suggerimenti? Scrivici a devendrapratapm4@gmail.com — leggiamo tutto."
       ]
     }
   }
